@@ -7,6 +7,7 @@
             "occupancy": "residential",
             "minToiletArea": 2,
             "minToiletWidth": 1.2,
+            "minToiletHeight": 3,
             "minToiletVentilation": 0.3,
             "active": true
         },
@@ -15,6 +16,7 @@
             "occupancy": "mercantile / commercial",
             "minToiletArea": 2,
             "minToiletWidth": 1.2,
+            "minToiletHeight": 3,
             "minToiletVentilation": 0.3,
             "active": true
         },
@@ -23,6 +25,7 @@
             "occupancy": "industrial",
             "minToiletArea": 1.8,
             "minToiletWidth": 1.2,
+            "minToiletHeight": 3,
             "minToiletVentilation": 0.3,
             "active": true
         }
