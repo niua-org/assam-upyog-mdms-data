@@ -1,0 +1,156 @@
+{
+  "tenantId": "as.bojaltoli",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bojaltoli",
+        "localname": "Bojaltoli",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.bojaltoli",
+        "children": [
+          {
+            "id": "20e3b6cf-0158-4a7e-b1cb-6df3b04997d4",
+            "boundaryNum": 1,
+            "name": "Bajaltali Gaon (Out Growth)",
+            "localname": "Bajaltali Gaon (Out Growth)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BojaltoliV1",
+            "children": []
+          },
+          {
+            "id": "8b52b8b2-b85c-46b7-bf82-8dfcbfd14fd9",
+            "boundaryNum": 1,
+            "name": "Dehingia Gaon",
+            "localname": "Dehingia Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BojaltoliV2",
+            "children": []
+          },
+          {
+            "id": "d918b83c-cce1-4f06-8c9b-940bb6f06c68",
+            "boundaryNum": 1,
+            "name": "Lezaihulagaon",
+            "localname": "Lezaihulagaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BojaltoliV3",
+            "children": []
+          },
+          {
+            "id": "ef4b9f7e-16a1-4453-bd79-5f0733a9c4cf",
+            "boundaryNum": 1,
+            "name": "Okonimuria Bangali Gaon",
+            "localname": "Okonimuria Bangali Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BojaltoliV4",
+            "children": []
+          },
+          {
+            "id": "96c3343a-d2e9-4e90-b2cf-f46ee49a9b12",
+            "boundaryNum": 1,
+            "name": "Nakharai Bongali Gaon",
+            "localname": "Nakharai Bongali Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BojaltoliV5",
+            "children": []
+          },
+          {
+            "id": "3f5c25e8-2a29-4d2c-9e7b-1de6b5415b12",
+            "boundaryNum": 1,
+            "name": "Nakharai gaon",
+            "localname": "Nakharai gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BojaltoliV6",
+            "children": []
+          },
+          {
+            "id": "cfe05646-0bdf-4149-a59a-d062c5108f92",
+            "boundaryNum": 1,
+            "name": "No.1 Balupara Gaon",
+            "localname": "No.1 Balupara Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BojaltoliV7",
+            "children": []
+          },
+          {
+            "id": "d73c6c16-01b7-46f8-b4b9-c4b9c17eab7f",
+            "boundaryNum": 1,
+            "name": "No.2 Balupara Gaon",
+            "localname": "No.2 Balupara Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BojaltoliV8",
+            "children": []
+          },
+          {
+            "id": "e86d33e1-fc2c-43ef-86b3-71a25b16bdb3",
+            "boundaryNum": 1,
+            "name": "Nakhari Dhekeri gaon",
+            "localname": "Nakhari Dhekeri gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BojaltoliV9",
+            "children": []
+          },
+          {
+            "id": "fae36b6d-c7ef-4455-bf0a-07a3346ac8cb",
+            "boundaryNum": 1,
+            "name": "Podumoni Gaon",
+            "localname": "Podumoni Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BojaltoliV10",
+            "children": []
+          },
+          {
+            "id": "b2a23a36-19f3-4809-9c3e-eb83f27c0a8b",
+            "boundaryNum": 1,
+            "name": "Nokhroy T.E.162/159 Nlr-149/146 Nlr",
+            "localname": "Nokhroy T.E.162/159 Nlr-149/146 Nlr",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BojaltoliV11",
+            "children": []
+          },
+          {
+            "id": "96e58ae3-3d75-4d8b-b9b1-ddf6605b8046",
+            "boundaryNum": 1,
+            "name": "Nakhrai T.E. 149-146 (P)161/158,216/194/192 NLR",
+            "localname": "Nakhrai T.E. 149-146 (P)161/158,216/194/192 NLR",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BojaltoliV12",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

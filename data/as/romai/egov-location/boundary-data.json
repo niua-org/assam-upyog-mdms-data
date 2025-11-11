@@ -1,0 +1,123 @@
+{
+  "tenantId": "as.romai",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Romai",
+        "localname": "Romai",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.romai",
+        "children": [
+          {
+            "id": "dd35ab66-5a82-4f6e-9cef-df48827e25fd",
+            "boundaryNum": 1,
+            "name": "123/244 No. NLR Grant",
+            "localname": "123/244 No. NLR Grant",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "RomaiV1",
+            "children": []
+          },
+          {
+            "id": "3a0cb659-3994-4372-8789-f763f0c832ba",
+            "boundaryNum": 1,
+            "name": "Dangar Pothar No.1",
+            "localname": "Dangar Pothar No.1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "RomaiV2",
+            "children": []
+          },
+          {
+            "id": "f107c288-863d-4369-b11b-ae0357049bd5",
+            "boundaryNum": 1,
+            "name": "Dangar Pothar No.2",
+            "localname": "Dangar Pothar No.2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "RomaiV3",
+            "children": []
+          },
+          {
+            "id": "3fe81f5b-6863-4525-9d0a-669b700533a1",
+            "boundaryNum": 1,
+            "name": "Ghagrajan",
+            "localname": "Ghagrajan",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "RomaiV4",
+            "children": []
+          },
+          {
+            "id": "71a1a026-2885-41b8-a93d-d8289077946f",
+            "boundaryNum": 1,
+            "name": "Na-Gaon",
+            "localname": "Na-Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "RomaiV5",
+            "children": []
+          },
+          {
+            "id": "353d3ee6-003c-49c9-99a8-1f469a4cc110",
+            "boundaryNum": 1,
+            "name": "Phutahula",
+            "localname": "Phutahula",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "RomaiV6",
+            "children": []
+          },
+          {
+            "id": "7b596c95-9824-4e01-bbe6-82b16eca9661",
+            "boundaryNum": 1,
+            "name": "Rajgarh No.2",
+            "localname": "Rajgarh No.2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "RomaiV7",
+            "children": []
+          },
+          {
+            "id": "4da4a64a-71f9-415a-974a-e09d0853d28f",
+            "boundaryNum": 1,
+            "name": "Romai Gaon",
+            "localname": "Romai Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "RomaiV8",
+            "children": []
+          },
+          {
+            "id": "860d0970-16fd-432b-ae86-2935be7c4807",
+            "boundaryNum": 1,
+            "name": "Sagalikata",
+            "localname": "Sagalikata",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "RomaiV9",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

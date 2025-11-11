@@ -1,0 +1,112 @@
+{
+  "tenantId": "as.uttarpubkhata",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Uttar Pub-Khata",
+        "localname": "Uttar Pub-Khata",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.uttarpubkhata",
+        "children": [
+          {
+            "id": "42d07b64-df6e-46bf-a2cd-6ee060f699c4",
+            "boundaryNum": 1,
+            "name": "Bar Khanajan",
+            "localname": "Bar Khanajan",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "PubKhataV1",
+            "children": []
+          },
+          {
+            "id": "a4b0a480-2fcc-4232-bbbd-275eece07182",
+            "boundaryNum": 1,
+            "name": "Bhutkatra",
+            "localname": "Bhutkatra",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "PubKhataV2",
+            "children": []
+          },
+          {
+            "id": "97da49d7-136b-4051-a12a-fd3982bbc00e",
+            "boundaryNum": 1,
+            "name": "Jaijabari",
+            "localname": "Jaijabari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "PubKhataV3",
+            "children": []
+          },
+          {
+            "id": "0038cf1a-d7fc-43fa-9b6b-90d59f72a7f0",
+            "boundaryNum": 1,
+            "name": "Katahkuchi",
+            "localname": "Katahkuchi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "PubKhataV4",
+            "children": []
+          },
+          {
+            "id": "50b26fcf-f3cb-4f12-ad2f-69faeaab3b75",
+            "boundaryNum": 1,
+            "name": "Kendukuchi",
+            "localname": "Kendukuchi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "PubKhataV5",
+            "children": []
+          },
+          {
+            "id": "8eb81aec-6b48-4528-895e-76857429a8d1",
+            "boundaryNum": 1,
+            "name": "Khat-Katra",
+            "localname": "Khat-Katra",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "PubKhataV6",
+            "children": []
+          },
+          {
+            "id": "a7716987-a13d-4a1d-a098-32bd5ba0d3d7",
+            "boundaryNum": 1,
+            "name": "Khudrapipalia",
+            "localname": "Khudrapipalia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "PubKhataV7",
+            "children": []
+          },
+          {
+            "id": "2e476b56-2f5e-4b40-aad6-9373e3191e18",
+            "boundaryNum": 1,
+            "name": "Sahpur",
+            "localname": "Sahpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "PubKhataV8",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

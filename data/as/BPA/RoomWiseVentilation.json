@@ -1,0 +1,24 @@
+{
+    "tenantId": "as",
+    "moduleName": "BPA",
+    "RoomWiseVentilation": [
+        {
+            "id": 1,
+            "occupancy": "residential",
+            "permissible": 16.67,
+            "active": true
+        },
+        {
+            "id": 2,
+            "occupancy": "mercantile / commercial",
+            "permissible": 16.67,
+            "active": true
+        },
+        {
+            "id": 3,
+            "occupancy": "industrial",
+            "permissible": 16.67,
+            "active": true
+        }
+    ]
+}

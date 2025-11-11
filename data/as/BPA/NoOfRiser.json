@@ -1,0 +1,24 @@
+{
+    "tenantId": "as",
+    "moduleName": "BPA",
+    "NoOfRiser": [
+        {
+            "id": 1,
+            "occupancy": "residential",
+            "permissible": 12,
+            "active": true
+        },
+                {
+            "id": 2,
+            "occupancy": "mercantile / commercial",
+            "permissible": 12,
+            "active": true
+        },
+                {
+            "id": 3,
+            "occupancy": "industrial",
+            "permissible": 12,
+            "active": true
+        }
+    ]
+}

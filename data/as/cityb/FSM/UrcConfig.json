@@ -1,0 +1,10 @@
+{
+    "tenantId": "as.cityb",
+    "moduleName": "FSM",
+    "UrcConfig": [
+        {
+            "URCEnable": true,
+            "villageHierarchyAvailable": true
+        }
+    ]
+}

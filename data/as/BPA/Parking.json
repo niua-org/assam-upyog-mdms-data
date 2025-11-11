@@ -1,0 +1,97 @@
+{
+    "tenantId": "as",
+    "moduleName": "BPA",
+    "Parking": [
+        {
+            "id": 1,
+            "fromPlotArea": 100,
+            "toPlotArea": 9999999,
+            "perAreaCar": 66,
+            "occupancy": "residential",
+            "riskType": null,
+            "isOpenParking": true,
+            "noOfParking": 1,
+            "permissible": 20,
+            "permissibleCarOpen": 20,
+            "permissibleCarStilt": 25,
+            "permissibleCarBasement": 30,
+            "active": true
+        },
+
+        {
+            "id": 2,
+            "fromPlotArea": 100,
+            "toPlotArea": 9999999,
+            "perAreaTwoWheeler": 66,
+            "occupancy": "residential",
+            "riskType": null,
+            "isOpenParking": true,
+            "noOfParking": 1,
+            "permissibleTwoWheeler": 22.5,
+            "permissibleCarBasement": 30,
+            "active": true
+        },
+        
+        {
+            "id": 3,
+            "fromPlotArea": 100,
+            "toPlotArea": 9999999,
+            "perAreaVisitor": 66,
+            "occupancy": "residential",
+            "riskType": null,
+            "isOpenParking": true,
+            "noOfParking": 2,
+            "permissibleVisitor": 22.5,
+            "permissibleCarBasement": 30,
+            "active": true
+        },
+        {
+            "id": 4,
+            "fromPlotArea": 200,
+            "toPlotArea": 500,
+            "occupancy": "residential",
+            "riskType": "low",
+            "isStiltParking": true,
+            "noOfParking": 3,
+            "permissible": 32.5,
+            "active": true
+        },
+        {
+            "id": 5,
+            "fromPlotArea": 500,
+            "toPlotArea": 999999,
+            "occupancy": "residential",
+            "riskType": "low",
+            "isBasementParking": true,
+            "noOfParking": 3,
+            "permissible": 38.5,
+            "active": true
+        },
+        {
+            "id": 6,
+            "fromPlotArea": 100,
+            "toPlotArea": 300,
+            "occupancy": "residential",
+            "riskType": null,
+            "isOpenParking": true,
+            "noOfParking": 1,
+            "permissible": 20,
+            "active": true
+        },
+        {
+            "id": 7,
+            "fromPlotArea": 100,
+            "toPlotArea": 9999999,
+            "perAreaCommercialShopsCar": 75,
+            "occupancy": "mercantile / commercial",
+            "riskType": null,
+            "isOpenParking": true,
+            "noOfParking": 1,
+            "permissible": 20,
+            "permissibleCarOpen": 20,
+            "permissibleCarStilt": 25,
+            "permissibleCarBasement": 30,
+            "active": true
+        }
+    ]
+}

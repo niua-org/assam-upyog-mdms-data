@@ -1,0 +1,50 @@
+{
+    "tenantId": "as",
+    "moduleName": "BPA",
+    "RoofSloper": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "permissible": 45,
+        "state": "as",
+        "city": null,
+        "zone": null,
+        "subZone": null,
+        "riskType": null,
+        "active": true
+    },
+    {
+        "id": 2,
+        "occupancy": "mercantile / commercial",
+        "permissible": 45,
+        "state": "as",
+        "city": null,
+        "zone": null,
+        "subZone": null,
+        "riskType": null,
+        "active": true
+    },
+    {
+        "id": 3,
+        "occupancy": "industrial",
+        "state": "as",
+        "city": null,
+        "zone": null,
+        "subZone": null,
+        "riskType": null,
+        "permissible": 45,
+        "active": true
+    },
+    {
+        "id": 4,
+        "occupancy": null,
+        "permissible": 45,
+        "state": "as",
+        "city": null,
+        "zone": null,
+        "subZone": null,
+        "riskType": null,
+        "active": true
+    }
+]
+}

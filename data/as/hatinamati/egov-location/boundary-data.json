@@ -1,0 +1,79 @@
+{
+  "tenantId": "as.hatinamati",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Hatinamati",
+        "localname": "Hatinamati",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.hatinamati",
+        "children": [
+          {
+            "id": "49c52357-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Katla Barkuchi",
+            "localname": "Katla Barkuchi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "HatinamatiV1",
+            "children": []
+          },
+          {
+            "id": "41c52357-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Khudrakatla Barkuchi",
+            "localname": "Khudrakatla Barkuchi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "HatinamatiV2",
+            "children": []
+          },
+          {
+            "id": "055349f2-6f79-4f70-bdb4-97e3131cd7ec",
+            "boundaryNum": 1,
+            "name": "Namati",
+            "localname": "Namati",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "HatinamatiV3",
+            "children": []
+          },
+          {
+            "id": "6f7a7262-1cdf-47b9-b52a-3159aa8cb2ca",
+            "boundaryNum": 1,
+            "name": "Niz-Batahgila",
+            "localname": "Niz-Batahgila",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "HatinamatiV4",
+            "children": []
+          },
+          {
+            "id": "4273e675-46dc-460f-a30f-4696fc9e6c69",
+            "boundaryNum": 1,
+            "name": "Kachimpur",
+            "localname": "Kachimpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "HatinamatiV5",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

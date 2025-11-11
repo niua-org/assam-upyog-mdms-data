@@ -1,0 +1,75 @@
+{
+    "tenantId": "as",
+    "moduleName": "BPA",
+    "InteriorOpenSpaceService": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "minInteriorAreaValueOne": "0",
+        "minInteriorAreaValueTwo": "9",
+        "minInteriorWidthValueOne": "0",
+        "minInteriorWidthValueTwo": "3",
+        "minVentilationAreaValueOne": "0",
+        "minVentilationAreaValueTwo": "1.2",
+        "minVentilationWidthValueOne": "0",
+        "minVentilationWidthValueTwo": "0.9",
+
+        "buildingHeightThreshold": 18,
+        "wcAreaAboveThreshold" : 6.25,
+        "wcAreaBelowThreshold" : 4,
+        "wcWidthAboveThreshold" : 2.5,
+        "wcWidthBelowThreshold" : 2,
+        "kitchenAreaAboveThreshold" : 9,
+        "kitchenAreaBelowThreshold" : 6.25,
+        "kitchenWidthAboveThreshold" : 3,
+        "kitchenWidthBelowThreshold" : 2.5,
+        "active": true
+    },
+        {
+        "id": 2,
+        "occupancy": "commercial",
+        "minInteriorAreaValueOne": "3",
+        "minInteriorAreaValueTwo": "9",
+        "minInteriorWidthValueOne": "0",
+        "minInteriorWidthValueTwo": "3",
+        "minVentilationAreaValueOne": "0",
+        "minVentilationAreaValueTwo": "1.2",
+        "minVentilationWidthValueOne": "0",
+        "minVentilationWidthValueTwo": "0.9",
+
+        "buildingHeightThreshold": 18,
+        "wcAreaAboveThreshold" : 6.25,
+        "wcAreaBelowThreshold" : 4,
+        "wcWidthAboveThreshold" : 2.5,
+        "wcWidthBelowThreshold" : 2,
+        "kitchenAreaAboveThreshold" : 9,
+        "kitchenAreaBelowThreshold" : 6.25,
+        "kitchenWidthAboveThreshold" : 3,
+        "kitchenWidthBelowThreshold" : 2.5,
+        "active": true
+    },
+        {
+        "id": 3,
+        "occupancy": "industrial",
+        "minInteriorAreaValueOne": "2",
+        "minInteriorAreaValueTwo": "9",
+        "minInteriorWidthValueOne": "0",
+        "minInteriorWidthValueTwo": "3",
+        "minVentilationAreaValueOne": "0",
+        "minVentilationAreaValueTwo": "1.2",
+        "minVentilationWidthValueOne": "0",
+        "minVentilationWidthValueTwo": "0.9",
+
+        "buildingHeightThreshold": 18,
+        "wcAreaAboveThreshold" : 6.25,
+        "wcAreaBelowThreshold" : 4,
+        "wcWidthAboveThreshold" : 2.5,
+        "wcWidthBelowThreshold" : 2,
+        "kitchenAreaAboveThreshold" : 9,
+        "kitchenAreaBelowThreshold" : 6.25,
+        "kitchenWidthAboveThreshold" : 3,
+        "kitchenWidthBelowThreshold" : 2.5,
+        "active": true
+    }
+]
+}

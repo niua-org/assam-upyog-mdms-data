@@ -1,0 +1,101 @@
+{
+  "tenantId": "as.nizmankotta",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Niz-Mankotta",
+        "localname": "Niz-Mankotta",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.nizmankotta",
+        "children": [
+          {
+            "id": "59661f60-19cd-4783-8568-fffaacfa75e9",
+            "boundaryNum": 1,
+            "name": "Niz-Mancotta (CT)",
+            "localname": "Niz-Mancotta (CT)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "NizMankottaV1",
+            "children": []
+          },
+          {
+            "id": "5050f3c3-62d8-4336-b6eb-e8ef614d4ebf",
+            "boundaryNum": 1,
+            "name": "Boiragimoth Kachari Gaon",
+            "localname": "Boiragimoth Kachari Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "NizMankottaV2",
+            "children": []
+          },
+          {
+            "id": "f2cf8af2-ee8c-47c7-a802-b3cd9bd3101e",
+            "boundaryNum": 1,
+            "name": "Dhekeri Gaon",
+            "localname": "Dhekeri Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "NizMankottaV3",
+            "children": []
+          },
+          {
+            "id": "583395d0-5504-4e03-b82f-dc5191ea0bd5",
+            "boundaryNum": 1,
+            "name": "Bogpara Gaon",
+            "localname": "Bogpara Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "NizMankottaV4",
+            "children": []
+          },
+          {
+            "id": "313f2975-6933-4efc-8c4f-e1b1cdd347fa",
+            "boundaryNum": 1,
+            "name": "Bor Bogpara T.E. 8/185 Orr Grant",
+            "localname": "Bor Bogpara T.E. 8/185 Orr Grant",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "NizMankottaV5",
+            "children": []
+          },
+          {
+            "id": "f09f9c3f-46a6-40c0-b8bb-bb1ea3847ed1",
+            "boundaryNum": 1,
+            "name": "Gharbondi Chuk Jarua Gaon",
+            "localname": "Gharbondi Chuk Jarua Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "NizMankottaV6",
+            "children": []
+          },
+          {
+            "id": "d8e5248c-69fd-41e6-a9b5-0fcf976fc099",
+            "boundaryNum": 1,
+            "name": "Kuchia Khana Gaon",
+            "localname": "Kuchia Khana Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "NizMankottaV7",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

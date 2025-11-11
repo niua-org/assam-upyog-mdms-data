@@ -1,0 +1,8 @@
+{
+        "tenantId": "as",
+        "moduleName": "common-masters",
+        "cityDashboardIntegration": [{
+            "isActive": true
+        }]
+      }
+      

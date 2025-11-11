@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.uttarkrishnapurgp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Uttar Krishnapur GP",
+        "localname": "Uttar Krishnapur GP",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.uttarkrishnapurgp",
+        "children": [
+          {
+            "id": "e4c697c1-5531-49e7-8315-5a4f277df593",
+            "boundaryNum": 1,
+            "name": "Uttar Krishnapur Part-I, II",
+            "localname": "Uttar Krishnapur Part-I, II",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "UttarKrishnapurV1",
+            "children": []
+          },
+          {
+            "id": "fe73d04a-4113-4bb5-b467-93a72e92dce4",
+            "boundaryNum": 1,
+            "name": "Sabajpur",
+            "localname": "Sabajpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "UttarKrishnapurV2",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

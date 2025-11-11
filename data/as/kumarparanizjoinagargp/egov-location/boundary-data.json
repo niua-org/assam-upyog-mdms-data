@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.kumarparanizjoinagargp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kumarpara Nizjoinagar GP",
+        "localname": "Kumarpara Nizjoinagar GP",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.kumarparanizjoinagargp",
+        "children": [
+                  {
+            "id": "e4c697c1-5531-49e7-8315-5a4f277df593",
+            "boundaryNum": 1,
+            "name": "Balighat",
+            "localname": "Balighat",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "KumarparaV1",
+            "children": []
+          },
+          {
+            "id": "fe73d04a-4113-4bb5-b467-93a72e92dce4",
+            "boundaryNum": 1,
+            "name": "Kumarpara",
+            "localname": "Kumarpara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "KumarparaV2",
+            "children": []
+          },
+          {
+            "id": "fe73d04a-4113-4bb5-b467-93a72e92dce4",
+            "boundaryNum": 1,
+            "name": "Uzan Gram",
+            "localname": "Uzan Gram",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "KumarparaV3",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

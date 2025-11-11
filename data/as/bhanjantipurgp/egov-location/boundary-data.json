@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.bhanjantipurgp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bhanjantipur GP",
+        "localname": "Bhanjantipur GP",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.bhanjantipurgp",
+        "children": [
+          {
+            "id": "49c5y357-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Ambikapur Part-II,III,",
+            "localname": "Ambikapur Part-II,III,",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BhanjantipurV1",
+            "children": []
+          },
+          {
+            "id": "49i52357-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Jayfarpur",
+            "localname": "Jayfarpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BhanjantipurV2",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

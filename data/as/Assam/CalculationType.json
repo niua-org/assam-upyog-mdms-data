@@ -1,0 +1,226 @@
+{
+    "tenantId":"as",
+    "moduleName":"BPA",
+    "CalculationType":[
+        {
+            "applicationType": "RESIDENTIAL",
+            "serviceType":"NEW_CONSTRUCTION",
+            "wallType":"Bamboo",
+            "feeType":"PLANNING_PERMIT_FEE",
+            "unitType":"per sq. M",
+            "rate":"0.50",
+            "additionalFee":""
+        },
+        {
+            "applicationType": "RESIDENTIAL",
+            "serviceType":"",
+            "wallType":"Brick",
+            "feeType":"PLANNING_PERMIT_FEE",
+            "unitType":"per sq. M",
+            "rate":"1.00",
+            "additionalFee":""
+        },
+        {
+            "applicationType": "RESIDENTIAL_RCC",
+            "serviceType":"",
+            "floorLevel":"Ground",
+            "feeType":"PLANNING_PERMIT_FEE",
+            "unitType":"per sq. M",
+            "rate":"10.00",
+            "additionalFee":""
+        },
+        {
+            "applicationType": "RESIDENTIAL_RCC",
+            "serviceType":"",
+            "floorLevel":"Upper",
+            "feeType":"PLANNING_PERMIT_FEE",
+            "unitType":"per sq. M",
+            "rate":"12.00",
+            "additionalFee":""
+        },
+        {
+            "applicationType": "COMMERCIAL",
+            "serviceType":"",
+            "floorLevel":"Ground",
+            "feeType":"PLANNING_PERMIT_FEE",
+            "unitType":"per sq. M",
+            "rate":"40.00",
+            "additionalFee":"5000.00"
+        },
+        {
+            "applicationType": "COMMERCIAL",
+            "serviceType":"",
+            "floorLevel":"Upper",
+            "feeType":"PLANNING_PERMIT_FEE",
+            "unitType":"per sq. M",
+            "rate":"48.00",
+            "additionalFee":"5000.00"
+        },
+        {
+            "applicationType": "INDUSTRIAL",
+            "serviceType":"",
+            "floorLevel":"Ground",
+            "feeType":"PLANNING_PERMIT_FEE",
+            "unitType":"per sq. M",
+            "rate":"",
+            "additionalFee":"80.00"
+        },
+        {
+            "applicationType": "INDUSTRIAL",
+            "serviceType":"",
+            "floorLevel":"Upper",
+            "feeType":"PLANNING_PERMIT_FEE",
+            "unitType":"per sq. M",
+            "rate":"96.00",
+            "additionalFee":""
+        },
+        {
+            "applicationType": "SCHOOLS",
+            "serviceType":"",
+            "floorLevel":"Ground",
+            "feeType":"PLANNING_PERMIT_FEE",
+            "unitType":"per sq. M",
+            "rate":"20.00",
+            "additionalFee":""
+        },
+        {
+            "applicationType": "SCHOOLS",
+            "serviceType":"",
+            "floorLevel":"Upper",
+            "feeType":"PLANNING_PERMIT_FEE",
+            "unitType":"per sq. M",
+            "rate":"24.00",
+            "additionalFee":""
+        },
+        {
+            "applicationType": "RESIDENTIAL",
+            "serviceType":"",
+            "wallType":"Bamboo",
+            "feeType":"BUILDING_PERMIT_FEE",
+            "unitType":"per sq. M",
+            "rate":"2.00",
+            "additionalFee":""
+        },
+        {
+            "applicationType": "RESIDENTIAL",
+            "serviceType":"",
+            "wallType":"Brick",
+            "feeType":"BUILDING_PERMIT_FEE",
+            "unitType":"per sq. M",
+            "rate":"5.00",
+            "additionalFee":""
+        },
+        {
+            "applicationType": "RESIDENTIAL_RCC",
+            "serviceType":"",
+            "floorLevel":"Ground",
+            "feeType":"BUILDING_PERMIT_FEE",
+            "unitType":"per sq. M",
+            "rate":"15.00",
+            "additionalFee":""
+        },
+        {
+            "applicationType": "RESIDENTIAL_RCC",
+            "serviceType":"",
+            "floorLevel":"Upper",
+            "feeType":"BUILDING_PERMIT_FEE",
+            "unitType":"per sq. M",
+            "rate":"20.00",
+            "additionalFee":""
+        },
+        {
+            "applicationType": "COMMERCIAL",
+            "serviceType":"",
+            "floorLevel":"Ground",
+            "feeType":"BUILDING_PERMIT_FEE",
+            "unitType":"per sq. M",
+            "rate":"60.00",
+            "additionalFee":"25000.00"
+        },
+        {
+            "applicationType": "COMMERCIAL",
+            "serviceType":"",
+            "floorLevel":"Upper",
+            "feeType":"BUILDING_PERMIT_FEE",
+            "unitType":"per sq. M",
+            "rate":"80.00",
+            "additionalFee":"25000.00"
+        },
+        {
+            "applicationType": "INDUSTRIAL",
+            "serviceType":"",
+            "floorLevel":"Ground",
+            "feeType":"BUILDING_PERMIT_FEE",
+            "unitType":"per sq. M",
+            "rate":"",
+            "additionalFee":"120.00"
+        },
+        {
+            "applicationType": "INDUSTRIAL",
+            "serviceType":"",
+            "floorLevel":"Upper",
+            "feeType":"BUILDING_PERMIT_FEE",
+            "unitType":"per sq. M",
+            "rate":"160.00",
+            "additionalFee":""
+        },
+        {
+            "applicationType": "SCHOOLS",
+            "serviceType":"",
+            "floorLevel":"Ground",
+            "feeType":"BUILDING_PERMIT_FEE",
+            "unitType":"per sq. M",
+            "rate":"30.00",
+            "additionalFee":""
+        },
+        {
+            "applicationType": "SCHOOLS",
+            "serviceType":"",
+            "floorLevel":"Upper",
+            "feeType":"BUILDING_PERMIT_FEE",
+            "unitType":"per sq. M",
+            "rate":"40.00",
+            "additionalFee":""
+        },
+        {
+            "applicationType": "DUPLICATE_NOC_COPY",
+            "serviceType":"",
+            "feeType":"BUILDING_PERMIT_RENEWAL_FEE",
+            "unitType":"per sq. M",
+            "rate":"10.00",
+            "additionalFee":""
+        },
+        {
+            "applicationType": "CERTIFIED_APPROVED_PLAN_COPY",
+            "serviceType":"",
+            "feeType":"BUILDING_PERMIT_RENEWAL_FEE",
+            "unitType":"per sq. M",
+            "rate":"20.00",
+            "additionalFee":""
+        },
+        {
+            "applicationType": "FURNISHING_COPIES_OF_MAP",
+            "serviceType":"",
+            "feeType":"BUILDING_PERMIT_RENEWAL_FEE",
+            "unitType":"per sq. M",
+            "rate":"200.00",
+            "additionalFee":""
+        },
+        {
+            "applicationType": "RENEWAL_OF_BUILDING_PERMISSION",
+            "serviceType":"",
+            "feeType":"BUILDING_PERMIT_RENEWAL_FEE",
+            "unitType":"per sq. M",
+            "rate":"",
+            "additionalFee":""
+        },
+        {
+            "applicationType": "REVISION_OF_PLAN_AFTER_APPROVAL",
+            "serviceType":"",
+            "feeType":"BUILDING_PERMIT_RENEWAL_FEE",
+            "unitType":"per sq. M",
+            "rate":"",
+            "additionalFee":""
+        }
+    ]
+}

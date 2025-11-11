@@ -1,0 +1,123 @@
+{
+  "tenantId": "as.mohanbari",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Mohanbari",
+        "localname": "Mohanbari",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.mohanbari",
+        "children": [
+          {
+            "id": "8089bbb6-cab1-4c16-af67-d1341163ae23",
+            "boundaryNum": 1,
+            "name": "Athabari Gaon",
+            "localname": "Athabari Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "MohanbariV1",
+            "children": []
+          },
+          {
+            "id": "8feb6252-1c4a-40d1-b5d0-58a580d32a4c",
+            "boundaryNum": 1,
+            "name": "Bashbari Gaon",
+            "localname": "Bashbari Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "MohanbariV2",
+            "children": []
+          },
+          {
+            "id": "3181a1fc-d9c9-4b84-94af-b63b71b8b7a1",
+            "boundaryNum": 1,
+            "name": "Harabari Grant 115 F/S",
+            "localname": "Harabari Grant 115 F/S",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "MohanbariV3",
+            "children": []
+          },
+          {
+            "id": "c62d1379-dbf9-4768-bacb-e8b19f5f0e09",
+            "boundaryNum": 1,
+            "name": "Harabari Konwar Gaon",
+            "localname": "Harabari Konwar Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "MohanbariV4",
+            "children": []
+          },
+          {
+            "id": "2d1a1f6f-f6b5-4379-96d2-8e8f063767ba",
+            "boundaryNum": 1,
+            "name": "Miripathar 16 No. FS",
+            "localname": "Miripathar 16 No. FS",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "MohanbariV5",
+            "children": []
+          },
+          {
+            "id": "8119f972-9b24-44cd-a02e-8ee10c843a07",
+            "boundaryNum": 1,
+            "name": "Miripathar Gaon",
+            "localname": "Miripathar Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "MohanbariV6",
+            "children": []
+          },
+          {
+            "id": "668e8efe-b5b1-453a-aefb-57e25879a414",
+            "boundaryNum": 1,
+            "name": "Mohanbari 31/160 Orr",
+            "localname": "Mohanbari 31/160 Orr",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "MohanbariV7",
+            "children": []
+          },
+          {
+            "id": "e3348acd-eeaf-45e4-95f6-bcd5052510ce",
+            "boundaryNum": 1,
+            "name": "Mohanbari Hindu Gaon",
+            "localname": "Mohanbari Hindu Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "MohanbariV8",
+            "children": []
+          },
+          {
+            "id": "e88c3f7b-9a45-4e85-951d-99022ad20891",
+            "boundaryNum": 1,
+            "name": "Titadimaru Gaon",
+            "localname": "Titadimaru Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "MohanbariV9",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

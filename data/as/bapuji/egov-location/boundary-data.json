@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.bapuji",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bapuji",
+        "localname": "Bapuji",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.bapuji",
+        "children": [
+          {
+            "id": "54e0dc53-8a86-4e26-8c6e-94a2d3f5f03e",
+            "boundaryNum": 1,
+            "name": "Borbheta Bangali Gaon",
+            "localname": "Borbheta Bangali Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bapujiV1",
+            "children": []
+          },
+          {
+            "id": "cfbba3b4-6eb8-41b3-9b6e-51d6e13cf508",
+            "boundaryNum": 1,
+            "name": "Choto Tingrai TE 54 FS",
+            "localname": "Choto Tingrai TE 54 FS",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bapujiV2",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

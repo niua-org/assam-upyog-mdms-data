@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.kanakpurgp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kanakpur GP",
+        "localname": "Kanakpur GP",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.kanakpurgp",
+        "children": [
+          {
+            "id": "49c52357-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Kanakpur Part - I, II",
+            "localname": "Kanakpur Part - I, II",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "KanakpurV1",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

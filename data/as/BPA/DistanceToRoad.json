@@ -1,0 +1,20 @@
+{
+    "tenantId": "as",
+    "moduleName": "BPA",
+    "DistanceToRoad": [
+        {
+            "id": 1,
+            "state": "as",
+            "city": null,
+            "zone": null,
+            "subZone": null,
+            "occupancy": "educational",
+            "subOccupancy": "residential",
+            "riskType": null,
+            "permissibleUlB": 90,
+            "permissibleOutsideUlB": 15,
+            "active": true
+        }
+
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "tenantId": "as.citya",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "as.citya"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "as.citya"
+        }
+    ]
+    
+}

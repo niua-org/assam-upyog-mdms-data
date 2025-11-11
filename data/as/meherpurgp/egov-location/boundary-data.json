@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.meherpurgp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Meherpur GP",
+        "localname": "Meherpur GP",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.meherpurgp",
+        "children": [
+          {
+            "id": "49c5y357-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Ambikapur Part - X",
+            "localname": "Ambikapur Part - X",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "MeherpurV1",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

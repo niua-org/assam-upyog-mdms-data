@@ -1,0 +1,37 @@
+{
+    "tenantId": "as",
+    "moduleName": "BPA",
+    "MezzanineFloorService": [
+        {
+            "id": 1,
+            "occupancy": "residential",
+            "mezzanineArea": "9.5",
+            "mezzanineHeight": "2.2",
+            "mezzanineBuiltUpArea": "3",
+            "minMezzanineHeight": "2.2",
+            "maxMezzanineHeight": "2.7",
+            "active": true
+        },
+        {
+            "id": 2,
+            "occupancy": "mercantile / mercantile / commercial",
+            "mezzanineArea": "9",
+            "mezzanineHeight": "2.2",
+            "mezzanineBuiltUpArea": "3",
+            "minMezzanineHeight": "2.2",
+            "maxMezzanineHeight": "2.7",
+            "active": true
+        },
+        {
+            "id": 3,
+            "occupancy": "industrial",
+            "mezzanineArea": "5",
+            "mezzanineHeight": "2.2",
+            "mezzanineBuiltUpArea": "3",
+            "minMezzanineHeight": "2.2",
+            "maxMezzanineHeight": "2.7",
+            "active": true
+        }
+    ]
+
+}

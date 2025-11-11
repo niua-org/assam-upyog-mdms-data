@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.uttarpubdharmapur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "37 No. Uttar Pub Dharmapur",
+        "localname": "37 No. Uttar Pub Dharmapur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.uttarpubdharmapur",
+        "children": [
+          {
+            "id": "49c52357-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Dhekiabari",
+            "localname": "Dhekiabari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DharmapurV1",
+            "children": []
+          },
+          {
+            "id": "01c6f0c8-d490-4984-9a4f-2252eaa3a536",
+            "boundaryNum": 1,
+            "name": "Boushiapara",
+            "localname": "Boushiapara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DharmapurV2",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

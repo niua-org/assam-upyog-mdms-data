@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.dihjari",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Dihjari",
+        "localname": "Dihjari",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.dihjari",
+        "children": [
+          {
+            "id": "dd6bcc72-79c9-4c9a-bc21-711308ff843b",
+            "boundaryNum": 1,
+            "name": "Kayakuchi",
+            "localname": "Kayakuchi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DihjariV1",
+            "children": []
+          },
+          {
+            "id": "78dfc3c7-72ca-4922-94b0-9801556badb0",
+            "boundaryNum": 1,
+            "name": "Majarbari",
+            "localname": "Majarbari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DihjariV2",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

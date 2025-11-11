@@ -1,0 +1,79 @@
+{
+  "tenantId": "as.digheli",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Digheli",
+        "localname": "Digheli",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.digheli",
+        "children": [
+          {
+            "id": "1432d1d0-c9a4-4f48-a6e3-a845efa4cf00",
+            "boundaryNum": 1,
+            "name": "Digheli (Ct)",
+            "localname": "Digheli (Ct)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DigheliV1",
+            "children": []
+          },
+          {
+            "id": "5af287eb-86a1-4684-8aa4-982b4d6170f9",
+            "boundaryNum": 1,
+            "name": "Kshudra Shankara",
+            "localname": "Kshudra Shankara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DigheliV2",
+            "children": []
+          },
+          {
+            "id": "0aa8ae3c-3f40-461e-aa30-31fd423918e4",
+            "boundaryNum": 1,
+            "name": "Paila",
+            "localname": "Paila",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DigheliV3",
+            "children": []
+          },
+          {
+            "id": "bc782ab2-1b74-4d06-9947-76d6e864f0bf",
+            "boundaryNum": 1,
+            "name": "Tantra Sankara",
+            "localname": "Tantra Sankara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DigheliV4",
+            "children": []
+          },
+          {
+            "id": "d145828a-9f3a-484f-a024-40fcc57e1943",
+            "boundaryNum": 1,
+            "name": "Terechia",
+            "localname": "Terechia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DigheliV5",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

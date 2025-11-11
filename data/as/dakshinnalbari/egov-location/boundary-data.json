@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.dakshinnalbari",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Dakshin Nalbari",
+        "localname": "Dakshin Nalbari",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.dakshinnalbari",
+        "children": [
+          {
+            "id": "49c52357-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Mugkuchi",
+            "localname": "Mugkuchi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "NalbariV1",
+            "children": []
+          },
+          {
+            "id": "d6205d01-c3d1-495c-a6fe-94f84a51b414",
+            "boundaryNum": 1,
+            "name": "Joy Mangla",
+            "localname": "Joy Mangla",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "NalbariV2",
+            "children": []
+          },
+          {
+            "id": "3f03496e-27dc-4241-a6ff-f730fd5268a9",
+            "boundaryNum": 1,
+            "name": "Majdia",
+            "localname": "Majdia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "NalbariV3",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

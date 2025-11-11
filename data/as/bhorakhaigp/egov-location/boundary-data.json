@@ -1,0 +1,233 @@
+{
+  "tenantId": "as.bhorakhaigp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bhorakhai GP",
+        "localname": "Bhorakhai GP",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.bhorakhaigp",
+        "children": [
+          {
+            "id": "e4c697c1-5531-49e7-8315-5a4f277df593",
+            "boundaryNum": 1,
+            "name": "Bhorakhai Part-II,IV",
+            "localname": "Bhorakhai Part-II,IV",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BhorakhaiV1",
+            "children": []
+          },
+          {
+            "id": "5b94f82d-e5c7-4a27-8004-9034d5c03d53",
+            "boundaryNum": 1,
+            "name": "Saidpur Part-I, II-III (portion)",
+            "localname": "Saidpur Part-I, II-III (portion)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BhorakhaiV2",
+            "children": []
+          },
+          {
+            "id": "fe73d04a-4113-4bb5-b467-93a72e92dce4",
+            "boundaryNum": 1,
+            "name": "Bariknagar Part-I, II",
+            "localname": "Bariknagar Part-I, II",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BhorakhaiV3",
+            "children": []
+          },
+          {
+            "id": "fb699cfb-5ab3-43b0-bb04-dac2be036472",
+            "boundaryNum": 1,
+            "name": "Silcoorie Grant Part-IV",
+            "localname": "Silcoorie Grant Part-IV",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BhorakhaiV4",
+            "children": []
+          },
+          {
+            "id": "f18b0e5b-4707-4876-bc31-05d773eb2387",
+            "boundaryNum": 1,
+            "name": "Silcoorie Grant",
+            "localname": "Silcoorie Grant",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BhorakhaiV5",
+            "children": []
+          },
+          {
+            "id": "09b2116a-bfc1-423b-868b-b593bf004132",
+            "boundaryNum": 1,
+            "name": "Magal Khal",
+            "localname": "Magal Khal",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BhorakhaiV6",
+            "children": []
+          },
+          {
+            "id": "a41d7ae7-4417-476f-b9c6-0b7f566109b9",
+            "boundaryNum": 1,
+            "name": "Khatal Grant",
+            "localname": "Khatal Grant",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BhorakhaiV7",
+            "children": []
+          },
+          {
+            "id": "2b59c1ae-e732-49fa-8fa5-119f7550f227",
+            "boundaryNum": 1,
+            "name": "Merua Grant",
+            "localname": "Merua Grant",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BhorakhaiV8",
+            "children": []
+          },
+          {
+            "id": "57b41e88-cd64-4f79-9e16-45f9edb9606f",
+            "boundaryNum": 1,
+            "name": "Dudhpatil Part – V",
+            "localname": "Dudhpatil Part – V",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BhorakhaiV9",
+            "children": []
+          },
+          {
+            "id": "ae5456c2-3202-4b55-b6f4-dab47c2c2a0f",
+            "boundaryNum": 1,
+            "name": "Chang Duar Part-I",
+            "localname": "Chang Duar Part-I",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BhorakhaiV10",
+            "children": []
+          },
+          {
+            "id": "f5fc2139-1a9b-4878-8c06-79b7041f67c1",
+            "boundaryNum": 1,
+            "name": "Digar Srikona Part-II",
+            "localname": "Digar Srikona Part-II",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BhorakhaiV11",
+            "children": []
+          },
+          {
+            "id": "ee9d1c02-df7a-406f-b9ae-68879f0c8a53",
+            "boundaryNum": 1,
+            "name": "Elgin Grant",
+            "localname": "Elgin Grant",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BhorakhaiV12",
+            "children": []
+          },
+          {
+            "id": "682ccaa3-dc70-4f90-b6c1-e32a37c35a8f",
+            "boundaryNum": 1,
+            "name": "Maghughat",
+            "localname": "Maghughat",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BhorakhaiV13",
+            "children": []
+          },
+          {
+            "id": "55bb6749-3a5b-4be7-ae73-f268257b57c5",
+            "boundaryNum": 1,
+            "name": "Pachim Biroin Howar",
+            "localname": "Pachim Biroin Howar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BhorakhaiV14",
+            "children": []
+          },
+          {
+            "id": "cc00f4e4-9c7f-4c74-8060-378db2043012",
+            "boundaryNum": 1,
+            "name": "Indira Goarh",
+            "localname": "Indira Goarh",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BhorakhaiV15",
+            "children": []
+          },
+          {
+            "id": "72f8ae7b-25cc-42d9-bd5a-d3b95b0d7021",
+            "boundaryNum": 1,
+            "name": "Indira Goarh Grant",
+            "localname": "Indira Goarh Grant",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BhorakhaiV16",
+            "children": []
+          },
+          {
+            "id": "77df5cb1-e55c-43ca-bc51-6e5c5487f945",
+            "boundaryNum": 1,
+            "name": "Srikona Grant",
+            "localname": "Srikona Grant",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BhorakhaiV17",
+            "children": []
+          },
+          {
+            "id": "cb6e1a62-492f-406a-bfd5-4a78d0a88d9c",
+            "boundaryNum": 1,
+            "name": "Srikona",
+            "localname": "Srikona",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BhorakhaiV18",
+            "children": []
+          },
+          {
+            "id": "cb535be6-4915-47a1-bf8c-e0c9671e92d5",
+            "boundaryNum": 1,
+            "name": "Matirhar Part-I",
+            "localname": "Matirhar Part-I",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BhorakhaiV19",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.berengagp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Berenga- GP",
+        "localname": "Berenga- GP",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.berengagp",
+        "children": [
+          {
+            "id": "b1679fa0-69a6-40ae-986d-b9be7be94d62",
+            "boundaryNum": 1,
+            "name": "Berenga -I,II",
+            "localname": "Berenga -I,II",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BerengaV1",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

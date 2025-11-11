@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.bhagadharbarjuraigp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bhagadhar Barjurai GP",
+        "localname": "Bhagadhar Barjurai GP",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.bhagadharbarjuraigp",
+        "children": [
+          {
+            "id": "b1679fa0-69a6-40ae-986d-b9be7be94d62",
+            "boundaryNum": 1,
+            "name": "Berenga -III, IV, V",
+            "localname": "Berenga -III, IV, V",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BhagadharV1",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

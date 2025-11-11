@@ -1,0 +1,27 @@
+{
+    "tenantId": "as",
+    "moduleName": "BPA",
+    "RoomWiseDoorArea": [
+        {
+            "id": 1,
+            "occupancy": "residential",
+            "minDoorWidth": 0.9,
+            "minDoorHeight": 2,
+            "active": true
+        },
+        {
+            "id": 2,
+            "occupancy": "mercantile / commercial",
+            "minDoorWidth": 0.9,
+            "minDoorHeight": 2,
+            "active": true
+        },
+        {
+            "id": 3,
+            "occupancy": "industrial",
+            "minDoorWidth": 0.9,
+            "minDoorHeight": 2,
+            "active": true
+        }
+    ]
+}

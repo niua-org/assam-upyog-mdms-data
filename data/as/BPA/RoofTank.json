@@ -1,0 +1,24 @@
+{
+    "tenantId": "as",
+    "moduleName": "BPA",
+    "RoofTank": [
+        {
+            "id": 1,
+            "occupancy": "residential",
+            "permissible": 2,
+            "active": true
+        },
+        {
+            "id": 2,
+            "occupancy": "mercantile / commercial",
+            "permissible": 2,
+            "active": true
+        },
+        {
+            "id": 3,
+            "occupancy": "industrial",
+            "permissible": 2,
+            "active": true
+        }
+    ]
+}

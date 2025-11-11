@@ -1,0 +1,198 @@
+{
+  "tenantId": "as",
+  "moduleName": "NOC",
+  "NocType": [
+     {
+       "code": "FIRE_NOC",
+       "isActive": true,
+       "offlineWF":"FIRE_NOC_OFFLINE",
+       "onlineWF":"FIRE_NOC_SRV",
+       "mode":"online",
+       "NocUserRole":"FIRE_NOC_APPROVER"
+    },
+    {
+      "code":"AIRPORT_AUTHORITY",
+      "isActive": true,
+      "offlineWF":"AIRPORT_NOC_OFFLINE",
+      "onlineWF":"AIRPORT_NOC_SRV",
+      "mode":"offline",
+      "NocUserRole":"AIRPORT_AUTHORITY_APPROVER"
+    },
+    {
+      "code": "CIVIL_AVIATION",
+      "isActive": true,
+      "offlineWF": "CIVIL_AVIATION_OFFLINE",
+      "onlineWF": "CIVIL_AVIATION_SRV",
+      "mode": "online",
+      "NocUserRole": "CIVIL_AVIATION_APPROVER"
+    },
+    {
+      "code": "ARCHAEOLOGY",
+      "isActive": true,
+      "offlineWF": "ARCHAEOLOGY_OFFLINE",
+      "onlineWF": "ARCHAEOLOGY_SRV",
+      "mode": "online",
+      "NocUserRole": "ARCHAEOLOGY_APPROVER"
+    },
+    {
+      "code": "STRUCTURAL_SAFETY",
+      "isActive": true,
+      "offlineWF": "STRUCTURAL_SAFETY_OFFLINE",
+      "onlineWF": "STRUCTURAL_SAFETY_SRV",
+      "mode": "online",
+      "NocUserRole": "STRUCTURAL_SAFETY_APPROVER"
+    },
+    {
+      "code": "SOIL_TEST",
+      "isActive": true,
+      "offlineWF": "SOIL_TEST_OFFLINE",
+      "onlineWF": "SOIL_TEST_SRV",
+      "mode": "online",
+      "NocUserRole": "SOIL_TEST_APPROVER"
+    },
+    {
+      "code": "POLICE_CLEARANCE",
+      "isActive": true,
+      "offlineWF": "POLICE_CLEARANCE_OFFLINE",
+      "onlineWF": "POLICE_CLEARANCE_SRV",
+      "mode": "online",
+      "NocUserRole": "POLICE_CLEARANCE_APPROVER"
+    },
+    {
+      "code": "ENVIRONMENT",
+      "isActive": true,
+      "offlineWF": "ENVIRONMENT_OFFLINE",
+      "onlineWF": "ENVIRONMENT_SRV",
+      "mode": "online",
+      "NocUserRole": "ENVIRONMENT_APPROVER"
+    },
+    {
+      "code": "ELECTRICITY_DEPT",
+      "isActive": true,
+      "offlineWF": "ELECTRICITY_DEPT_OFFLINE",
+      "onlineWF": "ELECTRICITY_DEPT_SRV",
+      "mode": "online",
+      "NocUserRole": "ELECTRICITY_DEPT_APPROVER"
+    },
+    {
+      "code": "SAD_CLEARANCE",
+      "isActive": true,
+      "offlineWF": "SAD_CLEARANCE_OFFLINE",
+      "onlineWF": "SAD_CLEARANCE_SRV",
+      "mode": "online",
+      "NocUserRole": "SAD_CLEARANCE_APPROVER"
+    },
+    {
+      "code": "HOME_SECURITY",
+      "isActive": true,
+      "offlineWF": "HOME_SECURITY_OFFLINE",
+      "onlineWF": "HOME_SECURITY_SRV",
+      "mode": "online",
+      "NocUserRole": "HOME_SECURITY_APPROVER"
+    },
+    {
+      "code": "CIVIL_AVIATION_AZARA",
+      "isActive": true,
+      "offlineWF": "CIVIL_AVIATION_AZARA_OFFLINE",
+      "onlineWF": "CIVIL_AVIATION_AZARA_SRV",
+      "mode": "online",
+      "NocUserRole": "CIVIL_AVIATION_AZARA_APPROVER"
+    },
+    {
+      "code": "AZARA_CIRCLE",
+      "isActive": true,
+      "offlineWF": "AZARA_CIRCLE_OFFLINE",
+      "onlineWF": "AZARA_CIRCLE_SRV",
+      "mode": "online",
+      "NocUserRole": "AZARA_CIRCLE_APPROVER"
+    },
+    {
+      "code": "WATER_RESOURCES",
+      "isActive": true,
+      "offlineWF": "WATER_RESOURCES_OFFLINE",
+      "onlineWF": "WATER_RESOURCES_SRV",
+      "mode": "online",
+      "NocUserRole": "WATER_RESOURCES_APPROVER"
+    },
+    {
+      "code": "FIRE_SAFETY",
+      "isActive": true,
+      "offlineWF": "FIRE_SAFETY_OFFLINE",
+      "onlineWF": "FIRE_SAFETY_SRV",
+      "mode": "online",
+      "NocUserRole": "FIRE_SAFETY_APPROVER"
+    },
+    {
+      "code": "POLLUTION_CONTROL",
+      "isActive": true,
+      "offlineWF": "POLLUTION_CONTROL_OFFLINE",
+      "onlineWF": "POLLUTION_CONTROL_SRV",
+      "mode": "online",
+      "NocUserRole": "POLLUTION_CONTROL_APPROVER"
+    },
+    {
+      "code": "ARMY_DEFENCE",
+      "isActive": true,
+      "offlineWF": "ARMY_DEFENCE_OFFLINE",
+      "onlineWF": "ARMY_DEFENCE_SRV",
+      "mode": "online",
+      "NocUserRole": "ARMY_DEFENCE_APPROVER"
+    },
+    {
+      "code": "GROUND_WATER",
+      "isActive": true,
+      "offlineWF": "GROUND_WATER_OFFLINE",
+      "onlineWF": "GROUND_WATER_SRV",
+      "mode": "online",
+      "NocUserRole": "GROUND_WATER_APPROVER"
+    },
+    {
+      "code": "HEALTH_AUTHORITY",
+      "isActive": true,
+      "offlineWF": "HEALTH_AUTHORITY_OFFLINE",
+      "onlineWF": "HEALTH_AUTHORITY_SRV",
+      "mode": "online",
+      "NocUserRole": "HEALTH_AUTHORITY_APPROVER"
+    },
+    {
+      "code": "SACFA_RF",
+      "isActive": true,
+      "offlineWF": "SACFA_RF_OFFLINE",
+      "onlineWF": "SACFA_RF_SRV",
+      "mode": "online",
+      "NocUserRole": "SACFA_RF_APPROVER"
+    },
+    {
+      "code": "ELECTRICAL_INSPECTOR",
+      "isActive": true,
+      "offlineWF": "ELECTRICAL_INSPECTOR_OFFLINE",
+      "onlineWF": "ELECTRICAL_INSPECTOR_SRV",
+      "mode": "online",
+      "NocUserRole": "ELECTRICAL_INSPECTOR_APPROVER"
+    },
+    {
+      "code": "LIFT_SAFETY",
+      "isActive": true,
+      "offlineWF": "LIFT_SAFETY_OFFLINE",
+      "onlineWF": "LIFT_SAFETY_SRV",
+      "mode": "online",
+      "NocUserRole": "LIFT_SAFETY_APPROVER"
+    },
+    {
+      "code": "STP_CLEARANCE",
+      "isActive": true,
+      "offlineWF": "STP_CLEARANCE_OFFLINE",
+      "onlineWF": "STP_CLEARANCE_SRV",
+      "mode": "online",
+      "NocUserRole": "STP_CLEARANCE_APPROVER"
+    },
+    {
+      "code": "ESZ_CLEARANCE",
+      "isActive": true,
+      "offlineWF": "ESZ_CLEARANCE_OFFLINE",
+      "onlineWF": "ESZ_CLEARANCE_SRV",
+      "mode": "online",
+      "NocUserRole": "ESZ_CLEARANCE_APPROVER"
+    }
+  ]
+}

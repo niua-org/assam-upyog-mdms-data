@@ -1,0 +1,233 @@
+{
+  "tenantId": "as.jokai",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Jokai",
+        "localname": "Jokai",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.jokai",
+        "children": [
+          {
+            "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Bhorburi Nogaon No. 1",
+            "localname": "Bhorburi Nogaon No. 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "JokaiV1",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-421e-bi27-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Bhorburi Nogaon No. 2",
+            "localname": "Bhorburi Nogaon No. 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "JokaiV2",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-428e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Bhorburi Nogaon No. 3",
+            "localname": "Bhorburi Nogaon No. 3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "JokaiV3",
+            "children": []
+          },
+          {
+            "id": "b65bi672-b3d4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Bor Temtow Gaon",
+            "localname": "Bor Temtow Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "JokaiV4",
+            "children": []
+          },
+          {
+            "id": "u55bf972-b3d4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Borbill Gaon No.2",
+            "localname": "Borbill Gaon No.2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "JokaiV5",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b6y4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Chamoguri Kachari Gaon",
+            "localname": "Chamoguri Kachari Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "JokaiV6",
+            "children": []
+          },
+          {
+            "id": "b653f972-b3d4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Chamuguri Bongali Gaon",
+            "localname": "Chamuguri Bongali Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "JokaiV7",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-421e-b327-747i6e3325c0",
+            "boundaryNum": 1,
+            "name": "Changamari Gaon",
+            "localname": "Changamari Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "JokaiV8",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-421e-o5677-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Ghetira Pathar Gaon",
+            "localname": "Ghetira Pathar Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "JokaiV9",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-421e-b317-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Hanchara Gaon",
+            "localname": "Hanchara Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "JokaiV10",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-4r3e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Harok Pathar Gaon",
+            "localname": "Harok Pathar Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "JokaiV11",
+            "children": []
+          },
+          {
+            "id": "b65bf372-b3d4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Jokai T.E. No. 1 L.C.R.",
+            "localname": "Jokai T.E. No. 1 L.C.R.",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "JokaiV12",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-421e-b376-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Kamakhya Gaon",
+            "localname": "Kamakhya Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "JokaiV13",
+            "children": []
+          },
+          {
+            "id": "b65bf232-b3d4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Kath Gaon",
+            "localname": "Kath Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "JokaiV14",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b4r4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Koliani Nogaon",
+            "localname": "Koliani Nogaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "JokaiV15",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-421e-b327-747i8e3325c0",
+            "boundaryNum": 1,
+            "name": "Konwar Kheroni Gaon",
+            "localname": "Konwar Kheroni Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "JokaiV16",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-467e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Maju Temtow Bagisha",
+            "localname": "Maju Temtow Bagisha",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "JokaiV17",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-421e-b327-747u3e3325c0",
+            "boundaryNum": 1,
+            "name": "Mohmari Gaon No. 1",
+            "localname": "Mohmari Gaon No. 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "JokaiV18",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-421f-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Panitola Konwar Gaon",
+            "localname": "Panitola Konwar Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "JokaiV19",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

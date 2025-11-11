@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.upperbarbhagkhata",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "42 No. Upper Barbhag Khata",
+        "localname": "42 No. Upper Barbhag Khata",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.upperbarbhagkhata",
+        "children": [
+          {
+            "id": "eaa911b3-699a-417e-98e2-a9dc5c10232f",
+            "boundaryNum": 1,
+            "name": "Balilesha",
+            "localname": "Balilesha",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BarbhagV1",
+            "children": []
+          },
+          {
+            "id": "9f0e1dcd-70ae-4e55-8ded-bc0e341f3e77",
+            "boundaryNum": 1,
+            "name": "Kardoitola",
+            "localname": "Kardoitola",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BarbhagV2",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

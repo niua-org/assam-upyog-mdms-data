@@ -1,0 +1,1343 @@
+{
+  "tenantId": "as",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "PGR",
+      "code": "PGR",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+
+      ]
+    },
+    {
+      "module": "PT",
+      "code": "PT",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "QuickPayLinks",
+      "code": "QuickPayLinks",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        }
+      ]
+    },
+   {
+      "module": "Finance",
+      "code": "Finance",
+      "active": false,
+      "order":4,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "TL",
+      "code": "TL",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/TL.png",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        },
+        {
+          "code": "as.mohali"
+        },
+        {
+          "code": "as.dharamshala"
+        },
+        {
+          "code": "as.shimla"
+        }
+      ]
+    },
+    {
+      "module": "FireNoc",
+      "code": "FireNoc",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "UC",
+      "code": "UC",
+      "active": false,
+      "order":2,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "BPAREG",
+      "code": "BPAREG",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "BPAAPPLY",
+      "code": "BPAAPPLY",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "PGR.WHATSAPP",
+      "code": "PGR.WHATSAPP",
+      "active": false,
+      "order":4,
+      "tenants": [
+        {
+          "code": "as.citya"
+        }
+      ]
+    },
+    {
+      "module": "OBPS",
+      "code": "OBPS",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "FSM",
+      "code": "FSM",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/FSM.png",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "Payment",
+      "code": "Payment",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "Receipts",
+      "code": "Receipts",
+      "active": true,
+      "order":3,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "NOC",
+      "code": "NOC",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "DSS",
+      "code": "DSS",
+      "active": true,
+      "order":6,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "Engagement",
+      "code": "Engagement",
+      "active": true,
+      "order":3,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "MCollect",
+      "code": "MCollect",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        },
+        {
+          "code": "as.mohali"
+        },
+        {
+          "code": "as.dharamshala"
+        },
+        {
+          "code": "as.shimla"
+        }
+      ]
+    },
+    {
+      "module": "CommonPT",
+      "code": "CommonPT",
+      "active": true,
+      "order":3,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "NDSS",
+      "code": "NDSS",
+      "active": true,
+      "order":5,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "WS",
+      "code": "WS",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/WS.png",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        }
+      ]
+    },
+    {
+      "module": "SW",
+      "code": "SW",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        }
+      ]
+    },
+    {
+      "module": "BillAmendment",
+      "code": "BillAmendment",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        }
+      ]
+    },
+    {
+      "module": "Bills",
+      "code": "Bills",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/Bill.png",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        }
+      ]
+    },
+    {
+      "module": "Birth",
+      "code": "Birth",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "Death",
+      "code": "Death",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "PTR",
+      "code": "PTR",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "ASSET",
+      "code": "ASSET",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        },
+        {
+          "code": "as.mohali"
+        },
+        {
+          "code": "as.dharamshala"
+        },
+        {
+          "code": "as.shimla"
+        } 
+      ]
+    },
+    {
+      "module": "CHB",
+      "code": "CHB",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        },
+        {
+          "code": "as.mohali"
+        },
+        {
+          "code": "as.dharamshala"
+        },
+        {
+          "code": "as.shimla"
+        } 
+      ]
+    },
+    {
+      "module": "EW",
+      "code": "EW",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "VERIFICATIONSEARCH",
+      "code": "VERIFICATIONSEARCH",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        } 
+      ]
+    },
+    {
+      "module": "FNOC",
+      "code": "FNOC",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "SV",
+      "code": "SV",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        },
+        {
+          "code": "as.patiala"
+        },
+        {
+          "code": "as.kurali"
+        }
+      ]
+    },
+    {
+      "module": "ADS",
+      "code": "ADS",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }, 
+        {
+          "code": "as.mohali"
+        },
+        {
+          "code": "as.dharamshala"
+        },
+        {
+          "code": "as.shimla"
+        }
+      ]
+    },
+    {
+      "module": "Workbench",
+      "code": "Workbench",
+      "active": true,
+      "order": 13,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        },
+        {
+          "code": "as.mohali"
+        },
+        {
+          "code": "as.dharamshala"
+        },
+        {
+          "code": "as.shimla"
+        }
+      ]
+    } ,
+    {
+      "module": "VENDOR",
+      "code": "VENDOR",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "Tqm",
+      "code": "Tqm",
+      "active": true,
+      "order": 14,
+      "additionalComponent": "TqmAdminNotification",
+      "tenants":  [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        }
+      ]
+    },
+    {
+      "module": "WT",
+      "code": "WT",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        },
+        {
+          "code": "as.mohali"
+        },
+        {
+          "code": "as.dharamshala"
+        },
+        {
+          "code": "as.shimla"
+        } 
+      ]
+    },
+    {
+      "module": "CND",
+      "code": "CND",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.mohali"
+        },
+        {
+          "code": "as.dharamshala"
+        },
+        {
+          "code": "as.shimla"
+        } 
+      ]
+    } ,
+    {
+      "module": "MT",
+      "code": "MT",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        },
+        {
+          "code": "as.mohali"
+        },
+        {
+          "code": "as.dharamshala"
+        },
+        {
+          "code": "as.shimla"
+        } 
+      ]
+    },
+    {
+      "module": "TP",
+      "code": "TP",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        },
+        {
+          "code": "as.mohali"
+        },
+        {
+          "code": "as.dharamshala"
+        },
+        {
+          "code": "as.shimla"
+        } 
+      ]
+    },
+    {
+      "module": "PGRAI",
+      "code": "PGRAI",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        },
+        {
+          "code": "as.mohali"
+        },
+        {
+          "code": "as.dharamshala"
+        },
+        {
+          "code": "as.shimla"
+        } 
+      ]
+    },
+    {
+      "module": "OBPSV2",
+      "code": "OBPSV2",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "as.citya"
+        },
+        {
+          "code": "as.cityb"
+        },
+        {
+          "code": "as.cityc"
+        },
+        {
+          "code": "as.cityd"
+        },
+        {
+          "code": "as.citye"
+        },
+        {
+          "code": "as.mohali"
+        },
+        {
+          "code": "as.dharamshala"
+        },
+        {
+          "code": "as.shimla"
+        },
+        {
+          "code": "as.nalbari"
+        },
+        {
+          "code": "as.barpeta"
+        },
+        {
+          "code": "as.dibrugarh"
+        },
+        {
+          "code": "as.tinsukia"
+        },
+        {
+          "code": "as.silchar"
+        },
+        {
+          "code": "as.pubbahjani"
+        },
+        {
+          "code": "as.balitarabatahgila"
+        },
+        {
+          "code": "as.sariahtoali"
+        },
+        {
+          "code": "as.nalbarigp"
+        },
+        {
+          "code": "as.chandakuchi"
+        },
+        {
+          "code": "as.37nouttarpubdharmapur"
+        },
+        {
+          "code": "as.madhyabahjani"
+        },
+        {
+          "code": "as.hatinamati"
+        },
+        {
+          "code": "as.dakshinnalbari"
+        },
+        {
+          "code": "as.upperbarbhagkhata"
+        },
+        {
+          "code": "as.uttarpubkhata"
+        },
+        {
+          "code": "as.pubnalbari"
+        },
+        {
+          "code": "as.digheli"
+        },
+        {
+          "code": "as.natundehar"
+        },
+        {
+          "code": "as.panigaon"
+        },
+        {
+          "code": "as.ghograpar"
+        },
+        {
+          "code": "as.silpotaborilatima"
+        },
+        {
+          "code": "as.silpotaborilatima"
+        },
+        {
+          "code": "as.barajol"
+        },
+        {
+          "code": "as.dihjari"
+        },
+        {
+          "code": "as.barpetagp"
+        },
+        {
+          "code": "as.patbaushigp"
+        },
+        {
+          "code": "as.sundaridiagp"
+        },
+        {
+          "code": "as.rajabheta"
+        },
+        {
+          "code": "as.nizmankotta"
+        },
+        {
+          "code": "as.hiloidhari"
+        },
+        {
+          "code": "as.mankottakhanikar"
+        },
+        {
+          "code": "as.romai"
+        },
+        {
+          "code": "as.timona"
+        },
+        {
+          "code": "as.mohanbari"
+        },
+        {
+          "code": "as.bokul"
+        },
+        {
+          "code": "as.maijan"
+        },
+        {
+          "code": "as.nizkanai"
+        },
+        {
+          "code": "as.moderkhat"
+        },
+        {
+          "code": "as.lahowal"
+        },
+        {
+          "code": "as.kotoha"
+        },
+        {
+          "code": "as.borpothar"
+        },
+        {
+          "code": "as.jokai"
+        },
+        {
+          "code": "as.lejai"
+        },
+        {
+          "code": "as.duliakakoti"
+        },
+        {
+          "code": "as.barbarua"
+        },
+        {
+          "code": "as.kalakhowa"
+        },
+        {
+          "code": "as.garudhoria"
+        },
+        {
+          "code": "as.bogibeel"
+        },
+        {
+          "code": "as.kololuwa"
+        },
+        {
+          "code": "as.tinsukiagp"
+        },
+        {
+          "code": "as.rongpuria"
+        },
+        {
+          "code": "as.borguri"
+        },
+        {
+          "code": "as.bojaltoli"
+        },
+        {
+          "code": "as.itakhulichariali"
+        },
+        {
+          "code": "as.laipuli"
+        },
+        {
+          "code": "as.dimaruguri"
+        },
+        {
+          "code": "as.bapuji"
+        },
+        {
+          "code": "as.gottong"
+        },
+        {
+          "code": "as.panitola"
+        },
+        {
+          "code": "as.barekuri"
+        },
+        {
+          "code": "as.tengapani"
+        },
+        {
+          "code": "as.hapjan"
+        },
+        {
+          "code": "as.jerai"
+        },
+        {
+          "code": "as.madhurbondgp"
+        },
+        {
+          "code": "as.berengagp"
+        },
+        {
+          "code": "as.bhagadharbarjuraigp"
+        },
+        {
+          "code": "as.ambikapurgp"
+        },
+        {
+          "code": "as.bhanjantipurgp"
+        },
+        {
+          "code": "as.meherpurgp"
+        },
+        {
+          "code": "as.kanakpurgp"
+        },
+        {
+          "code": "as.rongpurgp"
+        },
+        {
+          "code": "as.uttarkrishnapurgp"
+        },
+        {
+          "code": "as.dakshinkrishnapurgp"
+        },
+        {
+          "code": "as.tupkhanagp"
+        },
+        {
+          "code": "as.ghoungoorgp"
+        },
+        {
+          "code": "as.ghungoorgp"
+        },
+        {
+          "code": "as.bhorakhaigp"
+        },
+        {
+          "code": "as.tarutajabarigp"
+        },
+        {
+          "code": "as.chenkoorigp"
+        },
+        {
+          "code": "as.rajnagargp"
+        },
+        {
+          "code": "as.kumarparanizjoinagargp"
+        }
+      ]
+    }
+  ]
+}

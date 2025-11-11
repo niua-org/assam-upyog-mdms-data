@@ -1,0 +1,48 @@
+{
+    "tenantId": "as",
+    "moduleName": "BPA",
+    "Ventilation": [
+        {
+            "id": 1,
+            "state": "as",
+            "city": null,
+            "zone": null,
+            "subZone": null,
+            "riskType": null,
+            "occupancy": "residential",
+            "ventilationValueOne": 6,
+            "ventilationValueTwo": 0.3,
+            "commonRoomPercent": 0.5,
+            "laundryRecreationPercent": 0.10,
+            "active": true
+        },
+        {
+            "id": 2,
+            "state": "as",
+            "city": null,
+            "zone": null,
+            "subZone": null,
+            "riskType": null,
+            "occupancy": "mercantile / commercial",
+            "ventilationValueOne": 6,
+            "ventilationValueTwo": 0.3,
+            "commonRoomPercent": 0.5,
+            "laundryRecreationPercent": 0.10,
+            "active": true
+        },
+        {
+            "id": 3,
+            "state": "as",
+            "city": null,
+            "zone": null,
+            "subZone": null,
+            "riskType": null,
+            "occupancy": "industrial",
+            "ventilationValueOne": 6,
+            "ventilationValueTwo": 0.3,
+            "commonRoomPercent": 0.5,
+            "laundryRecreationPercent": 0.10,
+            "active": true
+        }
+    ]
+}

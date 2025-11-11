@@ -1,0 +1,24 @@
+{
+    "tenantId": "as",
+    "moduleName": "BPA",
+    "PlinthHeight": [
+        {
+            "id": 1,
+            "occupancy": "residential",
+            "permissible": 0.75,
+            "active": true
+        },
+        {
+            "id": 2,
+            "occupancy": "mercantile / commercial",
+            "permissible": 0.75,
+            "active": true
+        },
+        {
+            "id": 3,
+            "occupancy": "industrial",
+            "permissible": 0.75,
+            "active": true
+        }
+    ]
+}
