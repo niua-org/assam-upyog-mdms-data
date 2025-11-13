@@ -275,6 +275,16 @@
     {
       "businessService": "BPA.CREATE",
       "module": "BPA",
+      "action": "ACCEPT",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "BPA.CREATE",
+      "module": "BPA",
       "action": "APPROVE",
       "channelNames": [
         "SMS",
