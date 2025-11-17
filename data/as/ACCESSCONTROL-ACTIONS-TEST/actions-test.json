@@ -21516,6 +21516,17 @@
       "serviceCode": "requester-services-dx",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 3080,
+      "name": "BPA Registered Technical Person Search",
+      "url": "/bpa-services/v1/bpa/_rtpsearch",
+      "displayName": "Search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "BPA",
+      "code": "null",
+      "path": ""
+   }
   ]
 }
