@@ -810,6 +810,22 @@
         {
             "format": "BPA/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "bpa.building_permit_fee.receipt.id"
+        },
+        {
+            "format": "PP/[CITY.CODE]/[cy:ddMMyyyy]/[SEQ_EGOV_COMMON]",
+            "idname": "bpa.planning.permit.number"
+        },       
+        {
+            "format": "BP/[CITY.CODE]/[cy:ddMMyyyy]/[SEQ_EGOV_COMMON]",
+            "idname": "bpa.building.permit.number"
+        },             
+        {
+            "format": "PP/[CITY.CODE]/[cy:ddMMyyyy]/[SEQ_EGOV_COMMON]",
+            "idname": "bpa.pp.receipt.number"
+        },             
+        {
+            "format": "BP/[CITY.CODE]/[cy:ddMMyyyy]/[SEQ_EGOV_COMMON]",
+            "idname": "bpa.bp.receipt.number"
         }
     ]
 }
