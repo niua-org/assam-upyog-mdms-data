@@ -475,44 +475,8 @@
             "idname": "pt.propertyid"
         },
         {
-            "format": "PG-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
-            "idname": "egov.idgen.bpa.applicationNum"
-        },
-        {
-            "format": "BR/ENG/[cy:yyyy]/[SEQ_EG_PT_LN]",
-            "idname": "egov.idgen.bpa.englicensenumber"
-        },
-        {
-            "format": "BR/STR/[cy:yyyy]/[SEQ_EG_PT_LN]",
-            "idname": "egov.idgen.bpa.strlicensenumber"
-        },
-        {
-            "format": "BR/TP/[cy:yyyy]/[SEQ_EG_PT_LN]",
-            "idname": "egov.idgen.bpa.tplicensenumber"
-        },
-        {
-            "format": "BR/SUP/[cy:yyyy]/[SEQ_EG_PT_LN]",
-            "idname": "egov.idgen.bpa.suplicensenumber"
-        },
-        {
-            "format": "BR/ARCT/[cy:yyyy]/[SEQ_EG_PT_LN]",
-            "idname": "egov.idgen.bpa.arlicensenumber"
-        },
-        {
-            "format": "BR/BLD/[cy:yyyy]/[SEQ_EG_PT_LN]",
-            "idname": "egov.idgen.bpa.bdlicensenumber"
-        },
-        {
             "format": "BPAREG/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "bpareg.receipt.id"
-        },
-        {
-            "format": "BPA/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-            "idname": "bpa.nc_app_fee.receipt.id"
-        },
-        {
-            "format": "BPA/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-            "idname": "bpa.nc_san_fee.receipt.id"
         },
         {
             "format": "PG-MU-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
@@ -561,18 +525,6 @@
         {
             "format": "SW.OTP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_SW_FEE_RCPT_[TENANT_ID]]",
             "idname": "sw.one_time_fee.receipt.id"
-        },
-        {
-            "format": "PG-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
-            "idname": "bpa.low_risk_permit_fee.receipt.id"
-        },
-        {
-            "format": "BPA/OC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-            "idname": "bpa.nc_oc_app_fee.receipt.id"
-        },
-        {
-            "format": "BPA/OC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-            "idname": "bpa.nc_oc_san_fee.receipt.id"
         },
         {
             "format": "PG-NOCSRV-[cy:yyyy-MM-dd]-[SEQ_EG_NOC_APN]",
@@ -707,14 +659,6 @@
             "idname": "bpareg.licensenumber"
         },
         {
-            "format": "PG-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
-            "idname": "bpa.aplnumber"
-        },
-        {
-            "format": "PG-BP-[CITY.CODE]-[SEQ_EG_BP_PN]",
-            "idname": "bpa.permitnumber"
-        },
-        {
             "format": "BR/[CITY.CODE]/[cb.name]/[fy:yyyy]/[SEQ_EGOV_COMMON]",
             "idname": "birth_cert.receipt.id"
         },
@@ -810,14 +754,6 @@
         {
             "format": "BPA/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "bpa.building_permit_fee.receipt.id"
-        },
-        {
-            "format": "PP-[CITY.CODE]-[cy:ddMMyyyy]-[SEQ_EG_PP]",
-            "idname": "bpa.planning.permit.number"
-        },       
-        {
-            "format": "BP-[CITY.CODE]-[cy:ddMMyyyy]-[SEQ_EG_BP]",
-            "idname": "bpa.building.permit.number"
         },
         {
             "format": "OC-[CITY.CODE]-[cy:ddMMyyyy]-[SEQ_EG_OC]",
