@@ -805,11 +805,11 @@
         },
         {
             "format": "BPA/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-            "idname": "bpa.planning_permit_fee.receipt.id"
+            "idname": "bpa.planning_permit_fee.receipt.id_old"
         },
         {
             "format": "BPA/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
-            "idname": "bpa.building_permit_fee.receipt.id"
+            "idname": "bpa.building_permit_fee.receipt.id_old"
         },
         {
             "format": "PP-[CITY.CODE]-[cy:ddMMyyyy]-[SEQ_EG_PP]",
@@ -825,11 +825,11 @@
         },            
         {
             "format": "PP-RN-[CITY.CODE]-[cy:ddMMyyyy]-[SEQ_EG_PP_RN]",
-            "idname": "bpa.pp.receipt.number"
+            "idname": "bpa.planning_permit_fee.receipt.id"
         },             
         {
             "format": "BP-RN-[CITY.CODE]-[cy:ddMMyyyy]-[SEQ_EG_BP_RN]",
-            "idname": "bpa.bp.receipt.number"
+            "idname": "bpa.building_permit_fee.receipt.id"
         },             
         {
             "format": "OC-RN-[CITY.CODE]-[cy:ddMMyyyy]-[SEQ_EG_OC_RN]",
