@@ -33,6 +33,12 @@
             "active": true
         },
         {
+            "id": 7,
+            "occupancy": "educational",
+            "permissible": 0.225,
+            "active": true
+        },
+        {
             "id": 4,
             "occupancy": "assembly",
             "permissible": 0.225,

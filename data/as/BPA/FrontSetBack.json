@@ -621,6 +621,30 @@
             "active": true
         },
         {
+            "id": 146,
+            "fromRoadWidth": 0,
+            "toRoadWidth": 9999999,
+            "fromBuildingHeight": 0,
+            "toBuildingHeight": 15.6,
+            "occupancy": "educational",
+            "riskType": null,
+            "permissiblePreNursery": 6,
+            "permissiblePrimary": 7.5,
+            "permissibleHighSchool": 10,
+            "active": true
+        },
+        {
+            "id": 147,
+            "fromRoadWidth": 45.0,
+            "toRoadWidth": 999,
+            "fromBuildingHeight": 15.6,
+            "toBuildingHeight": 999,
+            "occupancy": "educational",
+            "riskType": null,
+            "permissible": 15.0,
+            "active": true
+        },
+        {
             "id": 37,
             "fromRoadWidth": 0,
             "toRoadWidth": 6.6,

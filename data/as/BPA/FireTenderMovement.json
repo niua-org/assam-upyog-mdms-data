@@ -11,7 +11,7 @@
     },
         {
         "id": 2,
-        "occupancy": "commercial",
+        "occupancy": "mercantile / commercial",
         "fireTenderMovementValueOne": "105",
         "fireTenderMovementValueTwo": "3.66",
         "active": true
@@ -19,6 +19,13 @@
         {
         "id": 3,
         "occupancy": "industrial",
+        "fireTenderMovementValueOne": "5",
+        "fireTenderMovementValueTwo": "3.66",
+        "active": true
+    },
+    {
+        "id": 7,
+        "occupancy": "educational",
         "fireTenderMovementValueOne": "5",
         "fireTenderMovementValueTwo": "3.66",
         "active": true

@@ -24,6 +24,13 @@
             "active": true
         },
         {
+            "id": 7,
+            "occupancy": "educational",
+            "parapetValueOne": 1.2,
+            "parapetValueTwo": 1.5,
+            "active": true
+        },
+        {
             "id": 4,
             "occupancy": "assembly",
             "parapetValueOne": 1.2,

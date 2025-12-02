@@ -60,6 +60,25 @@
             "active": true
         },
         {
+            "id": 7,
+            "occupancy": "educational",
+            "rampServiceValueOne": 0,
+            "rampServiceExpectedSlopeOne": 1,
+            "rampServiceDivideExpectedSlope": 12,
+            "rampServiceDivideExpectedSlopeOne": 5,
+            "rampServiceSlopValue": 0,
+            "rampServiceMinHeightEntrance":0.45,
+            "rampServiceBuildingHeight": 15,
+            "rampServiceTotalLength": 0,
+            "rampServiceExpectedSlopeTwo": 0.05,
+            "rampServiceExpectedSlopeCompare": 2.4,
+            "rampServiceExpectedSlopeCompareTrue": 0.05,
+            "rampServiceExpectedSlopeCompareFalse": 0.08,
+            "rampServiceMaxLength": 9.0,
+            "rampServiceMinWidth": 1.5,
+            "active": true
+        },
+        {
             "id": 4,
             "occupancy": "assembly",
             "rampServiceValueOne": 0,

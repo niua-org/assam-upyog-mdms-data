@@ -39,6 +39,18 @@
             "active": true
         },
         {
+            "id": 7,
+            "occupancy": "educational",
+            "sTValueOne": 25,
+            "sTValueTwo": 1500,
+            "sTValueThree": 4,
+            "sTValueFour": 800,
+            "sTSegregatedToiletRequired": 3,
+            "sTSegregatedToiletProvided": 2,
+            "sTminDimensionRequired": 250,
+            "active": true
+        },
+        {
             "id": 4,
             "occupancy": "assembly",
             "sTValueOne": 15,

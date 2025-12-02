@@ -36,6 +36,17 @@
             "active": true
         },
         {
+            "id": 7,
+            "fromBuildingHeight": "0",
+            "toBuildingHeight": "18",
+            "occupancy": "educational",
+            "bathroomtotalArea": "3.8",
+            "bathroomMinWidth": "1.2",
+            "bathAndStoreVentilationArea": "4.0",
+            "bathAndStoreVentilationWidth": "2",
+            "active": true
+        },
+        {
             "id": 4,
             "fromBuildingHeight": "0",
             "toBuildingHeight": "18",

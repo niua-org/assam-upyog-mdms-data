@@ -24,6 +24,13 @@
         "active": true
     },
     {
+        "id": 7,
+        "occupancy": "educational",
+        "GovtBuildingDistanceValue": "900",
+        "GovtBuildingDistanceMaxHeight": "10",
+        "active": true
+    },
+    {
         "id": 4,
         "occupancy": "assembly",
         "GovtBuildingDistanceValue": "200",

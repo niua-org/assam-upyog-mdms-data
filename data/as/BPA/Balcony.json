@@ -30,6 +30,16 @@
         "active": true
     },
     {
+        "id": 7,
+        "occupancy": "educational",
+        "permissible": 1.5,
+        "maxBalconyLength": 4,
+        "maxBalconyWidth": 1.5,
+        "minSetbackFromPlotBoundary": 1.5,
+        "active": true
+   
+    },
+    {
         "id": 4,
         "occupancy": "assembly",
         "permissible": 1.5,
