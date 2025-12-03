@@ -489,6 +489,494 @@
         "riskType": "high",
         "permissible": 40,
         "active": true
+    },
+    {
+        "id": 55,
+        "fromPlotArea": 0,
+        "toPlotArea": 150,
+        "occupancy": "assembly",
+        "riskType": "low",
+        "permissible": 90,
+        "active": true
+    },
+    {
+        "id": 56,
+        "fromPlotArea": 150,
+        "toPlotArea": 200,
+        "occupancy": "assembly",
+        "riskType": "low",
+        "permissible": 70,
+        "active": true
+    },
+    {
+        "id": 57,
+        "fromPlotArea": 200,
+        "toPlotArea": 300,
+        "occupancy": "assembly",
+        "riskType": "low",
+        "permissible": 65,
+        "active": true
+    },
+    {
+        "id": 58,
+        "fromPlotArea": 300,
+        "toPlotArea": 500,
+        "occupancy": "assembly",
+        "riskType": "low",
+        "permissible": 60,
+        "active": true
+    },
+    {
+        "id": 59,
+        "fromPlotArea": 500,
+        "toPlotArea": 1000,
+        "occupancy": "assembly",
+        "riskType": "low",
+        "permissible": 50,
+        "active": true
+    },
+    {
+        "id": 60,
+        "fromPlotArea": 1000,
+        "toPlotArea": 999999,
+        "occupancy": "assembly",
+        "riskType": "low",
+        "permissible": 40,
+        "active": true
+    },
+    {
+        "id": 61,
+        "fromPlotArea": 0,
+        "toPlotArea": 150,
+        "occupancy": "storage",
+        "riskType": "low",
+        "permissible": 90,
+        "active": true
+    },
+    {
+        "id": 62,
+        "fromPlotArea": 150,
+        "toPlotArea": 200,
+        "occupancy": "storage",
+        "riskType": "low",
+        "permissible": 70,
+        "active": true
+    },
+    {
+        "id": 63,
+        "fromPlotArea": 200,
+        "toPlotArea": 300,
+        "occupancy": "storage",
+        "riskType": "low",
+        "permissible": 65,
+        "active": true
+    },
+    {
+        "id": 64,
+        "fromPlotArea": 300,
+        "toPlotArea": 500,
+        "occupancy": "storage",
+        "riskType": "low",
+        "permissible": 60,
+        "active": true
+    },
+    {
+        "id": 65,
+        "fromPlotArea": 500,
+        "toPlotArea": 1000,
+        "occupancy": "storage",
+        "riskType": "low",
+        "permissible": 50,
+        "active": true
+    },
+    {
+        "id": 66,
+        "fromPlotArea": 1000,
+        "toPlotArea": 999999,
+        "occupancy": "storage",
+        "riskType": "low",
+        "permissible": 40,
+        "active": true
+    },
+    {
+        "id": 67,
+        "fromPlotArea": 0,
+        "toPlotArea": 150,
+        "occupancy": "factories",
+        "riskType": "low",
+        "permissible": 90,
+        "active": true
+    },
+    {
+        "id": 68,
+        "fromPlotArea": 150,
+        "toPlotArea": 200,
+        "occupancy": "factories",
+        "riskType": "low",
+        "permissible": 70,
+        "active": true
+    },
+    {
+        "id": 69,
+        "fromPlotArea": 200,
+        "toPlotArea": 300,
+        "occupancy": "factories",
+        "riskType": "low",
+        "permissible": 65,
+        "active": true
+    },
+    {
+        "id": 70,
+        "fromPlotArea": 300,
+        "toPlotArea": 500,
+        "occupancy": "factories",
+        "riskType": "low",
+        "permissible": 60,
+        "active": true
+    },
+    {
+        "id": 71,
+        "fromPlotArea": 500,
+        "toPlotArea": 1000,
+        "occupancy": "factories",
+        "riskType": "low",
+        "permissible": 50,
+        "active": true
+    },
+    {
+        "id": 71,
+        "fromPlotArea": 1000,
+        "toPlotArea": 999999,
+        "occupancy": "factories",
+        "riskType": "low",
+        "permissible": 40,
+        "active": true
+    },
+
+        {
+        "id": 73,
+        "fromPlotArea": 0,
+        "toPlotArea": 150,
+        "occupancy": "assembly",
+        "riskType": "medium",
+        "permissible": 90,
+        "active": true
+    },
+    {
+        "id": 74,
+        "fromPlotArea": 150,
+        "toPlotArea": 200,
+        "occupancy": "assembly",
+        "riskType": "medium",
+        "permissible": 70,
+        "active": true
+    },
+    {
+        "id": 75,
+        "fromPlotArea": 200,
+        "toPlotArea": 300,
+        "occupancy": "assembly",
+        "riskType": "medium",
+        "permissible": 65,
+        "active": true
+    },
+    {
+        "id": 76,
+        "fromPlotArea": 300,
+        "toPlotArea": 500,
+        "occupancy": "assembly",
+        "riskType": "medium",
+        "permissible": 60,
+        "active": true
+    },
+    {
+        "id": 78,
+        "fromPlotArea": 500,
+        "toPlotArea": 1000,
+        "occupancy": "assembly",
+        "riskType": "medium",
+        "permissible": 50,
+        "active": true
+    },
+    {
+        "id": 79,
+        "fromPlotArea": 1000,
+        "toPlotArea": 999999,
+        "occupancy": "assembly",
+        "riskType": "medium",
+        "permissible": 40,
+        "active": true
+    },
+    {
+        "id": 80,
+        "fromPlotArea": 0,
+        "toPlotArea": 150,
+        "occupancy": "storage",
+        "riskType": "medium",
+        "permissible": 90,
+        "active": true
+    },
+    {
+        "id": 81,
+        "fromPlotArea": 150,
+        "toPlotArea": 200,
+        "occupancy": "storage",
+        "riskType": "medium",
+        "permissible": 70,
+        "active": true
+    },
+    {
+        "id": 82,
+        "fromPlotArea": 200,
+        "toPlotArea": 300,
+        "occupancy": "storage",
+        "riskType": "medium",
+        "permissible": 65,
+        "active": true
+    },
+    {
+        "id": 83,
+        "fromPlotArea": 300,
+        "toPlotArea": 500,
+        "occupancy": "storage",
+        "riskType": "medium",
+        "permissible": 60,
+        "active": true
+    },
+    {
+        "id": 84,
+        "fromPlotArea": 500,
+        "toPlotArea": 1000,
+        "occupancy": "storage",
+        "riskType": "medium",
+        "permissible": 50,
+        "active": true
+    },
+    {
+        "id": 85,
+        "fromPlotArea": 1000,
+        "toPlotArea": 999999,
+        "occupancy": "storage",
+        "riskType": "medium",
+        "permissible": 40,
+        "active": true
+    },
+    {
+        "id": 86,
+        "fromPlotArea": 0,
+        "toPlotArea": 150,
+        "occupancy": "factories",
+        "riskType": "medium",
+        "permissible": 90,
+        "active": true
+    },
+    {
+        "id": 87,
+        "fromPlotArea": 150,
+        "toPlotArea": 200,
+        "occupancy": "factories",
+        "riskType": "medium",
+        "permissible": 70,
+        "active": true
+    },
+    {
+        "id": 88,
+        "fromPlotArea": 200,
+        "toPlotArea": 300,
+        "occupancy": "factories",
+        "riskType": "medium",
+        "permissible": 65,
+        "active": true
+    },
+    {
+        "id": 89,
+        "fromPlotArea": 300,
+        "toPlotArea": 500,
+        "occupancy": "factories",
+        "riskType": "medium",
+        "permissible": 60,
+        "active": true
+    },
+    {
+        "id": 90,
+        "fromPlotArea": 500,
+        "toPlotArea": 1000,
+        "occupancy": "factories",
+        "riskType": "medium",
+        "permissible": 50,
+        "active": true
+    },
+    {
+        "id":  91,
+        "fromPlotArea": 1000,
+        "toPlotArea": 999999,
+        "occupancy": "factories",
+        "riskType": "medium",
+        "permissible": 40,
+        "active": true
+    },
+
+        {
+        "id": 92,
+        "fromPlotArea": 0,
+        "toPlotArea": 150,
+        "occupancy": "assembly",
+        "riskType": "high",
+        "permissible": 90,
+        "active": true
+    },
+    {
+        "id": 93,
+        "fromPlotArea": 150,
+        "toPlotArea": 200,
+        "occupancy": "assembly",
+        "riskType": "high",
+        "permissible": 70,
+        "active": true
+    },
+    {
+        "id": 94,
+        "fromPlotArea": 200,
+        "toPlotArea": 300,
+        "occupancy": "assembly",
+        "riskType": "high",
+        "permissible": 65,
+        "active": true
+    },
+    {
+        "id": 95,
+        "fromPlotArea": 300,
+        "toPlotArea": 500,
+        "occupancy": "assembly",
+        "riskType": "high",
+        "permissible": 60,
+        "active": true
+    },
+    {
+        "id": 96,
+        "fromPlotArea": 500,
+        "toPlotArea": 1000,
+        "occupancy": "assembly",
+        "riskType": "high",
+        "permissible": 50,
+        "active": true
+    },
+    {
+        "id": 97,
+        "fromPlotArea": 1000,
+        "toPlotArea": 999999,
+        "occupancy": "assembly",
+        "riskType": "high",
+        "permissible": 40,
+        "active": true
+    },
+    {
+        "id": 98,
+        "fromPlotArea": 0,
+        "toPlotArea": 150,
+        "occupancy": "storage",
+        "riskType": "high",
+        "permissible": 90,
+        "active": true
+    },
+    {
+        "id": 99,
+        "fromPlotArea": 150,
+        "toPlotArea": 200,
+        "occupancy": "storage",
+        "riskType": "high",
+        "permissible": 70,
+        "active": true
+    },
+    {
+        "id": 100,
+        "fromPlotArea": 200,
+        "toPlotArea": 300,
+        "occupancy": "storage",
+        "riskType": "high",
+        "permissible": 65,
+        "active": true
+    },
+    {
+        "id": 101,
+        "fromPlotArea": 300,
+        "toPlotArea": 500,
+        "occupancy": "storage",
+        "riskType": "high",
+        "permissible": 60,
+        "active": true
+    },
+    {
+        "id": 102,
+        "fromPlotArea": 500,
+        "toPlotArea": 1000,
+        "occupancy": "storage",
+        "riskType": "high",
+        "permissible": 50,
+        "active": true
+    },
+    {
+        "id": 103,
+        "fromPlotArea": 1000,
+        "toPlotArea": 999999,
+        "occupancy": "storage",
+        "riskType": "high",
+        "permissible": 40,
+        "active": true
+    },
+    {
+        "id": 104,
+        "fromPlotArea": 0,
+        "toPlotArea": 150,
+        "occupancy": "factories",
+        "riskType": "high",
+        "permissible": 90,
+        "active": true
+    },
+    {
+        "id": 105,
+        "fromPlotArea": 150,
+        "toPlotArea": 200,
+        "occupancy": "factories",
+        "riskType": "high",
+        "permissible": 70,
+        "active": true
+    },
+    {
+        "id": 106,
+        "fromPlotArea": 200,
+        "toPlotArea": 300,
+        "occupancy": "factories",
+        "riskType": "high",
+        "permissible": 65,
+        "active": true
+    },
+    {
+        "id": 107,
+        "fromPlotArea": 300,
+        "toPlotArea": 500,
+        "occupancy": "factories",
+        "riskType": "high",
+        "permissible": 60,
+        "active": true
+    },
+    {
+        "id": 108,
+        "fromPlotArea": 500,
+        "toPlotArea": 1000,
+        "occupancy": "factories",
+        "riskType": "high",
+        "permissible": 50,
+        "active": true
+    },
+    {
+        "id": 109,
+        "fromPlotArea": 1000,
+        "toPlotArea": 999999,
+        "occupancy": "factories",
+        "riskType": "high",
+        "permissible": 40,
+        "active": true
     }
 ]
 }

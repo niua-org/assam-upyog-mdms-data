@@ -22,6 +22,27 @@
             "waterTankCapacityArea": 30,
             "waterTankCapacityExpected": 300,
             "active": true
+        },
+        {
+            "id": 4,
+            "occupancy": "assembly",
+            "waterTankCapacityArea": 20,
+            "waterTankCapacityExpected": 200,
+            "active": true
+        },
+        {
+            "id": 5,
+            "occupancy": "storage",
+            "waterTankCapacityArea": 20,
+            "waterTankCapacityExpected": 200,
+            "active": true
+        },
+        {
+            "id": 6,
+            "occupancy": "factories",
+            "waterTankCapacityArea": 30,
+            "waterTankCapacityExpected": 300,
+            "active": true
         }
     ]
 }

@@ -25,6 +25,30 @@
         "permissibletwo": "1.2",
         "permissiblethree": "1.2",
         "active": true
+    },
+        {
+        "id": 4,
+        "occupancy": "assembly",
+        "permissibleone": "2.4",
+        "permissibletwo": "1.2",
+        "permissiblethree": "1.5",
+        "active": true
+    },
+    {
+        "id": 5,
+        "occupancy": "storage",
+        "permissibleone": "2.5",
+        "permissibletwo": "2.2",
+        "permissiblethree": "1.5",
+        "active": true
+    },
+    {
+        "id": 6,
+        "occupancy": "factories",
+        "permissibleone": "2.4",
+        "permissibletwo": "1.2",
+        "permissiblethree": "1.2",
+        "active": true
     }
 ]
 }

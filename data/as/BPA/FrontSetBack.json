@@ -619,6 +619,1077 @@
             "riskType": "high",
             "permissible": 2.0,
             "active": true
+        },
+        {
+            "id": 37,
+            "fromRoadWidth": 0,
+            "toRoadWidth": 6.6,
+            "fromBuildingHeight": 0,
+            "toBuildingHeight": 9.6,
+            "occupancy": "assembly",
+            "riskType": null,
+            "permissible": 3.6,
+            "active": true
+        },
+        {
+            "id": 38,
+            "fromRoadWidth": 0,
+            "toRoadWidth": 6.6,
+            "fromBuildingHeight": 9.6,
+            "toBuildingHeight": 15.6,
+            "occupancy": "assembly",
+            "riskType": null,
+            "permissible": 4.5,
+            "active": true
+        },
+        {
+            "id": 39,
+            "fromRoadWidth": 0,
+            "toRoadWidth": 6.6,
+            "fromBuildingHeight": 15.6,
+            "toBuildingHeight": 999,
+            "occupancy": "assembly",
+            "riskType": null,
+            "permissible": 6.0,
+            "active": true
+        },
+        {
+            "id": 40,
+            "fromRoadWidth": 6.6,
+            "toRoadWidth": 15.0,
+            "fromBuildingHeight": 0,
+            "toBuildingHeight": 9.6,
+            "occupancy": "assembly",
+            "riskType": null,
+            "permissible": 4.5,
+            "active": true
+        },
+        {
+            "id": 41,
+            "fromRoadWidth": 6.6,
+            "toRoadWidth": 15.0,
+            "fromBuildingHeight": 9.6,
+            "toBuildingHeight": 15.6,
+            "occupancy": "assembly",
+            "riskType": null,
+            "permissible": 6.0,
+            "active": true
+        },
+        {
+            "id": 42,
+            "fromRoadWidth": 6.6,
+            "toRoadWidth": 15.0,
+            "fromBuildingHeight": 15.6,
+            "toBuildingHeight": 999,
+            "occupancy": "assembly",
+            "riskType": null,
+            "permissible": 7.5,
+            "active": true
+        },
+        {
+            "id": 43,
+            "fromRoadWidth": 15.0,
+            "toRoadWidth": 24.0,
+            "fromBuildingHeight": 0,
+            "toBuildingHeight": 9.6,
+            "occupancy": "assembly",
+            "riskType": null,
+            "permissible": 6.0,
+            "active": true
+        },
+        {
+            "id": 44,
+            "fromRoadWidth": 15.0,
+            "toRoadWidth": 24.0,
+            "fromBuildingHeight": 9.6,
+            "toBuildingHeight": 15.6,
+            "occupancy": "assembly",
+            "riskType": null,
+            "permissible": 7.5,
+            "active": true
+        },
+        {
+            "id": 45,
+            "fromRoadWidth": 15.0,
+            "toRoadWidth": 24.0,
+            "fromBuildingHeight": 15.6,
+            "toBuildingHeight": 999,
+            "occupancy": "assembly",
+            "riskType": null,
+            "permissible": 9.0,
+            "active": true
+        },
+        {
+            "id": 46,
+            "fromRoadWidth": 24.0,
+            "toRoadWidth": 45.0,
+            "fromBuildingHeight": 0,
+            "toBuildingHeight": 9.6,
+            "occupancy": "assembly",
+            "riskType": null,
+            "permissible": 6.0,
+            "active": true
+        },
+        {
+            "id": 47,
+            "fromRoadWidth": 24.0,
+            "toRoadWidth": 45.0,
+            "fromBuildingHeight": 9.6,
+            "toBuildingHeight": 15.6,
+            "occupancy": "assembly",
+            "riskType": null,
+            "permissible": 9.0,
+            "active": true
+        },
+        {
+            "id": 48,
+            "fromRoadWidth": 24.0,
+            "toRoadWidth": 45.0,
+            "fromBuildingHeight": 15.6,
+            "toBuildingHeight": 999,
+            "occupancy": "assembly",
+            "riskType": null,
+            "permissible": 12.0,
+            "active": true
+        },
+        {
+            "id": 49,
+            "fromRoadWidth": 45.0,
+            "toRoadWidth": 999,
+            "fromBuildingHeight": 0,
+            "toBuildingHeight": 9.6,
+            "occupancy": "assembly",
+            "riskType": null,
+            "permissible": 7.5,
+            "active": true
+        },
+        {
+            "id": 50,
+            "fromRoadWidth": 45.0,
+            "toRoadWidth": 999,
+            "fromBuildingHeight": 9.6,
+            "toBuildingHeight": 15.6,
+            "occupancy": "assembly",
+            "riskType": null,
+            "permissible": 12.0,
+            "active": true
+        },
+        {
+            "id": 51,
+            "fromRoadWidth": 45.0,
+            "toRoadWidth": 999,
+            "fromBuildingHeight": 15.6,
+            "toBuildingHeight": 999,
+            "occupancy": "assembly",
+            "riskType": null,
+            "permissible": 15.0,
+            "active": true
+        },
+        {
+            "id": 52,
+            "fromPlotArea": 80,
+            "toPlotArea": 100,
+            "occupancy": "assembly",
+            "riskType": "low",
+            "permissible": 1.54,
+            "active": true
+        },
+        {
+            "id": 53,
+            "fromPlotArea": 100,
+            "toPlotArea": 150,
+            "occupancy": "assembly",
+            "riskType": "low",
+            "permissible": 1.8,
+            "active": true
+        },
+        {
+            "id": 54,
+            "fromPlotArea": 150,
+            "toPlotArea": 200,
+            "occupancy": "assembly",
+            "riskType": "low",
+            "permissible": 2.16,
+            "active": true
+        },
+        {
+            "id": 55,
+            "fromPlotArea": 200,
+            "toPlotArea": 999999,
+            "occupancy": "assembly",
+            "riskType": "low",
+            "permissible": 3.0,
+            "active": true
+        },
+        {
+            "id": 56,
+            "fromPlotArea": 6,
+            "toPlotArea": 100,
+            "occupancy": "assembly",
+            "riskType": "low",
+            "permissible": 1.54,
+            "active": true
+        },
+        {
+            "id": 57,
+            "fromPlotArea": 100,
+            "toPlotArea": 150,
+            "occupancy": "assembly",
+            "riskType": "low",
+            "permissible": 1.8,
+            "active": true
+        },
+        {
+            "id": 58,
+            "fromPlotArea": 150,
+            "toPlotArea": 200,
+            "occupancy": "assembly",
+            "riskType": "low",
+            "permissible": 2.16,
+            "active": true
+        },
+        {
+            "id": 59,
+            "fromPlotArea": 200,
+            "toPlotArea": 999999,
+            "occupancy": "assembly",
+            "riskType": "low",
+            "permissible": 3.0,
+            "active": true
+        },
+        {
+            "id": 60,
+            "fromPlotArea": 0,
+            "toPlotArea": 100,
+            "occupancy": "assembly",
+            "riskType": "medium",
+            "permissible": 1.3,
+            "active": true
+        },
+        {
+            "id": 61,
+            "fromPlotArea": 100,
+            "toPlotArea": 150,
+            "occupancy": "assembly",
+            "riskType": "medium",
+            "permissible": 1.5,
+            "active": true
+        },
+        {
+            "id": 62,
+            "fromPlotArea": 150,
+            "toPlotArea": 200,
+            "occupancy": "assembly",
+            "riskType": "medium",
+            "permissible": 1.8,
+            "active": true
+        },
+        {
+            "id": 63,
+            "fromPlotArea": 200,
+            "toPlotArea": 999999,
+            "occupancy": "assembly",
+            "riskType": "medium",
+            "permissible": 2.5,
+            "active": true
+        },
+        {
+            "id": 64,
+            "fromPlotArea": 80,
+            "toPlotArea": 100,
+            "occupancy": "assembly",
+            "riskType": "medium",
+            "permissible": 1.3,
+            "active": true
+        },
+        {
+            "id": 65,
+            "fromPlotArea": 100,
+            "toPlotArea": 150,
+            "occupancy": "assembly",
+            "riskType": "medium",
+            "permissible": 1.5,
+            "active": true
+        },
+        {
+            "id": 66,
+            "fromPlotArea": 150,
+            "toPlotArea": 200,
+            "occupancy": "assembly",
+            "riskType": "medium",
+            "permissible": 1.8,
+            "active": true
+        },
+        {
+            "id": 67,
+            "fromPlotArea": 200,
+            "toPlotArea": 999999,
+            "occupancy": "assembly",
+            "riskType": "medium",
+            "permissible": 2.5,
+            "active": true
+        },
+        {
+            "id": 68,
+            "fromPlotArea": 6,
+            "toPlotArea": 100,
+            "occupancy": "assembly",
+            "riskType": "medium",
+            "permissible": 1.3,
+            "active": true
+        },
+        {
+            "id": 69,
+            "fromPlotArea": 100,
+            "toPlotArea": 150,
+            "occupancy": "assembly",
+            "riskType": "medium",
+            "permissible": 1.5,
+            "active": true
+        },
+        {
+            "id": 70,
+            "fromPlotArea": 150,
+            "toPlotArea": 200,
+            "occupancy": "assembly",
+            "riskType": "medium",
+            "permissible": 1.8,
+            "active": true
+        },
+        {
+            "id": 71,
+            "fromPlotArea": 200,
+            "toPlotArea": 999999,
+            "occupancy": "assembly",
+            "riskType": "medium",
+            "permissible": 2.5,
+            "active": true
+        },
+        {
+            "id": 72,
+            "fromPlotArea": 0,
+            "toPlotArea": 100,
+            "occupancy": "assembly",
+            "riskType": "high",
+            "permissible": 1.1,
+            "active": true
+        },
+        {
+            "id": 73,
+            "fromPlotArea": 100,
+            "toPlotArea": 150,
+            "occupancy": "assembly",
+            "riskType": "high",
+            "permissible": 1.3,
+            "active": true
+        },
+        {
+            "id": 74,
+            "fromPlotArea": 150,
+            "toPlotArea": 200,
+            "occupancy": "assembly",
+            "riskType": "high",
+            "permissible": 1.5,
+            "active": true
+        },
+        {
+            "id": 75,
+            "fromPlotArea": 200,
+            "toPlotArea": 999999,
+            "occupancy": "assembly",
+            "riskType": "high",
+            "permissible": 2.0,
+            "active": true
+        },
+        {
+            "id": 76,
+            "fromPlotArea": 80,
+            "toPlotArea": 100,
+            "occupancy": "assembly",
+            "riskType": "high",
+            "permissible": 1.1,
+            "active": true
+        },
+        {
+            "id": 77,
+            "fromPlotArea": 100,
+            "toPlotArea": 150,
+            "occupancy": "assembly",
+            "riskType": "high",
+            "permissible": 1.3,
+            "active": true
+        },
+        {
+            "id": 78,
+            "fromPlotArea": 150,
+            "toPlotArea": 200,
+            "occupancy": "assembly",
+            "riskType": "high",
+            "permissible": 1.5,
+            "active": true
+        },
+        {
+            "id": 79,
+            "fromPlotArea": 200,
+            "toPlotArea": 999999,
+            "occupancy": "assembly",
+            "riskType": "high",
+            "permissible": 2.0,
+            "active": true
+        },
+        {
+            "id": 80,
+            "fromPlotArea": 6,
+            "toPlotArea": 100,
+            "occupancy": "assembly",
+            "riskType": "high",
+            "permissible": 1.1,
+            "active": true
+        },
+        {
+            "id": 81,
+            "fromPlotArea": 100,
+            "toPlotArea": 150,
+            "occupancy": "assembly",
+            "riskType": "high",
+            "permissible": 1.3,
+            "active": true
+        },
+        {
+            "id": 82,
+            "fromPlotArea": 150,
+            "toPlotArea": 200,
+            "occupancy": "assembly",
+            "riskType": "high",
+            "permissible": 1.5,
+            "active": true
+        },
+        {
+            "id": 83,
+            "fromPlotArea": 200,
+            "toPlotArea": 999999,
+            "occupancy": "assembly",
+            "riskType": "high",
+            "permissible": 2.0,
+            "active": true
+        },
+        {
+            "id": 84,
+            "fromRoadWidth": 0,
+            "toRoadWidth": 6.6,
+            "fromBuildingHeight": 0,
+            "toBuildingHeight": 9.6,
+            "occupancy": "storage",
+            "riskType": null,
+            "permissible": 3.6,
+            "active": true
+        },
+        {
+            "id": 85,
+            "fromRoadWidth": 0,
+            "toRoadWidth": 6.6,
+            "fromBuildingHeight": 9.6,
+            "toBuildingHeight": 15.6,
+            "occupancy": "storage",
+            "riskType": null,
+            "permissible": 4.5,
+            "active": true
+        },
+        {
+            "id": 86,
+            "fromRoadWidth": 0,
+            "toRoadWidth": 6.6,
+            "fromBuildingHeight": 15.6,
+            "toBuildingHeight": 999,
+            "occupancy": "storage",
+            "riskType": null,
+            "permissible": 6.0,
+            "active": true
+        },
+        {
+            "id": 87,
+            "fromRoadWidth": 6.6,
+            "toRoadWidth": 15.0,
+            "fromBuildingHeight": 0,
+            "toBuildingHeight": 9.6,
+            "occupancy": "storage",
+            "riskType": null,
+            "permissible": 4.5,
+            "active": true
+        },
+        {
+            "id": 88,
+            "fromRoadWidth": 6.6,
+            "toRoadWidth": 15.0,
+            "fromBuildingHeight": 9.6,
+            "toBuildingHeight": 15.6,
+            "occupancy": "storage",
+            "riskType": null,
+            "permissible": 6.0,
+            "active": true
+        },
+        {
+            "id": 89,
+            "fromRoadWidth": 6.6,
+            "toRoadWidth": 15.0,
+            "fromBuildingHeight": 15.6,
+            "toBuildingHeight": 999,
+            "occupancy": "storage",
+            "riskType": null,
+            "permissible": 7.5,
+            "active": true
+        },
+        {
+            "id": 90,
+            "fromRoadWidth": 15.0,
+            "toRoadWidth": 24.0,
+            "fromBuildingHeight": 0,
+            "toBuildingHeight": 9.6,
+            "occupancy": "storage",
+            "riskType": null,
+            "permissible": 6.0,
+            "active": true
+        },
+        {
+            "id": 91,
+            "fromRoadWidth": 15.0,
+            "toRoadWidth": 24.0,
+            "fromBuildingHeight": 9.6,
+            "toBuildingHeight": 15.6,
+            "occupancy": "storage",
+            "riskType": null,
+            "permissible": 7.5,
+            "active": true
+        },
+        {
+            "id": 92,
+            "fromRoadWidth": 15.0,
+            "toRoadWidth": 24.0,
+            "fromBuildingHeight": 15.6,
+            "toBuildingHeight": 999,
+            "occupancy": "storage",
+            "riskType": null,
+            "permissible": 9.0,
+            "active": true
+        },
+        {
+            "id": 93,
+            "fromRoadWidth": 24.0,
+            "toRoadWidth": 45.0,
+            "fromBuildingHeight": 0,
+            "toBuildingHeight": 9.6,
+            "occupancy": "storage",
+            "riskType": null,
+            "permissible": 6.0,
+            "active": true
+        },
+        {
+            "id": 94,
+            "fromRoadWidth": 24.0,
+            "toRoadWidth": 45.0,
+            "fromBuildingHeight": 9.6,
+            "toBuildingHeight": 15.6,
+            "occupancy": "storage",
+            "riskType": null,
+            "permissible": 9.0,
+            "active": true
+        },
+        {
+            "id": 95,
+            "fromRoadWidth": 24.0,
+            "toRoadWidth": 45.0,
+            "fromBuildingHeight": 15.6,
+            "toBuildingHeight": 999,
+            "occupancy": "storage",
+            "riskType": null,
+            "permissible": 12.0,
+            "active": true
+        },
+        {
+            "id": 96,
+            "fromRoadWidth": 45.0,
+            "toRoadWidth": 999,
+            "fromBuildingHeight": 0,
+            "toBuildingHeight": 9.6,
+            "occupancy": "storage",
+            "riskType": null,
+            "permissible": 7.5,
+            "active": true
+        },
+        {
+            "id": 97,
+            "fromRoadWidth": 45.0,
+            "toRoadWidth": 999,
+            "fromBuildingHeight": 9.6,
+            "toBuildingHeight": 15.6,
+            "occupancy": "storage",
+            "riskType": null,
+            "permissible": 12.0,
+            "active": true
+        },
+        {
+            "id": 98,
+            "fromRoadWidth": 45.0,
+            "toRoadWidth": 999,
+            "fromBuildingHeight": 15.6,
+            "toBuildingHeight": 999,
+            "occupancy": "storage",
+            "riskType": null,
+            "permissible": 15.0,
+            "active": true
+        },
+        {
+            "id": 99,
+            "fromPlotArea": 80,
+            "toPlotArea": 100,
+            "occupancy": "storage",
+            "riskType": "low",
+            "permissible": 1.54,
+            "active": true
+        },
+        {
+            "id": 100,
+            "fromPlotArea": 100,
+            "toPlotArea": 150,
+            "occupancy": "storage",
+            "riskType": "low",
+            "permissible": 1.8,
+            "active": true
+        },
+        {
+            "id": 101,
+            "fromPlotArea": 150,
+            "toPlotArea": 200,
+            "occupancy": "storage",
+            "riskType": "low",
+            "permissible": 2.16,
+            "active": true
+        },
+        {
+            "id": 102,
+            "fromPlotArea": 200,
+            "toPlotArea": 999999,
+            "occupancy": "storage",
+            "riskType": "low",
+            "permissible": 3.0,
+            "active": true
+        },
+        {
+            "id": 103,
+            "fromPlotArea": 6,
+            "toPlotArea": 100,
+            "occupancy": "storage",
+            "riskType": "low",
+            "permissible": 1.54,
+            "active": true
+        },
+        {
+            "id": 104,
+            "fromPlotArea": 100,
+            "toPlotArea": 150,
+            "occupancy": "storage",
+            "riskType": "low",
+            "permissible": 1.8,
+            "active": true
+        },
+        {
+            "id": 105,
+            "fromPlotArea": 150,
+            "toPlotArea": 200,
+            "occupancy": "storage",
+            "riskType": "low",
+            "permissible": 2.16,
+            "active": true
+        },
+        {
+            "id": 106,
+            "fromPlotArea": 200,
+            "toPlotArea": 999999,
+            "occupancy": "storage",
+            "riskType": "low",
+            "permissible": 3.0,
+            "active": true
+        },
+        {
+            "id": 107,
+            "fromPlotArea": 0,
+            "toPlotArea": 100,
+            "occupancy": "storage",
+            "riskType": "medium",
+            "permissible": 1.3,
+            "active": true
+        },
+        {
+            "id": 108,
+            "fromPlotArea": 100,
+            "toPlotArea": 150,
+            "occupancy": "storage",
+            "riskType": "medium",
+            "permissible": 1.5,
+            "active": true
+        },
+        {
+            "id": 109,
+            "fromPlotArea": 150,
+            "toPlotArea": 200,
+            "occupancy": "storage",
+            "riskType": "medium",
+            "permissible": 1.8,
+            "active": true
+        },
+        {
+            "id": 110,
+            "fromPlotArea": 200,
+            "toPlotArea": 999999,
+            "occupancy": "storage",
+            "riskType": "medium",
+            "permissible": 2.5,
+            "active": true
+        },
+        {
+            "id": 111,
+            "fromPlotArea": 80,
+            "toPlotArea": 100,
+            "occupancy": "storage",
+            "riskType": "medium",
+            "permissible": 1.3,
+            "active": true
+        },
+        {
+            "id": 112,
+            "fromPlotArea": 100,
+            "toPlotArea": 150,
+            "occupancy": "storage",
+            "riskType": "medium",
+            "permissible": 1.5,
+            "active": true
+        },
+        {
+            "id": 113,
+            "fromPlotArea": 150,
+            "toPlotArea": 200,
+            "occupancy": "storage",
+            "riskType": "medium",
+            "permissible": 1.8,
+            "active": true
+        },
+        {
+            "id": 114,
+            "fromPlotArea": 200,
+            "toPlotArea": 999999,
+            "occupancy": "storage",
+            "riskType": "medium",
+            "permissible": 2.5,
+            "active": true
+        },
+        {
+            "id": 115,
+            "fromPlotArea": 6,
+            "toPlotArea": 100,
+            "occupancy": "storage",
+            "riskType": "medium",
+            "permissible": 1.3,
+            "active": true
+        },
+        {
+            "id": 116,
+            "fromPlotArea": 100,
+            "toPlotArea": 150,
+            "occupancy": "storage",
+            "riskType": "medium",
+            "permissible": 1.5,
+            "active": true
+        },
+        {
+            "id": 117,
+            "fromPlotArea": 150,
+            "toPlotArea": 200,
+            "occupancy": "storage",
+            "riskType": "medium",
+            "permissible": 1.8,
+            "active": true
+        },
+        {
+            "id": 118,
+            "fromPlotArea": 200,
+            "toPlotArea": 999999,
+            "occupancy": "storage",
+            "riskType": "medium",
+            "permissible": 2.5,
+            "active": true
+        },
+        {
+            "id": 119,
+            "fromPlotArea": 0,
+            "toPlotArea": 100,
+            "occupancy": "storage",
+            "riskType": "high",
+            "permissible": 1.1,
+            "active": true
+        },
+        {
+            "id": 120,
+            "fromPlotArea": 100,
+            "toPlotArea": 150,
+            "occupancy": "storage",
+            "riskType": "high",
+            "permissible": 1.3,
+            "active": true
+        },
+        {
+            "id": 121,
+            "fromPlotArea": 150,
+            "toPlotArea": 200,
+            "occupancy": "storage",
+            "riskType": "high",
+            "permissible": 1.5,
+            "active": true
+        },
+        {
+            "id": 122,
+            "fromPlotArea": 200,
+            "toPlotArea": 999999,
+            "occupancy": "storage",
+            "riskType": "high",
+            "permissible": 2.0,
+            "active": true
+        },
+        {
+            "id": 123,
+            "fromPlotArea": 80,
+            "toPlotArea": 100,
+            "occupancy": "storage",
+            "riskType": "high",
+            "permissible": 1.1,
+            "active": true
+        },
+        {
+            "id": 124,
+            "fromPlotArea": 100,
+            "toPlotArea": 150,
+            "occupancy": "storage",
+            "riskType": "high",
+            "permissible": 1.3,
+            "active": true
+        },
+        {
+            "id": 125,
+            "fromPlotArea": 150,
+            "toPlotArea": 200,
+            "occupancy": "storage",
+            "riskType": "high",
+            "permissible": 1.5,
+            "active": true
+        },
+        {
+            "id": 126,
+            "fromPlotArea": 200,
+            "toPlotArea": 999999,
+            "occupancy": "storage",
+            "riskType": "high",
+            "permissible": 2.0,
+            "active": true
+        },
+        {
+            "id": 127,
+            "fromPlotArea": 6,
+            "toPlotArea": 100,
+            "occupancy": "storage",
+            "riskType": "high",
+            "permissible": 1.1,
+            "active": true
+        },
+        {
+            "id": 128,
+            "fromPlotArea": 100,
+            "toPlotArea": 150,
+            "occupancy": "storage",
+            "riskType": "high",
+            "permissible": 1.3,
+            "active": true
+        },
+        {
+            "id": 129,
+            "fromPlotArea": 150,
+            "toPlotArea": 200,
+            "occupancy": "storage",
+            "riskType": "high",
+            "permissible": 1.5,
+            "active": true
+        },
+        {
+            "id": 130,
+            "fromPlotArea": 200,
+            "toPlotArea": 999999,
+            "occupancy": "storage",
+            "riskType": "high",
+            "permissible": 2.0,
+            "active": true
+        },
+        {
+            "id": 131,
+            "fromRoadWidth": 0,
+            "toRoadWidth": 6.6,
+            "fromBuildingHeight": 0,
+            "toBuildingHeight": 9.6,
+            "occupancy": "factories",
+            "riskType": null,
+            "permissible": 3.6,
+            "active": true
+        },
+        {
+            "id": 132,
+            "fromRoadWidth": 0,
+            "toRoadWidth": 6.6,
+            "fromBuildingHeight": 9.6,
+            "toBuildingHeight": 15.6,
+            "occupancy": "factories",
+            "riskType": null,
+            "permissible": 4.5,
+            "active": true
+        },
+        {
+            "id": 133,
+            "fromRoadWidth": 0,
+            "toRoadWidth": 6.6,
+            "fromBuildingHeight": 15.6,
+            "toBuildingHeight": 999,
+            "occupancy": "factories",
+            "riskType": null,
+            "permissible": 6.0,
+            "active": true
+        },
+        {
+            "id": 134,
+            "fromRoadWidth": 6.6,
+            "toRoadWidth": 15.0,
+            "fromBuildingHeight": 0,
+            "toBuildingHeight": 9.6,
+            "occupancy": "factories",
+            "riskType": null,
+            "permissible": 4.5,
+            "active": true
+        },
+        {
+            "id": 135,
+            "fromRoadWidth": 6.6,
+            "toRoadWidth": 15.0,
+            "fromBuildingHeight": 9.6,
+            "toBuildingHeight": 15.6,
+            "occupancy": "factories",
+            "riskType": null,
+            "permissible": 6.0,
+            "active": true
+        },
+        {
+            "id": 136,
+            "fromRoadWidth": 6.6,
+            "toRoadWidth": 15.0,
+            "fromBuildingHeight": 15.6,
+            "toBuildingHeight": 999,
+            "occupancy": "factories",
+            "riskType": null,
+            "permissible": 7.5,
+            "active": true
+        },
+        {
+            "id": 137,
+            "fromRoadWidth": 15.0,
+            "toRoadWidth": 24.0,
+            "fromBuildingHeight": 0,
+            "toBuildingHeight": 9.6,
+            "occupancy": "factories",
+            "riskType": null,
+            "permissible": 6.0,
+            "active": true
+        },
+        {
+            "id": 138,
+            "fromRoadWidth": 15.0,
+            "toRoadWidth": 24.0,
+            "fromBuildingHeight": 9.6,
+            "toBuildingHeight": 15.6,
+            "occupancy": "factories",
+            "riskType": null,
+            "permissible": 7.5,
+            "active": true
+        },
+        {
+            "id": 139,
+            "fromRoadWidth": 15.0,
+            "toRoadWidth": 24.0,
+            "fromBuildingHeight": 15.6,
+            "toBuildingHeight": 999,
+            "occupancy": "factories",
+            "riskType": null,
+            "permissible": 9.0,
+            "active": true
+        },
+        {
+            "id": 140,
+            "fromRoadWidth": 24.0,
+            "toRoadWidth": 45.0,
+            "fromBuildingHeight": 0,
+            "toBuildingHeight": 9.6,
+            "occupancy": "factories",
+            "riskType": null,
+            "permissible": 6.0,
+            "active": true
+        },
+        {
+            "id": 141,
+            "fromRoadWidth": 24.0,
+            "toRoadWidth": 45.0,
+            "fromBuildingHeight": 9.6,
+            "toBuildingHeight": 15.6,
+            "occupancy": "factories",
+            "riskType": null,
+            "permissible": 9.0,
+            "active": true
+        },
+        {
+            "id": 142,
+            "fromRoadWidth": 24.0,
+            "toRoadWidth": 45.0,
+            "fromBuildingHeight": 15.6,
+            "toBuildingHeight": 999,
+            "occupancy": "factories",
+            "riskType": null,
+            "permissible": 12.0,
+            "active": true
+        },
+        {
+            "id": 143,
+            "fromRoadWidth": 45.0,
+            "toRoadWidth": 999,
+            "fromBuildingHeight": 0,
+            "toBuildingHeight": 9.6,
+            "occupancy": "factories",
+            "riskType": null,
+            "permissible": 7.5,
+            "active": true
+        },
+        {
+            "id": 144,
+            "fromRoadWidth": 45.0,
+            "toRoadWidth": 999,
+            "fromBuildingHeight": 9.6,
+            "toBuildingHeight": 15.6,
+            "occupancy": "factories",
+            "riskType": null,
+            "permissible": 12.0,
+            "active": true
+        },
+        {
+            "id": 145,
+            "fromRoadWidth": 45.0,
+            "toRoadWidth": 999,
+            "fromBuildingHeight": 15.6,
+            "toBuildingHeight": 999,
+            "occupancy": "factories",
+            "riskType": null,
+            "permissible": 15.0,
+            "active": true
         }
     ]
     

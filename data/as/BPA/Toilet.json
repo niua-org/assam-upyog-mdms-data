@@ -28,6 +28,33 @@
             "minToiletHeight": 3,
             "minToiletVentilation": 0.3,
             "active": true
+        },
+        {
+            "id": 4,
+            "occupancy": "assembly",
+            "minToiletArea": 2,
+            "minToiletWidth": 1.2,
+            "minToiletHeight": 3,
+            "minToiletVentilation": 0.3,
+            "active": true
+        },
+        {
+            "id": 5,
+            "occupancy": "storage",
+            "minToiletArea": 2,
+            "minToiletWidth": 1.2,
+            "minToiletHeight": 3,
+            "minToiletVentilation": 0.3,
+            "active": true
+        },
+        {
+            "id": 6,
+            "occupancy": "factories",
+            "minToiletArea": 1.8,
+            "minToiletWidth": 1.2,
+            "minToiletHeight": 3,
+            "minToiletVentilation": 0.3,
+            "active": true
         }
     ]
 }

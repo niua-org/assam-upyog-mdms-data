@@ -28,6 +28,33 @@
         "monumentDistance_maxHeightofbuilding": "7",
         "monumentDistance_maxbuildingheightblock": "1",
         "active": true
+    },
+    {
+        "id": 4,
+        "occupancy": "assembly",
+        "monumentDistance_distanceOne": "300",
+        "monumentDistance_minDistanceTwo": "100",
+        "monumentDistance_maxHeightofbuilding": "7",
+        "monumentDistance_maxbuildingheightblock": "1",
+        "active": true
+    },
+        {
+        "id": 5,
+        "occupancy": "storage",
+        "monumentDistance_distanceOne": "34",
+        "monumentDistance_minDistanceTwo": "123",
+        "monumentDistance_maxHeightofbuilding": "7",
+        "monumentDistance_maxbuildingheightblock": "1",
+        "active": true
+    },
+            {
+        "id": 6,
+        "occupancy": "factories",
+        "monumentDistance_distanceOne": "45",
+        "monumentDistance_minDistanceTwo": "34",
+        "monumentDistance_maxHeightofbuilding": "7",
+        "monumentDistance_maxbuildingheightblock": "1",
+        "active": true
     }
 ]
 }

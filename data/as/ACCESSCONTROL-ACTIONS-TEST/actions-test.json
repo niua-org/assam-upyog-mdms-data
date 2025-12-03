@@ -21549,6 +21549,17 @@
       "serviceCode": "BPA",
       "code": "null",
       "path": ""
+   },
+   {
+      "id": 3083,
+      "name": "Get Aviation Noc Applications",
+      "url": "/noc-services/createdNoc",
+      "displayName": "Aviation Noc Applications",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "NOC",
+      "code": "null",
+      "path": ""
    }
   ]
 }

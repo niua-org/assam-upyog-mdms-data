@@ -31,6 +31,36 @@
             "minMezzanineHeight": "2.2",
             "maxMezzanineHeight": "2.7",
             "active": true
+        },
+        {
+            "id": 4,
+            "occupancy": "assembly",
+            "mezzanineArea": "9.5",
+            "mezzanineHeight": "2.2",
+            "mezzanineBuiltUpArea": "3",
+            "minMezzanineHeight": "2.2",
+            "maxMezzanineHeight": "2.7",
+            "active": true
+        },
+        {
+            "id": 5,
+            "occupancy": "storage",
+            "mezzanineArea": "9",
+            "mezzanineHeight": "2.2",
+            "mezzanineBuiltUpArea": "3",
+            "minMezzanineHeight": "2.2",
+            "maxMezzanineHeight": "2.7",
+            "active": true
+        },
+        {
+            "id": 6,
+            "occupancy": "factories",
+            "mezzanineArea": "5",
+            "mezzanineHeight": "2.2",
+            "mezzanineBuiltUpArea": "3",
+            "minMezzanineHeight": "2.2",
+            "maxMezzanineHeight": "2.7",
+            "active": true
         }
     ]
 

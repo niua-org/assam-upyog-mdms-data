@@ -25,6 +25,30 @@
             "storeRoomValueTwo": 5.00,
             "storeRoomValueThree": 4.25,
             "active": true
+        },
+        {
+            "id": 4,
+            "occupancy": "assembly",
+            "storeRoomValueOne": 3.0,
+            "storeRoomValueTwo": 4.00,
+            "storeRoomValueThree": 3.50,
+            "active": true
+        },
+        {
+            "id": 5,
+            "occupancy": "storage",
+            "storeRoomValueOne": 3.0,
+            "storeRoomValueTwo": 4.00,
+            "storeRoomValueThree": 3.50,
+            "active": true
+        },
+        {
+            "id": 6,
+            "occupancy": "factories",
+            "storeRoomValueOne": 4.0,
+            "storeRoomValueTwo": 5.00,
+            "storeRoomValueThree": 4.25,
+            "active": true
         }
     ]
 }

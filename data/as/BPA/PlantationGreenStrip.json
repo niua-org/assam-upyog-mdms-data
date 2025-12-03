@@ -28,6 +28,33 @@
             "minPercentage": 10,
             "maxPercentage": 15,
             "active": true
+        },
+        {
+            "id": 4,
+            "occupancy": "assembly",
+            "plantationGreenStripPlanValue": 300,
+            "plantationGreenStripMinWidth": 0.6,
+            "minPercentage": 10,
+            "maxPercentage": 15,
+            "active": true
+        },
+        {
+            "id": 5,
+            "occupancy": "storage",
+            "plantationGreenStripPlanValue": 300,
+            "plantationGreenStripMinWidth": 0.6,
+            "minPercentage": 10,
+            "maxPercentage": 15,
+            "active": true
+        },
+        {
+            "id": 6,
+            "occupancy": "factories",
+            "plantationGreenStripPlanValue": 150,
+            "plantationGreenStripMinWidth": 1.0,
+            "minPercentage": 10,
+            "maxPercentage": 15,
+            "active": true
         }
     ]
 }

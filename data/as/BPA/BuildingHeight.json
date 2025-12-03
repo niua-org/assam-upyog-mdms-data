@@ -22,6 +22,27 @@
         "buildingHeightMaximumDistancetoRoad": "1",
         "buildingHeightMaxBuildingHeight": "10",
         "active": true
+    },
+    {
+        "id": 4,
+        "occupancy": "assembly",
+        "buildingHeightMaximumDistancetoRoad": "12",
+        "buildingHeightMaxBuildingHeight": "10",
+        "active": true
+    },
+        {
+        "id": 5,
+        "occupancy": "storage",
+        "buildingHeightMaximumDistancetoRoad": "32",
+        "buildingHeightMaxBuildingHeight": "10",
+        "active": true
+    },
+        {
+        "id": 6,
+        "occupancy": "factories",
+        "buildingHeightMaximumDistancetoRoad": "1",
+        "buildingHeightMaxBuildingHeight": "10",
+        "active": true
     }
 ]
 }

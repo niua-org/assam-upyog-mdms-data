@@ -25,6 +25,30 @@
             "spiralStairExpectedDiameter": 1.50,
             "spiralStairRadius": 3,
             "active": true
+        },
+        {
+            "id": 4,
+            "occupancy": "assembly",
+            "spiralStairValue": 12,
+            "spiralStairExpectedDiameter": 1.50,
+            "spiralStairRadius": 2.5,
+            "active": true
+        },
+        {
+            "id": 5,
+            "occupancy": "storage",
+            "spiralStairValue": 12,
+            "spiralStairExpectedDiameter": 1.50,
+            "spiralStairRadius": 2.5,
+            "active": true
+        },
+        {
+            "id": 6,
+            "occupancy": "factories",
+            "spiralStairValue": 15,
+            "spiralStairExpectedDiameter": 1.50,
+            "spiralStairRadius": 3,
+            "active": true
         }
     ]
 }

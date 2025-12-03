@@ -25,6 +25,24 @@
             "occupancy": "industrial",
             "permissible": 1.2,
             "active": true
+        },
+        {
+            "id": 5,
+            "occupancy": "assembly",
+            "permissible": 1.2,
+            "active": true
+        },
+        {
+            "id": 6,
+            "occupancy": "storage",
+            "permissible": 0.90,
+            "active": true
+        },
+        {
+            "id": 7,
+            "occupancy": "factories",
+            "permissible": 1.2,
+            "active": true
         }
        
     ]

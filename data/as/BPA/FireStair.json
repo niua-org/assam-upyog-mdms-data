@@ -25,6 +25,30 @@
         "fireStairMinimumWidth": "1",
         "fireStairRequiredTread": "0.25",
         "active": true
+    },
+    {
+        "id": 4,
+        "occupancy": "assembly",
+        "fireStairExpectedNoofRise": "12",
+        "fireStairMinimumWidth": "1",
+        "fireStairRequiredTread": "0.25",
+        "active": true
+    },
+        {
+        "id": 5,
+        "occupancy": "storage",
+        "fireStairExpectedNoofRise": "1",
+        "fireStairMinimumWidth": "1",
+        "fireStairRequiredTread": "0.25",
+        "active": true
+    },
+        {
+        "id": 6,
+        "occupancy": "factories",
+        "fireStairExpectedNoofRise": "2",
+        "fireStairMinimumWidth": "1",
+        "fireStairRequiredTread": "0.25",
+        "active": true
     }
 ]
 }

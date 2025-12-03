@@ -22,6 +22,27 @@
             "minDoorWidth": 0.9,
             "minDoorHeight": 2,
             "active": true
+        },
+        {
+            "id": 4,
+            "occupancy": "assembly",
+            "minDoorWidth": 0.9,
+            "minDoorHeight": 2,
+            "active": true
+        },
+        {
+            "id": 5,
+            "occupancy": "storage",
+            "minDoorWidth": 0.9,
+            "minDoorHeight": 2,
+            "active": true
+        },
+        {
+            "id": 6,
+            "occupancy": "factories",
+            "minDoorWidth": 0.9,
+            "minDoorHeight": 2,
+            "active": true
         }
     ]
 }

@@ -41,6 +41,46 @@
             "passageServiceValueFhigh": 2.1,
             "passageServicePassageLength": 15.0,
             "active": true
+        },
+        {
+            "id": 4,
+            "occupancy": "assembly",
+            "passageServiceValueOne": 1.2,
+            "passageServiceValueA": 1.0,
+            "passageServiceValueBD": 2.5,
+            "passageServiceValueDefault": 1.5,
+            "passageServiceValueFH": 1.5,
+            "passageServiceValueFlow": 1.8,
+            "passageServiceValueFhigh": 2.1,
+            "passageServicePassageLength": 15.0,
+
+            "active": true
+        },
+        {
+            "id": 5,
+            "occupancy": "storage",
+            "passageServiceValueOne": 1.5,
+            "passageServiceValueA": 1.0,
+            "passageServiceValueBD": 2.5,
+            "passageServiceValueDefault": 1.5,
+            "passageServiceValueFH": 1.5,
+            "passageServiceValueFlow": 1.8,
+            "passageServiceValueFhigh": 2.1,
+            "passageServicePassageLength": 15.0,
+            "active": true
+        },
+        {
+            "id": 6,
+            "occupancy": "factories",
+            "passageServiceValueOne": 1.8,
+            "passageServiceValueA": 1.0,
+            "passageServiceValueBD": 2.5,
+            "passageServiceValueDefault": 1.5,
+            "passageServiceValueFH": 1.5,
+            "passageServiceValueFlow": 1.8,
+            "passageServiceValueFhigh": 2.1,
+            "passageServicePassageLength": 15.0,
+            "active": true
         }
     ]
 }

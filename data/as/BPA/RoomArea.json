@@ -46,6 +46,51 @@
             "commercialGFheight": 3,
             "commercialACroomHeight": 2.4,
             "active": true
+        },
+        {
+            "id": 4,
+            "occupancy": "assembly",
+            "roomArea2": 9.2,
+            "roomArea1": 9.0,
+            "nonInhabitationalRoomArea": 9.0,
+            "roomWidth2": 2.4,
+            "roomWidth1": 2.1,
+            "roomHeight": 3.0,
+            "acRoomHeight": 2.5,
+            "hillyAreaRoomHeight": 2.4,
+            "commercialGFheight": 3,
+            "commercialACroomHeight": 2.4,
+            "active": true
+        },
+        {
+            "id": 5,
+            "occupancy": "storage",
+            "roomArea2": 12.0,
+            "roomArea1": 10.0,
+            "roomWidth2": 3.0,
+            "roomWidth1": 2.5,            
+            "nonInhabitationalRoomArea": 9.0,
+            "roomHeight": 3.0,
+            "acRoomHeight": 2.5,
+            "hillyAreaRoomHeight": 2.4,
+            "commercialGFheight": 3,
+            "commercialACroomHeight": 2.4,
+            "active": true
+        },
+        {
+            "id": 6,
+            "occupancy": "factories",
+            "roomArea2": 15.0,
+            "roomArea1": 12.0,
+            "roomWidth2": 3.5,
+            "roomWidth1": 3.0,            
+            "nonInhabitationalRoomArea": 9.0,
+            "roomHeight": 3.0,
+            "acRoomHeight": 2.5,
+            "hillyAreaRoomHeight": 2.4,
+            "commercialGFheight": 3,
+            "commercialACroomHeight": 2.4,
+            "active": true
         }
     ]
 }

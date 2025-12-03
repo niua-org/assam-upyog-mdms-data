@@ -43,6 +43,48 @@
             "commonRoomPercent": 0.5,
             "laundryRecreationPercent": 0.10,
             "active": true
+        },
+        {
+            "id": 4,
+            "state": "as",
+            "city": null,
+            "zone": null,
+            "subZone": null,
+            "riskType": null,
+            "occupancy": "assembly",
+            "ventilationValueOne": 6,
+            "ventilationValueTwo": 0.3,
+            "commonRoomPercent": 0.5,
+            "laundryRecreationPercent": 0.10,
+            "active": true
+        },
+        {
+            "id": 5,
+            "state": "as",
+            "city": null,
+            "zone": null,
+            "subZone": null,
+            "riskType": null,
+            "occupancy": "storage",
+            "ventilationValueOne": 6,
+            "ventilationValueTwo": 0.3,
+            "commonRoomPercent": 0.5,
+            "laundryRecreationPercent": 0.10,
+            "active": true
+        },
+        {
+            "id": 6,
+            "state": "as",
+            "city": null,
+            "zone": null,
+            "subZone": null,
+            "riskType": null,
+            "occupancy": "factories",
+            "ventilationValueOne": 6,
+            "ventilationValueTwo": 0.3,
+            "commonRoomPercent": 0.5,
+            "laundryRecreationPercent": 0.10,
+            "active": true
         }
     ]
 }

@@ -22,6 +22,27 @@
             "septicTankMinDisWatersrc": 25,
             "septicTankMinDisBuilding": 10,
             "active": true
+        },
+        {
+            "id": 4,
+            "occupancy": "assembly",
+            "septicTankMinDisWatersrc": 18,
+            "septicTankMinDisBuilding": 6,
+            "active": true
+        },
+        {
+            "id": 5,
+            "occupancy": "storage",
+            "septicTankMinDisWatersrc": 22,
+            "septicTankMinDisBuilding": 8,
+            "active": true
+        },
+        {
+            "id": 6,
+            "occupancy": "factories",
+            "septicTankMinDisWatersrc": 25,
+            "septicTankMinDisBuilding": 10,
+            "active": true
         }
     ]
 }

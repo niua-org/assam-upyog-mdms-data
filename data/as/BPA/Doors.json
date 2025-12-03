@@ -21,15 +21,33 @@
             "active": true
         },
         {
-            "id" : 2,
+            "id" : 4,
             "occupancy": "mercantile / commercial",
             "permissible": 2,
             "active": true
         },
         {
-            "id" : 3,
+            "id" : 5,
             "occupancy": "industrial",
             "permissible": 3,
+            "active": true
+        },
+        {
+            "id": 6,
+            "occupancy": "assembly",
+            "permissible": 0.9,
+            "active": true
+        },
+        {
+            "id": 7,
+            "occupancy": "storage",
+            "permissible": 0.9,
+            "active": true
+        },
+        {
+            "id": 8,
+            "occupancy": "factories",
+            "permissible": 0.9,
             "active": true
         }
     ]

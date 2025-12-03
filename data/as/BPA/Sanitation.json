@@ -28,6 +28,33 @@
             "sanitationMinatGroundFloor": 3,
             "sanitationFloorMultiplier": 5,
             "active": true
+        },
+        {
+            "id": 4,
+            "occupancy": "assembly",
+            "sanitationMinAreaofSPWC": 2.625,
+            "sanitationMinDimensionofSPWC": 1.5,
+            "sanitationMinatGroundFloor": 1,
+            "sanitationFloorMultiplier": 3,
+            "active": true
+        },
+        {
+            "id": 5,
+            "occupancy": "storage",
+            "sanitationMinAreaofSPWC": 3.0,
+            "sanitationMinDimensionofSPWC": 1.7,
+            "sanitationMinatGroundFloor": 2,
+            "sanitationFloorMultiplier": 4,
+            "active": true
+        },
+        {
+            "id": 6,
+            "occupancy": "factories",
+            "sanitationMinAreaofSPWC": 3.5,
+            "sanitationMinDimensionofSPWC": 2.0,
+            "sanitationMinatGroundFloor": 3,
+            "sanitationFloorMultiplier": 5,
+            "active": true
         }
     ]
 }

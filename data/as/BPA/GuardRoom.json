@@ -31,6 +31,36 @@
         "guardRoomMinCabinHeightOne": "0.75",
         "guardRoomMinCabinHeightTwo": "2.2",
         "active": true
+    },
+    {
+        "id": 4,
+        "occupancy": "assembly",
+        "guardRoomMinHeight": "4",
+        "guardRoomMinWidth": "3",
+        "guardRoomMinArea": "10",
+        "guardRoomMinCabinHeightOne": "0.75",
+        "guardRoomMinCabinHeightTwo": "2.2",
+        "active": true
+    },
+        {
+        "id":5,
+        "occupancy": "storage",
+        "guardRoomMinHeight": "8",
+        "guardRoomMinWidth": "3",
+        "guardRoomMinArea": "10",
+        "guardRoomMinCabinHeightOne": "0.75",
+        "guardRoomMinCabinHeightTwo": "2.2",
+        "active": true
+    },
+        {
+        "id": 6,
+        "occupancy": "factories",
+        "guardRoomMinHeight": "9",
+        "guardRoomMinWidth": "3",
+        "guardRoomMinArea": "10",
+        "guardRoomMinCabinHeightOne": "0.75",
+        "guardRoomMinCabinHeightTwo": "2.2",
+        "active": true
     }
 ]
 }

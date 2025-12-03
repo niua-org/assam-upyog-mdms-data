@@ -34,6 +34,39 @@
             "overheadVoltage_11000": 11,
             "overheadVoltage_33000": 33,
             "active": true
+        },
+        {
+            "id": 4,
+            "occupancy": "assembly",
+            "overheadVerticalDistance_11000": 2.5,
+            "overheadVerticalDistance_33000": 3.7,
+            "overheadHorizontalDistance_11000": 1.2,
+            "overheadHorizontalDistance_33000": 2,
+            "overheadVoltage_11000": 11,
+            "overheadVoltage_33000": 33,
+            "active": true
+        },
+        {
+            "id": 5,
+            "occupancy": "storage",
+            "overheadVerticalDistance_11000": 3.0,
+            "overheadVerticalDistance_33000": 4.0,
+            "overheadHorizontalDistance_11000": 1.5,
+            "overheadHorizontalDistance_33000": 2.5,
+            "overheadVoltage_11000": 11,
+            "overheadVoltage_33000": 33,
+            "active": true
+        },
+        {
+            "id": 6,
+            "occupancy": "factories",
+            "overheadVerticalDistance_11000": 3.5,
+            "overheadVerticalDistance_33000": 4.5,
+            "overheadHorizontalDistance_11000": 1.8,
+            "overheadHorizontalDistance_33000": 3.0,
+            "overheadVoltage_11000": 11,
+            "overheadVoltage_33000": 33,
+            "active": true
         }
     ]
 }

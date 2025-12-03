@@ -29,8 +29,47 @@
         "active": true
     },
     {
-        "id": 1,
+        "id": 3,
         "occupancy": "industrial",
+        "river": 15,
+        "bharaluMoraBondajan": 10,
+        "otherChannels": 6,
+        "notifiedWaterBodies": 15,
+        "otherNotifiedWaterBodies": 6,
+        "otherLargePondsWaterBodies": 10,
+        "minorDrains": 0,
+        "smallPonds": 0,
+        "active": true
+    },
+    {
+        "id": 4,
+        "occupancy": "assembly",
+        "river": 15,
+        "bharaluMoraBondajan": 10,
+        "otherChannels": 6,
+        "notifiedWaterBodies": 15,
+        "otherNotifiedWaterBodies": 6,
+        "otherLargePondsWaterBodies": 10,
+        "minorDrains": 0,
+        "smallPonds": 0,
+        "active": true
+    },
+    {
+        "id": 5,
+        "occupancy": "storage",
+        "river": 15,
+        "bharaluMoraBondajan": 10,
+        "otherChannels": 6,
+        "notifiedWaterBodies": 15,
+        "otherNotifiedWaterBodies": 6,
+        "otherLargePondsWaterBodies": 10,
+        "minorDrains": 0,
+        "smallPonds": 0,
+        "active": true
+    },
+    {
+        "id": 6,
+        "occupancy": "factories",
         "river": 15,
         "bharaluMoraBondajan": 10,
         "otherChannels": 6,

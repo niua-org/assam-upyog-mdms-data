@@ -986,6 +986,11 @@
       "code": "BPA_CHAIRMAN_PRESIDENT_MB",
       "name": "BPA Chairman/President MB",
       "description": "Role for Municipal Body Chairman or President for final approval"
+    },
+    {
+      "code": "AAI_NOC",
+      "name": "AAI NOC admin employee",
+      "description": "AAI admin Employee"
     }
   ]
 }

@@ -34,6 +34,39 @@
             "bathAndStoreVentilationArea": "4.0",
             "bathAndStoreVentilationWidth": "2",
             "active": true
+        },
+        {
+            "id": 4,
+            "fromBuildingHeight": "0",
+            "toBuildingHeight": "18",
+            "occupancy": "assembly",
+            "bathroomtotalArea": "1.8",
+            "bathroomMinWidth": "1.2",
+            "bathAndStoreVentilationArea": "4.0",
+            "bathAndStoreVentilationWidth": "2",
+            "active": true
+        },
+        {
+            "id": 5,
+            "fromBuildingHeight": "0",
+            "toBuildingHeight": "18",
+            "occupancy": "storage",
+            "bathroomtotalArea": "2.8",
+            "bathroomMinWidth": "1.2",
+            "bathAndStoreVentilationArea": "4.0",
+            "bathAndStoreVentilationWidth": "2",
+            "active": true
+        },
+        {
+            "id": 6,
+            "fromBuildingHeight": "0",
+            "toBuildingHeight": "18",
+            "occupancy": "factories",
+            "bathroomtotalArea": "3.8",
+            "bathroomMinWidth": "1.2",
+            "bathAndStoreVentilationArea": "4.0",
+            "bathAndStoreVentilationWidth": "2",
+            "active": true
         }
     ]
 }

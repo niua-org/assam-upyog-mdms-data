@@ -193,6 +193,321 @@
         "occupancy": "mercantile / commercial",
         "permissible": 3.0,
         "active": true
-      } 
+      },
+
+      {
+        "id": 25,
+        "fromBuildingHeight": 0,
+        "toBuildingHeight": 9.6,
+        "occupancy": "assembly",
+        "permissible": 1.8,
+        "active": true
+      },
+      {
+        "id": 26,
+        "fromBuildingHeight": 9.61,
+        "toBuildingHeight": 12.6,
+        "occupancy": "assembly",
+        "permissible": 2.4,
+        "active": true
+      },
+      {
+        "id": 27,
+        "fromBuildingHeight": 12.61,
+        "toBuildingHeight": 15.6,
+        "occupancy": "assembly",
+        "permissible": 3.6,
+        "active": true
+      },
+      {
+        "id": 28,
+        "fromBuildingHeight": 15.61,
+        "toBuildingHeight": 18.6,
+        "occupancy": "assembly",
+        "permissible": 4.2,
+        "active": true
+      },
+      {
+        "id": 29,
+        "fromBuildingHeight": 18.61,
+        "toBuildingHeight": 21.6,
+        "occupancy": "assembly",
+        "permissible": 5.0,
+        "active": true
+      },
+      {
+        "id": 30,
+        "fromBuildingHeight": 21.61,
+        "toBuildingHeight": 24.6,
+        "occupancy": "assembly",
+        "permissible": 5.5,
+        "active": true
+      },
+      {
+        "id": 31,
+        "fromBuildingHeight": 24.61,
+        "toBuildingHeight": 27.6,
+        "occupancy": "assembly",
+        "permissible": 6.0,
+        "active": true
+      },
+      {
+        "id": 32,
+        "fromBuildingHeight": 27.61,
+        "toBuildingHeight": 30.6,
+        "occupancy": "assembly",
+        "permissible": 7.0,
+        "active": true
+      },
+      {
+        "id": 33,
+        "fromBuildingHeight": 30.61,
+        "toBuildingHeight": 36.6,
+        "occupancy": "assembly",
+        "permissible": 9.0,
+        "active": true
+      },
+      {
+        "id": 34,
+        "fromBuildingHeight": 36.61,
+        "toBuildingHeight": 45.6,
+        "occupancy": "assembly",
+        "permissible": 10.0,
+        "active": true
+      },
+      {
+        "id": 35,
+        "fromBuildingHeight": 45.61,
+        "toBuildingHeight": 9999,
+        "occupancy": "assembly",
+        "permissible": 12.0,
+        "active": true
+      },
+      {
+        "id": 36,
+        "fromPlotDepth": 0,
+        "toPlotDepth": 18,
+        "occupancy": "assembly",
+        "permissible": 1.5,
+        "active": true
+      },
+      {
+        "id": 37,
+        "fromPlotDepth": 18,
+        "toPlotDepth": 99999,
+        "occupancy": "assembly",
+        "permissible": 3.0,
+        "active": true
+      },
+
+      {
+        "id": 38,
+        "fromBuildingHeight": 0,
+        "toBuildingHeight": 9.6,
+        "occupancy": "storage",
+        "permissible": 1.8,
+        "active": true
+      },
+      {
+        "id": 39,
+        "fromBuildingHeight": 9.61,
+        "toBuildingHeight": 12.6,
+        "occupancy": "storage",
+        "permissible": 2.4,
+        "active": true
+      },
+      {
+        "id": 40,
+        "fromBuildingHeight": 12.61,
+        "toBuildingHeight": 15.6,
+        "occupancy": "storage",
+        "permissible": 3.6,
+        "active": true
+      },
+      {
+        "id": 41,
+        "fromBuildingHeight": 15.61,
+        "toBuildingHeight": 18.6,
+        "occupancy": "storage",
+        "permissible": 4.2,
+        "active": true
+      },
+      {
+        "id": 42,
+        "fromBuildingHeight": 18.61,
+        "toBuildingHeight": 21.6,
+        "occupancy": "storage",
+        "permissible": 5.0,
+        "active": true
+      },
+      {
+        "id": 43,
+        "fromBuildingHeight": 21.61,
+        "toBuildingHeight": 24.6,
+        "occupancy": "storage",
+        "permissible": 5.5,
+        "active": true
+      },
+      {
+        "id": 44,
+        "fromBuildingHeight": 24.61,
+        "toBuildingHeight": 27.6,
+        "occupancy": "storage",
+        "permissible": 6.0,
+        "active": true
+      },
+      {
+        "id": 45,
+        "fromBuildingHeight": 27.61,
+        "toBuildingHeight": 30.6,
+        "occupancy": "storage",
+        "permissible": 7.0,
+        "active": true
+      },
+      {
+        "id": 46,
+        "fromBuildingHeight": 30.61,
+        "toBuildingHeight": 36.6,
+        "occupancy": "storage",
+        "permissible": 9.0,
+        "active": true
+      },
+      {
+        "id": 47,
+        "fromBuildingHeight": 36.61,
+        "toBuildingHeight": 45.6,
+        "occupancy": "storage",
+        "permissible": 10.0,
+        "active": true
+      },
+      {
+        "id": 48,
+        "fromBuildingHeight": 45.61,
+        "toBuildingHeight": 9999,
+        "occupancy": "storage",
+        "permissible": 12.0,
+        "active": true
+      },
+      {
+        "id": 49,
+        "fromPlotDepth": 0,
+        "toPlotDepth": 18,
+        "occupancy": "storage",
+        "permissible": 1.5,
+        "active": true
+      },
+      {
+        "id": 50,
+        "fromPlotDepth": 18,
+        "toPlotDepth": 99999,
+        "occupancy": "storage",
+        "permissible": 3.0,
+        "active": true
+      },
+
+      {
+        "id": 51,
+        "fromBuildingHeight": 0,
+        "toBuildingHeight": 9.6,
+        "occupancy": "factories",
+        "permissible": 1.8,
+        "active": true
+      },
+      {
+        "id": 52,
+        "fromBuildingHeight": 9.61,
+        "toBuildingHeight": 12.6,
+        "occupancy": "factories",
+        "permissible": 2.4,
+        "active": true
+      },
+      {
+        "id": 53,
+        "fromBuildingHeight": 12.61,
+        "toBuildingHeight": 15.6,
+        "occupancy": "factories",
+        "permissible": 3.6,
+        "active": true
+      },
+      {
+        "id": 54,
+        "fromBuildingHeight": 15.61,
+        "toBuildingHeight": 18.6,
+        "occupancy": "factories",
+        "permissible": 4.2,
+        "active": true
+      },
+      {
+        "id": 55,
+        "fromBuildingHeight": 18.61,
+        "toBuildingHeight": 21.6,
+        "occupancy": "factories",
+        "permissible": 5.0,
+        "active": true
+      },
+      {
+        "id": 56,
+        "fromBuildingHeight": 21.61,
+        "toBuildingHeight": 24.6,
+        "occupancy": "factories",
+        "permissible": 5.5,
+        "active": true
+      },
+      {
+        "id": 57,
+        "fromBuildingHeight": 24.61,
+        "toBuildingHeight": 27.6,
+        "occupancy": "factories",
+        "permissible": 6.0,
+        "active": true
+      },
+      {
+        "id": 58,
+        "fromBuildingHeight": 27.61,
+        "toBuildingHeight": 30.6,
+        "occupancy": "factories",
+        "permissible": 7.0,
+        "active": true
+      },
+      {
+        "id": 59,
+        "fromBuildingHeight": 30.61,
+        "toBuildingHeight": 36.6,
+        "occupancy": "factories",
+        "permissible": 9.0,
+        "active": true
+      },
+      {
+        "id": 60,
+        "fromBuildingHeight": 36.61,
+        "toBuildingHeight": 45.6,
+        "occupancy": "factories",
+        "permissible": 10.0,
+        "active": true
+      },
+      {
+        "id": 61,
+        "fromBuildingHeight": 45.61,
+        "toBuildingHeight": 9999,
+        "occupancy": "factories",
+        "permissible": 12.0,
+        "active": true
+      },
+      {
+        "id": 62,
+        "fromPlotDepth": 0,
+        "toPlotDepth": 18,
+        "occupancy": "factories",
+        "permissible": 1.5,
+        "active": true
+      },
+      {
+        "id": 63,
+        "fromPlotDepth": 18,
+        "toPlotDepth": 99999,
+        "occupancy": "factories",
+        "permissible": 3.0,
+        "active": true
+      }
     ]
   }

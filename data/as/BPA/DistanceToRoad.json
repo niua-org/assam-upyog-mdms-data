@@ -14,6 +14,48 @@
             "permissibleUlB": 90,
             "permissibleOutsideUlB": 15,
             "active": true
+        },
+
+        {
+            "id": 2,
+            "state": "as",
+            "city": null,
+            "zone": null,
+            "subZone": null,
+            "occupancy": "assembly",
+            "subOccupancy": "residential",
+            "riskType": null,
+            "permissibleUlB": 90,
+            "permissibleOutsideUlB": 15,
+            "active": true
+        },
+
+        {
+            "id": 3,
+            "state": "as",
+            "city": null,
+            "zone": null,
+            "subZone": null,
+            "occupancy": "storage",
+            "subOccupancy": "residential",
+            "riskType": null,
+            "permissibleUlB": 90,
+            "permissibleOutsideUlB": 15,
+            "active": true
+        },
+
+        {
+            "id": 4,
+            "state": "as",
+            "city": null,
+            "zone": null,
+            "subZone": null,
+            "occupancy": "factories",
+            "subOccupancy": "residential",
+            "riskType": null,
+            "permissibleUlB": 90,
+            "permissibleOutsideUlB": 15,
+            "active": true
         }
 
     ]

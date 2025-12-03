@@ -28,6 +28,33 @@
             "rDminDistanceFromMainRiverEdge": 250,
             "rDminDistanceFromSubRiver": 150,
             "active": true
+        },
+        {
+            "id": 4,
+            "occupancy": "assembly",
+            "rDminDistanceFromProtectionWall": 30,
+            "rDminDistanceFromEmbankment": 50,
+            "rDminDistanceFromMainRiverEdge": 200,
+            "rDminDistanceFromSubRiver": 100,
+            "active": true
+        },
+        {
+            "id": 5,
+            "occupancy": "storage",
+            "rDminDistanceFromProtectionWall": 40,
+            "rDminDistanceFromEmbankment": 60,
+            "rDminDistanceFromMainRiverEdge": 220,
+            "rDminDistanceFromSubRiver": 120,
+            "active": true
+        },
+        {
+            "id": 6,
+            "occupancy": "factories",
+            "rDminDistanceFromProtectionWall": 50,
+            "rDminDistanceFromEmbankment": 70,
+            "rDminDistanceFromMainRiverEdge": 250,
+            "rDminDistanceFromSubRiver": 150,
+            "active": true
         }
     ]
 }

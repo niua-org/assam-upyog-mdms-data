@@ -34,6 +34,39 @@
             "vehicleRampSlopeMinWidthValueTwo": 0.18,
             "vehicleRampSlopeMinWidthValueThree": 5.0,
             "active": true
+        },
+        {
+            "id": 4,
+            "occupancy": "assembly",
+            "vehicleRampValue": 5,
+            "vehicleRampSlopeValueOne": 8,
+            "vehicleRampSlopeValueTwo": 10,
+            "vehicleRampSlopeMinWidthValueOne": 6.0,
+            "vehicleRampSlopeMinWidthValueTwo": 0.15,
+            "vehicleRampSlopeMinWidthValueThree": 4.0,
+            "active": true
+        },
+        {
+            "id": 5,
+            "occupancy": "storage",
+            "vehicleRampValue": 5,
+            "vehicleRampSlopeValueOne": 8,
+            "vehicleRampSlopeValueTwo": 10,
+            "vehicleRampSlopeMinWidthValueOne": 6.0,
+            "vehicleRampSlopeMinWidthValueTwo": 0.15,
+            "vehicleRampSlopeMinWidthValueThree": 4.0,
+            "active": true
+        },
+        {
+            "id": 6,
+            "occupancy": "factories",
+            "vehicleRampValue": 6,
+            "vehicleRampSlopeValueOne": 6,
+            "vehicleRampSlopeValueTwo": 8,
+            "vehicleRampSlopeMinWidthValueOne": 7.0,
+            "vehicleRampSlopeMinWidthValueTwo": 0.18,
+            "vehicleRampSlopeMinWidthValueThree": 5.0,
+            "active": true
         }
     ]
 }

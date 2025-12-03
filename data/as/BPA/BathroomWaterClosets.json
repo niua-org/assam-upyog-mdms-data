@@ -25,6 +25,30 @@
         "bathroomWCRequiredWidth": "0.9",
         "bathroomWCRequiredHeight": "2.4",
         "active": true
+    },
+    {
+        "id": 4,
+        "occupancy": "assembly",
+        "bathroomWCRequiredArea": "1.1",
+        "bathroomWCRequiredWidth": "0.9",
+        "bathroomWCRequiredHeight": "2.4",
+        "active": true
+    },
+    {
+        "id": 5,
+        "occupancy": "storage",
+        "bathroomWCRequiredArea": "3.1",
+        "bathroomWCRequiredWidth": "9.9",
+        "bathroomWCRequiredHeight": "2.4",
+        "active": true
+    },
+    {
+        "id": 6,
+        "occupancy": "factories",
+        "bathroomWCRequiredArea": "2.1",
+        "bathroomWCRequiredWidth": "0.9",
+        "bathroomWCRequiredHeight": "2.4",
+        "active": true
     }
 ]
 }
