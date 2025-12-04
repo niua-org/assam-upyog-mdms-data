@@ -1,0 +1,189 @@
+{
+  "tenantId": "as",
+  "moduleName": "egov-location",
+  "egov-location": [
+    {
+    "districts": [
+      {
+        "id": 1,
+        "districtCode": "NALBARI",
+        "districtName": "Nalbari",
+        "active": true,
+        "planningAreas": [
+          {
+            "id": 1,
+            "districtCode": "NALBARI",
+            "planningAreaCode": "NALBARI_MP",
+            "planningAreaName": "Nalbari MP",
+            "planningAreaGisCode": "Nalbari",
+            "active": true,
+            "ppAuthority": {
+              "id": 1,
+              "planningAreaCode": "NALBARI_MP",
+              "districtCode": "NALBARI",
+              "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+              "ppAuthorityName": "Development Authority",
+              "active": true
+            },
+            "bpAuthorities": [
+              {
+                "name": "GRAM_PANCHAYAT",
+                "code": "GRAM_PANCHAYAT",
+                "active": true
+              },
+              {
+                "name": "MUNICIPAL_BOARD",
+                "code": "MUNICIPAL_BOARD",
+                "active": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "districtCode": "BARPETA",
+        "districtName": "Barpeta",
+        "active": true,
+        "planningAreas": [
+          {
+            "id": 2,
+            "districtCode": "BARPETA",
+            "planningAreaCode": "BARPETA_MP",
+            "planningAreaName": "Barpeta MP",
+            "planningAreaGisCode": "Barpeta",
+            "active": true,
+            "ppAuthority": {
+              "id": 2,
+              "planningAreaCode": "BARPETA_MP",
+              "districtCode": "BARPETA",
+              "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+              "ppAuthorityName": "Development Authority",
+              "active": true
+            },
+            "bpAuthorities": [
+              {
+                "name": "GRAM_PANCHAYAT",
+                "code": "GRAM_PANCHAYAT",
+                "active": true
+              },
+              {
+                "name": "MUNICIPAL_BOARD",
+                "code": "MUNICIPAL_BOARD",
+                "active": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "districtCode": "DIBRUGARH",
+        "districtName": "Dibrugarh",
+        "active": true,
+        "planningAreas": [
+          {
+            "id": 3,
+            "districtCode": "DIBRUGARH",
+            "planningAreaCode": "DIBRUGARH_MP",
+            "planningAreaName": "Dibrugarh MP",
+            "planningAreaGisCode": "Dibrugarh",
+            "active": true,
+            "ppAuthority": {
+              "id": 3,
+              "planningAreaCode": "DIBRUGARH_MP",
+              "districtCode": "DIBRUGARH",
+              "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+              "ppAuthorityName": "Development Authority",
+              "active": true
+            },
+            "bpAuthorities": [
+              {
+                "name": "GRAM_PANCHAYAT",
+                "code": "GRAM_PANCHAYAT",
+                "active": true
+              },
+              {
+                "name": "MUNICIPAL_BOARD",
+                "code": "MUNICIPAL_BOARD",
+                "active": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "districtCode": "TINSUKIA",
+        "districtName": "Tinsukia",
+        "active": true,
+        "planningAreas": [
+          {
+            "id": 4,
+            "districtCode": "TINSUKIA",
+            "planningAreaCode": "TINSUKIA_MP",
+            "planningAreaName": "Tinsukia Master Plan",
+            "planningAreaGisCode": "Tinsukia",
+            "active": true,
+            "ppAuthority": {
+              "id": 4,
+              "planningAreaCode": "TINSUKIA_MP",
+              "districtCode": "TINSUKIA",
+              "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+              "ppAuthorityName": "Development Authority",
+              "active": true
+            },
+            "bpAuthorities": [
+              {
+                "name": "GRAM_PANCHAYAT",
+                "code": "GRAM_PANCHAYAT",
+                "active": true
+              },
+              {
+                "name": "MUNICIPAL_BOARD",
+                "code": "MUNICIPAL_BOARD",
+                "active": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "districtCode": "CACHAR",
+        "districtName": "Cachar",
+        "active": true,
+        "planningAreas": [
+          {
+            "id": 5,
+            "districtCode": "CACHAR",
+            "planningAreaCode": "SILCHAR_MP",
+            "planningAreaName": "Silchar Master Plan",
+            "planningAreaGisCode": "Silchar",
+            "active": true,
+            "ppAuthority": {
+              "id": 5,
+              "planningAreaCode": "SILCHAR_MP",
+              "districtCode": "CACHAR",
+              "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+              "ppAuthorityName": "Development Authority",
+              "active": true
+            },
+            "bpAuthorities": [
+              {
+                "name": "GRAM_PANCHAYAT",
+                "code": "GRAM_PANCHAYAT",
+                "active": true
+              },
+              {
+                "name": "MUNICIPAL_BOARD",
+                "code": "MUNICIPAL_BOARD",
+                "active": true
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }]
+}

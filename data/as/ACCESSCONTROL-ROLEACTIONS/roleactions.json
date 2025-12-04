@@ -32889,6 +32889,24 @@
       "actionid": 3083,
       "actioncode": "",
       "tenantId": "as"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3084,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER",
+      "actionid": 3084,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_APPROVER",
+      "actionid": 3084,
+      "actioncode": "",
+      "tenantId": "as"
     }
   ]
 }

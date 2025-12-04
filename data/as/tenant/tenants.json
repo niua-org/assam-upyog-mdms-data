@@ -36,9 +36,9 @@
       "contactNumber": "0978-7645345"
     },
     {
-      "code": "as.nalbari",
-      "name": "Nalbari",
-      "description": "Nalbari",
+      "code": "as.nalbarimb",
+      "name": "Nalbari Municipal Corporation",
+      "description": "Nalbari Municipal Corporation",
       "pincode": [
         781335
       ],
@@ -47,34 +47,22 @@
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "complaints.mcj@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
       "city": {
         "name": "Nalbari",
-        "localName": null,
         "districtCode": "NALBARI",
         "districtName": null,
-        "districtTenantCode": "as.nalbari",
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 75.5761840,
-        "latitude": 31.3260160,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "districtTenantCode": "as.nalbarimb",
+        "planningAreaCode": "NALBARI_MP",
+        "ulbGrade": "MUNICIPAL_BOARD",
         "code": "1513",
-        "ddrName": "Nalbari Municipal Corporation"
-      },
-      "address": null,
-      "contactNumber": null
+        "ddrName": "Nalbari Municipal Board"
+      }
     },
     {
-      "code": "as.barpeta",
-      "name": "Barpeta",
-      "description": "Barpeta",
+      "code": "as.barpetamb",
+      "name": "Barpeta Municipal Board",
+      "description": "Barpeta Municipal Board",
       "pincode": [
         781301
       ],
@@ -83,29 +71,17 @@
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "complaints.mcj@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
       "city": {
         "name": "Barpeta",
-        "localName": null,
         "districtCode": "BARPETA",
         "districtName": null,
-        "districtTenantCode": "as.barpeta",
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 75.5761840,
-        "latitude": 31.3260160,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "districtTenantCode": "as.barpetamb",
+        "planningAreaCode": "BARPETA_MP",
+        "ulbGrade": "MUNICIPAL_BOARD",
         "code": "1514",
-        "ddrName": "Barpeta Municipal Corporation"
-      },
-      "address": null,
-      "contactNumber": null
+        "ddrName": "Barpeta Municipal Board"
+      }
     },
     {
       "code": "as.dibrugarh",
@@ -119,34 +95,22 @@
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "complaints.mcj@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
       "city": {
         "name": "Dibrugarh",
-        "localName": null,
         "districtCode": "DIBRUGARH",
         "districtName": null,
         "districtTenantCode": "as.dibrugarh",
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 75.5761840,
-        "latitude": 31.3260160,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "planningAreaCode": "DIBRUGARH_MP",
+        "ulbGrade": "MUNICIPAL_BOARD",
         "code": "1515",
-        "ddrName": "Dibrugarh Municipal Corporation"
-      },
-      "address": null,
-      "contactNumber": null
+        "ddrName": "Dibrugarh Municipal Board"
+      }
     },
     {
-      "code": "as.tinsukia",
-      "name": "Tinsukia",
-      "description": "Tinsukia",
+      "code": "as.tinsukiamb",
+      "name": "Tinsukia Municipal Board",
+      "description": "Tinsukia Municipal Board",
       "pincode": [
         786125
       ],
@@ -155,29 +119,17 @@
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "complaints.mcj@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
       "city": {
         "name": "Tinsukia",
-        "localName": null,
         "districtCode": "TINSUKIA",
         "districtName": null,
-        "districtTenantCode": "as.tinsukia",
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 75.5761840,
-        "latitude": 31.3260160,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "districtTenantCode": "as.tinsukiamb",
+        "planningAreaCode": "TINSUKIA_MP",
+        "ulbGrade": "MUNICIPAL_BOARD",
         "code": "1516",
-        "ddrName": "Tinsukia Municipal Corporation"
-      },
-      "address": null,
-      "contactNumber": null
+        "ddrName": "Tinsukia Municipal Board"
+      }
     },
     {
       "code": "as.silchar",
@@ -191,2800 +143,1612 @@
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "complaints.mcj@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
       "city": {
         "name": "Silchar",
-        "localName": null,
         "districtCode": "SILCHAR",
         "districtName": null,
         "districtTenantCode": "as.silchar",
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 75.5761840,
-        "latitude": 31.3260160,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "planningAreaCode": "SILCHAR_MP",
+        "ulbGrade": "MUNICIPAL_BOARD",
         "code": "1517",
-        "ddrName": "Silchar Municipal Corporation"
-      },
-      "address": null,
-      "contactNumber": null
+        "ddrName": "Silchar Municipal Board"
+      }
     },
     {
       "code": "as.pubbahjani",
       "name": "Pub-Bahjani",
       "description": "Pub-Bahjani",
-      "pincode": [
-        783473
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.pubbahjani@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Pub-Bahjani",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 92.742867,
-        "latitude": 26.952954,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "PUB_BAHJANI",
         "districtTenantCode": "as.pubbahjani",
+        "planningAreaCode": "NALBARI_MP",
         "code": "1600",
-        "ddrName": "Pub-Bahjani Municipal Corporation"
+        "ddrName": "Pub-Bahjani Gram Panchayat"
       }
     },
     {
       "code": "as.balitarabatahgila",
       "name": "Balitara Batahgila",
       "description": "Balitara Batahgila",
-      "pincode": [
-        783716
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.balitarabatahgila@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Balitara Batahgila",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 91.522947,
-        "latitude": 26.849749,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "BALITARA_BATAHGILA",
         "districtTenantCode": "as.balitarabatahgila",
+        "planningAreaCode": "NALBARI_MP",
         "code": "1601",
-        "ddrName": "Balitara Batahgila Municipal Corporation"
+        "ddrName": "Balitara Batahgila Gram Panchayat"
       }
     },
     {
       "code": "as.sariahtoali",
       "name": "Sariahtoali",
       "description": "Sariahtoali",
-      "pincode": [
-        781979
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.sariahtoali@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Sariahtoali",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 94.433643,
-        "latitude": 26.582218,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SARIAHTOALI",
         "districtTenantCode": "as.sariahtoali",
+        "planningAreaCode": "NALBARI_MP",
         "code": "1602",
-        "ddrName": "Sariahtoali Municipal Corporation"
+        "ddrName": "Sariahtoali Gram Panchayat"
       }
     },
     {
       "code": "as.nalbarigp",
       "name": "Nalbari GP",
       "description": "Nalbari GP",
-      "pincode": [
-        783270
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.nalbarimb@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Nalbari GP",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 93.821686,
-        "latitude": 26.849349,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "NALBARI_GP",
         "districtTenantCode": "as.nalbarigp",
+        "planningAreaCode": "NALBARI_MP",
         "code": "1603",
-        "ddrName": "Nalbari GP Municipal Corporation"
+        "ddrName": "Nalbari GP Gram Panchayat"
       }
     },
     {
       "code": "as.chandakuchi",
       "name": "Chandakuchi",
       "description": "Chandakuchi",
-      "pincode": [
-        786121
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.chandakuchi@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Chandakuchi",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 94.473271,
-        "latitude": 26.699778,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "CHANDAKUCHI",
         "districtTenantCode": "as.chandakuchi",
+        "planningAreaCode": "NALBARI_MP",
         "code": "1604",
-        "ddrName": "Chandakuchi Municipal Corporation"
+        "ddrName": "Chandakuchi Gram Panchayat"
       }
     },
     {
       "code": "as.uttarpubdharmapur",
       "name": "37 No. Uttar Pub Dharmapur",
       "description": "37 No. Uttar Pub Dharmapur",
-      "pincode": [
-        781937
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.uttarpubdharmapur@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "37 No. Uttar Pub Dharmapur",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 91.356299,
-        "latitude": 26.577536,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "37_NO_UTTAR_PUB_DHARMAPUR",
         "districtTenantCode": "as.uttarpubdharmapur",
+        "planningAreaCode": "NALBARI_MP",
         "code": "1605",
-        "ddrName": "37 No. Uttar Pub Dharmapur Municipal Corporation"
+        "ddrName": "37 No. Uttar Pub Dharmapur Gram Panchayat"
       }
     },
     {
       "code": "as.madhyabahjani",
       "name": "Madhya Bahjani",
       "description": "Madhya Bahjani",
-      "pincode": [
-        788544
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.madhyabahjani@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Madhya Bahjani",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 93.41426,
-        "latitude": 26.860855,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "MADHYA_BAHJANI",
         "districtTenantCode": "as.madhyabahjani",
+        "planningAreaCode": "NALBARI_MP",
         "code": "1606",
-        "ddrName": "Madhya Bahjani Municipal Corporation"
+        "ddrName": "Madhya Bahjani Gram Panchayat"
       }
     },
     {
       "code": "as.hatinamati",
       "name": "Hati Namati",
       "description": "Hati Namati",
-      "pincode": [
-        785993
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.hatinamati@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Hati Namati",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 93.359764,
-        "latitude": 26.773813,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "HATI_NAMATI",
         "districtTenantCode": "as.hatinamati",
+        "planningAreaCode": "NALBARI_MP",
         "code": "1607",
-        "ddrName": "Hati Namati Municipal Corporation"
+        "ddrName": "Hati Namati Gram Panchayat"
       }
     },
     {
       "code": "as.dakshinnalbari",
       "name": "Dakshin Nalbari",
       "description": "Dakshin Nalbari",
-      "pincode": [
-        787388
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.dakshinnalbari@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Dakshin Nalbari",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 91.505347,
-        "latitude": 26.312821,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DAKSHIN_NALBARI",
         "districtTenantCode": "as.dakshinnalbari",
+        "planningAreaCode": "NALBARI_MP",
         "code": "1608",
-        "ddrName": "Dakshin Nalbari Municipal Corporation"
+        "ddrName": "Dakshin Nalbari Gram Panchayat"
       }
     },
     {
       "code": "as.upperbarbhagkhata",
       "name": "42 No. Upper Barbhag Khata",
       "description": "42 No. Upper Barbhag Khata",
-      "pincode": [
-        784969
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.upperbarbhagkhata@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "42 No. Upper Barbhag Khata",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 92.523933,
-        "latitude": 26.010771,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "42_NO_UPPER_BARBHAG_KHATA",
         "districtTenantCode": "as.upperbarbhagkhata",
+        "planningAreaCode": "NALBARI_MP",
         "code": "1609",
-        "ddrName": "42 No. Upper Barbhag Khata Municipal Corporation"
+        "ddrName": "42 No. Upper Barbhag Khata Gram Panchayat"
       }
     },
     {
       "code": "as.uttarpubkhata",
       "name": "Uttar Pub-Khata",
       "description": "Uttar Pub-Khata",
-      "pincode": [
-        788434
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.uttarpubkhata@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Uttar Pub-Khata",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 93.788775,
-        "latitude": 26.190763,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "UTTAR_PUB_KHATA",
         "districtTenantCode": "as.uttarpubkhata",
+        "planningAreaCode": "NALBARI_MP",
         "code": "1610",
-        "ddrName": "Uttar Pub-Khata Municipal Corporation"
+        "ddrName": "Uttar Pub-Khata Gram Panchayat"
       }
     },
     {
       "code": "as.pubnalbari",
       "name": "Pub-Nalbari",
       "description": "Pub-Nalbari",
-      "pincode": [
-        788239
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.pubnalbari@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Pub-Nalbari",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 93.238029,
-        "latitude": 26.143786,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "PUB_NALBARI",
         "districtTenantCode": "as.pubnalbari",
+        "planningAreaCode": "NALBARI_MP",
         "code": "1611",
-        "ddrName": "Pub-Nalbari Municipal Corporation"
+        "ddrName": "Pub-Nalbari Gram Panchayat"
       }
     },
     {
       "code": "as.digheli",
       "name": "Digheli",
       "description": "Digheli",
-      "pincode": [
-        783884
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.digheli@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Digheli",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 91.169169,
-        "latitude": 26.167536,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DIGHELI",
         "districtTenantCode": "as.digheli",
+        "planningAreaCode": "NALBARI_MP",
         "code": "1612",
-        "ddrName": "Digheli Municipal Corporation"
+        "ddrName": "Digheli Gram Panchayat"
       }
     },
     {
       "code": "as.natundehar",
       "name": "41 No. Natun Dehar",
       "description": "41 No. Natun Dehar",
-      "pincode": [
-        784401
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.natundehar@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "41 No. Natun Dehar",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 94.632694,
-        "latitude": 26.490631,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "41_NO_NATUN_DEHAR",
         "districtTenantCode": "as.natundehar",
+        "planningAreaCode": "NALBARI_MP",
         "code": "1613",
-        "ddrName": "41 No. Natun Dehar Municipal Corporation"
+        "ddrName": "41 No. Natun Dehar Gram Panchayat"
       }
     },
     {
       "code": "as.panigaon",
       "name": "23 No. Panigaon",
       "description": "23 No. Panigaon",
-      "pincode": [
-        784895
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.panigaon@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "23 No. Panigaon",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 92.165674,
-        "latitude": 26.259885,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "23_NO_PANIGAON",
         "districtTenantCode": "as.panigaon",
+        "planningAreaCode": "NALBARI_MP",
         "code": "1614",
-        "ddrName": "23 No. Panigaon Municipal Corporation"
+        "ddrName": "23 No. Panigaon Gram Panchayat"
       }
     },
     {
       "code": "as.ghograpar",
       "name": "Ghograpar",
       "description": "Ghograpar",
-      "pincode": [
-        781357
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.ghograpar@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Ghograpar",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 93.544845,
-        "latitude": 26.954711,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "GHOGRAPAR",
         "districtTenantCode": "as.ghograpar",
+        "planningAreaCode": "NALBARI_MP",
         "code": "1615",
-        "ddrName": "Ghograpar Municipal Corporation"
+        "ddrName": "Ghograpar Gram Panchayat"
       }
     },
     {
       "code": "as.silpotaborilatima",
       "name": "Silpotabori-Latima",
       "description": "Silpotabori-Latima",
-      "pincode": [
-        782519
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.silpotaborilatima@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Silpotabori-Latima",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 91.556932,
-        "latitude": 26.125226,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SILPOTABORI_LATIMA",
         "districtTenantCode": "as.silpotaborilatima",
+        "planningAreaCode": "NALBARI_MP",
         "code": "1616",
-        "ddrName": "Silpotabori-Latima Municipal Corporation"
-      }
-    },
-    {
-      "code": "as.silpotaborilatima",
-      "name": "Silpotabori Latima",
-      "description": "Silpotabori Latima",
-      "pincode": [
-        784893
-      ],
-      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
-      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
-      "imageId": null,
-      "domainUrl": "https://www.upyog.niua.org",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "info.silpotaborilatima@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
-      "city": {
-        "name": "Silpotabori Latima",
-        "localName": null,
-        "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 91.025075,
-        "latitude": 26.600081,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "districtCode": "SILPOTABORI_LATIMA",
-        "districtTenantCode": "as.silpotaborilatima",
-        "code": "1617",
-        "ddrName": "Silpotabori Latima Municipal Corporation"
+        "ddrName": "Silpotabori-Latima Gram Panchayat"
       }
     },
     {
       "code": "as.barajol",
       "name": "Barajol",
       "description": "Barajol",
-      "pincode": [
-        783064
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.barajol@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Barajol",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 92.965676,
-        "latitude": 26.959864,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "BARAJOL",
         "districtTenantCode": "as.barajol",
+        "planningAreaCode": "NALBARI_MP",
         "code": "1618",
-        "ddrName": "Barajol Municipal Corporation"
+        "ddrName": "Barajol Gram Panchayat"
       }
     },
     {
       "code": "as.dihjari",
       "name": "Dihjari",
       "description": "Dihjari",
-      "pincode": [
-        783193
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.dihjari@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Dihjari",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 92.089667,
-        "latitude": 26.986476,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DIHJARI",
         "districtTenantCode": "as.dihjari",
+        "planningAreaCode": "NALBARI_MP",
         "code": "1619",
-        "ddrName": "Dihjari Municipal Corporation"
+        "ddrName": "Dihjari Gram Panchayat"
       }
     },
     {
       "code": "as.barpetagp",
       "name": "Barpeta GP",
       "description": "Barpeta GP",
-      "pincode": [
-        785466
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.barpetamb@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Barpeta GP",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 91.196311,
-        "latitude": 26.742782,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "BARPETA_GP",
         "districtTenantCode": "as.barpetagp",
+        "planningAreaCode": "BARPETA_MP",
         "code": "1620",
-        "ddrName": "Barpeta GP Municipal Corporation"
+        "ddrName": "Barpeta GP Gram Panchayat"
       }
     },
     {
       "code": "as.patbaushigp",
       "name": "Patbaushi GP",
       "description": "Patbaushi GP",
-      "pincode": [
-        782624
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.patbaushigp@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Patbaushi GP",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 91.221853,
-        "latitude": 26.050194,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "PATBAUSHI_GP",
         "districtTenantCode": "as.patbaushigp",
+        "planningAreaCode": "BARPETA_MP",
         "code": "1621",
-        "ddrName": "Patbaushi GP Municipal Corporation"
+        "ddrName": "Patbaushi GP Gram Panchayat"
       }
     },
     {
       "code": "as.sundaridiagp",
       "name": "Sundaridia GP",
       "description": "Sundaridia GP",
-      "pincode": [
-        782698
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.sundaridiagp@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Sundaridia GP",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 92.136824,
-        "latitude": 26.512707,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SUNDARIDIA_GP",
         "districtTenantCode": "as.sundaridiagp",
+        "planningAreaCode": "BARPETA_MP",
         "code": "1622",
-        "ddrName": "Sundaridia GP Municipal Corporation"
+        "ddrName": "Sundaridia GP Gram Panchayat"
       }
     },
     {
       "code": "as.rajabheta",
       "name": "Rajabheta",
       "description": "Rajabheta",
-      "pincode": [
-        785226
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.rajabheta@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Rajabheta",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 93.248434,
-        "latitude": 26.7176,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "RAJABHETA",
         "districtTenantCode": "as.rajabheta",
+        "planningAreaCode": "DIBRUGARH_MP",
         "code": "1623",
-        "ddrName": "Rajabheta Municipal Corporation"
+        "ddrName": "Rajabheta Gram Panchayat"
       }
     },
     {
       "code": "as.nizmankotta",
       "name": "Niz-Mankotta",
       "description": "Niz-Mankotta",
-      "pincode": [
-        782940
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.nizmankotta@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Niz-Mankotta",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 91.343195,
-        "latitude": 26.639811,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "NIZ_MANKOTTA",
         "districtTenantCode": "as.nizmankotta",
+        "planningAreaCode": "DIBRUGARH_MP",
         "code": "1624",
-        "ddrName": "Niz-Mankotta Municipal Corporation"
+        "ddrName": "Niz-Mankotta Gram Panchayat"
       }
     },
     {
       "code": "as.hiloidhari",
       "name": "Hiloidhari",
       "description": "Hiloidhari",
-      "pincode": [
-        785838
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.hiloidhari@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Hiloidhari",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 91.597274,
-        "latitude": 26.564955,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "HILOIDHARI",
         "districtTenantCode": "as.hiloidhari",
+        "planningAreaCode": "DIBRUGARH_MP",
         "code": "1625",
-        "ddrName": "Hiloidhari Municipal Corporation"
+        "ddrName": "Hiloidhari Gram Panchayat"
       }
     },
     {
       "code": "as.mankottakhanikar",
       "name": "Mankotta Khanikar",
       "description": "Mankotta Khanikar",
-      "pincode": [
-        787894
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.mankottakhanikar@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Mankotta Khanikar",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 94.74761,
-        "latitude": 26.359431,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "MANKOTTA_KHANIKAR",
         "districtTenantCode": "as.mankottakhanikar",
+        "planningAreaCode": "DIBRUGARH_MP",
         "code": "1626",
-        "ddrName": "Mankotta Khanikar Municipal Corporation"
+        "ddrName": "Mankotta Khanikar Gram Panchayat"
       }
     },
     {
       "code": "as.romai",
       "name": "Romai",
       "description": "Romai",
-      "pincode": [
-        785306
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.romai@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Romai",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 93.545484,
-        "latitude": 26.82368,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "ROMAI",
         "districtTenantCode": "as.romai",
+        "planningAreaCode": "DIBRUGARH_MP",
         "code": "1627",
-        "ddrName": "Romai Municipal Corporation"
+        "ddrName": "Romai Gram Panchayat"
       }
     },
     {
       "code": "as.timona",
       "name": "Timona",
       "description": "Timona",
-      "pincode": [
-        783610
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.timona@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Timona",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 91.846887,
-        "latitude": 26.676873,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "TIMONA",
         "districtTenantCode": "as.timona",
+        "planningAreaCode": "DIBRUGARH_MP",
         "code": "1628",
-        "ddrName": "Timona Municipal Corporation"
+        "ddrName": "Timona Gram Panchayat"
       }
     },
     {
       "code": "as.mohanbari",
       "name": "Mohanbari",
       "description": "Mohanbari",
-      "pincode": [
-        785503
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.mohanbari@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Mohanbari",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 91.709717,
-        "latitude": 26.407426,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "MOHANBARI",
         "districtTenantCode": "as.mohanbari",
+        "planningAreaCode": "DIBRUGARH_MP",
         "code": "1629",
-        "ddrName": "Mohanbari Municipal Corporation"
+        "ddrName": "Mohanbari Gram Panchayat"
       }
     },
     {
       "code": "as.bokul",
       "name": "Bokul",
       "description": "Bokul",
-      "pincode": [
-        782798
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.bokul@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Bokul",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 92.672064,
-        "latitude": 26.384856,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "BOKUL",
         "districtTenantCode": "as.bokul",
+        "planningAreaCode": "DIBRUGARH_MP",
         "code": "1630",
-        "ddrName": "Bokul Municipal Corporation"
+        "ddrName": "Bokul Gram Panchayat"
       }
     },
     {
       "code": "as.maijan",
       "name": "Maijan",
       "description": "Maijan",
-      "pincode": [
-        788319
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.maijan@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Maijan",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 93.328984,
-        "latitude": 26.227077,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "MAIJAN",
         "districtTenantCode": "as.maijan",
+        "planningAreaCode": "DIBRUGARH_MP",
         "code": "1631",
-        "ddrName": "Maijan Municipal Corporation"
+        "ddrName": "Maijan Gram Panchayat"
       }
     },
     {
       "code": "as.nizkanai",
       "name": "Niz Kanai",
       "description": "Niz Kanai",
-      "pincode": [
-        787104
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.nizkanai@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Niz Kanai",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 93.246901,
-        "latitude": 26.289553,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "NIZ_KANAI",
         "districtTenantCode": "as.nizkanai",
+        "planningAreaCode": "DIBRUGARH_MP",
         "code": "1632",
-        "ddrName": "Niz Kanai Municipal Corporation"
+        "ddrName": "Niz Kanai Gram Panchayat"
       }
     },
     {
       "code": "as.moderkhat",
       "name": "Moderkhat",
       "description": "Moderkhat",
-      "pincode": [
-        785322
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.moderkhat@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Moderkhat",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 91.336981,
-        "latitude": 26.38819,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "MODERKHAT",
         "districtTenantCode": "as.moderkhat",
+        "planningAreaCode": "DIBRUGARH_MP",
         "code": "1633",
-        "ddrName": "Moderkhat Municipal Corporation"
+        "ddrName": "Moderkhat Gram Panchayat"
       }
     },
     {
       "code": "as.lahowal",
       "name": "Lahowal",
       "description": "Lahowal",
-      "pincode": [
-        788273
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.lahowal@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Lahowal",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 93.176036,
-        "latitude": 26.004386,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "LAHOWAL",
         "districtTenantCode": "as.lahowal",
+        "planningAreaCode": "DIBRUGARH_MP",
         "code": "1634",
-        "ddrName": "Lahowal Municipal Corporation"
+        "ddrName": "Lahowal Gram Panchayat"
       }
     },
     {
       "code": "as.kotoha",
       "name": "Kotoha",
       "description": "Kotoha",
-      "pincode": [
-        787149
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.kotoha@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Kotoha",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 91.432548,
-        "latitude": 26.801446,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "KOTOHA",
         "districtTenantCode": "as.kotoha",
+        "planningAreaCode": "DIBRUGARH_MP",
         "code": "1635",
-        "ddrName": "Kotoha Municipal Corporation"
+        "ddrName": "Kotoha Gram Panchayat"
       }
     },
     {
       "code": "as.borpothar",
       "name": "Borpothar",
       "description": "Borpothar",
-      "pincode": [
-        784575
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.borpothar@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Borpothar",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 92.26155,
-        "latitude": 26.087337,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "BORPOTHAR",
         "districtTenantCode": "as.borpothar",
+        "planningAreaCode": "DIBRUGARH_MP",
         "code": "1636",
-        "ddrName": "Borpothar Municipal Corporation"
+        "ddrName": "Borpothar Gram Panchayat"
       }
     },
     {
       "code": "as.jokai",
       "name": "Jokai",
       "description": "Jokai",
-      "pincode": [
-        783989
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.jokai@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Jokai",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 91.413314,
-        "latitude": 26.849595,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "JOKAI",
         "districtTenantCode": "as.jokai",
+        "planningAreaCode": "DIBRUGARH_MP",
         "code": "1637",
-        "ddrName": "Jokai Municipal Corporation"
+        "ddrName": "Jokai Gram Panchayat"
       }
     },
     {
       "code": "as.lejai",
       "name": "Lejai",
       "description": "Lejai",
-      "pincode": [
-        788184
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.lejai@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Lejai",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 93.652238,
-        "latitude": 26.337091,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "LEJAI",
         "districtTenantCode": "as.lejai",
+        "planningAreaCode": "DIBRUGARH_MP",
         "code": "1638",
-        "ddrName": "Lejai Municipal Corporation"
+        "ddrName": "Lejai Gram Panchayat"
       }
     },
     {
       "code": "as.duliakakoti",
       "name": "Dulia Kakoti",
       "description": "Dulia Kakoti",
-      "pincode": [
-        787890
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.duliakakoti@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Dulia Kakoti",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 94.917019,
-        "latitude": 26.723602,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DULIA_KAKOTI",
         "districtTenantCode": "as.duliakakoti",
+        "planningAreaCode": "DIBRUGARH_MP",
         "code": "1639",
-        "ddrName": "Dulia Kakoti Municipal Corporation"
+        "ddrName": "Dulia Kakoti Gram Panchayat"
       }
     },
     {
       "code": "as.barbarua",
       "name": "Barbarua",
       "description": "Barbarua",
-      "pincode": [
-        785388
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.barbarua@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Barbarua",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 94.911965,
-        "latitude": 26.264746,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "BARBARUA",
         "districtTenantCode": "as.barbarua",
+        "planningAreaCode": "DIBRUGARH_MP",
         "code": "1640",
-        "ddrName": "Barbarua Municipal Corporation"
+        "ddrName": "Barbarua Gram Panchayat"
       }
     },
     {
       "code": "as.kalakhowa",
       "name": "Kalakhowa",
       "description": "Kalakhowa",
-      "pincode": [
-        784607
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.kalakhowa@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Kalakhowa",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 92.653439,
-        "latitude": 26.729472,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "KALAKHOWA",
         "districtTenantCode": "as.kalakhowa",
+        "planningAreaCode": "DIBRUGARH_MP",
         "code": "1641",
-        "ddrName": "Kalakhowa Municipal Corporation"
+        "ddrName": "Kalakhowa Gram Panchayat"
       }
     },
     {
       "code": "as.garudhoria",
       "name": "Garudhoria",
       "description": "Garudhoria",
-      "pincode": [
-        787525
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.garudhoria@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Garudhoria",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 92.60909,
-        "latitude": 26.451581,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "GARUDHORIA",
         "districtTenantCode": "as.garudhoria",
+        "planningAreaCode": "DIBRUGARH_MP",
         "code": "1642",
-        "ddrName": "Garudhoria Municipal Corporation"
+        "ddrName": "Garudhoria Gram Panchayat"
       }
     },
     {
       "code": "as.bogibeel",
       "name": "Bogibeel",
       "description": "Bogibeel",
-      "pincode": [
-        782114
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.bogibeel@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Bogibeel",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 92.342949,
-        "latitude": 26.583263,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "BOGIBEEL",
         "districtTenantCode": "as.bogibeel",
+        "planningAreaCode": "DIBRUGARH_MP",
         "code": "1643",
-        "ddrName": "Bogibeel Municipal Corporation"
+        "ddrName": "Bogibeel Gram Panchayat"
       }
     },
     {
       "code": "as.kololuwa",
       "name": "Kololuwa",
       "description": "Kololuwa",
-      "pincode": [
-        788646
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.kololuwa@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Kololuwa",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 93.549297,
-        "latitude": 26.059112,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "KOLOLUWA",
         "districtTenantCode": "as.kololuwa",
+        "planningAreaCode": "DIBRUGARH_MP",
         "code": "1644",
-        "ddrName": "Kololuwa Municipal Corporation"
+        "ddrName": "Kololuwa Gram Panchayat"
       }
     },
     {
       "code": "as.tinsukiagp",
       "name": "Tinsukia GP",
       "description": "Tinsukia GP",
-      "pincode": [
-        781356
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.tinsukiamb@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Tinsukia GP",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 91.054634,
-        "latitude": 26.260889,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "TINSUKIA_GP",
         "districtTenantCode": "as.tinsukiaGP",
+        "planningAreaCode": "TINSUKIA_MP",
         "code": "1645",
-        "ddrName": "Tinsukia GP Municipal Corporation"
+        "ddrName": "Tinsukia GP Gram Panchayat"
       }
     },
     {
       "code": "as.rongpuria",
       "name": "Rongpuria",
       "description": "Rongpuria",
-      "pincode": [
-        783686
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.rongpuria@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Rongpuria",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 94.312562,
-        "latitude": 26.828334,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "RONGPURIA",
         "districtTenantCode": "as.rongpuria",
+        "planningAreaCode": "TINSUKIA_MP",
         "code": "1646",
-        "ddrName": "Rongpuria Municipal Corporation"
+        "ddrName": "Rongpuria Gram Panchayat"
       }
     },
     {
       "code": "as.borguri",
       "name": "Borguri",
       "description": "Borguri",
-      "pincode": [
-        788474
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.borguri@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Borguri",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 92.227181,
-        "latitude": 26.039706,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "BORGURI",
         "districtTenantCode": "as.borguri",
+        "planningAreaCode": "TINSUKIA_MP",
         "code": "1647",
-        "ddrName": "Borguri Municipal Corporation"
+        "ddrName": "Borguri Gram Panchayat"
       }
     },
     {
       "code": "as.bojaltoli",
       "name": "Bojaltoli",
       "description": "Bojaltoli",
-      "pincode": [
-        785625
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.bojaltoli@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Bojaltoli",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 91.762221,
-        "latitude": 26.426444,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "BOJALTOLI",
         "districtTenantCode": "as.bojaltoli",
+        "planningAreaCode": "TINSUKIA_MP",
         "code": "1648",
-        "ddrName": "Bojaltoli Municipal Corporation"
+        "ddrName": "Bojaltoli Gram Panchayat"
       }
     },
     {
       "code": "as.itakhulichariali",
       "name": "Itakhuli Chariali",
       "description": "Itakhuli Chariali",
-      "pincode": [
-        787421
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.itakhulichariali@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Itakhuli Chariali",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 91.419711,
-        "latitude": 26.718535,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "ITAKHULI_CHARIALI",
         "districtTenantCode": "as.itakhulichariali",
+        "planningAreaCode": "TINSUKIA_MP",
         "code": "1649",
-        "ddrName": "Itakhuli Chariali Municipal Corporation"
+        "ddrName": "Itakhuli Chariali Gram Panchayat"
       }
     },
     {
       "code": "as.laipuli",
       "name": "Laipuli",
       "description": "Laipuli",
-      "pincode": [
-        787249
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.laipuli@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Laipuli",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 94.312372,
-        "latitude": 26.854035,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "LAIPULI",
         "districtTenantCode": "as.laipuli",
+        "planningAreaCode": "TINSUKIA_MP",
         "code": "1650",
-        "ddrName": "Laipuli Municipal Corporation"
+        "ddrName": "Laipuli Gram Panchayat"
       }
     },
     {
       "code": "as.dimaruguri",
       "name": "Dimaruguri",
       "description": "Dimaruguri",
-      "pincode": [
-        783614
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.dimaruguri@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Dimaruguri",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 91.127518,
-        "latitude": 26.0679,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DIMARUGURI",
         "districtTenantCode": "as.dimaruguri",
+        "planningAreaCode": "TINSUKIA_MP",
         "code": "1651",
-        "ddrName": "Dimaruguri Municipal Corporation"
+        "ddrName": "Dimaruguri Gram Panchayat"
       }
     },
     {
       "code": "as.bapuji",
       "name": "Bapuji",
       "description": "Bapuji",
-      "pincode": [
-        783563
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.bapuji@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Bapuji",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 92.378252,
-        "latitude": 26.97586,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "BAPUJI",
         "districtTenantCode": "as.bapuji",
+        "planningAreaCode": "TINSUKIA_MP",
         "code": "1652",
-        "ddrName": "Bapuji Municipal Corporation"
+        "ddrName": "Bapuji Gram Panchayat"
       }
     },
     {
       "code": "as.gottong",
       "name": "Gottong",
       "description": "Gottong",
-      "pincode": [
-        784664
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.gottong@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Gottong",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 91.772671,
-        "latitude": 26.366884,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "GOTTONG",
         "districtTenantCode": "as.gottong",
+        "planningAreaCode": "TINSUKIA_MP",
         "code": "1653",
-        "ddrName": "Gottong Municipal Corporation"
+        "ddrName": "Gottong Gram Panchayat"
       }
     },
     {
       "code": "as.panitola",
       "name": "Panitola",
       "description": "Panitola",
-      "pincode": [
-        786405
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.panitola@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Panitola",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 91.713741,
-        "latitude": 26.054366,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "PANITOLA",
         "districtTenantCode": "as.panitola",
+        "planningAreaCode": "TINSUKIA_MP",
         "code": "1654",
-        "ddrName": "Panitola Municipal Corporation"
+        "ddrName": "Panitola Gram Panchayat"
       }
     },
     {
       "code": "as.barekuri",
       "name": "Barekuri",
       "description": "Barekuri",
-      "pincode": [
-        787188
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.barekuri@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Barekuri",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 93.150234,
-        "latitude": 26.575613,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "BAREKURI",
         "districtTenantCode": "as.barekuri",
+        "planningAreaCode": "TINSUKIA_MP",
         "code": "1655",
-        "ddrName": "Barekuri Municipal Corporation"
+        "ddrName": "Barekuri Gram Panchayat"
       }
     },
     {
       "code": "as.tengapani",
       "name": "Tengapani",
       "description": "Tengapani",
-      "pincode": [
-        784779
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.tengapani@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Tengapani",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 93.260319,
-        "latitude": 26.324668,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "TENGAPANI",
         "districtTenantCode": "as.tengapani",
+        "planningAreaCode": "TINSUKIA_MP",
         "code": "1656",
-        "ddrName": "Tengapani Municipal Corporation"
+        "ddrName": "Tengapani Gram Panchayat"
       }
     },
     {
       "code": "as.hapjan",
       "name": "Hapjan",
       "description": "Hapjan",
-      "pincode": [
-        785101
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.hapjan@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Hapjan",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 93.289475,
-        "latitude": 26.958773,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "HAPJAN",
         "districtTenantCode": "as.hapjan",
+        "planningAreaCode": "TINSUKIA_MP",
         "code": "1657",
-        "ddrName": "Hapjan Municipal Corporation"
+        "ddrName": "Hapjan Gram Panchayat"
       }
     },
     {
       "code": "as.jerai",
       "name": "Jerai",
       "description": "Jerai",
-      "pincode": [
-        781802
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.jerai@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Jerai",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 93.796647,
-        "latitude": 26.96701,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "JERAI",
         "districtTenantCode": "as.jerai",
+        "planningAreaCode": "TINSUKIA_MP",
         "code": "1658",
-        "ddrName": "Jerai Municipal Corporation"
+        "ddrName": "Jerai Gram Panchayat"
       }
     },
     {
       "code": "as.madhurbondgp",
       "name": "Madhur Bond GP",
       "description": "Madhur Bond GP",
-      "pincode": [
-        787686
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.madhurbondgp@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Madhur Bond GP",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 92.344725,
-        "latitude": 26.586399,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "MADHUR_BOND_GP",
         "districtTenantCode": "as.madhurbondgp",
+        "planningAreaCode": "SILCHAR_MP",
         "code": "1659",
-        "ddrName": "Madhur Bond GP Municipal Corporation"
+        "ddrName": "Madhur Bond GP Gram Panchayat"
       }
     },
     {
       "code": "as.berengagp",
       "name": "Berenga- GP",
       "description": "Berenga- GP",
-      "pincode": [
-        784088
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.berengagp@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Berenga- GP",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 94.611798,
-        "latitude": 26.188221,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "BERENGA__GP",
         "districtTenantCode": "as.berengagp",
+        "planningAreaCode": "SILCHAR_MP",
         "code": "1660",
-        "ddrName": "Berenga- GP Municipal Corporation"
+        "ddrName": "Berenga- GP Gram Panchayat"
       }
     },
     {
       "code": "as.bhagadharbarjuraigp",
       "name": "Bhagadhar Barjurai GP",
       "description": "Bhagadhar Barjurai GP",
-      "pincode": [
-        786579
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.bhagadharbarjuraigp@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Bhagadhar Barjurai GP",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 93.246535,
-        "latitude": 26.946539,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "BHAGADHAR_BARJURAI_GP",
         "districtTenantCode": "as.bhagadharbarjuraigp",
+        "planningAreaCode": "SILCHAR_MP",
         "code": "1661",
-        "ddrName": "Bhagadhar Barjurai GP Municipal Corporation"
+        "ddrName": "Bhagadhar Barjurai GP Gram Panchayat"
       }
     },
     {
       "code": "as.ambikapurgp",
       "name": "Ambikapur GP",
       "description": "Ambikapur GP",
-      "pincode": [
-        788774
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.ambikapurgp@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Ambikapur GP",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 93.777723,
-        "latitude": 26.034188,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "AMBIKAPUR_GP",
         "districtTenantCode": "as.ambikapurgp",
+        "planningAreaCode": "SILCHAR_MP",
         "code": "1662",
-        "ddrName": "Ambikapur GP Municipal Corporation"
+        "ddrName": "Ambikapur GP Gram Panchayat"
       }
     },
     {
       "code": "as.ghungoorgp",
       "name": "5 No Ghungoor GP",
       "description": "5 No Ghungoor GP",
-      "pincode": [
-        783210
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.ghungoorgp@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "5 No Ghungoor GP",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 93.552738,
-        "latitude": 26.139796,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "5_NO_GHUNGOOR_GP",
         "districtTenantCode": "as.ghungoorgp",
+        "planningAreaCode": "SILCHAR_MP",
         "code": "1663",
-        "ddrName": "5 No Ghungoor GP Municipal Corporation"
+        "ddrName": "5 No Ghungoor GP Gram Panchayat"
       }
     },
     {
       "code": "as.bhanjantipurgp",
       "name": "Bhanjantipur GP",
       "description": "Bhanjantipur GP",
-      "pincode": [
-        785672
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.bhanjantipurgp@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Bhanjantipur GP",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 94.721824,
-        "latitude": 26.264137,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "BHANJANTIPUR_GP",
         "districtTenantCode": "as.bhanjantipurgp",
+        "planningAreaCode": "SILCHAR_MP",
         "code": "1664",
-        "ddrName": "Bhanjantipur GP Municipal Corporation"
+        "ddrName": "Bhanjantipur GP Gram Panchayat"
       }
     },
     {
       "code": "as.meherpurgp",
       "name": "Meherpur GP",
       "description": "Meherpur GP",
-      "pincode": [
-        786486
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.meherpurgp@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Meherpur GP",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 92.288595,
-        "latitude": 26.138998,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "MEHERPUR_GP",
         "districtTenantCode": "as.meherpurgp",
+        "planningAreaCode": "SILCHAR_MP",
         "code": "1665",
-        "ddrName": "Meherpur GP Municipal Corporation"
+        "ddrName": "Meherpur GP Gram Panchayat"
       }
     },
     {
       "code": "as.kanakpurgp",
       "name": "Kanakpur GP",
       "description": "Kanakpur GP",
-      "pincode": [
-        782326
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.kanakpurgp@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Kanakpur GP",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 94.281821,
-        "latitude": 26.003453,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "KANAKPUR_GP",
         "districtTenantCode": "as.kanakpurgp",
+        "planningAreaCode": "SILCHAR_MP",
         "code": "1666",
-        "ddrName": "Kanakpur GP Municipal Corporation"
+        "ddrName": "Kanakpur GP Gram Panchayat"
       }
     },
     {
       "code": "as.rongpurgp",
       "name": "Rongpur GP",
       "description": "Rongpur GP",
-      "pincode": [
-        787930
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.rongpurgp@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Rongpur GP",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 92.742205,
-        "latitude": 26.092883,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "RONGPUR_GP",
         "districtTenantCode": "as.rongpurgp",
+        "planningAreaCode": "SILCHAR_MP",
         "code": "1667",
-        "ddrName": "Rongpur GP Municipal Corporation"
+        "ddrName": "Rongpur GP Gram Panchayat"
       }
     },
     {
       "code": "as.uttarkrishnapurgp",
       "name": "Uttar Krishnapur GP",
       "description": "Uttar Krishnapur GP",
-      "pincode": [
-        787194
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.uttarkrishnapurgp@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Uttar Krishnapur GP",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 93.008329,
-        "latitude": 26.559927,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "UTTAR_KRISHNAPUR_GP",
         "districtTenantCode": "as.uttarkrishnapurgp",
+        "planningAreaCode": "SILCHAR_MP",
         "code": "1668",
-        "ddrName": "Uttar Krishnapur GP Municipal Corporation"
+        "ddrName": "Uttar Krishnapur GP Gram Panchayat"
       }
     },
     {
       "code": "as.dakshinkrishnapurgp",
       "name": "Dakshin Krishnapur GP",
       "description": "Dakshin Krishnapur GP",
-      "pincode": [
-        781451
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.dakshinkrishnapurgp@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Dakshin Krishnapur GP",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 91.578199,
-        "latitude": 26.324682,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DAKSHIN_KRISHNAPUR_GP",
         "districtTenantCode": "as.dakshinkrishnapurgp",
+        "planningAreaCode": "SILCHAR_MP",
         "code": "1669",
-        "ddrName": "Dakshin Krishnapur GP Municipal Corporation"
+        "ddrName": "Dakshin Krishnapur GP Gram Panchayat"
       }
     },
     {
       "code": "as.tupkhanagp",
       "name": "Tupkhana GP",
       "description": "Tupkhana GP",
-      "pincode": [
-        783019
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.tupkhanagp@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Tupkhana GP",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 94.193088,
-        "latitude": 26.88604,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "TUPKHANA_GP",
         "districtTenantCode": "as.tupkhanagp",
+        "planningAreaCode": "SILCHAR_MP",
         "code": "1670",
-        "ddrName": "Tupkhana GP Municipal Corporation"
+        "ddrName": "Tupkhana GP Gram Panchayat"
       }
     },
     {
       "code": "as.ghoungoorgp",
       "name": "107 No. Ghoungoor GP",
       "description": "107 No. Ghoungoor GP",
-      "pincode": [
-        786559
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.ghoungoorgp@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "107 No. Ghoungoor GP",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 93.151007,
-        "latitude": 26.627512,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "107_NO_GHOUNGOOR_GP",
         "districtTenantCode": "as.ghoungoorgp",
+        "planningAreaCode": "SILCHAR_MP",
         "code": "1671",
-        "ddrName": "107 No. Ghoungoor GP Municipal Corporation"
+        "ddrName": "107 No. Ghoungoor GP Gram Panchayat"
       }
     },
     {
       "code": "as.bhorakhaigp",
       "name": "Bhorakhai GP",
       "description": "Bhorakhai GP",
-      "pincode": [
-        784704
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.bhorakhaigp@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Bhorakhai GP",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 91.649439,
-        "latitude": 26.895833,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "BHORAKHAI_GP",
         "districtTenantCode": "as.bhorakhaigp",
+        "planningAreaCode": "SILCHAR_MP",
         "code": "1672",
-        "ddrName": "Bhorakhai GP Municipal Corporation"
+        "ddrName": "Bhorakhai GP Gram Panchayat"
       }
     },
     {
       "code": "as.tarutajabarigp",
       "name": "Tarutajabari GP",
       "description": "Tarutajabari GP",
-      "pincode": [
-        786961
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.tarutajabarigp@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Tarutajabari GP",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 92.749369,
-        "latitude": 26.673896,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "TARUTAJABARI_GP",
         "districtTenantCode": "as.tarutajabarigp",
+        "planningAreaCode": "SILCHAR_MP",
         "code": "1673",
-        "ddrName": "Tarutajabari GP Municipal Corporation"
+        "ddrName": "Tarutajabari GP Gram Panchayat"
       }
     },
     {
       "code": "as.chenkoorigp",
       "name": "Chenkoori GP",
       "description": "Chenkoori GP",
-      "pincode": [
-        786284
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.chenkoorigp@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Chenkoori GP",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 92.858279,
-        "latitude": 26.518316,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "CHENKOORI_GP",
         "districtTenantCode": "as.chenkoorigp",
+        "planningAreaCode": "SILCHAR_MP",
         "code": "1674",
-        "ddrName": "Chenkoori GP Municipal Corporation"
+        "ddrName": "Chenkoori GP Gram Panchayat"
       }
     },
     {
       "code": "as.rajnagargp",
       "name": "Rajnagar GP",
       "description": "Rajnagar GP",
-      "pincode": [
-        783628
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.rajnagargp@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Rajnagar GP",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 94.275733,
-        "latitude": 26.918072,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "RAJNAGAR_GP",
         "districtTenantCode": "as.rajnagargp",
+        "planningAreaCode": "SILCHAR_MP",
         "code": "1675",
-        "ddrName": "Rajnagar GP Municipal Corporation"
+        "ddrName": "Rajnagar GP Gram Panchayat"
       }
     },
     {
       "code": "as.kumarparanizjoinagargp",
       "name": "Kumarpara Nizjoinagar GP",
       "description": "Kumarpara Nizjoinagar GP",
-      "pincode": [
-        784587
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
       "emailId": "info.kumarparanizjoinagargp@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "address": null,
-      "contactNumber": null,
       "city": {
         "name": "Kumarpara Nizjoinagar GP",
-        "localName": null,
         "districtName": null,
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 94.390729,
-        "latitude": 26.036088,
-        "shapeFileLocation": null,
-        "captcha": null,
+        "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "KUMARPARA_NIZJOINAGAR_GP",
         "districtTenantCode": "as.kumarparanizjoinagargp",
+        "planningAreaCode": "SILCHAR_MP",
         "code": "1676",
-        "ddrName": "Kumarpara Nizjoinagar GP Municipal Corporation"
+        "ddrName": "Kumarpara Nizjoinagar GP Gram Panchayat"
       }
     }
   ]

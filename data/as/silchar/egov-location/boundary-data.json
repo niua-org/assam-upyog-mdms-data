@@ -28,14 +28,69 @@
             "code": "SilcharW1",
             "children": [
               {
-                "id": "4bf1fd07-cf12-457b-89e4-38a26abad266",
+                "id": "4ec7a034-b436-48aa-9de5-a3b09e97ed07",
                 "boundaryNum": 1,
-                "name": "Dudhpatil Part-V, VI, VII; Bahadurpur, Gossaipur Part - III, V",
-                "localname": "Dudhpatil Part-V, VI, VII; Bahadurpur, Gossaipur Part - III, V",
+                "name": "Dudhpatil Part-V",
+                "localname": "Dudhpatil Part-V",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "SilcharW1V1",
+                "children": []
+              },
+              {
+                "id": "fce8b719-f460-4887-badd-0e835b2e4efc",
+                "boundaryNum": 2,
+                "name": "Dudhpatil Part VI",
+                "localname": "Dudhpatil Part VI",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW1V2",
+                "children": []
+              },
+              {
+                "id": "54b72100-fc07-4fa2-9cea-03a2c67ecc99",
+                "boundaryNum": 3,
+                "name": "Dudhpatil Part VII",
+                "localname": "Dudhpatil Part VII",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW1V3",
+                "children": []
+              },
+              {
+                "id": "d33e6519-80cc-48b7-8459-9e1883020e4b",
+                "boundaryNum": 4,
+                "name": "Bahadurpur",
+                "localname": "Bahadurpur",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW1V4",
+                "children": []
+              },
+              {
+                "id": "b394af58-726c-47ae-ae4d-16b507eb411f",
+                "boundaryNum": 5,
+                "name": "Gossaipur Part - III",
+                "localname": "Gossaipur Part - III",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW1V5",
+                "children": []
+              },
+              {
+                "id": "40261132-135a-40c7-9c72-611bf45412a8",
+                "boundaryNum": 6,
+                "name": "Gossaipur Part - V",
+                "localname": "Gossaipur Part - V",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW1V6",
                 "children": []
               }
             ]
@@ -51,14 +106,36 @@
             "code": "SilcharW2",
             "children": [
               {
-                "id": "41ef4cf5-cb02-4b1d-897b-b2b01f6f7916",
+                "id": "dd1982fe-1c0d-4e06-8b7e-1ab33222a22d",
                 "boundaryNum": 1,
-                "name": "MASUGHAT, DUDHPATIL PART-IV, V",
-                "localname": "MASUGHAT, DUDHPATIL PART-IV, V",
+                "name": "MASUGHAT",
+                "localname": "MASUGHAT",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "SilcharW2V1",
+                "children": []
+              },
+              {
+                "id": "c9bbc346-c54c-42fc-9fa8-3ecd77dd3dba",
+                "boundaryNum": 2,
+                "name": "DUDHPATIL PART-IV",
+                "localname": "DUDHPATIL PART-IV",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW2V2",
+                "children": []
+              },
+              {
+                "id": "f2f6c51e-a008-42e8-b2fb-4631e1a346bb",
+                "boundaryNum": 3,
+                "name": "DUDHPATIL PART- V",
+                "localname": "DUDHPATIL PART- V",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW2V3",
                 "children": []
               }
             ]
@@ -74,14 +151,25 @@
             "code": "SilcharW3",
             "children": [
               {
-                "id": "8c9c5f13-a5a8-4b07-a8fd-f72fd28ec032",
+                "id": "f562defd-d7bc-4662-9226-e34b4ed007d3",
                 "boundaryNum": 1,
-                "name": "RONGPUR PT-III, IV",
-                "localname": "RONGPUR PT-III, IV",
+                "name": "RONGPUR PT-III,IV",
+                "localname": "RONGPUR PT-III,IV",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "SilcharW3V1",
+                "children": []
+              },
+              {
+                "id": "4a10c784-1950-469d-92e7-a791b098141d",
+                "boundaryNum": 2,
+                "name": "RONGPUR PT-IV",
+                "localname": "RONGPUR PT-IV",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW3V2",
                 "children": []
               }
             ]
@@ -97,7 +185,7 @@
             "code": "SilcharW4",
             "children": [
               {
-                "id": "2a8fe151-fef2-4a89-b025-6dc3198ce859",
+                "id": "d02c3e2f-1e9d-41e4-8647-5e22b4a79737",
                 "boundaryNum": 1,
                 "name": "Part of SMB Ward No.-5",
                 "localname": "Part of SMB Ward No.-5",
@@ -120,7 +208,7 @@
             "code": "SilcharW5",
             "children": [
               {
-                "id": "3b5ce623-0f20-4a2d-b916-436b15c5664a",
+                "id": "509e2aef-a5ff-4ed3-8972-49758464c1e4",
                 "boundaryNum": 1,
                 "name": "Part of SMB Ward No.-5",
                 "localname": "Part of SMB Ward No.-5",
@@ -143,7 +231,7 @@
             "code": "SilcharW6",
             "children": [
               {
-                "id": "dabb7695-d012-428b-abee-f1cc90dd4878",
+                "id": "7caa2507-1df0-4189-a8c2-8dec68dc83cd",
                 "boundaryNum": 1,
                 "name": "Part of SMB Ward No.-2",
                 "localname": "Part of SMB Ward No.-2",
@@ -166,14 +254,25 @@
             "code": "SilcharW7",
             "children": [
               {
-                "id": "22744078-4c84-43d2-855c-0decd1859884",
+                "id": "0ab37b58-d88b-480e-96c8-9416eb850b2e",
                 "boundaryNum": 1,
-                "name": "Part of SMB Ward No.-2 and 3",
-                "localname": "Part of SMB Ward No.-2 and 3",
+                "name": "Part of SMB Ward No.-2",
+                "localname": "Part of SMB Ward No.-2",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "SilcharW7V1",
+                "children": []
+              },
+              {
+                "id": "92a48b73-ac7f-4c91-af4f-965b094fd1c1",
+                "boundaryNum": 2,
+                "name": "Part of SMB Ward No. 3",
+                "localname": "Part of SMB Ward No. 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW7V2",
                 "children": []
               }
             ]
@@ -189,14 +288,25 @@
             "code": "SilcharW8",
             "children": [
               {
-                "id": "a6454b14-4aff-4523-bcee-af789d9241e8",
+                "id": "ea005c09-1cb1-4add-8057-ee72cb3eb50c",
                 "boundaryNum": 1,
-                "name": "Part of SMB Ward No.-2 and 3",
-                "localname": "Part of SMB Ward No.-2 and 3",
+                "name": "Part of SMB Ward No.-2",
+                "localname": "Part of SMB Ward No.-2",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "SilcharW8V1",
+                "children": []
+              },
+              {
+                "id": "4b5a9423-c7ca-48bf-9474-53b5e1bfbbad",
+                "boundaryNum": 2,
+                "name": "Part of SMB Ward No.-3",
+                "localname": "Part of SMB Ward No.-3",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW8V2",
                 "children": []
               }
             ]
@@ -212,14 +322,25 @@
             "code": "SilcharW9",
             "children": [
               {
-                "id": "b589ed0e-8e7b-4fa0-aa65-1878d7b1b089",
+                "id": "271bb9ea-b857-4344-9f06-23f757c23c02",
                 "boundaryNum": 1,
-                "name": "Part of SMB Ward No.-1 and 4",
-                "localname": "Part of SMB Ward No.-1 and 4",
+                "name": "Part of SMB Ward No.-1",
+                "localname": "Part of SMB Ward No.-1",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "SilcharW9V1",
+                "children": []
+              },
+              {
+                "id": "e1428724-ad02-4b1a-abfc-a71eb07dc844",
+                "boundaryNum": 2,
+                "name": "Part of SMB Ward No.-4",
+                "localname": "Part of SMB Ward No.-4",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW9V2",
                 "children": []
               }
             ]
@@ -235,14 +356,25 @@
             "code": "SilcharW10",
             "children": [
               {
-                "id": "a44f008c-ea16-4693-8862-28595fa2179a",
+                "id": "fc5b4327-bcac-4f55-81f6-f00087340af0",
                 "boundaryNum": 1,
-                "name": "Part of SMB Ward No.-6 and 7",
-                "localname": "Part of SMB Ward No.-6 and 7",
+                "name": "Part of SMB Ward No.-6",
+                "localname": "Part of SMB Ward No.-6",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "SilcharW10V1",
+                "children": []
+              },
+              {
+                "id": "a5fa5c78-61d6-497a-8c6c-3a0ca243a7be",
+                "boundaryNum": 2,
+                "name": "Part of SMB Ward No.-7",
+                "localname": "Part of SMB Ward No.-7",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW10V2",
                 "children": []
               }
             ]
@@ -258,14 +390,25 @@
             "code": "SilcharW11",
             "children": [
               {
-                "id": "959ac03d-a54f-49b9-8ad2-40ebe2ca57ce",
+                "id": "bf551797-759a-4915-966b-e9a953b5fcb2",
                 "boundaryNum": 1,
-                "name": "Part of SMB Ward No.-6 and 23",
-                "localname": "Part of SMB Ward No.-6 and 23",
+                "name": "Part of SMB Ward No.-6",
+                "localname": "Part of SMB Ward No.-6",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "SilcharW11V1",
+                "children": []
+              },
+              {
+                "id": "37143e97-bae1-4cb6-836d-1faf67d3ab62",
+                "boundaryNum": 2,
+                "name": "Part of SMB Ward No.- 23",
+                "localname": "Part of SMB Ward No.- 23",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW11V2",
                 "children": []
               }
             ]
@@ -281,14 +424,36 @@
             "code": "SilcharW12",
             "children": [
               {
-                "id": "74381562-ec99-4e98-b134-126025e2f242",
+                "id": "7d79e35b-4ad2-453d-a8eb-8a7f01a11681",
                 "boundaryNum": 1,
-                "name": "SMB Ward No.-24, SMB Ward No.-25 and Part of SMB Ward No.-27",
-                "localname": "SMB Ward No.-24, SMB Ward No.-25 and Part of SMB Ward No.-27",
+                "name": "SMB Ward No.-24",
+                "localname": "SMB Ward No.-24",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "SilcharW12V1",
+                "children": []
+              },
+              {
+                "id": "60f50184-922c-4fe7-8c1b-28855db2f769",
+                "boundaryNum": 2,
+                "name": "SMB Ward, No.-25",
+                "localname": "SMB Ward, No.-25",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW12V2",
+                "children": []
+              },
+              {
+                "id": "a15d9762-b02d-4d89-b20a-2444d32fd2ab",
+                "boundaryNum": 3,
+                "name": "Part of SMB Ward, No-27",
+                "localname": "Part of SMB Ward, No-27",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW12V3",
                 "children": []
               }
             ]
@@ -304,14 +469,25 @@
             "code": "SilcharW13",
             "children": [
               {
-                "id": "8e523edf-5905-4e51-b871-a1ef0c678aa5",
+                "id": "16d0d1e0-f373-40bb-bf36-095adda728dd",
                 "boundaryNum": 1,
-                "name": "Tarapur Part-VII, SMB Ward No.-28",
-                "localname": "Tarapur Part-VII, SMB Ward No.-28",
+                "name": "Tarapur Part-VII.",
+                "localname": "Tarapur Part-VII.",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "SilcharW13V1",
+                "children": []
+              },
+              {
+                "id": "20fa6e0a-13e2-40b7-8f0f-77c630c829ec",
+                "boundaryNum": 2,
+                "name": "SMB Ward No.- 28",
+                "localname": "SMB Ward No.- 28",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW13V2",
                 "children": []
               }
             ]
@@ -327,7 +503,7 @@
             "code": "SilcharW14",
             "children": [
               {
-                "id": "727593f4-ab14-40e0-b119-ff817a00a5b9",
+                "id": "28c761fe-0e79-4cc5-9b75-f0c67447f73a",
                 "boundaryNum": 1,
                 "name": "Tarapur Part-VII",
                 "localname": "Tarapur Part-VII",
@@ -350,7 +526,7 @@
             "code": "SilcharW15",
             "children": [
               {
-                "id": "8eecc0e2-7ef1-486c-b55f-4cf100d4aa7d",
+                "id": "cb499fe0-aabd-40b3-b50b-725a5f4784cc",
                 "boundaryNum": 1,
                 "name": "Tarapur Part-VI",
                 "localname": "Tarapur Part-VI",
@@ -373,14 +549,25 @@
             "code": "SilcharW16",
             "children": [
               {
-                "id": "d6b16d17-4ce2-4e27-92f1-d2863ca494fb",
+                "id": "3d352ee5-8dc0-47dd-a12f-158ccbdf9395",
                 "boundaryNum": 1,
-                "name": "Tupkhana Part-I (CT), Tarapur Part-I",
-                "localname": "Tupkhana Part-I (CT), Tarapur Part-I",
+                "name": "Tupkhana Part-I(CT)",
+                "localname": "Tupkhana Part-I(CT)",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "SilcharW16V1",
+                "children": []
+              },
+              {
+                "id": "6f58d6ab-d3f2-43a3-80cd-a5f633628c6e",
+                "boundaryNum": 2,
+                "name": "Tarapur Part - I",
+                "localname": "Tarapur Part - I",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW16V2",
                 "children": []
               }
             ]
@@ -396,14 +583,25 @@
             "code": "SilcharW17",
             "children": [
               {
-                "id": "969ce258-9ced-4f2a-8c00-9607f9390a20",
+                "id": "f59bc7da-443c-4a8d-a22a-fb41b4922e5b",
                 "boundaryNum": 1,
-                "name": "Tarapur Part-IV, V",
-                "localname": "Tarapur Part-IV, V",
+                "name": "Tarapur Part-IV",
+                "localname": "Tarapur Part-IV",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "SilcharW17V1",
+                "children": []
+              },
+              {
+                "id": "751de1bd-097b-409b-b1b4-470c36351343",
+                "boundaryNum": 2,
+                "name": "Tarapur Part-V",
+                "localname": "Tarapur Part-V",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW17V2",
                 "children": []
               }
             ]
@@ -419,14 +617,36 @@
             "code": "SilcharW18",
             "children": [
               {
-                "id": "a29a8096-4537-418c-aab8-c5227ad9638f",
+                "id": "e539ccbe-26a2-4a73-8231-3770e74a9086",
                 "boundaryNum": 1,
-                "name": "Tarapur Part-VIII, Ambicapur Part-I, Part of SMB Ward No.-19",
-                "localname": "Tarapur Part-VIII, Ambicapur Part-I, Part of SMB Ward No.-19",
+                "name": "Tarapur Part-VIII",
+                "localname": "Tarapur Part-VIII",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "SilcharW18V1",
+                "children": []
+              },
+              {
+                "id": "da7bdf70-a38c-4e18-95a8-b113545ca1ce",
+                "boundaryNum": 2,
+                "name": "Ambicapur Part-I",
+                "localname": "Ambicapur Part-I",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW18V2",
+                "children": []
+              },
+              {
+                "id": "a135ef6e-3eb4-4a31-bdb9-7dba082f3fc4",
+                "boundaryNum": 3,
+                "name": "PART OF SMB WARD NO-19",
+                "localname": "PART OF SMB WARD NO-19",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW18V3",
                 "children": []
               }
             ]
@@ -442,10 +662,10 @@
             "code": "SilcharW19",
             "children": [
               {
-                "id": "998c6b09-f725-407f-a82f-533f0afa5697",
+                "id": "506092da-b666-4769-9c1f-ae3910c4d8dc",
                 "boundaryNum": 1,
-                "name": "SMB Ward No.-19",
-                "localname": "SMB Ward No.-19",
+                "name": "SMB WARD NO-19",
+                "localname": "SMB WARD NO-19",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
@@ -465,10 +685,10 @@
             "code": "SilcharW20",
             "children": [
               {
-                "id": "af130f4c-4227-4711-80d4-9ff5a672fe30",
+                "id": "6f4dd8c2-f471-4063-9507-90a7a0b33063",
                 "boundaryNum": 1,
-                "name": "Part of SMB Ward No.-27",
-                "localname": "Part of SMB Ward No.-27",
+                "name": "PART OF SMB WARD NO-27",
+                "localname": "PART OF SMB WARD NO-27",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
@@ -488,10 +708,10 @@
             "code": "SilcharW21",
             "children": [
               {
-                "id": "b2549dc1-e238-43dd-9f40-b1207382a07f",
+                "id": "a7183022-9872-4a0c-9e87-db899df08fb5",
                 "boundaryNum": 1,
-                "name": "Part of SMB Ward No.-25",
-                "localname": "Part of SMB Ward No.-25",
+                "name": "PART OF SMB WARD NO-25",
+                "localname": "PART OF SMB WARD NO-25",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
@@ -511,10 +731,10 @@
             "code": "SilcharW22",
             "children": [
               {
-                "id": "5c260b45-0fa0-4f78-906b-291f49fba127",
+                "id": "ba8c7935-5c7d-493e-b6df-cee2c6c2d92e",
                 "boundaryNum": 1,
-                "name": "SMB Ward No.-22",
-                "localname": "SMB Ward No.-22",
+                "name": "SMB WARD NO-22",
+                "localname": "SMB WARD NO-22",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
@@ -534,14 +754,25 @@
             "code": "SilcharW23",
             "children": [
               {
-                "id": "88554f0f-d26d-406a-a1e9-f3889b295140",
+                "id": "c38d2a6e-4594-4d42-bd9f-e69f69e457f1",
                 "boundaryNum": 1,
-                "name": "SMB Ward No.-10 and SMB Ward No.-9",
-                "localname": "SMB Ward No.-10 and SMB Ward No.-9",
+                "name": "SMB WARD NO-10",
+                "localname": "SMB WARD NO-10",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "SilcharW23V1",
+                "children": []
+              },
+              {
+                "id": "7509ab39-a897-4570-8441-f16420b6755b",
+                "boundaryNum": 2,
+                "name": "SMB WARD NO-9",
+                "localname": "SMB WARD NO-9",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW23V2",
                 "children": []
               }
             ]
@@ -557,14 +788,25 @@
             "code": "SilcharW24",
             "children": [
               {
-                "id": "467b7b61-57ee-4088-87cf-4993f2154195",
+                "id": "2e692b4a-cf5d-4d28-b2c8-66e6ac99a1d2",
                 "boundaryNum": 1,
-                "name": "Silchar X(CT), Silchar XI(OG)",
-                "localname": "Silchar X(CT), Silchar XI(OG)",
+                "name": "Silchar X(CT)",
+                "localname": "Silchar X(CT)",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "SilcharW24V1",
+                "children": []
+              },
+              {
+                "id": "b5351980-7324-46fa-9755-46f328ce64a7",
+                "boundaryNum": 2,
+                "name": "Silchar XI(OG)",
+                "localname": "Silchar XI(OG)",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW24V2",
                 "children": []
               }
             ]
@@ -580,14 +822,36 @@
             "code": "SilcharW25",
             "children": [
               {
-                "id": "29a97770-94b3-4a3a-9e00-fd81f4b0decf",
+                "id": "f673cf22-8d98-4c1e-b4c7-891918a361bd",
                 "boundaryNum": 1,
-                "name": "Berenga III, IV, V",
-                "localname": "Berenga III, IV, V",
+                "name": "Berenga III",
+                "localname": "Berenga III",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "SilcharW25V1",
+                "children": []
+              },
+              {
+                "id": "b532a404-2f63-4879-ae0a-7f90c0b62cc6",
+                "boundaryNum": 2,
+                "name": "Berenga IV",
+                "localname": "Berenga IV",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW25V2",
+                "children": []
+              },
+              {
+                "id": "0a59e884-ea69-4b5d-ae17-9440050a7898",
+                "boundaryNum": 3,
+                "name": "Berenga V",
+                "localname": "Berenga V",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW25V3",
                 "children": []
               }
             ]
@@ -603,14 +867,25 @@
             "code": "SilcharW26",
             "children": [
               {
-                "id": "32d81310-53da-44c2-9f8f-137c2c275135",
+                "id": "6390d847-a551-4734-9763-44a2e13ae7bc",
                 "boundaryNum": 1,
-                "name": "Beranga I, II",
-                "localname": "Beranga I, II",
+                "name": "Beranga II",
+                "localname": "Beranga II",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "SilcharW26V1",
+                "children": []
+              },
+              {
+                "id": "9acb6c12-7cbb-483c-8192-7e06ea48286d",
+                "boundaryNum": 2,
+                "name": "Beranga II",
+                "localname": "Beranga II",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW26V2",
                 "children": []
               }
             ]
@@ -626,14 +901,25 @@
             "code": "SilcharW27",
             "children": [
               {
-                "id": "d646ff0c-108c-4090-aef8-ff04b110896c",
+                "id": "a3de6c7c-44ca-4340-a616-9c67e5f174d1",
                 "boundaryNum": 1,
-                "name": "KANAKPUR PART-II AND PART SMB WARD NO-14",
-                "localname": "KANAKPUR PART-II AND PART SMB WARD NO-14",
+                "name": "KANAKPUR PART-II",
+                "localname": "KANAKPUR PART-II",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "SilcharW27V1",
+                "children": []
+              },
+              {
+                "id": "6e7f6297-fd7e-4a35-9af4-c67332ca6bb7",
+                "boundaryNum": 2,
+                "name": "PART SMB WARD NO-14",
+                "localname": "PART SMB WARD NO-14",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW27V2",
                 "children": []
               }
             ]
@@ -649,7 +935,7 @@
             "code": "SilcharW28",
             "children": [
               {
-                "id": "3d4c28ea-dd01-4301-84c3-bbafcd0aeefc",
+                "id": "fdadcda9-c426-49c2-8654-735e124b8438",
                 "boundaryNum": 1,
                 "name": "SMB WARD NO-12",
                 "localname": "SMB WARD NO-12",
@@ -672,14 +958,25 @@
             "code": "SilcharW29",
             "children": [
               {
-                "id": "3c889c24-7547-447d-a4d2-f2b7ee56294f",
+                "id": "1c1e2e7b-6b0d-453c-9275-22a3a4846c84",
                 "boundaryNum": 1,
-                "name": "SMB WARD NO-11 and 21",
-                "localname": "SMB WARD NO-11 and 21",
+                "name": "SMB WARD NO-11",
+                "localname": "SMB WARD NO-11",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "SilcharW29V1",
+                "children": []
+              },
+              {
+                "id": "9b8fe49b-c64c-489c-876f-ee2bc514178e",
+                "boundaryNum": 2,
+                "name": "SMB WARD NO- 21",
+                "localname": "SMB WARD NO- 21",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW29V2",
                 "children": []
               }
             ]
@@ -695,14 +992,25 @@
             "code": "SilcharW30",
             "children": [
               {
-                "id": "51226aaa-6be9-4810-a3f6-4876962d61fb",
+                "id": "6c5cf116-8cf3-4586-818b-5c0f1fa2a1cd",
                 "boundaryNum": 1,
-                "name": "SMB WARD NO-21 AND 21",
-                "localname": "SMB WARD NO-21 AND 21",
+                "name": "SMB WARD NO-11",
+                "localname": "SMB WARD NO-11",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "SilcharW30V1",
+                "children": []
+              },
+              {
+                "id": "47844eb5-5171-4f2a-9435-73af567b0238",
+                "boundaryNum": 2,
+                "name": "SMB WARD NO- 21",
+                "localname": "SMB WARD NO- 21",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW30V2",
                 "children": []
               }
             ]
@@ -718,7 +1026,7 @@
             "code": "SilcharW31",
             "children": [
               {
-                "id": "a55f3ebc-9e16-4394-80f5-4ed2af8cdab3",
+                "id": "53c16f93-5611-4fdb-a749-8d5dbadb515c",
                 "boundaryNum": 1,
                 "name": "PART OF WARD NO-19",
                 "localname": "PART OF WARD NO-19",
@@ -741,14 +1049,25 @@
             "code": "SilcharW32",
             "children": [
               {
-                "id": "7d7e548c-95e3-4b1e-9847-d381f1727678",
+                "id": "334f72e1-ce75-4a43-b7cf-b8d0ea910e8f",
                 "boundaryNum": 1,
-                "name": "Ambicapur Part-VII, VIII(CT)",
-                "localname": "Ambicapur Part-VII, VIII(CT)",
+                "name": "Ambicapur Part-VII",
+                "localname": "Ambicapur Part-VII",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "SilcharW32V1",
+                "children": []
+              },
+              {
+                "id": "ecb209b0-8e0a-4604-abbf-3c224d665c54",
+                "boundaryNum": 2,
+                "name": "Ambicapur Part- VIII(CT)",
+                "localname": "Ambicapur Part- VIII(CT)",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW32V2",
                 "children": []
               }
             ]
@@ -764,7 +1083,7 @@
             "code": "SilcharW33",
             "children": [
               {
-                "id": "3fbd2cd7-a121-4ded-8e56-0dbdde044213",
+                "id": "d63991dd-8d3a-4989-8ebd-ce8998bf5055",
                 "boundaryNum": 1,
                 "name": "PART OF WARD NO-17",
                 "localname": "PART OF WARD NO-17",
@@ -787,14 +1106,25 @@
             "code": "SilcharW34",
             "children": [
               {
-                "id": "dc2d4504-38ab-4707-9332-c929c12cb9cd",
+                "id": "0f50c48c-4095-4172-8b1a-b375c8cb3b76",
                 "boundaryNum": 1,
-                "name": "PART OF SMB WARD NO-18 AND 17",
-                "localname": "PART OF SMB WARD NO-18 AND 17",
+                "name": "PART OF SMB WARD NO-18",
+                "localname": "PART OF SMB WARD NO-18",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "SilcharW34V1",
+                "children": []
+              },
+              {
+                "id": "444062d0-51d0-433a-ab49-f345bed05d2e",
+                "boundaryNum": 2,
+                "name": "PART OF SMB WARD NO- 17",
+                "localname": "PART OF SMB WARD NO- 17",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW34V2",
                 "children": []
               }
             ]
@@ -810,14 +1140,25 @@
             "code": "SilcharW35",
             "children": [
               {
-                "id": "b24870df-5040-43d2-b90c-1163c5ec6173",
+                "id": "064c18b1-2b16-41a1-9de7-37b4f14cc812",
                 "boundaryNum": 1,
-                "name": "PART OF SMB WARD NO-13 AND SMB WARD NO-15",
-                "localname": "PART OF SMB WARD NO-13 AND SMB WARD NO-15",
+                "name": "PART OF SMB WARD NO-13",
+                "localname": "PART OF SMB WARD NO-13",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "SilcharW35V1",
+                "children": []
+              },
+              {
+                "id": "85c70b9e-9453-4823-8938-dcd64591ea5c",
+                "boundaryNum": 2,
+                "name": "SMB WARD NO-15",
+                "localname": "SMB WARD NO-15",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW35V2",
                 "children": []
               }
             ]
@@ -833,14 +1174,25 @@
             "code": "SilcharW36",
             "children": [
               {
-                "id": "d61c95c5-36cb-417c-ba2c-c3fa12b496f7",
+                "id": "77b188cb-9b76-4041-a252-13d033db66bc",
                 "boundaryNum": 1,
-                "name": "PART OF SMB WARD NO-13 AND 14",
-                "localname": "PART OF SMB WARD NO-13 AND 14",
+                "name": "PART OF SMB WARD NO-13",
+                "localname": "PART OF SMB WARD NO-13",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "SilcharW36V1",
+                "children": []
+              },
+              {
+                "id": "0f54b60b-fb84-49ec-9872-0b2345d828ab",
+                "boundaryNum": 2,
+                "name": "PART OF SMB WARD NO-14",
+                "localname": "PART OF SMB WARD NO-14",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW36V2",
                 "children": []
               }
             ]
@@ -856,14 +1208,25 @@
             "code": "SilcharW37",
             "children": [
               {
-                "id": "ec1d892c-3a29-4b2a-b921-431fbaa731f6",
+                "id": "58db158a-dcf8-4795-b2a8-23772f19126b",
                 "boundaryNum": 1,
-                "name": "KANAKPUR PART-I and Existing SMB WARD NO-14",
-                "localname": "KANAKPUR PART-I and Existing SMB WARD NO-14",
+                "name": "KANAKPUR PART-I",
+                "localname": "KANAKPUR PART-I",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "SilcharW37V1",
+                "children": []
+              },
+              {
+                "id": "9a13b579-dc74-42f7-8e23-5eb2743c044d",
+                "boundaryNum": 2,
+                "name": "Existing SMB WARD NO-14",
+                "localname": "Existing SMB WARD NO-14",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW37V2",
                 "children": []
               }
             ]
@@ -879,7 +1242,7 @@
             "code": "SilcharW38",
             "children": [
               {
-                "id": "827db93b-a73b-4b59-86a6-7ce8485c7187",
+                "id": "7ab9dbfa-9d14-4494-bba4-7a69132fe956",
                 "boundaryNum": 1,
                 "name": "SMB WARD NO-16",
                 "localname": "SMB WARD NO-16",
@@ -902,14 +1265,47 @@
             "code": "SilcharW39",
             "children": [
               {
-                "id": "bc7c618c-f2dc-4b02-a204-435eca82db9b",
+                "id": "b01b97b3-10be-4dbf-aaad-77936e22e194",
                 "boundaryNum": 1,
-                "name": "Ambicapur Part-VII, Ambicapur, Part-X(CT), Ambicapur Part-XI, AND PART OF SMB WARD, NO-17",
-                "localname": "Ambicapur Part-VII, Ambicapur, Part-X(CT), Ambicapur Part-XI, AND PART OF SMB WARD, NO-17",
+                "name": "Ambicapur Part-VII",
+                "localname": "Ambicapur Part-VII",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "SilcharW39V1",
+                "children": []
+              },
+              {
+                "id": "0ea2d7e1-3782-410b-8b71-bb14109188d7",
+                "boundaryNum": 2,
+                "name": "Ambicapur Part-X(CT)",
+                "localname": "Ambicapur Part-X(CT)",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW39V2",
+                "children": []
+              },
+              {
+                "id": "f7af719f-8fa7-4f42-afd3-ac7ae8eeba59",
+                "boundaryNum": 3,
+                "name": "Ambicapur Part-XI",
+                "localname": "Ambicapur Part-XI",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW39V3",
+                "children": []
+              },
+              {
+                "id": "f2dfd99c-9724-4f52-a326-20749014af52",
+                "boundaryNum": 4,
+                "name": "PART OF SMB WARD, NO-17",
+                "localname": "PART OF SMB WARD, NO-17",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW39V4",
                 "children": []
               }
             ]
@@ -925,7 +1321,7 @@
             "code": "SilcharW40",
             "children": [
               {
-                "id": "e1d5ab0b-a1a2-46e3-a2ea-f2f942f589d5",
+                "id": "6bfece1c-a55c-41ba-b1c2-5f386e4d0f9a",
                 "boundaryNum": 1,
                 "name": "Ambicapur Part - X(CT)",
                 "localname": "Ambicapur Part - X(CT)",
@@ -948,14 +1344,36 @@
             "code": "SilcharW41",
             "children": [
               {
-                "id": "8cd96fe0-4615-4152-b3da-3f0e9cc8df26",
+                "id": "2cbcb769-9939-462d-a37b-7ea9c8b1dc5c",
                 "boundaryNum": 1,
-                "name": "Kanakpur Part-I, U.K.Pur Part-I, U.K.Pur Part-III",
-                "localname": "Kanakpur Part-I, U.K.Pur Part-I, U.K.Pur Part-III",
+                "name": "Kanakpur Part-I",
+                "localname": "Kanakpur Part-I",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "SilcharW41V1",
+                "children": []
+              },
+              {
+                "id": "d8e1b029-22e3-4985-85da-6409b8c96997",
+                "boundaryNum": 2,
+                "name": "U.K.Pur Part-I",
+                "localname": "U.K.Pur Part-I",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW41V2",
+                "children": []
+              },
+              {
+                "id": "6e03ddd9-5149-497a-a735-776653d19331",
+                "boundaryNum": 3,
+                "name": "U.K.Pur Part-III",
+                "localname": "U.K.Pur Part-III",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SilcharW41V3",
                 "children": []
               }
             ]
@@ -971,7 +1389,7 @@
             "code": "SilcharW42",
             "children": [
               {
-                "id": "a9ec89e9-0ed5-4315-ba11-a86fac3f8ce3",
+                "id": "f3e7156a-fd81-42d4-81c2-12c0431b4bb4",
                 "boundaryNum": 1,
                 "name": "Ambicapur Part - VI(CT)",
                 "localname": "Ambicapur Part - VI(CT)",
