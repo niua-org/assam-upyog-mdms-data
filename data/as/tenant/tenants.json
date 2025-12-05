@@ -39,9 +39,6 @@
       "code": "as.nalbarimb",
       "name": "Nalbari Municipal Corporation",
       "description": "Nalbari Municipal Corporation",
-      "pincode": [
-        781335
-      ],
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -104,7 +101,7 @@
         "planningAreaCode": "DIBRUGARH_MP",
         "ulbGrade": "MUNICIPAL_BOARD",
         "code": "1515",
-        "ddrName": "Dibrugarh Municipal Board"
+        "ddrName": "Dibrugarh Municipal Corporation"
       }
     },
     {
@@ -146,13 +143,13 @@
       "emailId": "complaints.mcj@gmail.com",
       "city": {
         "name": "Silchar",
-        "districtCode": "SILCHAR",
-        "districtName": null,
+        "districtCode": "CACHAR",
+        "districtName": "Cachar",
         "districtTenantCode": "as.silchar",
         "planningAreaCode": "SILCHAR_MP",
         "ulbGrade": "MUNICIPAL_BOARD",
         "code": "1517",
-        "ddrName": "Silchar Municipal Board"
+        "ddrName": "Silchar Municipal Corporation"
       }
     },
     {
@@ -1749,6 +1746,342 @@
         "planningAreaCode": "SILCHAR_MP",
         "code": "1676",
         "ddrName": "Kumarpara Nizjoinagar GP Gram Panchayat"
+      }
+    },
+    {
+      "code": "as.mangaldaimb",
+      "name": "Mangaldai Municipal Corporation",
+      "description": "Mangaldai Municipal Corporation",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "emailId": "complaints.mcj@gmail.com",
+      "city": {
+        "name": "Mangaldai",
+        "districtCode": "DARANG",
+        "districtName": "Darang",
+        "districtTenantCode": "as.mangaldaimb",
+        "planningAreaCode": "MANGALDAI_MP",
+        "ulbGrade": "MUNICIPAL_BOARD",
+        "code": "1677",
+        "ddrName": "Mangaldai Municipal Board"
+      }
+    },
+    {
+      "code": "as.goalparamb",
+      "name": "Goalpara Municipal Corporation",
+      "description": "Goalpara Municipal Corporation",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "emailId": "complaints.mcj@gmail.com",
+      "city": {
+        "name": "Goalpara MB",
+        "districtCode": "GOALPARA_MB",
+        "districtName": null,
+        "districtTenantCode": "as.goalparamb",
+        "planningAreaCode": "GOALPARA_MP",
+        "ulbGrade": "MUNICIPAL_BOARD",
+        "code": "1679",
+        "ddrName": "Goalpara Municipal Board"
+      }
+    },
+    {
+      "code": "as.bongaigaonmb",
+      "name": "Bongaigaon Municipal Corporation",
+      "description": "Bongaigaon Municipal Corporation",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "emailId": "complaints.mcj@gmail.com",
+      "city": {
+        "name": "Bongaigaonmb MB",
+        "districtCode": "BONGAIGAON_MB",
+        "districtName": null,
+        "districtTenantCode": "as.bongaigaon",
+        "planningAreaCode": "BONGAIGAON_MP",
+        "ulbGrade": "MUNICIPAL_BOARD",
+        "code": "1680",
+        "ddrName": "Bongaigaon Municipal Board"
+      }
+    },
+    {
+      "code": "as.nagaonmb",
+      "name": "Nagaon Municipal Board",
+      "description": "Nagaon Municipal Board",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "emailId": "complaints.nagaonmb@gmail.com",
+      "city": {
+        "name": "Nagaon MB",
+        "districtCode": "NAGAON_MB",
+        "districtName": null,
+        "districtTenantCode": "as.nagaonmb",
+        "planningAreaCode": "NAGAON_MP",
+        "ulbGrade": "MUNICIPAL_BOARD",
+        "code": "1681",
+        "ddrName": "Nagaon Municipal Board"
+      }
+    },
+    {
+      "code": "as.tezpurmb",
+      "name": "Tezpur Municipal Board",
+      "description": "Tezpur Municipal Board",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "emailId": "complaints.tezpurmb@gmail.com",
+      "city": {
+        "name": "Tezpur",
+        "districtCode": "SONITPUR",
+        "districtName": "Sonitpur",
+        "districtTenantCode": "as.tezpurmb",
+        "planningAreaCode": "TEZPUR_MP",
+        "ulbGrade": "MUNICIPAL_BOARD",
+        "code": "1682",
+        "ddrName": "Tezpur Municipal Board"
+      }
+    },
+    {
+      "code": "as.biswanathcharialimb",
+      "name": "Biswanath Chariali Municipal Board",
+      "description": "Biswanath Chariali Municipal Board",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "emailId": "complaints.biswanathcharialimb@gmail.com",
+      "city": {
+        "name": "Biswanath Chariali",
+        "districtCode": "BISWANATH",
+        "districtName": "Biswanath",
+        "districtTenantCode": "as.biswanathcharialimb",
+        "planningAreaCode": "BISWANATH_CHARIALI_MP",
+        "ulbGrade": "MUNICIPAL_BOARD",
+        "code": "1683",
+        "ddrName": "Biswanath Chariali Municipal Board"
+      }
+    },
+    {
+      "code": "as.golaghatmb",
+      "name": "Golaghat Municipal Board",
+      "description": "Golaghat Municipal Board",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "emailId": "complaints.golaghatmb@gmail.com",
+      "city": {
+        "name": "Golaghat",
+        "districtCode": "GOLAGHAT",
+        "districtName": "Golaghat",
+        "districtTenantCode": "as.golaghatmb",
+        "planningAreaCode": "GOLAGHAT_MP",
+        "ulbGrade": "MUNICIPAL_BOARD",
+        "code": "1684",
+        "ddrName": "Golaghat Municipal Board"
+      }
+    },
+    {
+      "code": "as.dergaonmb",
+      "name": "Dergaon Municipal Board",
+      "description": "Dergaon Municipal Board",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "emailId": "complaints.dergaonmb@gmail.com",
+      "city": {
+        "name": "Dergaon",
+        "districtCode": "GOLAGHAT",
+        "districtName": "Golaghat",
+        "districtTenantCode": "as.dergaonmb",
+        "planningAreaCode": "DERGAON_MP",
+        "ulbGrade": "MUNICIPAL_BOARD",
+        "code": "1685",
+        "ddrName": "Dergaon Municipal Board"
+      }
+    },
+    {
+      "code": "as.jorhatmb",
+      "name": "Jorhat Municipal Board",
+      "description": "Jorhat Municipal Board",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "emailId": "complaints.jorhatmb@gmail.com",
+      "city": {
+        "name": "Jorhat",
+        "districtCode": "JORHAT",
+        "districtName": "Jorhat",
+        "districtTenantCode": "as.jorhatmb",
+        "planningAreaCode": "JORHAT_MP",
+        "ulbGrade": "MUNICIPAL_BOARD",
+        "code": "1686",
+        "ddrName": "Jorhat Municipal Board"
+      }
+    },
+    {
+      "code": "as.sivasagarmb",
+      "name": "Sivasagar Municipal Board",
+      "description": "Sivasagar Municipal Board",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "emailId": "complaints.sivasagarmb@gmail.com",
+      "city": {
+        "name": "Sivasagar",
+        "districtCode": "SIVASAGAR",
+        "districtName": "Sivasagar",
+        "districtTenantCode": "as.sivasagarmb",
+        "planningAreaCode": "SIVASAGAR_MP",
+        "ulbGrade": "MUNICIPAL_BOARD",
+        "code": "1687",
+        "ddrName": "Sivasagar Municipal Board"
+      }
+    },
+    {
+      "code": "as.naziramb",
+      "name": "Nazira Municipal Board",
+      "description": "Nazira Municipal Board",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "emailId": "complaints.naziramb@gmail.com",
+      "city": {
+        "name": "Nazira",
+        "districtCode": "SIVASAGAR",
+        "districtName": "Sivasagar",
+        "districtTenantCode": "as.naziramb",
+        "planningAreaCode": "NAZIRA_SIMALUGURI_MP",
+        "ulbGrade": "MUNICIPAL_BOARD",
+        "code": "1688",
+        "ddrName": "Nazira Municipal Board"
+      }
+    },
+    {
+      "code": "as.simulugurimb",
+      "name": "Simuluguri Municipal Board",
+      "description": "Simuluguri Municipal Board",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "emailId": "complaints.simulugurimb@gmail.com",
+      "city": {
+        "name": "Simuluguri",
+        "districtCode": "SIVSAGAR",
+        "districtName": "Sivsagar",
+        "districtTenantCode": "as.simulugurimb",
+        "planningAreaCode": "NAZIRA_SIMALUGURI_MP",
+        "ulbGrade": "MUNICIPAL_BOARD",
+        "code": "1689",
+        "ddrName": "Simuluguri Municipal Board"
+      }
+    },
+    {
+      "code": "as.sonarimb",
+      "name": "Sonari Municipal Board",
+      "description": "Sonari Municipal Board",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "emailId": "complaints.sonarimb@gmail.com",
+      "city": {
+        "name": "Sonari",
+        "districtCode": "SIVSAGAR",
+        "districtName": "Sivsagar",
+        "districtTenantCode": "as.sonarimb",
+        "planningAreaCode": "SONARI_MP",
+        "ulbGrade": "MUNICIPAL_BOARD",
+        "code": "1690",
+        "ddrName": "Sonari Municipal Board"
+      }
+    },
+    {
+      "code": "as.northlakhimpurmb",
+      "name": "North Lakhimpur Municipal Board",
+      "description": "North Lakhimpur Municipal Board",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "emailId": "complaints.northlakhimpurmb@gmail.com",
+      "city": {
+        "name": "North Lakhimpur",
+        "districtCode": "NORTHLAKHIMPUR",
+        "districtName": "North Lakhimpur",
+        "districtTenantCode": "as.northlakhimpurmb",
+        "planningAreaCode": "NORTH_LAKHIMPUR_MP",
+        "ulbGrade": "MUNICIPAL_BOARD",
+        "code": "1691",
+        "ddrName": "North Lakhimpur Municipal Board"
+      }
+    },
+    {
+      "code": "as.sribhumimb",
+      "name": "Sribhumi Municipal Board",
+      "description": "Sribhumi Municipal Board",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "emailId": "complaints.sribhumimb@gmail.com",
+      "city": {
+        "name": "Sribhumi",
+        "districtCode": "SRIBHUMI_KARIMGANJ",
+        "districtName": "Sribhumi Karimganj",
+        "districtTenantCode": "as.sribhumimb",
+        "planningAreaCode": "SRIBHUMI_MP",
+        "ulbGrade": "MUNICIPAL_BOARD",
+        "code": "1692",
+        "ddrName": "Sribhumi Municipal Board"
+      }
+    },
+    {
+      "code": "as.dhemajimb",
+      "name": "Dhemaji Municipal Board",
+      "description": "Dhemaji Municipal Board",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "emailId": "complaints.dhemajimb@gmail.com",
+      "city": {
+        "name": "Dhemaji",
+        "districtCode": "DHEMAJI",
+        "districtName": "Dhemaji",
+        "districtTenantCode": "as.dhemajimb",
+        "planningAreaCode": "DHEMAJI_MP",
+        "ulbGrade": "MUNICIPAL_BOARD",
+        "code": "1693",
+        "ddrName": "Dhemaji Municipal Board"
       }
     }
   ]

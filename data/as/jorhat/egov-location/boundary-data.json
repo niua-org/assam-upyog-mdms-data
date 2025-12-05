@@ -1,0 +1,571 @@
+{
+  "tenantId": "as.jorhatmb",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "83d28723-e609-4f1a-8b7f-2f47d204a7a8",
+        "boundaryNum": 1,
+        "name": "Jorhat",
+        "localname": "Jorhat",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.jorhatmb",
+        "children": [
+          {
+            "id": "3b9da127-1318-4a0f-a0dd-0ccae7c46dfa",
+            "boundaryNum": 1,
+            "name": "WARD_1",
+            "localname": "WARD_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "JorhatW1",
+            "children": [
+              {
+                "id": "15ac812e-def3-406e-9d79-ef9b4ed36caa",
+                "boundaryNum": 1,
+                "name": "Jorhat Town Block 6",
+                "localname": "Jorhat Town Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "JorhatW1V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "16a8c6ec-6afa-438c-b081-39b4f7b04c56",
+            "boundaryNum": 2,
+            "name": "WARD_2",
+            "localname": "WARD_2",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "JorhatW2",
+            "children": [
+              {
+                "id": "d4fe0548-e3e2-48d5-8f38-4f4211cf19ef",
+                "boundaryNum": 1,
+                "name": "Jorhat Town Block 6",
+                "localname": "Jorhat Town Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "JorhatW2V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "f16ddc34-d249-4cc6-af57-c9c687d6b2c5",
+            "boundaryNum": 3,
+            "name": "WARD_3",
+            "localname": "WARD_3",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "JorhatW3",
+            "children": [
+              {
+                "id": "9dcdb70f-1710-4aea-8c05-05c58c966888",
+                "boundaryNum": 1,
+                "name": "Jorhat Town Block 1",
+                "localname": "Jorhat Town Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "JorhatW3V1",
+                "children": []
+              },
+              {
+                "id": "9b32eb51-5dbc-433c-a918-8a9bcdb90280",
+                "boundaryNum": 2,
+                "name": "Jorhat Town Block 12",
+                "localname": "Jorhat Town Block 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "JorhatW3V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "232dd750-949c-4e33-a8a5-950b929b5386",
+            "boundaryNum": 4,
+            "name": "WARD_4",
+            "localname": "WARD_4",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "JorhatW4",
+            "children": [
+              {
+                "id": "7c85516d-c490-4aa6-8002-b615d604d9bd",
+                "boundaryNum": 1,
+                "name": "Jorhat Town Block 6",
+                "localname": "Jorhat Town Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "JorhatW4V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "548fc0a7-834d-42f1-8eba-c26b37e0a8fe",
+            "boundaryNum": 5,
+            "name": "WARD_5",
+            "localname": "WARD_5",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "JorhatW5",
+            "children": [
+              {
+                "id": "4d8ef030-2e76-42c3-ad2a-069cc447298e",
+                "boundaryNum": 1,
+                "name": "Jorhat Town Block 6",
+                "localname": "Jorhat Town Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "JorhatW5V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "24dab056-e8ef-4ae1-9d81-c33450088d34",
+            "boundaryNum": 6,
+            "name": "WARD_6",
+            "localname": "WARD_6",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "JorhatW6",
+            "children": [
+              {
+                "id": "bf02e7a0-757c-4e85-b1ca-4c5221845ca5",
+                "boundaryNum": 1,
+                "name": "Jorhat Town Block 1.",
+                "localname": "Jorhat Town Block 1.",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "JorhatW6V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "b87953e3-ac77-4b5f-94f4-7d436e64a5dc",
+            "boundaryNum": 7,
+            "name": "WARD_7",
+            "localname": "WARD_7",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "JorhatW7",
+            "children": [
+              {
+                "id": "c0cefa94-d69d-4f31-8fec-1b595030e7fb",
+                "boundaryNum": 1,
+                "name": "Jorhat Town Block 1",
+                "localname": "Jorhat Town Block 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "JorhatW7V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "9c003ebe-180e-4998-b700-c73f7080a1db",
+            "boundaryNum": 8,
+            "name": "WARD_8",
+            "localname": "WARD_8",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "JorhatW8",
+            "children": [
+              {
+                "id": "d5b2b24e-088e-474b-9f84-94b8d4b8ddae",
+                "boundaryNum": 1,
+                "name": "Jorhat Town Block 2",
+                "localname": "Jorhat Town Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "JorhatW8V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "971f98fa-fe32-45e0-abc7-1b39870cc92d",
+            "boundaryNum": 9,
+            "name": "WARD_9",
+            "localname": "WARD_9",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "JorhatW9",
+            "children": [
+              {
+                "id": "859fb642-a818-4191-8016-07ce6b8b22d9",
+                "boundaryNum": 1,
+                "name": "Jorhat Town Block 2",
+                "localname": "Jorhat Town Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "JorhatW9V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "0ecd0a09-c635-4005-b85d-e7291162db0e",
+            "boundaryNum": 10,
+            "name": "WARD_10",
+            "localname": "WARD_10",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "JorhatW10",
+            "children": [
+              {
+                "id": "f9a93f19-c743-45e0-9be5-bff01e47571d",
+                "boundaryNum": 1,
+                "name": "Jorhat Town Block 2",
+                "localname": "Jorhat Town Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "JorhatW10V1",
+                "children": []
+              },
+              {
+                "id": "c70641bd-5c32-4f14-9480-480a8266e218",
+                "boundaryNum": 2,
+                "name": "Jorhat Town Block 3",
+                "localname": "Jorhat Town Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "JorhatW10V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "0ad5d647-a47c-448e-bdef-7b14778c255a",
+            "boundaryNum": 11,
+            "name": "WARD_11",
+            "localname": "WARD_11",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "JorhatW11",
+            "children": [
+              {
+                "id": "780ff4bf-b800-4803-bb36-f8534cb8e351",
+                "boundaryNum": 1,
+                "name": "Jorhat Town Block 3",
+                "localname": "Jorhat Town Block 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "JorhatW11V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "9b09589c-40f2-4b07-84e7-8d40dc9aeb17",
+            "boundaryNum": 12,
+            "name": "WARD_12",
+            "localname": "WARD_12",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "JorhatW12",
+            "children": [
+              {
+                "id": "bdda42d1-aa21-4d27-abec-1a3aa7754e77",
+                "boundaryNum": 1,
+                "name": "Jorhat Town Block 4",
+                "localname": "Jorhat Town Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "JorhatW12V1",
+                "children": []
+              },
+              {
+                "id": "407b65a5-9745-41aa-b387-796e6b885891",
+                "boundaryNum": 2,
+                "name": "Jorhat Town Block 5",
+                "localname": "Jorhat Town Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "JorhatW12V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "fd67b3c6-b225-46f9-9892-d31c47c5b374",
+            "boundaryNum": 13,
+            "name": "WARD_13",
+            "localname": "WARD_13",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "JorhatW13",
+            "children": [
+              {
+                "id": "78fdc35f-a4ee-4960-9ba7-4b0485d1a082",
+                "boundaryNum": 1,
+                "name": "Jorhat Town Block 5",
+                "localname": "Jorhat Town Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "JorhatW13V1",
+                "children": []
+              },
+              {
+                "id": "bb971eba-729e-4c05-964e-69811b7dc8b7",
+                "boundaryNum": 2,
+                "name": "Jorhat Town Block 4",
+                "localname": "Jorhat Town Block 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "JorhatW13V2",
+                "children": []
+              },
+              {
+                "id": "2cc9aca4-4b11-49de-8512-09073487a638",
+                "boundaryNum": 3,
+                "name": "Jorhat Town Block 8",
+                "localname": "Jorhat Town Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "JorhatW13V3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "c9749c24-3705-41b9-ba06-f47a4e4b90e9",
+            "boundaryNum": 14,
+            "name": "WARD_14",
+            "localname": "WARD_14",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "JorhatW14",
+            "children": [
+              {
+                "id": "08daa200-f517-46c8-958b-217f4fa98391",
+                "boundaryNum": 1,
+                "name": "Jorhat Town Block 5",
+                "localname": "Jorhat Town Block 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "JorhatW14V1",
+                "children": []
+              },
+              {
+                "id": "d6d5361c-79e3-4daf-a432-df7a7b532511",
+                "boundaryNum": 2,
+                "name": "Jorhat Town Block 6",
+                "localname": "Jorhat Town Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "JorhatW14V2",
+                "children": []
+              },
+              {
+                "id": "cadb69f5-4fa1-44d7-b652-b3abad10f905",
+                "boundaryNum": 3,
+                "name": "Jorhat Town Block 8",
+                "localname": "Jorhat Town Block 8",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "JorhatW14V3",
+                "children": []
+              },
+              {
+                "id": "7c89b321-d884-4a1d-b17e-d6d231a1a964",
+                "boundaryNum": 4,
+                "name": "Sarbaibandha",
+                "localname": "Sarbaibandha",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "JorhatW14V4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "aaae9dfc-582c-45cc-91b1-c9f7ef0f1627",
+            "boundaryNum": 15,
+            "name": "WARD_15",
+            "localname": "WARD_15",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "JorhatW15",
+            "children": [
+              {
+                "id": "30c2df6d-2875-40ad-a2e8-ee1afd7143cc",
+                "boundaryNum": 1,
+                "name": "Jorhat Town Block 9",
+                "localname": "Jorhat Town Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "JorhatW15V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "fdc7ea6a-359c-4012-8ca6-2b450d4f268b",
+            "boundaryNum": 16,
+            "name": "WARD_16",
+            "localname": "WARD_16",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "JorhatW16",
+            "children": [
+              {
+                "id": "ca4c46fe-6604-4bcf-8acb-86120ef72c78",
+                "boundaryNum": 1,
+                "name": "Jorhat Town Block 9",
+                "localname": "Jorhat Town Block 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "JorhatW16V1",
+                "children": []
+              },
+              {
+                "id": "5a291572-7709-4a06-8602-27ccf7b950f1",
+                "boundaryNum": 2,
+                "name": "Jorhat Town Block 10",
+                "localname": "Jorhat Town Block 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "JorhatW16V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "e4267b5c-bb48-49fb-bd51-c031d0e179b1",
+            "boundaryNum": 17,
+            "name": "WARD_17",
+            "localname": "WARD_17",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "JorhatW17",
+            "children": [
+              {
+                "id": "b91736c7-aba4-440c-a9fa-1e957565277d",
+                "boundaryNum": 1,
+                "name": "Jorhat Town Block 2",
+                "localname": "Jorhat Town Block 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "JorhatW17V1",
+                "children": []
+              },
+              {
+                "id": "d389e690-44ea-415e-a0e0-8c12cbe501c0",
+                "boundaryNum": 2,
+                "name": "Jorhat Town Block 11",
+                "localname": "Jorhat Town Block 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "JorhatW17V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "20d5b1a7-d4c9-4899-82e1-3225f2d52046",
+            "boundaryNum": 18,
+            "name": "WARD_18",
+            "localname": "WARD_18",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "JorhatW18",
+            "children": [
+              {
+                "id": "2700ad05-bd93-4e03-9045-0a36af250cab",
+                "boundaryNum": 1,
+                "name": "Jorhat Town Block 12",
+                "localname": "Jorhat Town Block 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "JorhatW18V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "a1621036-03af-4c86-8184-78c00036033d",
+            "boundaryNum": 19,
+            "name": "WARD_19",
+            "localname": "WARD_19",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "JorhatW19",
+            "children": [
+              {
+                "id": "6f0eb0cf-a763-4563-a630-13bd485618ea",
+                "boundaryNum": 1,
+                "name": "Jorhat Town Block 7",
+                "localname": "Jorhat Town Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "JorhatW19V1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

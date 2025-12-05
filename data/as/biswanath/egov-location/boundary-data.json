@@ -1,0 +1,465 @@
+{
+  "tenantId": "as.biswanathcharialimb",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "4f98db8d-d2fd-426a-a060-88d8d4975387",
+        "boundaryNum": 1,
+        "name": "Biswanath Chariali",
+        "localname": "Biswanath Chariali",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.biswanathcharialimb",
+        "children": [
+          {
+            "id": "aef3a53e-098c-47e6-9658-f578db65c95c",
+            "boundaryNum": 1,
+            "name": "WARD_1",
+            "localname": "WARD_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "BiswanathW1",
+            "children": [
+              {
+                "id": "7fe7a3e9-81db-43fa-9242-f185f7082ec0",
+                "boundaryNum": 1,
+                "name": "Bishwanath Town Block 1 sheet 1",
+                "localname": "Bishwanath Town Block 1 sheet 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "BiswanathW1V1",
+                "children": []
+              },
+              {
+                "id": "bf7ae551-1248-4426-b16d-b441df6b3911",
+                "boundaryNum": 2,
+                "name": "Bishwanath Town Block 1 Sheet 2",
+                "localname": "Bishwanath Town Block 1 Sheet 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "BiswanathW1V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "0f80db81-0878-4ca1-8872-99f8a5efb2c1",
+            "boundaryNum": 2,
+            "name": "WARD_2",
+            "localname": "WARD_2",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "BiswanathW2",
+            "children": [
+              {
+                "id": "bc3b5b4b-f06a-4f2d-9f06-148d104bd84f",
+                "boundaryNum": 1,
+                "name": "Bishwanath Town Block 1 sheet 2",
+                "localname": "Bishwanath Town Block 1 sheet 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "BiswanathW2V1",
+                "children": []
+              },
+              {
+                "id": "cce94bfa-a423-41f4-a67f-5a2db1fdbdb5",
+                "boundaryNum": 2,
+                "name": "Konch Gaon",
+                "localname": "Konch Gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "BiswanathW2V2",
+                "children": []
+              },
+              {
+                "id": "446fa9b6-4bbf-483d-985d-f7cb8623ffac",
+                "boundaryNum": 3,
+                "name": "Kumar Gaon",
+                "localname": "Kumar Gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "BiswanathW2V3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "c62ef203-01b1-4e00-9d7b-52564ed821be",
+            "boundaryNum": 3,
+            "name": "WARD_3",
+            "localname": "WARD_3",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "BiswanathW3",
+            "children": [
+              {
+                "id": "31f1427e-2ed0-48ab-b1bb-9302a670bcf6",
+                "boundaryNum": 1,
+                "name": "Kumar Gaon",
+                "localname": "Kumar Gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "BiswanathW3V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "4862b1a8-f8b3-4b90-a7fd-87a479d1c691",
+            "boundaryNum": 4,
+            "name": "WARD_4",
+            "localname": "WARD_4",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "BiswanathW4",
+            "children": [
+              {
+                "id": "c123830f-ea58-473e-91cd-aacb5b561178",
+                "boundaryNum": 1,
+                "name": "Bishwanath Town Block 4 sheet 1",
+                "localname": "Bishwanath Town Block 4 sheet 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "BiswanathW4V1",
+                "children": []
+              },
+              {
+                "id": "19eeac7b-8e2c-4ecf-bcf8-4c299e3a7d3e",
+                "boundaryNum": 2,
+                "name": "Bishwanath Town Block 4 sheet 2",
+                "localname": "Bishwanath Town Block 4 sheet 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "BiswanathW4V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "6e2605fe-da3d-4ee5-95ea-3736c0077e8d",
+            "boundaryNum": 5,
+            "name": "WARD_5",
+            "localname": "WARD_5",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "BiswanathW5",
+            "children": [
+              {
+                "id": "68b26b56-f1a8-42ad-afb5-9404992fc2d1",
+                "boundaryNum": 1,
+                "name": "Bishwanath Town Block 5 sheet 2",
+                "localname": "Bishwanath Town Block 5 sheet 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "BiswanathW5V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "de233b6f-fc13-4161-8ba6-be19476320a9",
+            "boundaryNum": 6,
+            "name": "WARD_6",
+            "localname": "WARD_6",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "BiswanathW6",
+            "children": [
+              {
+                "id": "dd5b452a-ed06-4fb9-a83b-216185b2108b",
+                "boundaryNum": 1,
+                "name": "Bishwanath Town Block 5 sheet 1",
+                "localname": "Bishwanath Town Block 5 sheet 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "BiswanathW6V1",
+                "children": []
+              },
+              {
+                "id": "78b2d935-de30-4fc5-9d6c-9c534d2d36ab",
+                "boundaryNum": 2,
+                "name": "Bishwanath Town Block 5 Sheet 2",
+                "localname": "Bishwanath Town Block 5 Sheet 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "BiswanathW6V2",
+                "children": []
+              },
+              {
+                "id": "fd5d4ef7-7562-401f-a7fa-a6cd242ddd7b",
+                "boundaryNum": 3,
+                "name": "Bishwanath Town Block 5 sheet 3",
+                "localname": "Bishwanath Town Block 5 sheet 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "BiswanathW6V3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "b0faf152-321d-4091-998f-7a6662dbf7b6",
+            "boundaryNum": 7,
+            "name": "WARD_7",
+            "localname": "WARD_7",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "BiswanathW7",
+            "children": [
+              {
+                "id": "2b7f26ce-aeda-449b-9dd2-20d696300a4c",
+                "boundaryNum": 1,
+                "name": "Bishwanath Town Block 6",
+                "localname": "Bishwanath Town Block 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "BiswanathW7V1",
+                "children": []
+              },
+              {
+                "id": "89e33453-1e62-48c5-b0c1-63c773e8cd33",
+                "boundaryNum": 2,
+                "name": "Garihagi",
+                "localname": "Garihagi",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "BiswanathW7V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "93cc3cb7-8ec3-46ef-b2e6-25c8953c843e",
+            "boundaryNum": 8,
+            "name": "WARD_8",
+            "localname": "WARD_8",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "BiswanathW8",
+            "children": [
+              {
+                "id": "d9689922-baae-46f0-ad8d-a3d9a41055c3",
+                "boundaryNum": 1,
+                "name": "Bishwanath Town Block 7",
+                "localname": "Bishwanath Town Block 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "BiswanathW8V1",
+                "children": []
+              },
+              {
+                "id": "045f0ef3-ed13-4ab4-aedf-45a2f2ecd828",
+                "boundaryNum": 2,
+                "name": "Aarabari",
+                "localname": "Aarabari",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "BiswanathW8V2",
+                "children": []
+              },
+              {
+                "id": "d2017116-bbb9-493d-9266-4289a4983057",
+                "boundaryNum": 3,
+                "name": "Bishwanath Town Block 4 sheet 1",
+                "localname": "Bishwanath Town Block 4 sheet 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "BiswanathW8V3",
+                "children": []
+              },
+              {
+                "id": "37147b8f-4073-42e2-bfa5-1156f04c4cd2",
+                "boundaryNum": 4,
+                "name": "Bishwanath Town Block 4 sheet 2",
+                "localname": "Bishwanath Town Block 4 sheet 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "BiswanathW8V4",
+                "children": []
+              },
+              {
+                "id": "0fe1479a-7b69-448c-b8c3-963e63c6cfe6",
+                "boundaryNum": 5,
+                "name": "Bishwanath Town Block 3 sheet 2",
+                "localname": "Bishwanath Town Block 3 sheet 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "BiswanathW8V5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "cf86d262-7420-4d57-bf2d-b16f9601b60e",
+            "boundaryNum": 9,
+            "name": "WARD_9",
+            "localname": "WARD_9",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "BiswanathW9",
+            "children": [
+              {
+                "id": "1d85c907-7e85-4200-83e8-b9c68887736a",
+                "boundaryNum": 1,
+                "name": "Bishwanath Town Block 3 sheet 1",
+                "localname": "Bishwanath Town Block 3 sheet 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "BiswanathW9V1",
+                "children": []
+              },
+              {
+                "id": "d0333e03-2700-41f4-9f54-97e8804a27d8",
+                "boundaryNum": 2,
+                "name": "Bishwanath Town Block 4 sheet 2",
+                "localname": "Bishwanath Town Block 4 sheet 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "BiswanathW9V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "aa9378cd-507c-46d9-80c1-ce1b400c885e",
+            "boundaryNum": 10,
+            "name": "WARD_10",
+            "localname": "WARD_10",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "BiswanathW10",
+            "children": [
+              {
+                "id": "21e4cbeb-1625-4996-a9cf-b97113141654",
+                "boundaryNum": 1,
+                "name": "Bishwanath Town Block 5 sheet 2",
+                "localname": "Bishwanath Town Block 5 sheet 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "BiswanathW10V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "b0076392-4f74-449d-b294-b8f3fb215a8b",
+            "boundaryNum": 11,
+            "name": "WARD_11",
+            "localname": "WARD_11",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "BiswanathW11",
+            "children": [
+              {
+                "id": "9bf2c553-9cb3-4475-aa99-c1f48bc3f872",
+                "boundaryNum": 1,
+                "name": "Gaon Chaiali",
+                "localname": "Gaon Chaiali",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "BiswanathW11V1",
+                "children": []
+              },
+              {
+                "id": "fbc97e71-fde3-4ee0-a3e8-3e9a57b36a7b",
+                "boundaryNum": 2,
+                "name": "Bishwanath Town Block 5 sheet 3",
+                "localname": "Bishwanath Town Block 5 sheet 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "BiswanathW11V2",
+                "children": []
+              },
+              {
+                "id": "712b19df-46b0-47f0-8df6-3a35dd28bd19",
+                "boundaryNum": 3,
+                "name": "Bishwanath Town Block 5 sheet 2",
+                "localname": "Bishwanath Town Block 5 sheet 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "BiswanathW11V3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "f47ce906-6973-4862-99ff-e0b661e62bab",
+            "boundaryNum": 12,
+            "name": "WARD_12",
+            "localname": "WARD_12",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "BiswanathW12",
+            "children": [
+              {
+                "id": "483f6413-1510-4b68-bfe8-2f9b21e0be2b",
+                "boundaryNum": 1,
+                "name": "Bishwanath Town Block 3 sheet 1",
+                "localname": "Bishwanath Town Block 3 sheet 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "BiswanathW12V1",
+                "children": []
+              },
+              {
+                "id": "5f9aab8e-26e8-4ad0-9380-04604c8dbd05",
+                "boundaryNum": 2,
+                "name": "BBishwanath Town lock 3 sheet 2.",
+                "localname": "BBishwanath Town lock 3 sheet 2.",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "BiswanathW12V2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

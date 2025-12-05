@@ -1,0 +1,346 @@
+{
+  "tenantId": "as.northlakhimpurmb",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "19cc4f8c-fd4a-427c-b9eb-cf75460e3140",
+        "boundaryNum": 1,
+        "name": "North Lakhimpur",
+        "localname": "North Lakhimpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.northlakhimpurmb",
+        "children": [
+          {
+            "id": "754ed0dd-c9a2-4059-aecc-fc5d136848aa",
+            "boundaryNum": 1,
+            "name": "WARD_1",
+            "localname": "WARD_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NorthLakhimpurW1",
+            "children": [
+              {
+                "id": "7da0c7e2-4db1-4dde-85f5-7ac6cbf13250",
+                "boundaryNum": 1,
+                "name": "Lakhimpur Town Part2",
+                "localname": "Lakhimpur Town Part2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NorthLakhimpurW1V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "e3e85fd3-74a7-4cac-9d3d-05c1832e4b16",
+            "boundaryNum": 2,
+            "name": "WARD_2",
+            "localname": "WARD_2",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NorthLakhimpurW2",
+            "children": [
+              {
+                "id": "091da2a9-6816-4077-b6d0-4d106efd7188",
+                "boundaryNum": 1,
+                "name": "Lakhimpur Town Part2",
+                "localname": "Lakhimpur Town Part2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NorthLakhimpurW2V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "bbad32a0-0a70-460b-b798-b0554dbf2995",
+            "boundaryNum": 3,
+            "name": "WARD_3",
+            "localname": "WARD_3",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NorthLakhimpurW3",
+            "children": [
+              {
+                "id": "17a5fdad-70db-4b2b-872a-d5577e763337",
+                "boundaryNum": 1,
+                "name": "Lakhimpur Town Part3",
+                "localname": "Lakhimpur Town Part3",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NorthLakhimpurW3V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "cd766401-2c9f-4df3-a5c1-1798b337471d",
+            "boundaryNum": 4,
+            "name": "WARD_4",
+            "localname": "WARD_4",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NorthLakhimpurW4",
+            "children": [
+              {
+                "id": "0b9bbaec-80d2-4cc2-8275-5294acdba5c6",
+                "boundaryNum": 1,
+                "name": "Lakhimpur Town Part3",
+                "localname": "Lakhimpur Town Part3",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NorthLakhimpurW4V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "55fec311-5276-4a5c-81fe-7a64c06d19c9",
+            "boundaryNum": 5,
+            "name": "WARD_5",
+            "localname": "WARD_5",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NorthLakhimpurW5",
+            "children": [
+              {
+                "id": "314e50f5-ff8a-42ba-80ed-91358c1b55fd",
+                "boundaryNum": 1,
+                "name": "Lakhimpur Town Part3",
+                "localname": "Lakhimpur Town Part3",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NorthLakhimpurW5V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "91e5af6e-51e2-44bf-9c5e-126a618eda87",
+            "boundaryNum": 6,
+            "name": "WARD_6",
+            "localname": "WARD_6",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NorthLakhimpurW6",
+            "children": [
+              {
+                "id": "41ac09de-10aa-4c2d-871d-fb6400c73ecb",
+                "boundaryNum": 1,
+                "name": "Lakhimpur Town Part 1",
+                "localname": "Lakhimpur Town Part 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NorthLakhimpurW6V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "f9548b1d-6552-41d8-8a0d-de5e08a24de1",
+            "boundaryNum": 7,
+            "name": "WARD_7",
+            "localname": "WARD_7",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NorthLakhimpurW7",
+            "children": [
+              {
+                "id": "40dc3986-a5ea-4240-85c0-48fecfe347ce",
+                "boundaryNum": 1,
+                "name": "Lakhimpur Town Part 1",
+                "localname": "Lakhimpur Town Part 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NorthLakhimpurW7V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "c8ab9358-4c3e-4e55-a351-447cc9eab3cb",
+            "boundaryNum": 8,
+            "name": "WARD_8",
+            "localname": "WARD_8",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NorthLakhimpurW8",
+            "children": [
+              {
+                "id": "04cf8019-3f01-495e-b74c-2438dd98b254",
+                "boundaryNum": 1,
+                "name": "Lakhimpur Town Part 1",
+                "localname": "Lakhimpur Town Part 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NorthLakhimpurW8V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "3973d8fc-dc78-481e-9a2a-a82c4379d372",
+            "boundaryNum": 9,
+            "name": "WARD_9",
+            "localname": "WARD_9",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NorthLakhimpurW9",
+            "children": [
+              {
+                "id": "191dfdbf-ca66-46c3-b7c7-e9a570376ac8",
+                "boundaryNum": 1,
+                "name": "Lakhimpur Town Part 1",
+                "localname": "Lakhimpur Town Part 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NorthLakhimpurW9V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "e2c9bcb7-96ac-46e8-ace4-3af89c505e5a",
+            "boundaryNum": 10,
+            "name": "WARD_10",
+            "localname": "WARD_10",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NorthLakhimpurW10",
+            "children": [
+              {
+                "id": "c220abac-f70d-45e4-b462-89d3ee7911e9",
+                "boundaryNum": 1,
+                "name": "Lakhimpur Town Part 1",
+                "localname": "Lakhimpur Town Part 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NorthLakhimpurW10V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "5e3f9415-3cd1-4eab-a268-867b41934d6d",
+            "boundaryNum": 11,
+            "name": "WARD_11",
+            "localname": "WARD_11",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NorthLakhimpurW11",
+            "children": [
+              {
+                "id": "a6c45e31-2ee1-4a9b-88a1-36f34981ec4f",
+                "boundaryNum": 1,
+                "name": "Lakhimpur Town Part 1",
+                "localname": "Lakhimpur Town Part 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NorthLakhimpurW11V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "54a46edb-a117-45cb-9f5f-fe7ee2423e49",
+            "boundaryNum": 12,
+            "name": "WARD_12",
+            "localname": "WARD_12",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NorthLakhimpurW12",
+            "children": [
+              {
+                "id": "5167a8eb-6fd7-4cc6-acd3-a6fd1292ef09",
+                "boundaryNum": 1,
+                "name": "Lakhimpur Town Part 1",
+                "localname": "Lakhimpur Town Part 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NorthLakhimpurW12V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "9f13f7f4-f294-46f4-bbeb-41d99317369f",
+            "boundaryNum": 13,
+            "name": "WARD_13",
+            "localname": "WARD_13",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NorthLakhimpurW13",
+            "children": [
+              {
+                "id": "a69be886-ea84-4a21-818d-ce70a2d9a7d7",
+                "boundaryNum": 1,
+                "name": "Lakhimpur Town Part 1",
+                "localname": "Lakhimpur Town Part 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NorthLakhimpurW13V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "fe334c24-52d0-4800-b72f-e645bf64078b",
+            "boundaryNum": 14,
+            "name": "WARD_14",
+            "localname": "WARD_14",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NorthLakhimpurW14",
+            "children": [
+              {
+                "id": "f3a3ef7b-49c5-41a2-b371-2d9204da7cee",
+                "boundaryNum": 1,
+                "name": "Lakhimpur Town Part 4",
+                "localname": "Lakhimpur Town Part 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NorthLakhimpurW14V1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,536 @@
+{
+  "tenantId": "as.nalbarimb",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "98758516-7db3-4202-b4ed-e1c2368aec8f",
+        "boundaryNum": 1,
+        "name": "Nalbari",
+        "localname": "Nalbari",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.nalbarimb",
+        "children": [
+          {
+            "id": "5295b77e-b4bb-4f38-a5ae-beb725f83375",
+            "boundaryNum": 1,
+            "name": "WARD_1",
+            "localname": "WARD_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NalbariW1",
+            "children": [
+              {
+                "id": "7c66d287-378e-4ab6-820e-047adcadbbd2",
+                "boundaryNum": 1,
+                "name": "Sandhakairara",
+                "localname": "Sandhakairara",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW1V1",
+                "children": []
+              },
+              {
+                "id": "e07fc9ff-606f-4409-998d-c4b915134d32",
+                "boundaryNum": 2,
+                "name": "Bolakuchi",
+                "localname": "Bolakuchi",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW1V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "d97aa266-4f6b-4596-8273-f4e5624868ba",
+            "boundaryNum": 2,
+            "name": "WARD_2",
+            "localname": "WARD_2",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NalbariW2",
+            "children": [
+              {
+                "id": "604a8274-957a-40a6-b6a8-9492fa3fe540",
+                "boundaryNum": 1,
+                "name": "Nalbari Town",
+                "localname": "Nalbari Town",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW2V1",
+                "children": []
+              },
+              {
+                "id": "bca41286-8fa6-4ed0-8ea9-b8d4b031d377",
+                "boundaryNum": 2,
+                "name": "part of Digheli",
+                "localname": "part of Digheli",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW2V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "df2e28ec-40ca-4022-b2d6-c177a86fb2bd",
+            "boundaryNum": 3,
+            "name": "WARD_3",
+            "localname": "WARD_3",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NalbariW3",
+            "children": [
+              {
+                "id": "29a52b2e-9bca-455c-adda-d9bb7bfa1990",
+                "boundaryNum": 1,
+                "name": "Nalbari Town",
+                "localname": "Nalbari Town",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW3V1",
+                "children": []
+              },
+              {
+                "id": "82fd4bdc-ad28-49dd-8aa0-8c3a49e0d93b",
+                "boundaryNum": 2,
+                "name": "Digheli",
+                "localname": "Digheli",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW3V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "d6ece541-43d5-478f-a85f-760ff9eb5287",
+            "boundaryNum": 4,
+            "name": "WARD_4",
+            "localname": "WARD_4",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NalbariW4",
+            "children": [
+              {
+                "id": "70e17d03-1060-4e66-85d5-79ee5d1d703d",
+                "boundaryNum": 1,
+                "name": "Nalbari Town",
+                "localname": "Nalbari Town",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW4V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "8c4f4857-f3c7-400b-bbdc-1a667159a4e7",
+            "boundaryNum": 5,
+            "name": "WARD_5",
+            "localname": "WARD_5",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NalbariW5",
+            "children": [
+              {
+                "id": "bd6523cc-0fdf-4c07-af6b-6f056f4a69b0",
+                "boundaryNum": 1,
+                "name": "Nalbari Town,",
+                "localname": "Nalbari Town,",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW5V1",
+                "children": []
+              },
+              {
+                "id": "2bf42373-2486-41de-a097-b84a5cc0627c",
+                "boundaryNum": 2,
+                "name": "Bhuyar Kuchi",
+                "localname": "Bhuyar Kuchi",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW5V2",
+                "children": []
+              },
+              {
+                "id": "446a9f16-6d58-4560-9264-92c666bdc88e",
+                "boundaryNum": 3,
+                "name": "Small part of Bardhan toli",
+                "localname": "Small part of Bardhan toli",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW5V3",
+                "children": []
+              },
+              {
+                "id": "48d84cde-4f58-4a6e-9576-42f9cb02d7c4",
+                "boundaryNum": 4,
+                "name": "Kotla",
+                "localname": "Kotla",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW5V4",
+                "children": []
+              },
+              {
+                "id": "884cd85a-d592-4984-b5de-70616b187d9a",
+                "boundaryNum": 5,
+                "name": "Borkuchi",
+                "localname": "Borkuchi",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW5V5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "956e489e-dc46-4e12-b6c7-df9ebfa53a9a",
+            "boundaryNum": 6,
+            "name": "WARD_6",
+            "localname": "WARD_6",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NalbariW6",
+            "children": [
+              {
+                "id": "0def2c77-ac4b-475d-bc7b-e8085a24b86f",
+                "boundaryNum": 1,
+                "name": "Japarkuchi",
+                "localname": "Japarkuchi",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW6V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "2dd6eac9-22f8-46d8-bd7d-2b7f3aa7fe74",
+            "boundaryNum": 7,
+            "name": "WARD_7",
+            "localname": "WARD_7",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NalbariW7",
+            "children": [
+              {
+                "id": "9dbcde37-22d3-4305-8f0a-90d07a1be8e9",
+                "boundaryNum": 1,
+                "name": "Nalbari gaon.part",
+                "localname": "Nalbari gaon.part",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW7V1",
+                "children": []
+              },
+              {
+                "id": "fe4b83b2-0506-4fd8-b037-d2599c5b8b22",
+                "boundaryNum": 2,
+                "name": "Nalbari Town",
+                "localname": "Nalbari Town",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW7V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "765d17a2-9415-442f-b1ad-480d9ee668ec",
+            "boundaryNum": 8,
+            "name": "WARD_8",
+            "localname": "WARD_8",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NalbariW8",
+            "children": [
+              {
+                "id": "3cdb9e0f-ad3f-49f6-9916-c9a767570647",
+                "boundaryNum": 1,
+                "name": "Nalbari Town",
+                "localname": "Nalbari Town",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW8V1",
+                "children": []
+              },
+              {
+                "id": "b25c7bc7-b7a0-47e5-b5f4-58a640dbc432",
+                "boundaryNum": 2,
+                "name": "Balikoria",
+                "localname": "Balikoria",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW8V2",
+                "children": []
+              },
+              {
+                "id": "89fb902a-8bdd-4256-8a73-a1b8386ac4f9",
+                "boundaryNum": 3,
+                "name": "Borkura.",
+                "localname": "Borkura.",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW8V3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "92b33193-9c22-4642-a58a-7b219112e087",
+            "boundaryNum": 9,
+            "name": "WARD_9",
+            "localname": "WARD_9",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NalbariW9",
+            "children": [
+              {
+                "id": "1595ec93-a9f3-496e-85e7-0d38d24e5856",
+                "boundaryNum": 1,
+                "name": "Nalbari Town",
+                "localname": "Nalbari Town",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW9V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "f2d9bc52-8e77-4b98-b9ae-46eb707415df",
+            "boundaryNum": 10,
+            "name": "WARD_10",
+            "localname": "WARD_10",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NalbariW10",
+            "children": [
+              {
+                "id": "9ace0476-cfce-409a-8bd7-5032d2927493",
+                "boundaryNum": 1,
+                "name": "Nalbari Town",
+                "localname": "Nalbari Town",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW10V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "c43f85c9-3f22-452d-8d19-4904df68560b",
+            "boundaryNum": 11,
+            "name": "WARD_11",
+            "localname": "WARD_11",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NalbariW11",
+            "children": [
+              {
+                "id": "9430f687-7e7f-4bb7-bf7e-6e1ebb5ee9ae",
+                "boundaryNum": 1,
+                "name": "Nalbari Town",
+                "localname": "Nalbari Town",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW11V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "a2b3a0b9-c612-43ad-af8a-b10e2eb4d070",
+            "boundaryNum": 12,
+            "name": "WARD_12",
+            "localname": "WARD_12",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NalbariW12",
+            "children": [
+              {
+                "id": "2652e25c-71a3-4902-a386-1b5fcc785fb4",
+                "boundaryNum": 1,
+                "name": "Nalbari Town",
+                "localname": "Nalbari Town",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW12V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "50ab1f43-5d27-4965-8019-c692710ad3bd",
+            "boundaryNum": 13,
+            "name": "WARD_13",
+            "localname": "WARD_13",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NalbariW13",
+            "children": [
+              {
+                "id": "6ee37767-f334-4591-b222-1ab538607b40",
+                "boundaryNum": 1,
+                "name": "Nalbari Town",
+                "localname": "Nalbari Town",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW13V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "7e2dbcd2-0c77-442c-80a9-4800ec07a2e3",
+            "boundaryNum": 14,
+            "name": "WARD_14",
+            "localname": "WARD_14",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NalbariW14",
+            "children": [
+              {
+                "id": "ed394d57-eb8c-4631-944d-dd8e93cb13e2",
+                "boundaryNum": 1,
+                "name": "Balikoria",
+                "localname": "Balikoria",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW14V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "fcbf4809-c4ca-4850-9c5b-7d2d1c1c290a",
+            "boundaryNum": 15,
+            "name": "WARD_15",
+            "localname": "WARD_15",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NalbariW15",
+            "children": [
+              {
+                "id": "2e7b4f76-3179-4154-b248-014b171fa7c4",
+                "boundaryNum": 1,
+                "name": "Nalbari Gaon",
+                "localname": "Nalbari Gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW15V1",
+                "children": []
+              },
+              {
+                "id": "180501ac-00f6-4988-a653-4a773fdc21f8",
+                "boundaryNum": 2,
+                "name": "Japarkuchi",
+                "localname": "Japarkuchi",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW15V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1185d2be-0105-4d9d-808c-1a744c4703d7",
+            "boundaryNum": 16,
+            "name": "WARD_16",
+            "localname": "WARD_16",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NalbariW16",
+            "children": [
+              {
+                "id": "a8415985-67e6-4a0a-bf8b-50e0c268dd92",
+                "boundaryNum": 1,
+                "name": "Balikuria Kharjara",
+                "localname": "Balikuria Kharjara",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW16V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "d04f600a-78e9-48c5-a8cf-5815b29660e2",
+            "boundaryNum": 17,
+            "name": "WARD_17",
+            "localname": "WARD_17",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "NalbariW17",
+            "children": [
+              {
+                "id": "641e66db-0cc1-4d40-b63c-6f056de4a3e2",
+                "boundaryNum": 1,
+                "name": "Balikuria Kharjara",
+                "localname": "Balikuria Kharjara",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW17V1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

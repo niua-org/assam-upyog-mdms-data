@@ -1,0 +1,386 @@
+{
+  "tenantId": "as.mangaldaimb",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "7883de98-adc0-4552-bf55-5e15f15adba2",
+        "boundaryNum": 1,
+        "name": "Mangaldai",
+        "localname": "Mangaldai",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.mangaldaimb",
+        "children": [
+          {
+            "id": "20ad409a-3db2-4cb7-90fe-1bbf64c4ef08",
+            "boundaryNum": 1,
+            "name": "WARD_1",
+            "localname": "WARD_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DarangW1",
+            "children": [
+              {
+                "id": "0bfb2694-13f4-496d-b912-86144542fbd0",
+                "boundaryNum": 1,
+                "name": "Mangaldai town part 10",
+                "localname": "Mangaldai town part 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DarangW1V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "a5512e9a-d719-467f-9344-321b75aa7338",
+            "boundaryNum": 2,
+            "name": "WARD_2",
+            "localname": "WARD_2",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DarangW2",
+            "children": [
+              {
+                "id": "fd457a8f-9da2-4588-88e5-7952eea83098",
+                "boundaryNum": 1,
+                "name": "Mangaldai town part 4",
+                "localname": "Mangaldai town part 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DarangW2V1",
+                "children": []
+              },
+              {
+                "id": "d5ecb210-4c14-488f-b53e-83af4179ae06",
+                "boundaryNum": 2,
+                "name": "Mangaldai town part 6",
+                "localname": "Mangaldai town part 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DarangW2V2",
+                "children": []
+              },
+              {
+                "id": "0623f426-cfd2-4e00-8c40-fb0f2ba9a507",
+                "boundaryNum": 3,
+                "name": "Mangaldai town part 9",
+                "localname": "Mangaldai town part 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DarangW2V3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "d18fd11f-0a65-4e47-bafd-7fd04a79c25e",
+            "boundaryNum": 3,
+            "name": "WARD_3",
+            "localname": "WARD_3",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DarangW3",
+            "children": [
+              {
+                "id": "5f3d0bd7-ae59-4db2-906a-050b22b425ec",
+                "boundaryNum": 1,
+                "name": "Mangaldai town part 6",
+                "localname": "Mangaldai town part 6",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DarangW3V1",
+                "children": []
+              },
+              {
+                "id": "79800b22-f9e7-4db8-acd6-ec68a43165cc",
+                "boundaryNum": 2,
+                "name": "Mangaldai town part  8",
+                "localname": "Mangaldai town part  8",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DarangW3V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "6982f4cf-1513-4102-8753-b243e729273d",
+            "boundaryNum": 4,
+            "name": "WARD_4",
+            "localname": "WARD_4",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DarangW4",
+            "children": [
+              {
+                "id": "1eda8ee9-ee9b-4e45-9965-29f55abc6313",
+                "boundaryNum": 1,
+                "name": "Mangaldai town part 3",
+                "localname": "Mangaldai town part 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DarangW4V1",
+                "children": []
+              },
+              {
+                "id": "3de94263-e86e-489d-ac4a-76bd7030e60e",
+                "boundaryNum": 2,
+                "name": "Mangaldai town part 4",
+                "localname": "Mangaldai town part 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DarangW4V2",
+                "children": []
+              },
+              {
+                "id": "b28d3c21-f3ec-4fd4-a408-5be19124e3fe",
+                "boundaryNum": 3,
+                "name": "Mangaldai town part 5",
+                "localname": "Mangaldai town part 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DarangW4V3",
+                "children": []
+              },
+              {
+                "id": "de3b0f21-ae03-47d5-a634-55f4ffe9f976",
+                "boundaryNum": 4,
+                "name": "Mangaldai town part 7",
+                "localname": "Mangaldai town part 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DarangW4V4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1a13dd6f-6eef-4175-8110-9c2117170a77",
+            "boundaryNum": 5,
+            "name": "WARD_5",
+            "localname": "WARD_5",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DarangW5",
+            "children": [
+              {
+                "id": "5b1b9d51-4ea4-4821-bb58-cef17839e013",
+                "boundaryNum": 1,
+                "name": "Mangaldai town part 2",
+                "localname": "Mangaldai town part 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DarangW5V1",
+                "children": []
+              },
+              {
+                "id": "717eeacc-6229-47a7-a41e-64cd89660983",
+                "boundaryNum": 2,
+                "name": "Mangaldai town part  8",
+                "localname": "Mangaldai town part  8",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DarangW5V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "0a3b8544-a36c-47d9-a981-c1e4efa8decb",
+            "boundaryNum": 6,
+            "name": "WARD_6",
+            "localname": "WARD_6",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DarangW6",
+            "children": [
+              {
+                "id": "9a4efea5-3920-4924-a847-aa646ffc61d3",
+                "boundaryNum": 1,
+                "name": "Mangaldai town part 7",
+                "localname": "Mangaldai town part 7",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DarangW6V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "3fca4a80-b60d-486a-a900-e79531880a1c",
+            "boundaryNum": 7,
+            "name": "WARD_7",
+            "localname": "WARD_7",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DarangW7",
+            "children": [
+              {
+                "id": "5f0a2b45-823d-40ca-aba7-0a36da5623b8",
+                "boundaryNum": 1,
+                "name": "Mangaldai town part 1",
+                "localname": "Mangaldai town part 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DarangW7V1",
+                "children": []
+              },
+              {
+                "id": "3fa74b4c-b94c-4edf-948a-a2610f3bda14",
+                "boundaryNum": 2,
+                "name": "Mangaldai town part 2",
+                "localname": "Mangaldai town part 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DarangW7V2",
+                "children": []
+              },
+              {
+                "id": "ee1e86e3-3ba3-48a1-9f94-619c57c3b600",
+                "boundaryNum": 3,
+                "name": "Mangaldai town part 3",
+                "localname": "Mangaldai town part 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DarangW7V3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "e92dcc6f-e5be-43b9-92a6-2e61b115b037",
+            "boundaryNum": 8,
+            "name": "WARD_8",
+            "localname": "WARD_8",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DarangW8",
+            "children": [
+              {
+                "id": "0b351dc5-46c1-412b-abaf-39168a366e9d",
+                "boundaryNum": 1,
+                "name": "Mangaldai town part 1",
+                "localname": "Mangaldai town part 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DarangW8V1",
+                "children": []
+              },
+              {
+                "id": "6356eaad-d1af-449d-8db0-d65eb85554ff",
+                "boundaryNum": 2,
+                "name": "Mangaldai town part 2",
+                "localname": "Mangaldai town part 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DarangW8V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "27258f0e-7cae-404f-b819-e5988f140089",
+            "boundaryNum": 9,
+            "name": "WARD_9",
+            "localname": "WARD_9",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DarangW9",
+            "children": [
+              {
+                "id": "7d3aa923-71dd-404f-9e17-d1e373ccccfc",
+                "boundaryNum": 1,
+                "name": "Mangaldai town part 2",
+                "localname": "Mangaldai town part 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DarangW9V1",
+                "children": []
+              },
+              {
+                "id": "5236d9d8-1847-410e-969a-0d4fc3a0be73",
+                "boundaryNum": 2,
+                "name": "Mangaldai town part 3",
+                "localname": "Mangaldai town part 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DarangW9V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "77ac2bb2-14e5-43fb-9b73-3ee027025bae",
+            "boundaryNum": 10,
+            "name": "WARD_10",
+            "localname": "WARD_10",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DarangW10",
+            "children": [
+              {
+                "id": "478da679-b2c4-47ca-8244-4f1c5d3b759a",
+                "boundaryNum": 1,
+                "name": "Mangaldai town part 2",
+                "localname": "Mangaldai town part 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DarangW10V1",
+                "children": []
+              },
+              {
+                "id": "b4aff753-434f-4177-9f84-9d41c6d49c2a",
+                "boundaryNum": 2,
+                "name": "Mangaldai town part 3",
+                "localname": "Mangaldai town part 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DarangW10V2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,467 @@
+{
+  "tenantId": "as.sivasagarmb",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "ef5667dc-17ef-4cc1-8f96-76e0aee05ebc",
+        "boundaryNum": 1,
+        "name": "Sivsagar",
+        "localname": "Sivsagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.sivasagarmb",
+        "children": [
+          {
+            "id": "59db2320-52ef-414e-bce2-261686e0c80c",
+            "boundaryNum": 1,
+            "name": "WARD_1",
+            "localname": "WARD_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SivsagarW1",
+            "children": [
+              {
+                "id": "98cd6b0b-ee5d-4a66-a8a5-ca992cf39f3a",
+                "boundaryNum": 1,
+                "name": "Sivsagar Town Part 2A",
+                "localname": "Sivsagar Town Part 2A",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SivsagarW1V1",
+                "children": []
+              },
+              {
+                "id": "81d4a2ba-a316-4cc5-a240-91a9aadf8894",
+                "boundaryNum": 2,
+                "name": "Sivsagar Town part 2B",
+                "localname": "Sivsagar Town part 2B",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SivsagarW1V2",
+                "children": []
+              },
+              {
+                "id": "1600ba4a-ba24-4aae-8d96-4fff03119aea",
+                "boundaryNum": 3,
+                "name": "Sivsagar Town part 3",
+                "localname": "Sivsagar Town part 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SivsagarW1V3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "837138eb-eabb-47c7-af30-530897ce4613",
+            "boundaryNum": 2,
+            "name": "WARD_2",
+            "localname": "WARD_2",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SivsagarW2",
+            "children": [
+              {
+                "id": "ebcae3db-e17a-4024-ad77-010e8bd90e51",
+                "boundaryNum": 1,
+                "name": "Sivsagar Town Part 2A",
+                "localname": "Sivsagar Town Part 2A",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SivsagarW2V1",
+                "children": []
+              },
+              {
+                "id": "3d7e261c-53b4-4e46-9bb2-fe95d7104bf7",
+                "boundaryNum": 2,
+                "name": "Sivsagar Town part 2B",
+                "localname": "Sivsagar Town part 2B",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SivsagarW2V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "39203dff-785a-427e-a2b8-bfefdc7cda53",
+            "boundaryNum": 3,
+            "name": "WARD_3",
+            "localname": "WARD_3",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SivsagarW3",
+            "children": [
+              {
+                "id": "22892bbf-7799-429d-926a-ad2c837af2f5",
+                "boundaryNum": 1,
+                "name": "Sivsagar Town Part 2B",
+                "localname": "Sivsagar Town Part 2B",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SivsagarW3V1",
+                "children": []
+              },
+              {
+                "id": "03958ecc-24d4-402d-8939-3a0035f56cee",
+                "boundaryNum": 2,
+                "name": "Sivsagar Town Part 4",
+                "localname": "Sivsagar Town Part 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SivsagarW3V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "29aa6d92-d852-4d70-81b1-8ad8fc1274f6",
+            "boundaryNum": 4,
+            "name": "WARD_4",
+            "localname": "WARD_4",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SivsagarW4",
+            "children": [
+              {
+                "id": "80da6c17-a658-48bd-89fe-cabbd62cb78e",
+                "boundaryNum": 1,
+                "name": "Sivsagar Town Part 4",
+                "localname": "Sivsagar Town Part 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SivsagarW4V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "5a1b2c3d-4e5f-6789-abcd-ef0123456789",
+            "boundaryNum": 5,
+            "name": "WARD_5",
+            "localname": "WARD_5",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SivsagarW5",
+            "children": [
+              {
+                "id": "6b2c3d4e-5f67-89ab-cdef-012345678901",
+                "boundaryNum": 1,
+                "name": "Sivsagar Town Part 4",
+                "localname": "Sivsagar Town Part 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SivsagarW5V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "7c3d4e5f-6789-abcd-ef01-23456789abcd",
+            "boundaryNum": 6,
+            "name": "WARD_6",
+            "localname": "WARD_6",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SivsagarW6",
+            "children": [
+              {
+                "id": "8d4e5f67-89ab-cdef-0123-456789abcdef",
+                "boundaryNum": 1,
+                "name": "Sivsagar Town Part 4",
+                "localname": "Sivsagar Town Part 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SivsagarW6V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "9e5f6789-abcd-ef01-2345-6789abcdef01",
+            "boundaryNum": 7,
+            "name": "WARD_7",
+            "localname": "WARD_7",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SivsagarW7",
+            "children": [
+              {
+                "id": "af67890a-bcde-f012-3456-789abcdef012",
+                "boundaryNum": 1,
+                "name": "Sivsagar Town Part 4",
+                "localname": "Sivsagar Town Part 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SivsagarW7V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "b0789abc-def0-1234-5678-9abcdef01234",
+            "boundaryNum": 8,
+            "name": "WARD_8",
+            "localname": "WARD_8",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SivsagarW8",
+            "children": [
+              {
+                "id": "c189abcd-ef01-2345-6789-abcdef012345",
+                "boundaryNum": 1,
+                "name": "Sivsagar Town Part 4",
+                "localname": "Sivsagar Town Part 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SivsagarW8V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "d29abcde-f012-3456-789a-bcdef0123456",
+            "boundaryNum": 9,
+            "name": "WARD_9",
+            "localname": "WARD_9",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SivsagarW9",
+            "children": [
+              {
+                "id": "e3abcdef-0123-4567-89ab-cdef01234567",
+                "boundaryNum": 1,
+                "name": "Sivsagar Town Part 4",
+                "localname": "Sivsagar Town Part 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SivsagarW9V1",
+                "children": []
+              },
+              {
+                "id": "f4bcdef0-1234-5678-9abc-def012345678",
+                "boundaryNum": 2,
+                "name": "Sivsagar Town part 11",
+                "localname": "Sivsagar Town part 11",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SivsagarW9V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "05cdef01-2345-6789-abcd-ef0123456789",
+            "boundaryNum": 10,
+            "name": "WARD_10",
+            "localname": "WARD_10",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SivsagarW10",
+            "children": [
+              {
+                "id": "16def012-3456-789a-bcde-f01234567890",
+                "boundaryNum": 1,
+                "name": "Sivsagar Town Part 10",
+                "localname": "Sivsagar Town Part 10",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SivsagarW10V1",
+                "children": []
+              },
+              {
+                "id": "27ef0123-4567-89ab-cdef-012345678901",
+                "boundaryNum": 2,
+                "name": "Sivsagar Town part 12",
+                "localname": "Sivsagar Town part 12",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SivsagarW10V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "38f01234-5678-9abc-def0-123456789012",
+            "boundaryNum": 11,
+            "name": "WARD_11",
+            "localname": "WARD_11",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SivsagarW11",
+            "children": [
+              {
+                "id": "49012345-6789-abcd-ef01-234567890123",
+                "boundaryNum": 1,
+                "name": "Sivsagar Town Part 9",
+                "localname": "Sivsagar Town Part 9",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SivsagarW11V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "5a123456-789a-bcde-f012-345678901234",
+            "boundaryNum": 12,
+            "name": "WARD_12",
+            "localname": "WARD_12",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SivsagarW12",
+            "children": [
+              {
+                "id": "6b234567-89ab-cdef-0123-456789012345",
+                "boundaryNum": 1,
+                "name": "Sivsagar Town Part 5A",
+                "localname": "Sivsagar Town Part 5A",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SivsagarW12V1",
+                "children": []
+              },
+              {
+                "id": "7c345678-9abc-def0-1234-567890123456",
+                "boundaryNum": 2,
+                "name": "Sivsagar Town part 5B",
+                "localname": "Sivsagar Town part 5B",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SivsagarW12V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "8d456789-abcd-ef01-2345-678901234567",
+            "boundaryNum": 13,
+            "name": "WARD_13",
+            "localname": "WARD_13",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SivsagarW13",
+            "children": [
+              {
+                "id": "9e56789a-bcde-f012-3456-789012345678",
+                "boundaryNum": 1,
+                "name": "Sivsagar Town Part 7A",
+                "localname": "Sivsagar Town Part 7A",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SivsagarW13V1",
+                "children": []
+              },
+              {
+                "id": "af6789ab-cdef-0123-4567-890123456789",
+                "boundaryNum": 2,
+                "name": "Sivsagar Town Part 7B",
+                "localname": "Sivsagar Town Part 7B",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SivsagarW13V2",
+                "children": []
+              },
+              {
+                "id": "b0789abc-def0-1234-5678-901234567890",
+                "boundaryNum": 3,
+                "name": "Station chariali",
+                "localname": "Station chariali",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SivsagarW13V3",
+                "children": []
+              },
+              {
+                "id": "c189abcd-ef01-2345-6789-012345678901",
+                "boundaryNum": 4,
+                "name": "Hatimuria gaon part 2",
+                "localname": "Hatimuria gaon part 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SivsagarW13V4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "d29abcde-f012-3456-7890-123456789012",
+            "boundaryNum": 14,
+            "name": "WARD_14",
+            "localname": "WARD_14",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SivsagarW14",
+            "children": [
+              {
+                "id": "e3abcdef-0123-4567-8901-234567890123",
+                "boundaryNum": 1,
+                "name": "Sivsagar Town Part 8A",
+                "localname": "Sivsagar Town Part 8A",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SivsagarW14V1",
+                "children": []
+              },
+              {
+                "id": "f4bcdef0-1234-5678-9012-345678901234",
+                "boundaryNum": 2,
+                "name": "Sivsagar Town Part 8B",
+                "localname": "Sivsagar Town Part 8B",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SivsagarW14V2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

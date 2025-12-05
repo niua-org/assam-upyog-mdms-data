@@ -1,0 +1,538 @@
+{
+  "tenantId": "as.tezpurmb",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "830ab9ef-5ea5-4852-8435-045307f3afe3",
+        "boundaryNum": 1,
+        "name": "Tezpur",
+        "localname": "Tezpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.tezpurmb",
+        "children": [
+          {
+            "id": "190aec43-a713-4210-b615-b2c0ec17216a",
+            "boundaryNum": 1,
+            "name": "WARD_1",
+            "localname": "WARD_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonitpurW1",
+            "children": [
+              {
+                "id": "f6f6eeb4-42f2-4c9e-8248-0915e2837f29",
+                "boundaryNum": 1,
+                "name": "Tezpur Town part 2",
+                "localname": "Tezpur Town part 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonitpurW1V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "e42d02ec-acce-425b-94e0-ec7d0b0ad7c8",
+            "boundaryNum": 2,
+            "name": "WARD_2",
+            "localname": "WARD_2",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonitpurW2",
+            "children": [
+              {
+                "id": "b419193e-e7e7-4ee8-a44e-a156701ae95b",
+                "boundaryNum": 1,
+                "name": "Tezpur Town part 2",
+                "localname": "Tezpur Town part 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonitpurW2V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "28298a20-3608-40ab-b74e-54ed19d48f68",
+            "boundaryNum": 3,
+            "name": "WARD_3",
+            "localname": "WARD_3",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonitpurW3",
+            "children": [
+              {
+                "id": "b76bae3b-176a-4ded-8954-5b73d3c55d2a",
+                "boundaryNum": 1,
+                "name": "Tezpur Town part 2",
+                "localname": "Tezpur Town part 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonitpurW3V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "56037543-e9d9-45cc-9795-7bfbb7ac9008",
+            "boundaryNum": 4,
+            "name": "WARD_4",
+            "localname": "WARD_4",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonitpurW4",
+            "children": [
+              {
+                "id": "62cfd919-1d61-443a-9195-6596a1d5981c",
+                "boundaryNum": 1,
+                "name": "Tezpur Town part 2",
+                "localname": "Tezpur Town part 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonitpurW4V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "60e0a542-a9a9-478b-96c2-bd5fafe773b2",
+            "boundaryNum": 5,
+            "name": "WARD_5",
+            "localname": "WARD_5",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonitpurW5",
+            "children": [
+              {
+                "id": "04233a6a-6760-4288-ac09-9adb4c714ae8",
+                "boundaryNum": 1,
+                "name": "Tezpur Town part 2",
+                "localname": "Tezpur Town part 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonitpurW5V1",
+                "children": []
+              },
+              {
+                "id": "ff26f4d3-c859-4559-a29a-877ecd51df05",
+                "boundaryNum": 2,
+                "name": "Tezpur Town  part 3",
+                "localname": "Tezpur Town  part 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonitpurW5V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "072eae16-c51b-4700-96e4-e69857da1f03",
+            "boundaryNum": 6,
+            "name": "WARD_6",
+            "localname": "WARD_6",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonitpurW6",
+            "children": [
+              {
+                "id": "7116dd73-f79c-4a8d-9266-7cd329b8a581",
+                "boundaryNum": 1,
+                "name": "Tezpur Town part 3",
+                "localname": "Tezpur Town part 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonitpurW6V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "3fd9ebc5-67fd-4427-8760-798f7900d5ca",
+            "boundaryNum": 7,
+            "name": "WARD_7",
+            "localname": "WARD_7",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonitpurW7",
+            "children": [
+              {
+                "id": "feed892c-4b2d-4f12-a3d6-f6c4df9563f3",
+                "boundaryNum": 1,
+                "name": "Tezpur Town part 3",
+                "localname": "Tezpur Town part 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonitpurW7V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "838fb0f6-06f1-47d4-afe2-333cbee39081",
+            "boundaryNum": 8,
+            "name": "WARD_8",
+            "localname": "WARD_8",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonitpurW8",
+            "children": [
+              {
+                "id": "b606e0c0-e626-4995-8e1b-37716dd6454c",
+                "boundaryNum": 1,
+                "name": "Tezpur Town part 3",
+                "localname": "Tezpur Town part 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonitpurW8V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "e61983dd-bc9a-44f2-b886-bcb669b08386",
+            "boundaryNum": 9,
+            "name": "WARD_9",
+            "localname": "WARD_9",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonitpurW9",
+            "children": [
+              {
+                "id": "7a8df4f4-5cb9-4115-bdf1-f922f9625430",
+                "boundaryNum": 1,
+                "name": "Tezpur Town part 3",
+                "localname": "Tezpur Town part 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonitpurW9V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "8ba1708a-6f62-4bed-852d-301143eb55da",
+            "boundaryNum": 10,
+            "name": "WARD_10",
+            "localname": "WARD_10",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonitpurW10",
+            "children": [
+              {
+                "id": "1df19408-86cc-4ce3-b383-e5048924d429",
+                "boundaryNum": 1,
+                "name": "Tezpur Town part 3",
+                "localname": "Tezpur Town part 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonitpurW10V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "78575024-5e2a-43ce-88a9-ac4d6e364f68",
+            "boundaryNum": 11,
+            "name": "WARD_11",
+            "localname": "WARD_11",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonitpurW11",
+            "children": [
+              {
+                "id": "131debb8-37b8-417d-9dbb-9ec6738b7beb",
+                "boundaryNum": 1,
+                "name": "Tezpur Town part 3",
+                "localname": "Tezpur Town part 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonitpurW11V1",
+                "children": []
+              },
+              {
+                "id": "99a0187a-f95f-4649-9c68-1ce6bf1ca169",
+                "boundaryNum": 2,
+                "name": "Tezpur Town part 4",
+                "localname": "Tezpur Town part 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonitpurW11V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "956eb24c-49b1-48d3-968a-ab2e5caa4a94",
+            "boundaryNum": 12,
+            "name": "WARD_12",
+            "localname": "WARD_12",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonitpurW12",
+            "children": [
+              {
+                "id": "c11137d5-fc76-4b14-9eb0-8f6301f5334b",
+                "boundaryNum": 1,
+                "name": "Tezpur Town part 3",
+                "localname": "Tezpur Town part 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonitpurW12V1",
+                "children": []
+              },
+              {
+                "id": "dc98a561-947c-49a9-a07f-2d904d58e304",
+                "boundaryNum": 2,
+                "name": "Tezpur Town part 4",
+                "localname": "Tezpur Town part 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonitpurW12V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "2e074b53-0320-4400-89e6-580a47910956",
+            "boundaryNum": 13,
+            "name": "WARD_13",
+            "localname": "WARD_13",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonitpurW13",
+            "children": [
+              {
+                "id": "71b87b39-c498-4193-b700-261adc45c34c",
+                "boundaryNum": 1,
+                "name": "Tezpur Town part 4",
+                "localname": "Tezpur Town part 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonitpurW13V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "30bb0702-9a2c-4977-9257-792d86746b21",
+            "boundaryNum": 14,
+            "name": "WARD_14",
+            "localname": "WARD_14",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonitpurW14",
+            "children": [
+              {
+                "id": "ddfdf58e-df2a-465b-b1e7-ca7ee3b060ba",
+                "boundaryNum": 1,
+                "name": "Tezpur Town part 3",
+                "localname": "Tezpur Town part 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonitpurW14V1",
+                "children": []
+              },
+              {
+                "id": "f8add9bc-c216-4945-a13e-cda9841cb0e9",
+                "boundaryNum": 2,
+                "name": "Tezpur Town part 4",
+                "localname": "Tezpur Town part 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonitpurW14V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "0dd6213c-ffb5-43ae-9e0a-f9db1d08244d",
+            "boundaryNum": 15,
+            "name": "WARD_15",
+            "localname": "WARD_15",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonitpurW15",
+            "children": [
+              {
+                "id": "4f879639-4b61-4df1-be69-34a2ed1bfc11",
+                "boundaryNum": 1,
+                "name": "Tezpur Town part 1",
+                "localname": "Tezpur Town part 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonitpurW15V1",
+                "children": []
+              },
+              {
+                "id": "7a525d9f-142c-4c44-a97d-e98f650cd1eb",
+                "boundaryNum": 2,
+                "name": "Tezpur Town part 3",
+                "localname": "Tezpur Town part 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonitpurW15V2",
+                "children": []
+              },
+              {
+                "id": "7c63bfcb-58e5-4d32-a273-f487e7b43421",
+                "boundaryNum": 3,
+                "name": "Tezpur Town part 2",
+                "localname": "Tezpur Town part 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonitpurW15V3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "fc793d81-83b6-40b2-8610-1ac1b5f3d7df",
+            "boundaryNum": 16,
+            "name": "WARD_16",
+            "localname": "WARD_16",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonitpurW16",
+            "children": [
+              {
+                "id": "acbcf245-2c11-4151-8484-5a1dbf8c224e",
+                "boundaryNum": 1,
+                "name": "Tezpur Town part 1",
+                "localname": "Tezpur Town part 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonitpurW16V1",
+                "children": []
+              },
+              {
+                "id": "ee9cf00a-f5e0-4742-a9ba-b59769a79627",
+                "boundaryNum": 2,
+                "name": "Tezpur Town part 2",
+                "localname": "Tezpur Town part 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonitpurW16V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "41579224-bd07-4e82-b729-62c295df3f89",
+            "boundaryNum": 17,
+            "name": "WARD_17",
+            "localname": "WARD_17",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonitpurW17",
+            "children": [
+              {
+                "id": "14dec18c-872f-48b9-9bb5-b2549fd7531c",
+                "boundaryNum": 1,
+                "name": "Tezpur Town part 1",
+                "localname": "Tezpur Town part 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonitpurW17V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "172c3d9e-fc56-4b83-9ee0-9a73a3947eaf",
+            "boundaryNum": 18,
+            "name": "WARD_18",
+            "localname": "WARD_18",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonitpurW18",
+            "children": [
+              {
+                "id": "fceb8951-aa80-4828-b198-17f3878e9278",
+                "boundaryNum": 1,
+                "name": "Tezpur Town part 1",
+                "localname": "Tezpur Town part 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonitpurW18V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "20d15fa3-b9f7-4700-987f-a5caa1fc39c5",
+            "boundaryNum": 19,
+            "name": "WARD_19",
+            "localname": "WARD_19",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonitpurW19",
+            "children": [
+              {
+                "id": "e5143cf5-5095-4053-b57c-177f79a6d932",
+                "boundaryNum": 1,
+                "name": "Tezpur Town part 2",
+                "localname": "Tezpur Town part 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonitpurW19V1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

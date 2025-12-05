@@ -1,0 +1,535 @@
+{
+  "tenantId": "as.sonarimb",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "ef5667dc-17ef-4cc1-8f96-76e0aee05ebc",
+        "boundaryNum": 1,
+        "name": "Sonari",
+        "localname": "Sonari",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.sonarimb",
+        "children": [
+          {
+            "id": "59db2320-52ef-414e-bce2-261686e0c80c",
+            "boundaryNum": 1,
+            "name": "WARD_1",
+            "localname": "WARD_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonariW1",
+            "children": [
+              {
+                "id": "98cd6b0b-ee5d-4a66-a8a5-ca992cf39f3a",
+                "boundaryNum": 1,
+                "name": "Sonari Town",
+                "localname": "Sonari Town",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonariW1V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "837138eb-eabb-47c7-af30-530897ce4613",
+            "boundaryNum": 2,
+            "name": "WARD_2",
+            "localname": "WARD_2",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonariW2",
+            "children": [
+              {
+                "id": "ebcae3db-e17a-4024-ad77-010e8bd90e51",
+                "boundaryNum": 1,
+                "name": "Sonari Town",
+                "localname": "Sonari Town",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonariW2V1",
+                "children": []
+              },
+              {
+                "id": "3d7e261c-53b4-4e46-9bb2-fe95d7104bf7",
+                "boundaryNum": 2,
+                "name": "Rajabari Grant",
+                "localname": "Rajabari Grant",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonariW2V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "39203dff-785a-427e-a2b8-bfefdc7cda53",
+            "boundaryNum": 3,
+            "name": "WARD_3",
+            "localname": "WARD_3",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonariW3",
+            "children": [
+              {
+                "id": "22892bbf-7799-429d-926a-ad2c837af2f5",
+                "boundaryNum": 1,
+                "name": "Sonari Town",
+                "localname": "Sonari Town",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonariW3V1",
+                "children": []
+              },
+              {
+                "id": "03958ecc-24d4-402d-8939-3a0035f56cee",
+                "boundaryNum": 2,
+                "name": "Dakhin Sonari gaon",
+                "localname": "Dakhin Sonari gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonariW3V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "29aa6d92-d852-4d70-81b1-8ad8fc1274f6",
+            "boundaryNum": 4,
+            "name": "WARD_4",
+            "localname": "WARD_4",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonariW4",
+            "children": [
+              {
+                "id": "80da6c17-a658-48bd-89fe-cabbd62cb78e",
+                "boundaryNum": 1,
+                "name": "Sonari Town",
+                "localname": "Sonari Town",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonariW4V1",
+                "children": []
+              },
+              {
+                "id": "0deeb989-b372-4308-b2a6-9b85ea1ba18a",
+                "boundaryNum": 2,
+                "name": "Dakhin Sonari gaon",
+                "localname": "Dakhin Sonari gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonariW4V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "5a1b2c3d-4e5f-6789-abcd-ef0123456789",
+            "boundaryNum": 5,
+            "name": "WARD_5",
+            "localname": "WARD_5",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonariW5",
+            "children": [
+              {
+                "id": "6b2c3d4e-5f67-89ab-cdef-012345678901",
+                "boundaryNum": 1,
+                "name": "Rajabari Grant",
+                "localname": "Rajabari Grant",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonariW5V1",
+                "children": []
+              },
+              {
+                "id": "7c3d4e5f-6789-abcd-ef01-23456789abcd",
+                "boundaryNum": 2,
+                "name": "Banthera Grant",
+                "localname": "Banthera Grant",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonariW5V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "8d4e5f67-89ab-cdef-0123-456789abcdef",
+            "boundaryNum": 6,
+            "name": "WARD_6",
+            "localname": "WARD_6",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonariW6",
+            "children": [
+              {
+                "id": "9e5f6789-abcd-ef01-2345-6789abcdef01",
+                "boundaryNum": 1,
+                "name": "Banthera Grant",
+                "localname": "Banthera Grant",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonariW6V1",
+                "children": []
+              },
+              {
+                "id": "af67890a-bcde-f012-3456-789abcdef012",
+                "boundaryNum": 2,
+                "name": "Naokachari Gaon",
+                "localname": "Naokachari Gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonariW6V2",
+                "children": []
+              },
+              {
+                "id": "b0789abc-def0-1234-5678-9abcdef01234",
+                "boundaryNum": 3,
+                "name": "Raidangia Naksari gaon",
+                "localname": "Raidangia Naksari gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonariW6V3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "c189abcd-ef01-2345-6789-abcdef012345",
+            "boundaryNum": 7,
+            "name": "WARD_7",
+            "localname": "WARD_7",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonariW7",
+            "children": [
+              {
+                "id": "d29abcde-f012-3456-789a-bcdef0123456",
+                "boundaryNum": 1,
+                "name": "Dakhin Sonari gaon",
+                "localname": "Dakhin Sonari gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonariW7V1",
+                "children": []
+              },
+              {
+                "id": "e3abcdef-0123-4567-89ab-cdef01234567",
+                "boundaryNum": 2,
+                "name": "Banfera Bagicha",
+                "localname": "Banfera Bagicha",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonariW7V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "f4bcdef0-1234-5678-9abc-def012345678",
+            "boundaryNum": 8,
+            "name": "WARD_8",
+            "localname": "WARD_8",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonariW8",
+            "children": [
+              {
+                "id": "05cdef01-2345-6789-abcd-ef0123456789",
+                "boundaryNum": 1,
+                "name": "Joboka Cha bagicha",
+                "localname": "Joboka Cha bagicha",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonariW8V1",
+                "children": []
+              },
+              {
+                "id": "16def012-3456-789a-bcde-f01234567890",
+                "boundaryNum": 2,
+                "name": "Dakhin Sonari gaon",
+                "localname": "Dakhin Sonari gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonariW8V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "27ef0123-4567-89ab-cdef-012345678901",
+            "boundaryNum": 9,
+            "name": "WARD_9",
+            "localname": "WARD_9",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonariW9",
+            "children": [
+              {
+                "id": "38f01234-5678-9abc-def0-123456789012",
+                "boundaryNum": 1,
+                "name": "Dakhin Sonari gaon",
+                "localname": "Dakhin Sonari gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonariW9V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "49012345-6789-abcd-ef01-234567890123",
+            "boundaryNum": 10,
+            "name": "WARD_10",
+            "localname": "WARD_10",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonariW10",
+            "children": [
+              {
+                "id": "5a123456-789a-bcde-f012-345678901234",
+                "boundaryNum": 1,
+                "name": "Grant No. 324",
+                "localname": "Grant No. 324",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonariW10V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "6b234567-89ab-cdef-0123-456789012345",
+            "boundaryNum": 11,
+            "name": "WARD_11",
+            "localname": "WARD_11",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonariW11",
+            "children": [
+              {
+                "id": "7c345678-9abc-def0-1234-567890123456",
+                "boundaryNum": 1,
+                "name": "Grant No. 324",
+                "localname": "Grant No. 324",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonariW11V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "8d456789-abcd-ef01-2345-678901234567",
+            "boundaryNum": 12,
+            "name": "WARD_12",
+            "localname": "WARD_12",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonariW12",
+            "children": [
+              {
+                "id": "9e56789a-bcde-f012-3456-789012345678",
+                "boundaryNum": 1,
+                "name": "Grant No. 324",
+                "localname": "Grant No. 324",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonariW12V1",
+                "children": []
+              },
+              {
+                "id": "af6789ab-cdef-0123-4567-890123456789",
+                "boundaryNum": 2,
+                "name": "Uttar Sonari Gaon",
+                "localname": "Uttar Sonari Gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonariW12V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "b0789abc-def0-1234-5678-901234567890",
+            "boundaryNum": 13,
+            "name": "WARD_13",
+            "localname": "WARD_13",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonariW13",
+            "children": [
+              {
+                "id": "c189abcd-ef01-2345-6789-012345678901",
+                "boundaryNum": 1,
+                "name": "Uttar Sonari gaon",
+                "localname": "Uttar Sonari gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonariW13V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "d29abcde-f012-3456-7890-123456789012",
+            "boundaryNum": 14,
+            "name": "WARD_14",
+            "localname": "WARD_14",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonariW14",
+            "children": [
+              {
+                "id": "e3abcdef-0123-4567-8901-234567890123",
+                "boundaryNum": 1,
+                "name": "Joboka Habi",
+                "localname": "Joboka Habi",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonariW14V1",
+                "children": []
+              },
+              {
+                "id": "f4bcdef0-1234-5678-9012-345678901234",
+                "boundaryNum": 2,
+                "name": "Dakhin Sonari habi",
+                "localname": "Dakhin Sonari habi",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonariW14V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "05cdef01-2345-6789-abcd-ef0123456789",
+            "boundaryNum": 15,
+            "name": "WARD_15",
+            "localname": "WARD_15",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonariW15",
+            "children": [
+              {
+                "id": "16def012-3456-789a-bcde-f01234567890",
+                "boundaryNum": 1,
+                "name": "Uttar Sonari gaon",
+                "localname": "Uttar Sonari gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonariW15V1",
+                "children": []
+              },
+              {
+                "id": "27ef0123-4567-89ab-cdef-012345678901",
+                "boundaryNum": 2,
+                "name": "Rajabari Grant",
+                "localname": "Rajabari Grant",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonariW15V2",
+                "children": []
+              },
+              {
+                "id": "38f01234-5678-9abc-def0-123456789012",
+                "boundaryNum": 3,
+                "name": "Sonari Town",
+                "localname": "Sonari Town",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonariW15V3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "49012345-6789-abcd-ef01-234567890123",
+            "boundaryNum": 16,
+            "name": "WARD_16",
+            "localname": "WARD_16",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "SonariW16",
+            "children": [
+              {
+                "id": "5a123456-789a-bcde-f012-345678901234",
+                "boundaryNum": 1,
+                "name": "Shingari tali Bongali gaon",
+                "localname": "Shingari tali Bongali gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonariW16V1",
+                "children": []
+              },
+              {
+                "id": "6b234567-89ab-cdef-0123-456789012345",
+                "boundaryNum": 2,
+                "name": "Sonari Grant",
+                "localname": "Sonari Grant",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "SonariW16V2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
