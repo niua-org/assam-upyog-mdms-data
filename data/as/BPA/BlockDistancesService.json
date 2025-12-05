@@ -52,6 +52,14 @@
             "active": true
         },
         {
+            "id": 10,            
+            "fromBuildingHeight": 0,
+            "toBuildingHeight": 15.6,
+            "occupancy": "educational",
+            "permissible": "4.8",
+            "active": true
+        },
+        {
             "id": 7,            
             "fromBuildingHeight": 15.6,
             "toBuildingHeight": 18.6,

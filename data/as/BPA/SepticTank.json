@@ -24,6 +24,13 @@
             "active": true
         },
         {
+            "id": 7,
+            "occupancy": "educational",
+            "septicTankMinDisWatersrc": 25,
+            "septicTankMinDisBuilding": 10,
+            "active": true
+        },
+        {
             "id": 4,
             "occupancy": "assembly",
             "septicTankMinDisWatersrc": 18,

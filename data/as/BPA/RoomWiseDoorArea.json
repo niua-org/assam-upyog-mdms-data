@@ -24,6 +24,13 @@
             "active": true
         },
         {
+            "id": 7,
+            "occupancy": "educational",
+            "minDoorWidth": 0.9,
+            "minDoorHeight": 2,
+            "active": true
+        },
+        {
             "id": 4,
             "occupancy": "assembly",
             "minDoorWidth": 0.9,

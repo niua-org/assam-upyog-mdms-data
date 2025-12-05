@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.nalbari",
+  "tenantId": "as.nalbarimb",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,12 +10,12 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Nalbari",
-        "localname": "Nalbari",
+        "name": "Nalbari Municipal Board",
+        "localname": "Nalbari Municipal Board",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.nalbari",
+        "code": "as.nalbarimb",
         "children": [
           {
             "id": "41f64678-77e5-461a-b5e9-91e37ed3d4fc",
@@ -30,12 +30,23 @@
               {
                 "id": "5bc3a77c-8bfe-4bb1-be86-657957dbb2b2",
                 "boundaryNum": 1,
-                "name": "Bolakuchi, Sandhakairara",
-                "localname": "Bolakuchi, Sandhakairara",
+                "name": "Sandhakairara",
+                "localname": "Sandhakairara",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "NalbariW1V1",
+                "children": []
+              },
+              {
+                "id": "5bc9a77c-8bee-4bb1-be86-657956dbb2b2",
+                "boundaryNum": 1,
+                "name": "Sandhakairara",
+                "localname": "Sandhakairara",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW1V2",
                 "children": []
               }
             ]
@@ -51,14 +62,25 @@
             "code": "NalbariW2",
             "children": [
               {
-                "id": "5bc3a77c-8bfe-4bb1-be16-657957dbb2b2",
+                "id": "5bc3a77c-8bfe-4qq1-be16-657957dbb2b2",
                 "boundaryNum": 1,
-                "name": "Nalbari Town, part of Digheli",
-                "localname": "Nalbari Town, part of Digheli",
+                "name": "Nalbari Town",
+                "localname": "Nalbari Town",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "NalbariW2V1",
+                "children": []
+              },
+              {
+                "id": "5bc3a77c-8bfe-4bb1-be16-657957dbb2b2",
+                "boundaryNum": 1,
+                "name": "part of Digheli",
+                "localname": "part of Digheli",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW2V2",
                 "children": []
               }
             ]
@@ -76,12 +98,23 @@
               {
                 "id": "5bc3a77c-8bfe-4bb1-be86-657956dbb2b2",
                 "boundaryNum": 1,
-                "name": "Digheli, Nalbari Town",
-                "localname": "Digheli, Nalbari Town",
+                "name": "Digheli",
+                "localname": "Digheli",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "NalbariW3V1",
+                "children": []
+              },
+              {
+                "id": "5bc3a77c-8bfe-4bb1-be86-657098dbb2b2",
+                "boundaryNum": 1,
+                "name": "Nalbari Town",
+                "localname": "Nalbari Town",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW3V2",
                 "children": []
               }
             ]
@@ -97,7 +130,7 @@
             "code": "NalbariW4",
             "children": [
               {
-                "id": "5bc3a77c-3bfe-4bb1-be86-657957dbb2b2",
+                "id": "5bc3a77c-3bfe-4bb1-be86-657957obb2b2",
                 "boundaryNum": 1,
                 "name": "Nalbari Town",
                 "localname": "Nalbari Town",
@@ -120,14 +153,58 @@
             "code": "NalbariW5",
             "children": [
               {
-                "id": "5ic3a77c-8bfe-4bb8-be86-657957dbb2b2",
+                "id": "5ic3a77c-8ere-4bb8-be86-657957dub2b2",
                 "boundaryNum": 1,
-                "name": "Nalbari Town, Bhuyar Kuchi, Kotla Borkuchismall part of Bardhan toli",
-                "localname": "Nalbari Town, Bhuyar Kuchi, Kotla Borkuchismall part of Bardhan toli",
+                "name": "Nalbari Town",
+                "localname": "Nalbari Town",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "NalbariW5V1",
+                "children": []
+              },
+              {
+                "id": "5ic3a77c-8bfe-4bb8-be86-657987dbb2b2",
+                "boundaryNum": 1,
+                "name": "Bhuyar Kuchi",
+                "localname": "Bhuyar Kuchi",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW5V2",
+                "children": []
+              },
+              {
+                "id": "5ic3a77c-8bfe-4bb8-be86-057957dbb2b2",
+                "boundaryNum": 1,
+                "name": "Small part of Bardhan toli",
+                "localname": "Small part of Bardhan toli",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW5V3",
+                "children": []
+              },
+              {
+                "id": "5op3a77c-8bfe-4bb8-be86-657957dbb2b2",
+                "boundaryNum": 1,
+                "name": "Kotla",
+                "localname": "Kotla",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW5V4",
+                "children": []
+              },
+              {
+                "id": "5ic3a77c-8bfe-4bb8-be86-657957poi2b2",
+                "boundaryNum": 1,
+                "name": "Borkuchi",
+                "localname": "Borkuchi",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW5V5",
                 "children": []
               }
             ]
@@ -168,12 +245,23 @@
               {
                 "id": "5bc3a77c-0bfe-4bb1-be86-657957dbb2b2",
                 "boundaryNum": 1,
-                "name": "Nalbari Town, Nalbari gaon.part",
-                "localname": "Nalbari Town, Nalbari gaon.part",
+                "name": "Nalbari Town",
+                "localname": "Nalbari Town",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "NalbariW7V1",
+                "children": []
+              },
+              {
+                "id": "5bc3a77c-0bfe-4ib1-be86-609957dbb2b2",
+                "boundaryNum": 1,
+                "name": "Nalbari gaon.part",
+                "localname": "Nalbari gaon.part",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW7V2",
                 "children": []
               }
             ]
@@ -191,12 +279,34 @@
               {
                 "id": "5bc3a77c-1ufe-4bb1-be86-657957dbb2b2",
                 "boundaryNum": 1,
-                "name": "Nalbari Town, Balikoria, Borkura.",
-                "localname": "Nalbari Town, Balikoria, Borkura.",
+                "name": "Nalbari Town",
+                "localname": "Nalbari Town",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "NalbariW8V1",
+                "children": []
+              },
+              {
+                "id": "5bc3a77c-1ufe-4bb1-be86-657237dbb2b2",
+                "boundaryNum": 1,
+                "name": "Balikoria",
+                "localname": "Balikoria",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW8V2",
+                "children": []
+              },
+              {
+                "id": "5bc3a77c-1ufe-4bb1-be86-657957dqw2b2",
+                "boundaryNum": 1,
+                "name": "Borkura",
+                "localname": "Borkura",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW8V3",
                 "children": []
               }
             ]
@@ -352,12 +462,23 @@
               {
                 "id": "5bc3a77c-8bfe-4bb1-be86-657957dbb2f6",
                 "boundaryNum": 1,
-                "name": "Nalbari Gaon and Japarkuchi",
-                "localname": "Nalbari Gaon and Japarkuchi",
+                "name": "Nalbari Gaon",
+                "localname": "Nalbari Gaon",
                 "longitude": null,
                 "latitude": null,
                 "label": "RevenueVillage",
                 "code": "NalbariW15V1",
+                "children": []
+              },
+              {
+                "id": "5bc3a77c-8bfe-4bb1-be86-657957opb2f6",
+                "boundaryNum": 1,
+                "name": "Japarkuchi",
+                "localname": "Japarkuchi",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "NalbariW15V2",
                 "children": []
               }
             ]

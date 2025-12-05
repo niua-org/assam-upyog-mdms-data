@@ -45,6 +45,20 @@
             "active": true
         },
         {
+            "id": 7,
+            "state": "as",
+            "city": null,
+            "zone": null,
+            "subZone": null,
+            "riskType": null,
+            "occupancy": "educational",
+            "ventilationValueOne": 6,
+            "ventilationValueTwo": 0.3,
+            "commonRoomPercent": 0.5,
+            "laundryRecreationPercent": 0.10,
+            "active": true
+        },
+        {
             "id": 4,
             "state": "as",
             "city": null,

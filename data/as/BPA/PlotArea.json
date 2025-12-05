@@ -24,6 +24,13 @@
             "active": true
         },
         {
+            "id": 7,
+            "occupancy": "educational",
+            "plotAreaValueOne": 300,
+            "plotAreaValueTwo": 500,
+            "active": true
+        },
+        {
             "id": 4,
             "occupancy": "assembly",
             "plotAreaValueOne": 300,

@@ -12,15 +12,22 @@
         {
             "id": 2,
             "occupancy": "mercantile / commercial",
-            "waterTankCapacityArea": 20,
-            "waterTankCapacityExpected": 200,
+            "waterTankCapacityArea": 12.5,
+            "waterTankCapacityExpected": 135,
             "active": true
         },
         {
             "id": 3,
             "occupancy": "industrial",
-            "waterTankCapacityArea": 30,
-            "waterTankCapacityExpected": 300,
+            "waterTankCapacityArea": 12.5,
+            "waterTankCapacityExpected": 135,
+            "active": true
+        },
+        {
+            "id": 4,
+            "occupancy": "educational",
+            "waterTankCapacityArea": 12.5,
+            "waterTankCapacityExpected": 135,
             "active": true
         },
         {

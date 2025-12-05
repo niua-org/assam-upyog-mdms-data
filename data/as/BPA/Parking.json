@@ -92,6 +92,22 @@
             "permissibleCarStilt": 25,
             "permissibleCarBasement": 30,
             "active": true
+        },
+        {
+            "id": 7,
+            "fromPlotArea": 100,
+            "toPlotArea": 9999999,
+            "perAreaEducationalNurseryCar": 10,
+            "perAreaEducationalSchoolsCar": 20,
+            "occupancy": "educational",
+            "riskType": null,
+            "isOpenParking": true,
+            "noOfParking": 1,
+            "permissible": 20,
+            "permissibleCarOpen": 20,
+            "permissibleCarStilt": 25,
+            "permissibleCarBasement": 30,
+            "active": true
         }
         ,
         {

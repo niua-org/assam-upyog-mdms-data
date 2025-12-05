@@ -1,0 +1,653 @@
+{
+  "tenantId": "as.tinsukiamb",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Tinsukia Municipal Board",
+        "localname": "Tinsukia Municipal Board",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.tinsukiamb",
+        "children": [
+          {
+            "id": "7e9c1a00-11f0-4d8b-b001-11a7a001501",
+            "boundaryNum": 1,
+            "name": "WARD_1",
+            "localname": "WARD_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "TinsukiaW1",
+            "children": [
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002516",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 9",
+                "localname": "Tinsukia Town Sheet 9",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW1V1",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002517",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 8",
+                "localname": "Tinsukia Town Sheet 8",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW1V2",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002518",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 18",
+                "localname": "Tinsukia Town Sheet 18",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW1V3",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002519",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 19",
+                "localname": "Tinsukia Town Sheet 19",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW1V4",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002520",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 20",
+                "localname": "Tinsukia Town Sheet 20",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW1V5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "7e9c1a00-11f0-4d8b-b001-11a7a001502",
+            "boundaryNum": 1,
+            "name": "WARD_2",
+            "localname": "WARD_2",
+            "label": "WardNo",
+            "code": "TinsukiaW2",
+            "children": [
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002521",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 9",
+                "localname": "Tinsukia Town Sheet 9",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW2V1",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002522",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 8",
+                "localname": "Tinsukia Town Sheet 8",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW2V2",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002523",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 20",
+                "localname": "Tinsukia Town Sheet 20",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW2V3",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002524",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 21",
+                "localname": "Tinsukia Town Sheet 21",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW2V4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "7e9c1a00-11f0-4d8b-b001-11a7a001503",
+            "boundaryNum": 1,
+            "name": "WARD_3",
+            "localname": "WARD_3",
+            "label": "WardNo",
+            "code": "TinsukiaW3",
+            "children": [
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002525",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 10",
+                "localname": "Tinsukia Town Sheet 10",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW3V1",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002526",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 11",
+                "localname": "Tinsukia Town Sheet 11",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW3V2",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002527",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 21",
+                "localname": "Tinsukia Town Sheet 21",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW3V3",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002528",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 22",
+                "localname": "Tinsukia Town Sheet 22",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW3V4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "7e9c1a00-11f0-4d8b-b001-11a7a001504",
+            "boundaryNum": 1,
+            "name": "WARD_4",
+            "localname": "WARD_4",
+            "label": "WardNo",
+            "code": "TinsukiaW4",
+            "children": [
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002529",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 12",
+                "localname": "Tinsukia Town Sheet 12",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW4V1",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002530",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 13",
+                "localname": "Tinsukia Town Sheet 13",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW4V2",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002531",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 14",
+                "localname": "Tinsukia Town Sheet 14",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW4V3",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002532",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 23",
+                "localname": "Tinsukia Town Sheet 23",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW4V4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "7e9c1a00-11f0-4d8b-b001-11a7a001505",
+            "boundaryNum": 1,
+            "name": "WARD_5",
+            "localname": "WARD_5",
+            "label": "WardNo",
+            "code": "TinsukiaW5",
+            "children": [
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002533",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 14",
+                "localname": "Tinsukia Town Sheet 14",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW5V1",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002534",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 27",
+                "localname": "Tinsukia Town Sheet 27",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW5V2",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002535",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 28",
+                "localname": "Tinsukia Town Sheet 28",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW5V3",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002536",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 29",
+                "localname": "Tinsukia Town Sheet 29",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW5V4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "7e9c1a00-11f0-4d8b-b001-11a7a001506",
+            "boundaryNum": 1,
+            "name": "WARD_6",
+            "localname": "WARD_6",
+            "label": "WardNo",
+            "code": "TinsukiaW6",
+            "children": [
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002537",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 26",
+                "localname": "Tinsukia Town Sheet 26",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW6V1",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002538",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 27",
+                "localname": "Tinsukia Town Sheet 27",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW6V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "7e9c1a00-11f0-4d8b-b001-11a7a001507",
+            "boundaryNum": 1,
+            "name": "WARD_7",
+            "localname": "WARD_7",
+            "label": "WardNo",
+            "code": "TinsukiaW7",
+            "children": [
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002539",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 24",
+                "localname": "Tinsukia Town Sheet 24",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW7V1",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002540",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 25",
+                "localname": "Tinsukia Town Sheet 25",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW7V2",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002541",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 27",
+                "localname": "Tinsukia Town Sheet 27",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW7V3",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002542",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 28",
+                "localname": "Tinsukia Town Sheet 28",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW7V4",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002543",
+                "boundaryNum": 1,
+                "name": "Parbotia Gaon",
+                "localname": "Parbotia Gaon",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW7V5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "7e9c1a00-11f0-4d8b-b001-11a7a001508",
+            "boundaryNum": 1,
+            "name": "WARD_8",
+            "localname": "WARD_8",
+            "label": "WardNo",
+            "code": "TinsukiaW8",
+            "children": [
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002544",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 1",
+                "localname": "Tinsukia Town Sheet 1",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW8V1",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002545",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 2",
+                "localname": "Tinsukia Town Sheet 2",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW8V2",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002546",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 3",
+                "localname": "Tinsukia Town Sheet 3",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW8V3",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002547",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 15",
+                "localname": "Tinsukia Town Sheet 15",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW8V4",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002548",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 24",
+                "localname": "Tinsukia Town Sheet 24",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW8V5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "7e9c1a00-11f0-4d8b-b001-11a7a001509",
+            "boundaryNum": 1,
+            "name": "WARD_9",
+            "localname": "WARD_9",
+            "label": "WardNo",
+            "code": "TinsukiaW9",
+            "children": [
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002549",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 2",
+                "localname": "Tinsukia Town Sheet 2",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW9V1",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002550",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 3",
+                "localname": "Tinsukia Town Sheet 3",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW9V2",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002551",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 4",
+                "localname": "Tinsukia Town Sheet 4",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW9V3",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002552",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 24",
+                "localname": "Tinsukia Town Sheet 24",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW9V4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "7e9c1a00-11f0-4d8b-b001-11a7a001510",
+            "boundaryNum": 1,
+            "name": "WARD_10",
+            "localname": "WARD_10",
+            "label": "WardNo",
+            "code": "TinsukiaW10",
+            "children": [
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002553",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 3",
+                "localname": "Tinsukia Town Sheet 3",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW10V1",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002554",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 4",
+                "localname": "Tinsukia Town Sheet 4",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW10V2",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002555",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 24",
+                "localname": "Tinsukia Town Sheet 24",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW10V3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "7e9c1a00-11f0-4d8b-b001-11a7a001511",
+            "boundaryNum": 1,
+            "name": "WARD_11",
+            "localname": "WARD_11",
+            "label": "WardNo",
+            "code": "TinsukiaW11",
+            "children": [
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002556",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 10",
+                "localname": "Tinsukia Town Sheet 10",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW11V1",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002557",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 12",
+                "localname": "Tinsukia Town Sheet 12",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW11V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "7e9c1a00-11f0-4d8b-b001-11a7a001512",
+            "boundaryNum": 1,
+            "name": "WARD_12",
+            "localname": "WARD_12",
+            "label": "WardNo",
+            "code": "TinsukiaW12",
+            "children": [
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002558",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 8",
+                "localname": "Tinsukia Town Sheet 8",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW12V1",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002559",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 12",
+                "localname": "Tinsukia Town Sheet 12",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW12V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "7e9c1a00-11f0-4d8b-b001-11a7a001513",
+            "boundaryNum": 1,
+            "name": "WARD_13",
+            "localname": "WARD_13",
+            "label": "WardNo",
+            "code": "TinsukiaW13",
+            "children": [
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002560",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 5",
+                "localname": "Tinsukia Town Sheet 5",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW13V1",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002561",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 7",
+                "localname": "Tinsukia Town Sheet 7",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW13V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "7e9c1a00-11f0-4d8b-b001-11a7a001514",
+            "boundaryNum": 1,
+            "name": "WARD_14",
+            "localname": "WARD_14",
+            "label": "WardNo",
+            "code": "TinsukiaW14",
+            "children": [
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002562",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 16",
+                "localname": "Tinsukia Town Sheet 16",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW14V1",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002563",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 5",
+                "localname": "Tinsukia Town Sheet 5",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW14V2",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002564",
+                "boundaryNum": 1,
+                "name": "Bazaltoli Gaon Part 2",
+                "localname": "Bazaltoli Gaon Part 2",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW14V3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "7e9c1a00-11f0-4d8b-b001-11a7a001515",
+            "boundaryNum": 1,
+            "name": "WARD_15",
+            "localname": "WARD_15",
+            "label": "WardNo",
+            "code": "TinsukiaW15",
+            "children": [
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002565",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 5",
+                "localname": "Tinsukia Town Sheet 5",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW15V1",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002566",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 6",
+                "localname": "Tinsukia Town Sheet 6",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW15V2",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002567",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 7",
+                "localname": "Tinsukia Town Sheet 7",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW15V3",
+                "children": []
+              },
+              {
+                "id": "8a3d5b20-22b0-4d8c-b002-22b7a002568",
+                "boundaryNum": 1,
+                "name": "Tinsukia Town Sheet 17",
+                "localname": "Tinsukia Town Sheet 17",
+                "label": "RevenueVillage",
+                "code": "TinsukiaW15V4",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

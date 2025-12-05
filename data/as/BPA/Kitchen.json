@@ -85,6 +85,20 @@
             "active": true
         },
         {
+            "id": 9,
+            "occupancy": "educational",
+            "kitchenHeight": 3,
+            "kitchenArea": 3.35,
+            "kitchenWidth": 1.5,
+            "kitchenStoreArea": 4.5,
+            "kitchenStoreWidth": 1.8,
+            "kitchenDiningWidth": 2.1,
+            "kitchenDiningArea": 7.5,
+            "kitchenDoorWidth": 0.9,
+            "kitchenDoorHeight": 0.9,
+            "active": true
+        },
+        {
             "id": 6,
             "fromBuildingHeight": 0,
             "toBuildingHeight": 18,

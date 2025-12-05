@@ -12,7 +12,7 @@
     },
         {
         "id": 2,
-        "occupancy": "commercial",
+        "occupancy": "mercantile / commercial",
         "fireStairExpectedNoofRise": "1",
         "fireStairMinimumWidth": "1",
         "fireStairRequiredTread": "0.25",
@@ -21,6 +21,14 @@
         {
         "id": 3,
         "occupancy": "industrial",
+        "fireStairExpectedNoofRise": "2",
+        "fireStairMinimumWidth": "1",
+        "fireStairRequiredTread": "0.25",
+        "active": true
+    },
+    {
+        "id": 7,
+        "occupancy": "educational",
         "fireStairExpectedNoofRise": "2",
         "fireStairMinimumWidth": "1",
         "fireStairRequiredTread": "0.25",

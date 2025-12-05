@@ -29,6 +29,16 @@
         "monumentDistance_maxbuildingheightblock": "1",
         "active": true
     },
+
+    {
+        "id": 7,
+        "occupancy": "educational",
+        "monumentDistance_distanceOne": "45",
+        "monumentDistance_minDistanceTwo": "34",
+        "monumentDistance_maxHeightofbuilding": "7",
+        "monumentDistance_maxbuildingheightblock": "1",
+        "active": true
+    },
     {
         "id": 4,
         "occupancy": "assembly",

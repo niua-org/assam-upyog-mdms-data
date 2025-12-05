@@ -14,7 +14,7 @@
         },
         {
             "id": 2,
-            "occupancy": "mercantile / mercantile / commercial",
+            "occupancy": "mercantile / commercial",
             "mezzanineArea": "9",
             "mezzanineHeight": "2.2",
             "mezzanineBuiltUpArea": "3",
@@ -25,6 +25,16 @@
         {
             "id": 3,
             "occupancy": "industrial",
+            "mezzanineArea": "5",
+            "mezzanineHeight": "2.2",
+            "mezzanineBuiltUpArea": "3",
+            "minMezzanineHeight": "2.2",
+            "maxMezzanineHeight": "2.7",
+            "active": true
+        },
+        {
+            "id": 7,
+            "occupancy": "educational",
             "mezzanineArea": "5",
             "mezzanineHeight": "2.2",
             "mezzanineBuiltUpArea": "3",

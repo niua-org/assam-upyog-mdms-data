@@ -47,6 +47,17 @@
         "active": true
     },
     {
+        "id": 8,
+        "occupancy": "educational",
+        "state": "as",
+        "city": null,
+        "zone": null,
+        "subZone": null,
+        "riskType": null,
+        "permissible": 45,
+        "active": true
+    },
+    {
         "id": 5,
         "occupancy": "assembly",
         "permissible": 45,

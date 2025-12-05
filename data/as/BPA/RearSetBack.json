@@ -193,7 +193,80 @@
         "occupancy": "mercantile / commercial",
         "permissible": 3.0,
         "active": true
-      },
+      } ,
+      {
+        "id": 64,
+        "fromBuildingHeight": 0,
+        "toBuildingHeight": 15.6,
+        "occupancy": "educational",
+        "riskType": null,
+        "permissible": 3.6,
+        "active": true
+    },
+    {
+      "id": 65,
+      "fromBuildingHeight": 15.61,
+      "toBuildingHeight": 18.6,
+      "occupancy": "educational",
+      "permissible": 4.2,
+      "active": true
+    },
+    {
+      "id": 66,
+      "fromBuildingHeight": 18.61,
+      "toBuildingHeight": 21.6,
+      "occupancy": "educational",
+      "permissible": 5.0,
+      "active": true
+    },
+    {
+      "id": 67,
+      "fromBuildingHeight": 21.61,
+      "toBuildingHeight": 24.6,
+      "occupancy": "educational",
+      "permissible": 5.5,
+      "active": true
+    },
+    {
+      "id": 68,
+      "fromBuildingHeight": 24.61,
+      "toBuildingHeight": 27.6,
+      "occupancy": "educational",
+      "permissible": 6.0,
+      "active": true
+    },
+    {
+      "id": 69,
+      "fromBuildingHeight": 27.61,
+      "toBuildingHeight": 30.6,
+      "occupancy": "educational",
+      "permissible": 7.0,
+      "active": true
+    },
+    {
+      "id": 70,
+      "fromBuildingHeight": 30.61,
+      "toBuildingHeight": 36.6,
+      "occupancy": "educational",
+      "permissible": 9.0,
+      "active": true
+    },
+    {
+      "id": 71,
+      "fromBuildingHeight": 36.61,
+      "toBuildingHeight": 45.6,
+      "occupancy": "educational",
+      "permissible": 10.0,
+      "active": true
+    },
+    {
+      "id": 72,
+      "fromBuildingHeight": 45.61,
+      "toBuildingHeight": 9999,
+      "occupancy": "educational",
+      "permissible": 12.0,
+      "active": true
+    },
 
       {
         "id": 25,

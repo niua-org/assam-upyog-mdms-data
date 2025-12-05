@@ -3,7 +3,7 @@
   "moduleName": "tenant",
   "tenantInfo": [
     {
-      "code": "as.nalbari",
+      "code": "as.nalbarimb",
       "districtCode": "NALBARI",
       "population": "12507",
       "malePopulation": "6810",
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "code": "as.barpeta",
+      "code": "as.barpetamb",
       "districtCode": "BARPETA",
       "population": "12510",
       "malePopulation": "6815",
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "code": "as.tinsukia",
+      "code": "as.tinsukiamb",
       "districtCode": "TINSUKIA",
       "population": "406192",
       "malePopulation": "6815",

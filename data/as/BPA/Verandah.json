@@ -24,6 +24,13 @@
             "active": true
         },
         {
+            "id": 7,
+            "occupancy": "educational",
+            "verandahWidth": 3.0,
+            "verandahDepth": 5.0,
+            "active": true
+        },
+        {
             "id": 4,
             "occupancy": "assembly",
             "verandahWidth": 2.5,

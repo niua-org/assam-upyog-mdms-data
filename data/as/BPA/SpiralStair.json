@@ -27,6 +27,14 @@
             "active": true
         },
         {
+            "id": 7,
+            "occupancy": "educational",
+            "spiralStairValue": 15,
+            "spiralStairExpectedDiameter": 1.50,
+            "spiralStairRadius": 3,
+            "active": true
+        },
+        {
             "id": 4,
             "occupancy": "assembly",
             "spiralStairValue": 12,

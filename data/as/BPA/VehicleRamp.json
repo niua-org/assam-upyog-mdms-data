@@ -36,6 +36,17 @@
             "active": true
         },
         {
+            "id": 7,
+            "occupancy": "educational",
+            "vehicleRampValue": 6,
+            "vehicleRampSlopeValueOne": 6,
+            "vehicleRampSlopeValueTwo": 8,
+            "vehicleRampSlopeMinWidthValueOne": 7.0,
+            "vehicleRampSlopeMinWidthValueTwo": 0.18,
+            "vehicleRampSlopeMinWidthValueThree": 5.0,
+            "active": true
+        },
+        {
             "id": 4,
             "occupancy": "assembly",
             "vehicleRampValue": 5,
