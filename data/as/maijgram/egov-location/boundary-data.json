@@ -1,0 +1,68 @@
+{
+  "tenantId": "as.maijgram",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "4f98db8d-d2fd-426a-a060-88d8d4975411",
+        "boundaryNum": 1,
+        "name": "Maijgram",
+        "localname": "Maijgram",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.maijgram",
+        "children": [
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082v01",
+            "boundaryNum": 1,
+            "name": "MAIZGRAM PART – I",
+            "localname": "MAIZGRAM PART – I",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "MaijgramV1",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082v02",
+            "boundaryNum": 2,
+            "name": "MAIZGRAM PART – III",
+            "localname": "MAIZGRAM PART – III",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "MaijgramV2",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082v03",
+            "boundaryNum": 3,
+            "name": "MAIZGRAM PART – IV",
+            "localname": "MAIZGRAM PART – IV",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "MaijgramV3",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082v04",
+            "boundaryNum": 4,
+            "name": "TAJPUR",
+            "localname": "TAJPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "MaijgramV4",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

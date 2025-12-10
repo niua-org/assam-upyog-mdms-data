@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.nayabarikesharkapon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "4f98db8d-d2fd-426a-a060-88d8d4975400",
+        "boundaryNum": 1,
+        "name": "Nayabari Kesharkapon",
+        "localname": "Nayabari Kesharkapon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.nayabarikesharkapon",
+        "children": [
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082k01",
+            "boundaryNum": 1,
+            "name": "ADHAKANDI",
+            "localname": "ADHAKANDI",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "NayabarikesharkaponV1",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082k02",
+            "boundaryNum": 2,
+            "name": "KESHARKAPON PT-IX",
+            "localname": "KESHARKAPON PT-IX",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "NayabarikesharkaponV2",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082k03",
+            "boundaryNum": 3,
+            "name": "PANARGHAR",
+            "localname": "PANARGHAR",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "NayabarikesharkaponV3",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

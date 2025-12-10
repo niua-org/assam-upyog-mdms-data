@@ -1,0 +1,90 @@
+{
+  "tenantId": "as.longaighatbazarghatgp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "4f98db8d-d2fd-426a-a060-88d8d4975402",
+        "boundaryNum": 1,
+        "name": "Longaighat Bazarghat",
+        "localname": "Longaighat Bazarghat",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.longaighatbazarghatgp",
+        "children": [
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m01",
+            "boundaryNum": 1,
+            "name": "AMBARKHANA",
+            "localname": "AMBARKHANA",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "LongaighatV1",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m02",
+            "boundaryNum": 2,
+            "name": "INATHPUR",
+            "localname": "INATHPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "LongaighatV2",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m03",
+            "boundaryNum": 3,
+            "name": "KARNAMADHU PART – III",
+            "localname": "KARNAMADHU PART – III",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "LongaighatV3",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m04",
+            "boundaryNum": 4,
+            "name": "KARNAMADHU PART – IV",
+            "localname": "KARNAMADHU PART – IV",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "LongaighatV4",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m05",
+            "boundaryNum": 5,
+            "name": "KARNAMADHU PART – V",
+            "localname": "KARNAMADHU PART – V",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "LongaighatV5",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082m06",
+            "boundaryNum": 6,
+            "name": "UMAPATI",
+            "localname": "UMAPATI",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "LongaighatV6",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

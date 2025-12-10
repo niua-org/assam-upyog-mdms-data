@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.khubalia",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "4f98db8d-d2fd-426a-a060-88d8d4975393",
+        "boundaryNum": 1,
+        "name": "Khubalia",
+        "localname": "Khubalia",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.khubalia",
+        "children": [
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082j01",
+            "boundaryNum": 1,
+            "name": "Bakal Gaon",
+            "localname": "Bakal Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "KhubaliaV1",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

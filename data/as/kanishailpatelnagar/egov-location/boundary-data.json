@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.kanishailpatelnagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "4f98db8d-d2fd-426a-a060-88d8d4975414",
+        "boundaryNum": 1,
+        "name": "Kanishail Patel Nagar",
+        "localname": "Kanishail Patel Nagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.kanishailpatelnagar",
+        "children": [
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082y01",
+            "boundaryNum": 1,
+            "name": "SAIDAMBAR PART-I",
+            "localname": "SAIDAMBAR PART-I",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "KanishailpatelnagarV1",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

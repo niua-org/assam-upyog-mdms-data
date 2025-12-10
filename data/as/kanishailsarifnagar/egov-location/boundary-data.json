@@ -1,0 +1,68 @@
+{
+  "tenantId": "as.kanishailsarifnagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "4f98db8d-d2fd-426a-a060-88d8d4975408",
+        "boundaryNum": 1,
+        "name": "Kanishail Sarifnagar",
+        "localname": "Kanishail Sarifnagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.kanishailsarifnagar",
+        "children": [
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082s01",
+            "boundaryNum": 1,
+            "name": "BONOMALI PT-I",
+            "localname": "BONOMALI PT-I",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "KanishailsarifnagarV1",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082s02",
+            "boundaryNum": 2,
+            "name": "BONOMALI PT-II",
+            "localname": "BONOMALI PT-II",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "KanishailsarifnagarV2",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082s03",
+            "boundaryNum": 3,
+            "name": "KANISHAIL PT-I",
+            "localname": "KANISHAIL PT-I",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "KanishailsarifnagarV3",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082s04",
+            "boundaryNum": 4,
+            "name": "KANISHAIL PT-II",
+            "localname": "KANISHAIL PT-II",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "KanishailsarifnagarV4",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

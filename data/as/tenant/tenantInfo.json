@@ -56,8 +56,8 @@
       ]
     },
     {
-      "code": "as.tinsukiagp",
-      "districtCode": "TINSUKIA_GP",
+      "code": "as.tinsukia",
+      "districtCode": "TINSUKIA_MB",
       "population": "406192",
       "malePopulation": "6815",
       "femalePopultion": "5700",
@@ -70,7 +70,7 @@
     },
     {
       "code": "as.tinsukiamb",
-      "districtCode": "TINSUKIA_MB",
+      "districtCode": "TINSUKIA",
       "population": "406192",
       "malePopulation": "6815",
       "femalePopultion": "5700",
@@ -96,7 +96,7 @@
     },
     {
       "code": "as.pubbahjani",
-      "districtCode": "PUB_BAHJANI",
+      "districtCode": "NALBARI",
       "population": "8876",
       "malePopulation": "4565",
       "femalePopulation": "4311",
@@ -109,7 +109,7 @@
     },
     {
       "code": "as.balitarabatahgila",
-      "districtCode": "BALITARA_BATAHGILA",
+      "districtCode": "NALBARI",
       "population": "44462",
       "malePopulation": "23043",
       "femalePopulation": "21419",
@@ -135,7 +135,7 @@
     },
     {
       "code": "as.nalbarigp",
-      "districtCode": "NALBARI_GP",
+      "districtCode": "NALBARI",
       "population": "4709",
       "malePopulation": "2327",
       "femalePopulation": "2382",
@@ -148,7 +148,7 @@
     },
     {
       "code": "as.chandakuchi",
-      "districtCode": "CHANDAKUCHI",
+      "districtCode": "NALBARI",
       "population": "6636",
       "malePopulation": "3261",
       "femalePopulation": "3375",
@@ -161,7 +161,7 @@
     },
     {
       "code": "as.uttarpubdharmapur",
-      "districtCode": "37_NO_UTTAR_PUB_DHARMAPUR",
+      "districtCode": "NALBARI",
       "population": "21062",
       "malePopulation": "10390",
       "femalePopulation": "10672",
@@ -174,7 +174,7 @@
     },
     {
       "code": "as.madhyabahjani",
-      "districtCode": "MADHYA_BAHJANI",
+      "districtCode": "NALBARI",
       "population": "32470",
       "malePopulation": "16624",
       "femalePopulation": "15846",
@@ -187,7 +187,7 @@
     },
     {
       "code": "as.hatinamati",
-      "districtCode": "HATI_NAMATI",
+      "districtCode": "NALBARI",
       "population": "42395",
       "malePopulation": "21158",
       "femalePopulation": "21237",
@@ -200,7 +200,7 @@
     },
     {
       "code": "as.dakshinnalbari",
-      "districtCode": "DAKSHIN_NALBARI",
+      "districtCode": "NALBARI",
       "population": "44298",
       "malePopulation": "22936",
       "femalePopulation": "21362",
@@ -213,7 +213,7 @@
     },
     {
       "code": "as.upperbarbhagkhata",
-      "districtCode": "42_NO_UPPER_BARBHAG_KHATA",
+      "districtCode": "NALBARI",
       "population": "6866",
       "malePopulation": "3425",
       "femalePopulation": "3441",
@@ -226,7 +226,7 @@
     },
     {
       "code": "as.uttarpubkhata",
-      "districtCode": "UTTAR_PUB_KHATA",
+      "districtCode": "NALBARI",
       "population": "46589",
       "malePopulation": "23672",
       "femalePopulation": "22917",
@@ -239,7 +239,7 @@
     },
     {
       "code": "as.pubnalbari",
-      "districtCode": "PUB_NALBARI",
+      "districtCode": "NALBARI",
       "population": "43096",
       "malePopulation": "21817",
       "femalePopulation": "21279",
@@ -252,7 +252,7 @@
     },
     {
       "code": "as.digheli",
-      "districtCode": "DIGHELI",
+      "districtCode": "NALBARI",
       "population": "44743",
       "malePopulation": "22867",
       "femalePopulation": "21876",
@@ -265,7 +265,7 @@
     },
     {
       "code": "as.natundehar",
-      "districtCode": "41_NO_NATUN_DEHAR",
+      "districtCode": "NALBARI",
       "population": "32453",
       "malePopulation": "15771",
       "femalePopulation": "16682",
@@ -278,7 +278,7 @@
     },
     {
       "code": "as.panigaon",
-      "districtCode": "23_NO_PANIGAON",
+      "districtCode": "NALBARI",
       "population": "47594",
       "malePopulation": "23644",
       "femalePopulation": "23950",
@@ -291,7 +291,7 @@
     },
     {
       "code": "as.ghograpar",
-      "districtCode": "GHOGRAPAR",
+      "districtCode": "NALBARI",
       "population": "4732",
       "malePopulation": "2365",
       "femalePopulation": "2367",
@@ -304,7 +304,7 @@
     },
     {
       "code": "as.silpotaborilatima",
-      "districtCode": "SILPOTABORI_LATIMA",
+      "districtCode": "NALBARI",
       "population": "26112",
       "malePopulation": "12554",
       "femalePopulation": "13558",
@@ -317,7 +317,7 @@
     },
     {
       "code": "as.silpotaborilatima",
-      "districtCode": "SILPOTABORI_LATIMA",
+      "districtCode": "NALBARI",
       "population": "18947",
       "malePopulation": "9886",
       "femalePopulation": "9061",
@@ -330,7 +330,7 @@
     },
     {
       "code": "as.barajol",
-      "districtCode": "BARAJOL",
+      "districtCode": "NALBARI",
       "population": "16790",
       "malePopulation": "8319",
       "femalePopulation": "8471",
@@ -343,7 +343,7 @@
     },
     {
       "code": "as.dihjari",
-      "districtCode": "DIHJARI",
+      "districtCode": "NALBARI",
       "population": "26399",
       "malePopulation": "12963",
       "femalePopulation": "13436",
@@ -356,7 +356,7 @@
     },
     {
       "code": "as.barpetagp",
-      "districtCode": "BARPETA_GP",
+      "districtCode": "BARPETA",
       "population": "49905",
       "malePopulation": "26250",
       "femalePopulation": "23655",
@@ -368,8 +368,8 @@
       ]
     },
     {
-      "code": "as.patbaushigp",
-      "districtCode": "PATBAUSHI_GP",
+      "code": "as.patbaushi",
+      "districtCode": "PATBAUSHI",
       "population": "9975",
       "malePopulation": "5215",
       "femalePopulation": "4760",
@@ -381,8 +381,8 @@
       ]
     },
     {
-      "code": "as.sundaridiagp",
-      "districtCode": "SUNDARIDIA_GP",
+      "code": "as.sundaridia",
+      "districtCode": "SUNDARIDIA",
       "population": "11768",
       "malePopulation": "5894",
       "femalePopulation": "5874",
@@ -395,7 +395,7 @@
     },
     {
       "code": "as.rajabheta",
-      "districtCode": "RAJABHETA",
+      "districtCode": "DIBRUGARH",
       "population": "11731",
       "malePopulation": "5843",
       "femalePopulation": "5888",
@@ -408,7 +408,7 @@
     },
     {
       "code": "as.nizmankotta",
-      "districtCode": "NIZ_MANKOTTA",
+      "districtCode": "DIBRUGARH",
       "population": "5671",
       "malePopulation": "2928",
       "femalePopulation": "2743",
@@ -421,7 +421,7 @@
     },
     {
       "code": "as.hiloidhari",
-      "districtCode": "HILOIDHARI",
+      "districtCode": "DIBRUGARH",
       "population": "4373",
       "malePopulation": "2200",
       "femalePopulation": "2173",
@@ -434,7 +434,7 @@
     },
     {
       "code": "as.mankottakhanikar",
-      "districtCode": "MANKOTTA_KHANIKAR",
+      "districtCode": "DIBRUGARH",
       "population": "20306",
       "malePopulation": "10324",
       "femalePopulation": "9982",
@@ -447,7 +447,7 @@
     },
     {
       "code": "as.romai",
-      "districtCode": "ROMAI",
+      "districtCode": "DIBRUGARH",
       "population": "15231",
       "malePopulation": "7971",
       "femalePopulation": "7260",
@@ -460,7 +460,7 @@
     },
     {
       "code": "as.timona",
-      "districtCode": "TIMONA",
+      "districtCode": "DIBRUGARH",
       "population": "38849",
       "malePopulation": "19486",
       "femalePopulation": "19363",
@@ -473,7 +473,7 @@
     },
     {
       "code": "as.mohanbari",
-      "districtCode": "MOHANBARI",
+      "districtCode": "DIBRUGARH",
       "population": "35039",
       "malePopulation": "16893",
       "femalePopulation": "18146",
@@ -486,7 +486,7 @@
     },
     {
       "code": "as.bokul",
-      "districtCode": "BOKUL",
+      "districtCode": "DIBRUGARH",
       "population": "41854",
       "malePopulation": "21983",
       "femalePopulation": "19871",
@@ -499,7 +499,7 @@
     },
     {
       "code": "as.maijan",
-      "districtCode": "MAIJAN",
+      "districtCode": "DIBRUGARH",
       "population": "27492",
       "malePopulation": "13217",
       "femalePopulation": "14275",
@@ -512,7 +512,7 @@
     },
     {
       "code": "as.nizkanai",
-      "districtCode": "NIZ_KANAI",
+      "districtCode": "DIBRUGARH",
       "population": "38443",
       "malePopulation": "18901",
       "femalePopulation": "19542",
@@ -525,7 +525,7 @@
     },
     {
       "code": "as.moderkhat",
-      "districtCode": "MODERKHAT",
+      "districtCode": "DIBRUGARH",
       "population": "24677",
       "malePopulation": "12333",
       "femalePopulation": "12344",
@@ -538,7 +538,7 @@
     },
     {
       "code": "as.lahowal",
-      "districtCode": "LAHOWAL",
+      "districtCode": "DIBRUGARH",
       "population": "41821",
       "malePopulation": "20818",
       "femalePopulation": "21003",
@@ -551,7 +551,7 @@
     },
     {
       "code": "as.kotoha",
-      "districtCode": "KOTOHA",
+      "districtCode": "DIBRUGARH",
       "population": "20665",
       "malePopulation": "10925",
       "femalePopulation": "9740",
@@ -564,7 +564,7 @@
     },
     {
       "code": "as.borpothar",
-      "districtCode": "BORPOTHAR",
+      "districtCode": "DIBRUGARH",
       "population": "2357",
       "malePopulation": "1149",
       "femalePopulation": "1208",
@@ -577,7 +577,7 @@
     },
     {
       "code": "as.jokai",
-      "districtCode": "JOKAI",
+      "districtCode": "DIBRUGARH",
       "population": "35320",
       "malePopulation": "17107",
       "femalePopulation": "18213",
@@ -590,7 +590,7 @@
     },
     {
       "code": "as.lejai",
-      "districtCode": "LEJAI",
+      "districtCode": "DIBRUGARH",
       "population": "37023",
       "malePopulation": "18276",
       "femalePopulation": "18747",
@@ -603,7 +603,7 @@
     },
     {
       "code": "as.duliakakoti",
-      "districtCode": "DULIA_KAKOTI",
+      "districtCode": "DIBRUGARH",
       "population": "40103",
       "malePopulation": "19688",
       "femalePopulation": "20415",
@@ -616,7 +616,7 @@
     },
     {
       "code": "as.barbarua",
-      "districtCode": "BARBARUA",
+      "districtCode": "DIBRUGARH",
       "population": "39343",
       "malePopulation": "20749",
       "femalePopulation": "18594",
@@ -629,7 +629,7 @@
     },
     {
       "code": "as.kalakhowa",
-      "districtCode": "KALAKHOWA",
+      "districtCode": "DIBRUGARH",
       "population": "9261",
       "malePopulation": "4518",
       "femalePopulation": "4743",
@@ -642,7 +642,7 @@
     },
     {
       "code": "as.garudhoria",
-      "districtCode": "GARUDHORIA",
+      "districtCode": "DIBRUGARH",
       "population": "45219",
       "malePopulation": "23074",
       "femalePopulation": "22145",
@@ -655,7 +655,7 @@
     },
     {
       "code": "as.bogibeel",
-      "districtCode": "BOGIBEEL",
+      "districtCode": "DIBRUGARH",
       "population": "27125",
       "malePopulation": "13719",
       "femalePopulation": "13406",
@@ -668,7 +668,7 @@
     },
     {
       "code": "as.kololuwa",
-      "districtCode": "KOLOLUWA",
+      "districtCode": "DIBRUGARH",
       "population": "16320",
       "malePopulation": "8553",
       "femalePopulation": "7767",
@@ -681,7 +681,7 @@
     },
     {
       "code": "as.tinsukiagp",
-      "districtCode": "TINSUKIA_GP",
+      "districtCode": "TINSUKIA",
       "population": "47830",
       "malePopulation": "25308",
       "femalePopulation": "22522",
@@ -694,7 +694,7 @@
     },
     {
       "code": "as.rongpuria",
-      "districtCode": "RONGPURIA",
+      "districtCode": "TINSUKIA",
       "population": "39034",
       "malePopulation": "18800",
       "femalePopulation": "20234",
@@ -707,7 +707,7 @@
     },
     {
       "code": "as.borguri",
-      "districtCode": "BORGURI",
+      "districtCode": "TINSUKIA",
       "population": "41214",
       "malePopulation": "20799",
       "femalePopulation": "20415",
@@ -720,7 +720,7 @@
     },
     {
       "code": "as.bojaltoli",
-      "districtCode": "BOJALTOLI",
+      "districtCode": "TINSUKIA",
       "population": "29473",
       "malePopulation": "14491",
       "femalePopulation": "14982",
@@ -733,7 +733,7 @@
     },
     {
       "code": "as.itakhulichariali",
-      "districtCode": "ITAKHULI_CHARIALI",
+      "districtCode": "TINSUKIA",
       "population": "35920",
       "malePopulation": "17495",
       "femalePopulation": "18425",
@@ -746,7 +746,7 @@
     },
     {
       "code": "as.laipuli",
-      "districtCode": "LAIPULI",
+      "districtCode": "TINSUKIA",
       "population": "10058",
       "malePopulation": "5120",
       "femalePopulation": "4938",
@@ -759,7 +759,7 @@
     },
     {
       "code": "as.dimaruguri",
-      "districtCode": "DIMARUGURI",
+      "districtCode": "TINSUKIA",
       "population": "28821",
       "malePopulation": "14931",
       "femalePopulation": "13890",
@@ -772,7 +772,7 @@
     },
     {
       "code": "as.bapuji",
-      "districtCode": "BAPUJI",
+      "districtCode": "TINSUKIA",
       "population": "17395",
       "malePopulation": "8945",
       "femalePopulation": "8450",
@@ -785,7 +785,7 @@
     },
     {
       "code": "as.gottong",
-      "districtCode": "GOTTONG",
+      "districtCode": "TINSUKIA",
       "population": "44088",
       "malePopulation": "22476",
       "femalePopulation": "21612",
@@ -798,7 +798,7 @@
     },
     {
       "code": "as.panitola",
-      "districtCode": "PANITOLA",
+      "districtCode": "TINSUKIA",
       "population": "2258",
       "malePopulation": "1087",
       "femalePopulation": "1171",
@@ -811,7 +811,7 @@
     },
     {
       "code": "as.barekuri",
-      "districtCode": "BAREKURI",
+      "districtCode": "TINSUKIA",
       "population": "29938",
       "malePopulation": "15653",
       "femalePopulation": "14285",
@@ -824,7 +824,7 @@
     },
     {
       "code": "as.tengapani",
-      "districtCode": "TENGAPANI",
+      "districtCode": "TINSUKIA",
       "population": "14881",
       "malePopulation": "7350",
       "femalePopulation": "7531",
@@ -837,7 +837,7 @@
     },
     {
       "code": "as.hapjan",
-      "districtCode": "HAPJAN",
+      "districtCode": "TINSUKIA",
       "population": "38542",
       "malePopulation": "19859",
       "femalePopulation": "18683",
@@ -850,7 +850,7 @@
     },
     {
       "code": "as.jerai",
-      "districtCode": "JERAI",
+      "districtCode": "TINSUKIA",
       "population": "23318",
       "malePopulation": "11217",
       "femalePopulation": "12101",
@@ -862,8 +862,8 @@
       ]
     },
     {
-      "code": "as.madhurbondgp",
-      "districtCode": "MADHUR_BOND_GP",
+      "code": "as.madhurbond",
+      "districtCode": "MADHUR_BOND",
       "population": "7265",
       "malePopulation": "3510",
       "femalePopulation": "3755",
@@ -875,8 +875,8 @@
       ]
     },
     {
-      "code": "as.berengagp",
-      "districtCode": "BERENGA__GP",
+      "code": "as.berenga",
+      "districtCode": "BERENGA_",
       "population": "10188",
       "malePopulation": "5184",
       "femalePopulation": "5004",
@@ -888,8 +888,8 @@
       ]
     },
     {
-      "code": "as.bhagadharbarjuraigp",
-      "districtCode": "BHAGADHAR_BARJURAI_GP",
+      "code": "as.bhagadharbarjurai",
+      "districtCode": "BHAGADHAR_BARJURAI",
       "population": "36980",
       "malePopulation": "19143",
       "femalePopulation": "17837",
@@ -901,8 +901,8 @@
       ]
     },
     {
-      "code": "as.ambikapurgp",
-      "districtCode": "AMBIKAPUR_GP",
+      "code": "as.ambikapur",
+      "districtCode": "AMBIKAPUR",
       "population": "28140",
       "malePopulation": "13912",
       "femalePopulation": "14228",
@@ -914,8 +914,8 @@
       ]
     },
     {
-      "code": "as.ghungoorgp",
-      "districtCode": "5_NO_GHUNGOOR_GP",
+      "code": "as.ghungoor",
+      "districtCode": "5_NO_GHUNGOOR",
       "population": "44814",
       "malePopulation": "23591",
       "femalePopulation": "21223",
@@ -927,8 +927,8 @@
       ]
     },
     {
-      "code": "as.bhanjantipurgp",
-      "districtCode": "BHANJANTIPUR_GP",
+      "code": "as.bhanjantipur",
+      "districtCode": "BHANJANTIPUR",
       "population": "38073",
       "malePopulation": "18841",
       "femalePopulation": "19232",
@@ -940,8 +940,8 @@
       ]
     },
     {
-      "code": "as.meherpurgp",
-      "districtCode": "MEHERPUR_GP",
+      "code": "as.meherpur",
+      "districtCode": "MEHERPUR",
       "population": "36416",
       "malePopulation": "18317",
       "femalePopulation": "18099",
@@ -953,8 +953,8 @@
       ]
     },
     {
-      "code": "as.kanakpurgp",
-      "districtCode": "KANAKPUR_GP",
+      "code": "as.kanakpur",
+      "districtCode": "KANAKPUR",
       "population": "22720",
       "malePopulation": "11854",
       "femalePopulation": "10866",
@@ -966,8 +966,8 @@
       ]
     },
     {
-      "code": "as.rongpurgp",
-      "districtCode": "RONGPUR_GP",
+      "code": "as.rongpur",
+      "districtCode": "RONGPUR",
       "population": "8013",
       "malePopulation": "3901",
       "femalePopulation": "4112",
@@ -979,8 +979,8 @@
       ]
     },
     {
-      "code": "as.uttarkrishnapurgp",
-      "districtCode": "UTTAR_KRISHNAPUR_GP",
+      "code": "as.uttarkrishnapur",
+      "districtCode": "UTTAR_KRISHNAPUR",
       "population": "4067",
       "malePopulation": "2043",
       "femalePopulation": "2024",
@@ -992,8 +992,8 @@
       ]
     },
     {
-      "code": "as.dakshinkrishnapurgp",
-      "districtCode": "DAKSHIN_KRISHNAPUR_GP",
+      "code": "as.dakshinkrishnapur",
+      "districtCode": "DAKSHIN_KRISHNAPUR",
       "population": "9388",
       "malePopulation": "4863",
       "femalePopulation": "4525",
@@ -1005,8 +1005,8 @@
       ]
     },
     {
-      "code": "as.tupkhanagp",
-      "districtCode": "TUPKHANA_GP",
+      "code": "as.tupkhana",
+      "districtCode": "TUPKHANA",
       "population": "4764",
       "malePopulation": "2340",
       "femalePopulation": "2424",
@@ -1018,8 +1018,8 @@
       ]
     },
     {
-      "code": "as.ghoungoorgp",
-      "districtCode": "107_NO_GHOUNGOOR_GP",
+      "code": "as.ghoungoor",
+      "districtCode": "107_NO_GHOUNGOOR",
       "population": "36308",
       "malePopulation": "18543",
       "femalePopulation": "17765",
@@ -1031,8 +1031,8 @@
       ]
     },
     {
-      "code": "as.bhorakhaigp",
-      "districtCode": "BHORAKHAI_GP",
+      "code": "as.bhorakhai",
+      "districtCode": "BHORAKHAI",
       "population": "28722",
       "malePopulation": "15085",
       "femalePopulation": "13637",
@@ -1044,8 +1044,8 @@
       ]
     },
     {
-      "code": "as.tarutajabarigp",
-      "districtCode": "TARUTAJABARI_GP",
+      "code": "as.tarutajabari",
+      "districtCode": "TARUTAJABARI",
       "population": "24193",
       "malePopulation": "11971",
       "femalePopulation": "12222",
@@ -1057,8 +1057,8 @@
       ]
     },
     {
-      "code": "as.chenkoorigp",
-      "districtCode": "CHENKOORI_GP",
+      "code": "as.chenkoori",
+      "districtCode": "CHENKOORI",
       "population": "5548",
       "malePopulation": "2766",
       "femalePopulation": "2782",
@@ -1070,8 +1070,8 @@
       ]
     },
     {
-      "code": "as.rajnagargp",
-      "districtCode": "RAJNAGAR_GP",
+      "code": "as.rajnagar",
+      "districtCode": "RAJNAGAR",
       "population": "18402",
       "malePopulation": "9433",
       "femalePopulation": "8969",
@@ -1083,8 +1083,8 @@
       ]
     },
     {
-      "code": "as.kumarparanizjoinagargp",
-      "districtCode": "KUMARPARA_NIZJOINAGAR_GP",
+      "code": "as.kumarparanizjoinagar",
+      "districtCode": "KUMARPARA_NIZJOINAGAR",
       "population": "33632",
       "malePopulation": "16510",
       "femalePopulation": "17122",
@@ -1110,7 +1110,7 @@
     },
     {
       "code": "as.goalparagp",
-      "districtCode": "GOALPARA_GP",
+      "districtCode": "GOALPARA",
       "population": "33632",
       "malePopulation": "16510",
       "femalePopulation": "17122",
@@ -1122,8 +1122,21 @@
       ]
     },
     {
-      "code": "as.bongaigaongp",
-      "districtCode": "BONGAIGAON_GP",
+      "code": "as.goalparamb",
+      "districtCode": "GOALPARA",
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": [
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "as.bongaigaon",
+      "districtCode": "BOMGAIGAON",
       "population": "33632",
       "malePopulation": "16510",
       "femalePopulation": "17122",
@@ -1240,7 +1253,7 @@
     },
     {
       "code": "as.simulugurimb",
-      "districtCode": "SIVASAGAR",
+      "districtCode": "SIVSAGAR",
       "population": "33632",
       "malePopulation": "16510",
       "femalePopulation": "17122",
@@ -1253,7 +1266,7 @@
     },
     {
       "code": "as.sonarimb",
-      "districtCode": "SIVASAGAR",
+      "districtCode": "SIVSAGAR",
       "population": "33632",
       "malePopulation": "16510",
       "femalePopulation": "17122",
@@ -1279,7 +1292,7 @@
     },
     {
       "code": "as.karimganjgp",
-      "districtCode": "KARIMGANJ_GP",
+      "districtCode": "SRIBHUMI",
       "population": "33632",
       "malePopulation": "16510",
       "femalePopulation": "17122",
@@ -1305,7 +1318,7 @@
     },
     {
       "code": "as.sariahtoli",
-      "districtCode": "SARIAHTOLI",
+      "districtCode": "NALBARI",
       "population": "8500",
       "malePopulation": "4300",
       "femalePopulation": "4200",
@@ -1318,7 +1331,7 @@
     },
     {
       "code": "as.abhaipur",
-      "districtCode": "ABHAIPUR_GP",
+      "districtCode": "ABHAIPUR",
       "population": "7200",
       "malePopulation": "3650",
       "femalePopulation": "3550",
@@ -1331,7 +1344,7 @@
     },
     {
       "code": "as.longpotia",
-      "districtCode": "LONGPOTIA_GP",
+      "districtCode": "LONGPOTIA",
       "population": "6800",
       "malePopulation": "3400",
       "femalePopulation": "3400",
@@ -1344,7 +1357,7 @@
     },
     {
       "code": "as.bhoju",
-      "districtCode": "BHOJU_GP",
+      "districtCode": "BHOJU",
       "population": "5900",
       "malePopulation": "3000",
       "femalePopulation": "2900",
@@ -1356,8 +1369,8 @@
       ]
     },
     {
-      "code": "as.chapaigp",
-      "districtCode": "CHAPAI_GP",
+      "code": "as.chapai",
+      "districtCode": "CHAPAI",
       "population": "19010",
       "malePopulation": "9737",
       "femalePopulation": "9273",
@@ -1369,8 +1382,8 @@
       ]
     },
     {
-      "code": "as.nagarbahigp",
-      "districtCode": "NAGARBAHI_GP",
+      "code": "as.nagarbahi",
+      "districtCode": "NAGARBAHI",
       "population": "40407",
       "malePopulation": "19779",
       "femalePopulation": "20628",
@@ -1382,8 +1395,8 @@
       ]
     },
     {
-      "code": "as.mowamarigp",
-      "districtCode": "MOWAMARI_GP",
+      "code": "as.mowamari",
+      "districtCode": "MOWAMARI",
       "population": "12457",
       "malePopulation": "6466",
       "femalePopulation": "5991",
@@ -1395,8 +1408,8 @@
       ]
     },
     {
-      "code": "as.upahuparagp",
-      "districtCode": "UPAHUPARA_GP",
+      "code": "as.upahupara",
+      "districtCode": "UPAHUPARA",
       "population": "24220",
       "malePopulation": "12186",
       "femalePopulation": "12034",
@@ -1408,8 +1421,8 @@
       ]
     },
     {
-      "code": "as.bandiagp",
-      "districtCode": "BANDIA_GP",
+      "code": "as.bandia",
+      "districtCode": "BANDIA",
       "population": "16405",
       "malePopulation": "8450",
       "femalePopulation": "7955",
@@ -1421,8 +1434,8 @@
       ]
     },
     {
-      "code": "as.chamuaparagp",
-      "districtCode": "CHAMUAPARA_GP",
+      "code": "as.chamuapara",
+      "districtCode": "CHAMUAPARA",
       "population": "48702",
       "malePopulation": "23928",
       "femalePopulation": "24774",
@@ -1435,7 +1448,7 @@
     },
     {
       "code": "as.falimari",
-      "districtCode": "FALIMARI",
+      "districtCode": "DHUBRI",
       "population": "29592",
       "malePopulation": "14303",
       "femalePopulation": "15289",
@@ -1448,7 +1461,7 @@
     },
     {
       "code": "as.jhagrarpar",
-      "districtCode": "JHAGRARPAR",
+      "districtCode": "DHUBRI",
       "population": "35666",
       "malePopulation": "17939",
       "femalePopulation": "17727",
@@ -1461,7 +1474,7 @@
     },
     {
       "code": "as.bhasanichar",
-      "districtCode": "BHASANICHAR",
+      "districtCode": "DHUBRI",
       "population": "11311",
       "malePopulation": "5796",
       "femalePopulation": "5515",
@@ -1474,7 +1487,7 @@
     },
     {
       "code": "as.adabari",
-      "districtCode": "ADABARI",
+      "districtCode": "DHUBRI",
       "population": "35605",
       "malePopulation": "17483",
       "femalePopulation": "18122",
@@ -1486,8 +1499,8 @@
       ]
     },
     {
-      "code": "as.madhusoulmaritiamarigp",
-      "districtCode": "MADHUSOULMARI_TIAMARI",
+      "code": "as.madhusoulmaritiamari",
+      "districtCode": "DHUBRI",
       "population": "46794",
       "malePopulation": "23715",
       "femalePopulation": "23079",
@@ -1500,7 +1513,7 @@
     },
     {
       "code": "as.motirchar",
-      "districtCode": "MOTIRCHAR",
+      "districtCode": "DHUBRI",
       "population": "47832",
       "malePopulation": "23358",
       "femalePopulation": "24474",
@@ -1513,7 +1526,7 @@
     },
     {
       "code": "as.chapgarh",
-      "districtCode": "CHAPGARH",
+      "districtCode": "DHUBRI",
       "population": "49471",
       "malePopulation": "24948",
       "femalePopulation": "24523",
@@ -1526,7 +1539,7 @@
     },
     {
       "code": "as.silairpar",
-      "districtCode": "SILAIRPAR",
+      "districtCode": "DHUBRI",
       "population": "34900",
       "malePopulation": "16814",
       "femalePopulation": "18086",
@@ -1539,7 +1552,7 @@
     },
     {
       "code": "as.southgeramari",
-      "districtCode": "SOUTH_GERAMARI",
+      "districtCode": "DHUBRI",
       "population": "37255",
       "malePopulation": "18495",
       "femalePopulation": "18760",
@@ -1552,7 +1565,7 @@
     },
     {
       "code": "as.madhusoulmari",
-      "districtCode": "MADHUSOULMARI",
+      "districtCode": "DHUBRI",
       "population": "19410",
       "malePopulation": "9605",
       "femalePopulation": "9805",
@@ -1564,8 +1577,8 @@
       ]
     },
     {
-      "code": "as.daridurigp",
-      "districtCode": "DARIDURI_GP",
+      "code": "as.dariduri",
+      "districtCode": "DARIDURI",
       "population": "10728",
       "malePopulation": "5460",
       "femalePopulation": "5268",
@@ -1577,8 +1590,8 @@
       ]
     },
     {
-      "code": "as.hashilagp",
-      "districtCode": "HASHILA_GP",
+      "code": "as.hashila",
+      "districtCode": "HASHILA",
       "population": "9073",
       "malePopulation": "4447",
       "femalePopulation": "4626",
@@ -1590,8 +1603,8 @@
       ]
     },
     {
-      "code": "as.kumrigp",
-      "districtCode": "KUMRI_GP",
+      "code": "as.kumri",
+      "districtCode": "KUMRI",
       "population": "44213",
       "malePopulation": "22673",
       "femalePopulation": "21540",
@@ -1603,8 +1616,8 @@
       ]
     },
     {
-      "code": "as.bhalukdubigp",
-      "districtCode": "BHALUKDUBI_GP",
+      "code": "as.bhalukdubi",
+      "districtCode": "BHALUKDUBI",
       "population": "37929",
       "malePopulation": "19066",
       "femalePopulation": "18863",
@@ -1616,8 +1629,8 @@
       ]
     },
     {
-      "code": "as.dakhinpatgp",
-      "districtCode": "DAKHINPAT_GP",
+      "code": "as.dakhinpat",
+      "districtCode": "DAKHINPAT",
       "population": "18412",
       "malePopulation": "9544",
       "femalePopulation": "8868",
@@ -1629,8 +1642,8 @@
       ]
     },
     {
-      "code": "as.senchowagp",
-      "districtCode": "SENCHOWA_GP",
+      "code": "as.senchowa",
+      "districtCode": "SENCHOWA",
       "population": "8148",
       "malePopulation": "4206",
       "femalePopulation": "3942",
@@ -1642,8 +1655,8 @@
       ]
     },
     {
-      "code": "as.kachamarigp",
-      "districtCode": "KACHAMARI_GP",
+      "code": "as.kachamari",
+      "districtCode": "KACHAMARI",
       "population": "17335",
       "malePopulation": "8511",
       "femalePopulation": "8824",
@@ -1655,8 +1668,8 @@
       ]
     },
     {
-      "code": "as.bebejiadimowbanthaigp",
-      "districtCode": "BEBEJIA_DIMOW_BANTHAI_GP",
+      "code": "as.bebejiadimowbanthai",
+      "districtCode": "BEBEJIA_DIMOW_BANTHAI",
       "population": "31773",
       "malePopulation": "16343",
       "femalePopulation": "15430",
@@ -1668,8 +1681,8 @@
       ]
     },
     {
-      "code": "as.dewdhargp",
-      "districtCode": "DEWDHAR_GP",
+      "code": "as.dewdhar",
+      "districtCode": "DEWDHAR",
       "population": "43940",
       "malePopulation": "21390",
       "femalePopulation": "22550",
@@ -1681,8 +1694,8 @@
       ]
     },
     {
-      "code": "as.borbhetigp",
-      "districtCode": "BORBHETI_GP",
+      "code": "as.borbheti",
+      "districtCode": "BORBHETI",
       "population": "29429",
       "malePopulation": "14879",
       "femalePopulation": "14550",
@@ -1694,8 +1707,8 @@
       ]
     },
     {
-      "code": "as.bengenaatiGP",
-      "districtCode": "BENGENA_ATI_GP",
+      "code": "as.bengenaati",
+      "districtCode": "BENGENA_ATI",
       "population": "44061",
       "malePopulation": "21773",
       "femalePopulation": "22288",
@@ -1707,8 +1720,8 @@
       ]
     },
     {
-      "code": "as.bhutaipathorigp",
-      "districtCode": "BHUTAI_PATHORI_GP",
+      "code": "as.bhutaipathori",
+      "districtCode": "BHUTAI_PATHORI",
       "population": "7249",
       "malePopulation": "3665",
       "femalePopulation": "3584",
@@ -1720,8 +1733,8 @@
       ]
     },
     {
-      "code": "as.chottohaiborgp",
-      "districtCode": "CHOTTO_HAIBOR_GP",
+      "code": "as.chottohaibor",
+      "districtCode": "CHOTTO_HAIBOR",
       "population": "32197",
       "malePopulation": "15739",
       "femalePopulation": "16458",
@@ -1733,8 +1746,8 @@
       ]
     },
     {
-      "code": "as.morongialgp",
-      "districtCode": "MORONGIAL_GP",
+      "code": "as.morongial",
+      "districtCode": "MORONGIAL",
       "population": "43013",
       "malePopulation": "21227",
       "femalePopulation": "21786",
@@ -1746,8 +1759,8 @@
       ]
     },
     {
-      "code": "as.golaghatgp",
-      "districtCode": "GOLAGHAT_GP",
+      "code": "as.golaghat",
+      "districtCode": "GOLAGHAT",
       "population": "15591",
       "malePopulation": "7652",
       "femalePopulation": "7939",
@@ -1759,8 +1772,8 @@
       ]
     },
     {
-      "code": "as.puliborgp",
-      "districtCode": "PULIBOR_GP",
+      "code": "as.pulibor",
+      "districtCode": "PULIBOR",
       "population": "31793",
       "malePopulation": "15644",
       "femalePopulation": "16149",
@@ -1772,8 +1785,8 @@
       ]
     },
     {
-      "code": "as.bengenakhowagp",
-      "districtCode": "BENGENAKHOWA_GP",
+      "code": "as.bengenakhowa",
+      "districtCode": "BENGENAKHOWA",
       "population": "44446",
       "malePopulation": "21918",
       "femalePopulation": "22528",
@@ -1785,8 +1798,8 @@
       ]
     },
     {
-      "code": "as.baruahbamungaongp",
-      "districtCode": "BARUAH_BAMUN_GAON_GP",
+      "code": "as.baruahbamungaon",
+      "districtCode": "BARUAH_BAMUN_GAON",
       "population": "40898",
       "malePopulation": "21233",
       "femalePopulation": "19665",
@@ -1798,8 +1811,8 @@
       ]
     },
     {
-      "code": "as.lawgaongp",
-      "districtCode": "LAWGAON_GP",
+      "code": "as.lawgaon",
+      "districtCode": "LAWGAON",
       "population": "9939",
       "malePopulation": "5124",
       "femalePopulation": "4815",
@@ -1811,8 +1824,8 @@
       ]
     },
     {
-      "code": "as.katanigaongp",
-      "districtCode": "KATANI_GAON_GP",
+      "code": "as.katanigaon",
+      "districtCode": "KATANI_GAON",
       "population": "48320",
       "malePopulation": "23353",
       "femalePopulation": "24967",
@@ -1825,7 +1838,7 @@
     },
     {
       "code": "as.lakhimpur",
-      "districtCode": "LAKHIMPUR",
+      "districtCode": "NORTH_LAKHIMPUR",
       "population": "10722",
       "malePopulation": "5446",
       "femalePopulation": "5276",
@@ -1838,7 +1851,7 @@
     },
     {
       "code": "as.ujjalpur",
-      "districtCode": "UJJALPUR",
+      "districtCode": "NORTH_LAKHIMPUR",
       "population": "49378",
       "malePopulation": "24183",
       "femalePopulation": "25195",
@@ -1851,7 +1864,7 @@
     },
     {
       "code": "as.chaboti",
-      "districtCode": "CHABOTI",
+      "districtCode": "NORTH_LAKHIMPUR",
       "population": "13347",
       "malePopulation": "6455",
       "femalePopulation": "6892",
@@ -1864,7 +1877,7 @@
     },
     {
       "code": "as.bogolijan",
-      "districtCode": "BOGOLIJAN",
+      "districtCode": "NORTH_LAKHIMPUR",
       "population": "25971",
       "malePopulation": "13414",
       "femalePopulation": "12557",
@@ -1877,7 +1890,7 @@
     },
     {
       "code": "as.nakadam",
-      "districtCode": "NA_KADAM",
+      "districtCode": "NORTH_LAKHIMPUR",
       "population": "42560",
       "malePopulation": "22115",
       "femalePopulation": "20445",
@@ -1890,7 +1903,7 @@
     },
     {
       "code": "as.kamalaboria",
-      "districtCode": "KAMALABORIA",
+      "districtCode": "NORTH_LAKHIMPUR",
       "population": "29506",
       "malePopulation": "14710",
       "femalePopulation": "14796",
@@ -1903,7 +1916,7 @@
     },
     {
       "code": "as.azad",
-      "districtCode": "AZAD",
+      "districtCode": "NORTH_LAKHIMPUR",
       "population": "12165",
       "malePopulation": "6255",
       "femalePopulation": "5910",
@@ -1916,7 +1929,7 @@
     },
     {
       "code": "as.madhyatelahi",
-      "districtCode": "MADHYA_TELAHI",
+      "districtCode": "NORTH_LAKHIMPUR",
       "population": "38462",
       "malePopulation": "18729",
       "femalePopulation": "19733",
@@ -1929,7 +1942,7 @@
     },
     {
       "code": "as.uttartelahi",
-      "districtCode": "UTTAR_TELAHI",
+      "districtCode": "NORTH_LAKHIMPUR",
       "population": "9379",
       "malePopulation": "4666",
       "femalePopulation": "4713",
@@ -1942,7 +1955,7 @@
     },
     {
       "code": "as.kadam",
-      "districtCode": "KADAM",
+      "districtCode": "NORTH_LAKHIMPUR",
       "population": "21864",
       "malePopulation": "10997",
       "femalePopulation": "10867",
@@ -1955,7 +1968,7 @@
     },
     {
       "code": "as.pahumora",
-      "districtCode": "PAHUMORA",
+      "districtCode": "NORTH_LAKHIMPUR",
       "population": "41486",
       "malePopulation": "20219",
       "femalePopulation": "21267",
@@ -1968,7 +1981,7 @@
     },
     {
       "code": "as.bishnupur",
-      "districtCode": "BISHNUPUR",
+      "districtCode": "DHEMAJI",
       "population": "30924",
       "malePopulation": "15903",
       "femalePopulation": "15021",
@@ -1981,7 +1994,7 @@
     },
     {
       "code": "as.bishnujpur",
-      "districtCode": "BISHNUJPUR",
+      "districtCode": "DHEMAJI",
       "population": "25617",
       "malePopulation": "13316",
       "femalePopulation": "12301",
@@ -1994,7 +2007,7 @@
     },
     {
       "code": "as.gohaingaon",
-      "districtCode": "GOHAIN_GAON",
+      "districtCode": "DHEMAJI",
       "population": "43384",
       "malePopulation": "21167",
       "femalePopulation": "22217",
@@ -2007,7 +2020,7 @@
     },
     {
       "code": "as.hatigarh",
-      "districtCode": "HATIGARH",
+      "districtCode": "DHEMAJI",
       "population": "3141",
       "malePopulation": "1517",
       "femalePopulation": "1624",
@@ -2020,7 +2033,7 @@
     },
     {
       "code": "as.dakhindhemaji",
-      "districtCode": "DAKHIN_DHEMAJI",
+      "districtCode": "DHEMAJI",
       "population": "16854",
       "malePopulation": "8377",
       "femalePopulation": "8477",
@@ -2033,7 +2046,7 @@
     },
     {
       "code": "as.jiadhal",
-      "districtCode": "JIADHAL",
+      "districtCode": "DHEMAJI",
       "population": "40362",
       "malePopulation": "19953",
       "femalePopulation": "20409",
@@ -2046,7 +2059,7 @@
     },
     {
       "code": "as.moridhal",
-      "districtCode": "MORIDHAL",
+      "districtCode": "DHEMAJI",
       "population": "11977",
       "malePopulation": "5794",
       "femalePopulation": "6183",
@@ -2059,7 +2072,7 @@
     },
     {
       "code": "as.khubalia",
-      "districtCode": "KHUBALIA",
+      "districtCode": "DHEMAJI",
       "population": "41197",
       "malePopulation": "20903",
       "femalePopulation": "20294",
@@ -2071,8 +2084,8 @@
       ]
     },
     {
-      "code": "as.nayabarikesharkpongp",
-      "districtCode": "NAYABARI_KESHARKAPON_GP",
+      "code": "as.nayabarikesharkapon",
+      "districtCode": "NAYABARI_KESHARKAPON",
       "population": "31948",
       "malePopulation": "16292",
       "femalePopulation": "15656",
@@ -2084,8 +2097,8 @@
       ]
     },
     {
-      "code": "as.sarishacharkurigp",
-      "districtCode": "SARISHA_CHARAKURI_GP",
+      "code": "as.sarishacharakuri",
+      "districtCode": "SRIBHUMI",
       "population": "21383",
       "malePopulation": "10398",
       "femalePopulation": "10985",
@@ -2097,8 +2110,8 @@
       ]
     },
     {
-      "code": "as.longaighatgp",
-      "districtCode": "LONGAIGHAT_GP",
+      "code": "as.longaighat",
+      "districtCode": "SRIBHUMI",
       "population": "18337",
       "malePopulation": "9054",
       "femalePopulation": "9283",
@@ -2110,8 +2123,8 @@
       ]
     },
     {
-      "code": "as.northkarimganjgp",
-      "districtCode": "NORTH_KARIMGANJ_GP",
+      "code": "as.northkarimganj",
+      "districtCode": "SRIBHUMI",
       "population": "40705",
       "malePopulation": "20870",
       "femalePopulation": "19835",
@@ -2123,8 +2136,8 @@
       ]
     },
     {
-      "code": "as.krishnanagargp",
-      "districtCode": "KRISHNA_NAGAR_GP",
+      "code": "as.krishnanagar",
+      "districtCode": "SRIBHUMI",
       "population": "28182",
       "malePopulation": "14373",
       "femalePopulation": "13809",
@@ -2136,8 +2149,8 @@
       ]
     },
     {
-      "code": "as.akborpurgp",
-      "districtCode": "AKBORPUR_GP",
+      "code": "as.akborpur",
+      "districtCode": "SRIBHUMI",
       "population": "28187",
       "malePopulation": "14655",
       "femalePopulation": "13532",
@@ -2149,8 +2162,8 @@
       ]
     },
     {
-      "code": "as.pirerchakgp",
-      "districtCode": "PIRERCHAK_GP",
+      "code": "as.pirerchak",
+      "districtCode": "SRIBHUMI",
       "population": "24196",
       "malePopulation": "12417",
       "femalePopulation": "11779",
@@ -2163,7 +2176,7 @@
     },
     {
       "code": "as.ushapur",
-      "districtCode": "USHAPUR",
+      "districtCode": "SONITPUR",
       "population": "3456",
       "malePopulation": "1660",
       "femalePopulation": "1796",
@@ -2176,7 +2189,7 @@
     },
     {
       "code": "as.bhomoraguri",
-      "districtCode": "BHOMORA_GURI",
+      "districtCode": "SONITPUR",
       "population": "43530",
       "malePopulation": "21384",
       "femalePopulation": "22146",
@@ -2189,7 +2202,7 @@
     },
     {
       "code": "as.rajgarh",
-      "districtCode": "RAJGARH",
+      "districtCode": "SONITPUR",
       "population": "40502",
       "malePopulation": "20394",
       "femalePopulation": "20108",
@@ -2202,7 +2215,7 @@
     },
     {
       "code": "as.panchmile",
-      "districtCode": "PANCHMILE",
+      "districtCode": "SONITPUR",
       "population": "10587",
       "malePopulation": "5188",
       "femalePopulation": "5399",
@@ -2215,7 +2228,7 @@
     },
     {
       "code": "as.chaprakata2no",
-      "districtCode": "2_NO_CHAPRAKATA",
+      "districtCode": "BOMGAIGAON",
       "population": "22382",
       "malePopulation": "10835",
       "femalePopulation": "11547",
@@ -2228,7 +2241,7 @@
     },
     {
       "code": "as.chiponchila",
-      "districtCode": "CHIPONCHILA",
+      "districtCode": "BOMGAIGAON",
       "population": "20913",
       "malePopulation": "10064",
       "femalePopulation": "10849",
@@ -2241,7 +2254,7 @@
     },
     {
       "code": "as.chokapara",
-      "districtCode": "CHOKAPARA",
+      "districtCode": "BOMGAIGAON",
       "population": "17926",
       "malePopulation": "9029",
       "femalePopulation": "8897",
@@ -2254,7 +2267,7 @@
     },
     {
       "code": "as.dangtol",
-      "districtCode": "DANGTOL",
+      "districtCode": "BOMGAIGAON",
       "population": "18102",
       "malePopulation": "8703",
       "femalePopulation": "9399",
@@ -2267,7 +2280,7 @@
     },
     {
       "code": "as.dhaligaon",
-      "districtCode": "DHALIGAON",
+      "districtCode": "BOMGAIGAON",
       "population": "14512",
       "malePopulation": "7106",
       "femalePopulation": "7406",
@@ -2280,7 +2293,7 @@
     },
     {
       "code": "as.dolaigaon",
-      "districtCode": "DOLAIGAON",
+      "districtCode": "BOMGAIGAON",
       "population": "28449",
       "malePopulation": "14530",
       "femalePopulation": "13919",
@@ -2293,7 +2306,7 @@
     },
     {
       "code": "as.mulagaon",
-      "districtCode": "MULAGAON",
+      "districtCode": "BOMGAIGAON",
       "population": "37495",
       "malePopulation": "19283",
       "femalePopulation": "18212",
@@ -2305,8 +2318,8 @@
       ]
     },
     {
-      "code": "as.herapatygp",
-      "districtCode": "HERAPATY_GP",
+      "code": "as.herapaty",
+      "districtCode": "HERAPATY",
       "population": "44379",
       "malePopulation": "22671",
       "femalePopulation": "21708",
@@ -2318,8 +2331,8 @@
       ]
     },
     {
-      "code": "as.majaratihujgp",
-      "districtCode": "MAJARATI_HUJ_GP",
+      "code": "as.majaratihuj",
+      "districtCode": "MAJARATI_HUJ",
       "population": "4733",
       "malePopulation": "2296",
       "femalePopulation": "2437",
@@ -2331,8 +2344,8 @@
       ]
     },
     {
-      "code": "as.singiapotonigp",
-      "districtCode": "SINGIA_POTONI_GP",
+      "code": "as.singiapotoni",
+      "districtCode": "SINGIA_POTONI",
       "population": "12100",
       "malePopulation": "5837",
       "femalePopulation": "6263",
@@ -2344,8 +2357,8 @@
       ]
     },
     {
-      "code": "as.rowmarirupahigp",
-      "districtCode": "ROWMARI_RUPAHI_GP",
+      "code": "as.rowmarirupahi",
+      "districtCode": "ROWMARI_RUPAHI",
       "population": "29845",
       "malePopulation": "15134",
       "femalePopulation": "14711",
@@ -2357,8 +2370,8 @@
       ]
     },
     {
-      "code": "as.uriagaongp",
-      "districtCode": "URIAGAON_GP",
+      "code": "as.uriagaon",
+      "districtCode": "URIAGAON",
       "population": "23450",
       "malePopulation": "12152",
       "femalePopulation": "11298",
@@ -2370,8 +2383,8 @@
       ]
     },
     {
-      "code": "as.bhakatgaongp",
-      "districtCode": "BHAKATGAON_GP",
+      "code": "as.bhakatgaon",
+      "districtCode": "BHAKATGAON",
       "population": "49414",
       "malePopulation": "24248",
       "femalePopulation": "25166",
@@ -2383,8 +2396,8 @@
       ]
     },
     {
-      "code": "as.ghahigaongp",
-      "districtCode": "GHAHI_GAON_GP",
+      "code": "as.ghahigaon",
+      "districtCode": "GHAHI_GAON",
       "population": "35330",
       "malePopulation": "18164",
       "femalePopulation": "17166",
@@ -2397,7 +2410,7 @@
     },
     {
       "code": "as.dakhinjagial",
-      "districtCode": "DAKHIN_JAGIAL_GP",
+      "districtCode": "DAKHIN_JAGIAL",
       "population": "28630",
       "malePopulation": "13903",
       "femalePopulation": "14727",
@@ -2410,7 +2423,7 @@
     },
     {
       "code": "as.jamugurikujidah",
-      "districtCode": "JAMUGURI_KUJIDAH_GP",
+      "districtCode": "JAMUGURI_KUJIDAH",
       "population": "6082",
       "malePopulation": "3008",
       "femalePopulation": "3074",
@@ -2423,7 +2436,7 @@
     },
     {
       "code": "as.phulaguri",
-      "districtCode": "PHULAGURI_GP",
+      "districtCode": "PHULAGURI",
       "population": "45224",
       "malePopulation": "22358",
       "femalePopulation": "22866",
@@ -2436,7 +2449,7 @@
     },
     {
       "code": "as.sitalpathar",
-      "districtCode": "SITALPATHAR_GP",
+      "districtCode": "SITALPATHAR",
       "population": "12066",
       "malePopulation": "5820",
       "femalePopulation": "6246",
@@ -2449,7 +2462,7 @@
     },
     {
       "code": "as.negheriting",
-      "districtCode": "NEGHERITING_GP",
+      "districtCode": "NEGHERITING",
       "population": "34314",
       "malePopulation": "17139",
       "femalePopulation": "17175",
@@ -2461,8 +2474,8 @@
       ]
     },
     {
-      "code": "as.dergaongp",
-      "districtCode": "DERGAON_GP",
+      "code": "as.dergaon",
+      "districtCode": "DERGAON",
       "population": "12234",
       "malePopulation": "6124",
       "femalePopulation": "6110",
@@ -2475,7 +2488,7 @@
     },
     {
       "code": "as.pubbrahmaputra",
-      "districtCode": "PUB_BRAHMAPUTRA_GP",
+      "districtCode": "PUB_BRAHMAPUTRA",
       "population": "35823",
       "malePopulation": "17569",
       "femalePopulation": "18254",
@@ -2488,7 +2501,7 @@
     },
     {
       "code": "as.pachimmissamora",
-      "districtCode": "PACHIM_MISSAMORA_GP",
+      "districtCode": "PACHIM_MISSAMORA",
       "population": "36917",
       "malePopulation": "17841",
       "femalePopulation": "19076",
@@ -2501,7 +2514,7 @@
     },
     {
       "code": "as.madhyamissamora",
-      "districtCode": "MADHYA_MISSAMORA_GP",
+      "districtCode": "MADHYA_MISSAMORA",
       "population": "37351",
       "malePopulation": "18185",
       "femalePopulation": "19166",
@@ -2514,7 +2527,7 @@
     },
     {
       "code": "as.pubmissamora",
-      "districtCode": "PUB_MISSAMORA_GP",
+      "districtCode": "PUB_MISSAMORA",
       "population": "16529",
       "malePopulation": "8557",
       "femalePopulation": "7972",
@@ -2527,7 +2540,7 @@
     },
     {
       "code": "as.nagarmahal",
-      "districtCode": "NAGARMAHAL_GP",
+      "districtCode": "NAGARMAHAL",
       "population": "44364",
       "malePopulation": "22410",
       "femalePopulation": "21954",
@@ -2540,7 +2553,7 @@
     },
     {
       "code": "as.cherekapar",
-      "districtCode": "CHEREKAPAR_GP",
+      "districtCode": "CHEREKAPAR",
       "population": "19429",
       "malePopulation": "9829",
       "femalePopulation": "9600",
@@ -2553,7 +2566,7 @@
     },
     {
       "code": "as.rudrasagar",
-      "districtCode": "RUDRASAGAR_GP",
+      "districtCode": "RUDRASAGAR",
       "population": "18850",
       "malePopulation": "9783",
       "femalePopulation": "9067",
@@ -2566,7 +2579,7 @@
     },
     {
       "code": "as.salaguri",
-      "districtCode": "SALAGURI_GP",
+      "districtCode": "SALAGURI",
       "population": "20305",
       "malePopulation": "10150",
       "femalePopulation": "10155",
@@ -2579,7 +2592,7 @@
     },
     {
       "code": "as.desangpar",
-      "districtCode": "DESANGPAR_GP",
+      "districtCode": "DESANGPAR",
       "population": "23363",
       "malePopulation": "11712",
       "femalePopulation": "11651",
@@ -2592,7 +2605,7 @@
     },
     {
       "code": "as.lachit",
-      "districtCode": "LACHIT_GP",
+      "districtCode": "LACHIT",
       "population": "26139",
       "malePopulation": "13580",
       "femalePopulation": "12559",
@@ -2605,7 +2618,7 @@
     },
     {
       "code": "as.betbari",
-      "districtCode": "BETBARI_GP",
+      "districtCode": "BETBARI",
       "population": "33323",
       "malePopulation": "17117",
       "femalePopulation": "16206",
@@ -2618,7 +2631,7 @@
     },
     {
       "code": "as.anazira",
-      "districtCode": "A_NAZIRA_GP",
+      "districtCode": "A_NAZIRA",
       "population": "36485",
       "malePopulation": "18691",
       "femalePopulation": "17794",
@@ -2631,7 +2644,7 @@
     },
     {
       "code": "as.bsimaluguri",
-      "districtCode": "B_SIMALUGURI_GP",
+      "districtCode": "B_SIMALUGURI",
       "population": "37112",
       "malePopulation": "18090",
       "femalePopulation": "19022",
@@ -2644,7 +2657,7 @@
     },
     {
       "code": "as.cphulpaniboruah",
-      "districtCode": "C_PHULPANI_BORUAH_GP",
+      "districtCode": "C_PHULPANI_BORUAH",
       "population": "49074",
       "malePopulation": "23868",
       "femalePopulation": "25206",
@@ -2657,7 +2670,7 @@
     },
     {
       "code": "as.dkhatkhati",
-      "districtCode": "D_KHATKHATI_GP",
+      "districtCode": "D_KHATKHATI",
       "population": "15446",
       "malePopulation": "7851",
       "femalePopulation": "7595",
@@ -2669,8 +2682,8 @@
       ]
     },
     {
-      "code": "as.egargaongp",
-      "districtCode": "E_GARGAON_GP",
+      "code": "as.egargaon",
+      "districtCode": "E_GARGAON",
       "population": "48999",
       "malePopulation": "24313",
       "femalePopulation": "24686",
@@ -2682,8 +2695,8 @@
       ]
     },
     {
-      "code": "as.sonarigp",
-      "districtCode": "SONARI_GP",
+      "code": "as.sonari",
+      "districtCode": "SONARI",
       "population": "3325",
       "malePopulation": "1716",
       "femalePopulation": "1609",
@@ -2696,7 +2709,7 @@
     },
     {
       "code": "as.tawkak",
-      "districtCode": "TAWKAK_GP",
+      "districtCode": "TAWKAK",
       "population": "41407",
       "malePopulation": "19956",
       "femalePopulation": "21451",
@@ -2709,7 +2722,7 @@
     },
     {
       "code": "as.safrai",
-      "districtCode": "SAFRAI_GP",
+      "districtCode": "SAFRAI",
       "population": "28567",
       "malePopulation": "14810",
       "femalePopulation": "13757",
@@ -2722,7 +2735,7 @@
     },
     {
       "code": "as.rajapukhuri",
-      "districtCode": "RAJAPUKHURI_GP",
+      "districtCode": "RAJAPUKHURI",
       "population": "8249",
       "malePopulation": "4185",
       "femalePopulation": "4064",
@@ -2734,8 +2747,8 @@
       ]
     },
     {
-      "code": "as.51nobaghchungcharaibahi",
-      "districtCode": "51_NO_BAGHCHUNG_CHARAIBAHI",
+      "code": "as.baghchungcharaibahi",
+      "districtCode": "JORHAT",
       "population": "37087",
       "malePopulation": "18555",
       "femalePopulation": "18532",
@@ -2747,8 +2760,8 @@
       ]
     },
     {
-      "code": "as.42nopubsarucharai",
-      "districtCode": "42_NO_PUB_SARUCHARAI",
+      "code": "as.pubsarucharai",
+      "districtCode": "JORHAT",
       "population": "7261",
       "malePopulation": "3598",
       "femalePopulation": "3663",
@@ -2760,8 +2773,8 @@
       ]
     },
     {
-      "code": "as.65nobaghchung",
-      "districtCode": "65_NO_BAGHCHUNG",
+      "code": "as.baghchung",
+      "districtCode": "JORHAT",
       "population": "42710",
       "malePopulation": "21313",
       "femalePopulation": "21397",
@@ -2773,8 +2786,8 @@
       ]
     },
     {
-      "code": "as.34nopachimcharigaon",
-      "districtCode": "34_NO_PACHIM_CHARIGAON",
+      "code": "as.pachimcharigaon",
+      "districtCode": "JORHAT",
       "population": "7695",
       "malePopulation": "3934",
       "femalePopulation": "3761",
@@ -2786,8 +2799,8 @@
       ]
     },
     {
-      "code": "as.33nouttarpubcharigaon",
-      "districtCode": "33_NO_UTTAR_PUB_CHARIGAON",
+      "code": "as.uttarpubcharigaon",
+      "districtCode": "JORHAT",
       "population": "45314",
       "malePopulation": "22958",
       "femalePopulation": "22356",
@@ -2799,8 +2812,8 @@
       ]
     },
     {
-      "code": "as.32nopubcharigaon",
-      "districtCode": "32_NO_PUB_CHARIGAON",
+      "code": "as.pubcharigaon",
+      "districtCode": "JORHAT",
       "population": "47711",
       "malePopulation": "23858",
       "femalePopulation": "23853",
@@ -2812,8 +2825,8 @@
       ]
     },
     {
-      "code": "as.31nomadhyacharigaon",
-      "districtCode": "31_NO_MADHYA_CHARIGAON",
+      "code": "as.madhyacharigaon",
+      "districtCode": "JORHAT",
       "population": "18726",
       "malePopulation": "9375",
       "femalePopulation": "9351",
@@ -2825,8 +2838,8 @@
       ]
     },
     {
-      "code": "as.22nopachimholongapar",
-      "districtCode": "22_NO_PACHIM_HOLONGAPAR",
+      "code": "as.pachimholongapar",
+      "districtCode": "JORHAT",
       "population": "17993",
       "malePopulation": "9266",
       "femalePopulation": "8727",
@@ -2838,8 +2851,8 @@
       ]
     },
     {
-      "code": "as.30nouttarpachimcharigaon",
-      "districtCode": "30_NO_UTTAR_PACHIM_CHARIGAON",
+      "code": "as.uttarpachimcharigaon",
+      "districtCode": "JORHAT",
       "population": "40704",
       "malePopulation": "20670",
       "femalePopulation": "20034",
@@ -2851,8 +2864,8 @@
       ]
     },
     {
-      "code": "as.53nouttargaramur",
-      "districtCode": "53_NO_UTTAR_GARAMUR",
+      "code": "as.uttargaramur",
+      "districtCode": "JORHAT",
       "population": "33571",
       "malePopulation": "17134",
       "femalePopulation": "16437",
@@ -2864,8 +2877,8 @@
       ]
     },
     {
-      "code": "as.54nochinnamora",
-      "districtCode": "54_NO_CHINNAMORA",
+      "code": "as.chinnamora",
+      "districtCode": "JORHAT",
       "population": "47436",
       "malePopulation": "24649",
       "femalePopulation": "22787",
@@ -2877,8 +2890,8 @@
       ]
     },
     {
-      "code": "as.28nomelengbalichapori",
-      "districtCode": "28_NO_MELENG_BALICHAPORI",
+      "code": "as.melengbalichapori",
+      "districtCode": "JORHAT",
       "population": "30036",
       "malePopulation": "15158",
       "femalePopulation": "14878",
@@ -2890,8 +2903,8 @@
       ]
     },
     {
-      "code": "as.palashaniteliagp",
-      "districtCode": "PALASHANI_TELIA_PAHUKATA_GP",
+      "code": "as.palashanitelia",
+      "districtCode": "PALASHANI_TELIA_PAHUKATA",
       "population": "37157",
       "malePopulation": "17883",
       "femalePopulation": "19274",
@@ -2903,8 +2916,8 @@
       ]
     },
     {
-      "code": "as.bheleuguridiphalugp",
-      "districtCode": "BHELEUGURI_DIPHALU_GP",
+      "code": "as.bheleuguridiphalu",
+      "districtCode": "BHELEUGURI_DIPHALU",
       "population": "24162",
       "malePopulation": "11681",
       "femalePopulation": "12481",
@@ -2917,7 +2930,7 @@
     },
     {
       "code": "as.mazgaongaonpanchayat",
-      "districtCode": "MAZGAON_GAON_PANCHAYAT",
+      "districtCode": "SONITPUR",
       "population": "35329",
       "malePopulation": "18027",
       "femalePopulation": "17302",
@@ -2930,7 +2943,7 @@
     },
     {
       "code": "as.parbatia",
-      "districtCode": "PARBATIA",
+      "districtCode": "SONITPUR",
       "population": "32028",
       "malePopulation": "15826",
       "femalePopulation": "16202",
@@ -2943,7 +2956,7 @@
     },
     {
       "code": "as.besseria",
-      "districtCode": "BESSERIA",
+      "districtCode": "SONITPUR",
       "population": "12791",
       "malePopulation": "6377",
       "femalePopulation": "6414",
@@ -2956,7 +2969,7 @@
     },
     {
       "code": "as.dolabari",
-      "districtCode": "DOLABARI",
+      "districtCode": "SONITPUR",
       "population": "30034",
       "malePopulation": "15279",
       "femalePopulation": "14755",
@@ -2969,7 +2982,7 @@
     },
     {
       "code": "as.dekargaon",
-      "districtCode": "DEKARGAON",
+      "districtCode": "SONITPUR",
       "population": "10673",
       "malePopulation": "5183",
       "femalePopulation": "5490",
@@ -2982,7 +2995,7 @@
     },
     {
       "code": "as.balipukhuri",
-      "districtCode": "BALIPUKHURI",
+      "districtCode": "SONITPUR",
       "population": "22402",
       "malePopulation": "11435",
       "femalePopulation": "10967",
@@ -2995,7 +3008,7 @@
     },
     {
       "code": "as.napam",
-      "districtCode": "NA_PAM",
+      "districtCode": "SONITPUR",
       "population": "46293",
       "malePopulation": "23786",
       "femalePopulation": "22507",
@@ -3008,7 +3021,7 @@
     },
     {
       "code": "as.bindukuri",
-      "districtCode": "BINDUKURI",
+      "districtCode": "SONITPUR",
       "population": "44299",
       "malePopulation": "21956",
       "femalePopulation": "22343",
@@ -3021,7 +3034,7 @@
     },
     {
       "code": "as.haleswar",
-      "districtCode": "HALESWAR",
+      "districtCode": "SONITPUR",
       "population": "33940",
       "malePopulation": "17005",
       "femalePopulation": "16935",
@@ -3034,7 +3047,7 @@
     },
     {
       "code": "as.garehagi",
-      "districtCode": "GAREHAGI",
+      "districtCode": "BISWANATH",
       "population": "5903",
       "malePopulation": "2947",
       "femalePopulation": "2956",
@@ -3047,7 +3060,7 @@
     },
     {
       "code": "as.kuwarigaon",
-      "districtCode": "KUWARI_GAON",
+      "districtCode": "BISWANATH",
       "population": "49865",
       "malePopulation": "25839",
       "femalePopulation": "24026",
@@ -3060,7 +3073,7 @@
     },
     {
       "code": "as.panibharal",
-      "districtCode": "PANIBHARAL",
+      "districtCode": "BISWANATH",
       "population": "15587",
       "malePopulation": "7761",
       "femalePopulation": "7826",
@@ -3073,7 +3086,7 @@
     },
     {
       "code": "as.lehugaon",
-      "districtCode": "LEHUGAON",
+      "districtCode": "BISWANATH",
       "population": "32266",
       "malePopulation": "16061",
       "femalePopulation": "16205",
@@ -3086,7 +3099,7 @@
     },
     {
       "code": "as.burigang",
-      "districtCode": "BURIGANG",
+      "districtCode": "BISWANATH",
       "population": "15671",
       "malePopulation": "8056",
       "femalePopulation": "7615",
@@ -3099,7 +3112,7 @@
     },
     {
       "code": "as.mukhargarh",
-      "districtCode": "MUKHARGARH",
+      "districtCode": "BISWANATH",
       "population": "33860",
       "malePopulation": "17554",
       "femalePopulation": "16306",
@@ -3112,7 +3125,7 @@
     },
     {
       "code": "as.48nouttarnamonicharaibahi",
-      "districtCode": "48_NO_UTTAR_NAMONI_CHARAIBAHI",
+      "districtCode": "JORHAT",
       "population": "42685",
       "malePopulation": "20585",
       "femalePopulation": "22100",
@@ -3124,8 +3137,8 @@
       ]
     },
     {
-      "code": "as.50nodakhinpubnamonicharaibahi",
-      "districtCode": "50_NO_DAKHIN_PUB_NAMONI_CHARAIBAHI",
+      "code": "as.dakhinpubnamonicharaibahi",
+      "districtCode": "JORHAT",
       "population": "39201",
       "malePopulation": "19818",
       "femalePopulation": "19383",
@@ -3137,8 +3150,8 @@
       ]
     },
     {
-      "code": "as.49nomadhyanamonicharaibahi",
-      "districtCode": "49_NO_MADHYA_NAMONI_CHARAIBAHI",
+      "code": "as.madhyanamonicharaibahi",
+      "districtCode": "JORHAT",
       "population": "42453",
       "malePopulation": "20475",
       "femalePopulation": "21978",
@@ -3150,8 +3163,8 @@
       ]
     },
     {
-      "code": "as.52nodakhincharaibahi",
-      "districtCode": "52_NO_DAKHIN_CHARAIBAHI",
+      "code": "as.dakhincharaibahi",
+      "districtCode": "JORHAT",
       "population": "24367",
       "malePopulation": "11731",
       "femalePopulation": "12636",
@@ -3163,8 +3176,8 @@
       ]
     },
     {
-      "code": "as.36nonowboisa",
-      "districtCode": "36_NO_NOWBOISA",
+      "code": "as.nowboisa",
+      "districtCode": "JORHAT",
       "population": "10056",
       "malePopulation": "5049",
       "femalePopulation": "5007",
@@ -3176,8 +3189,8 @@
       ]
     },
     {
-      "code": "as.37norajahowli",
-      "districtCode": "37_NO_RAJAHOWLI",
+      "code": "as.rajahowli",
+      "districtCode": "JORHAT",
       "population": "22509",
       "malePopulation": "10988",
       "femalePopulation": "11521",
@@ -3189,8 +3202,8 @@
       ]
     },
     {
-      "code": "as.68nouttarkhangia",
-      "districtCode": "68_NO_UTTAR_KHANGIA",
+      "code": "as.uttarkhangia",
+      "districtCode": "JORHAT",
       "population": "26152",
       "malePopulation": "12761",
       "femalePopulation": "13391",
@@ -3202,8 +3215,8 @@
       ]
     },
     {
-      "code": "as.67nopanichokua",
-      "districtCode": "67_NO_PANICHOKUA",
+      "code": "as.panichokua",
+      "districtCode": "JORHAT",
       "population": "36938",
       "malePopulation": "19182",
       "femalePopulation": "17756",
@@ -3215,8 +3228,8 @@
       ]
     },
     {
-      "code": "as.70nomadhyakhangia",
-      "districtCode": "70_NO_MADHYA_KHANGIA",
+      "code": "as.madhyakhangia",
+      "districtCode": "JORHAT",
       "population": "12993",
       "malePopulation": "6409",
       "femalePopulation": "6584",
@@ -3228,8 +3241,8 @@
       ]
     },
     {
-      "code": "as.45nopachimsarucharai",
-      "districtCode": "45_NO_PACHIM_SARUCHARAI",
+      "code": "as.pachimsarucharai",
+      "districtCode": "JORHAT",
       "population": "23548",
       "malePopulation": "12234",
       "femalePopulation": "11314",
@@ -3241,8 +3254,8 @@
       ]
     },
     {
-      "code": "as.43nodhekorgorah",
-      "districtCode": "43_NO_DHEKORGORAH",
+      "code": "as.dhekorgorah",
+      "districtCode": "JORHAT",
       "population": "48682",
       "malePopulation": "24988",
       "femalePopulation": "23694",
@@ -3254,8 +3267,8 @@
       ]
     },
     {
-      "code": "as.46nocharingia",
-      "districtCode": "46_NO_CHARINGIA",
+      "code": "as.charingia",
+      "districtCode": "JORHAT",
       "population": "36959",
       "malePopulation": "18378",
       "femalePopulation": "18581",
@@ -3267,8 +3280,8 @@
       ]
     },
     {
-      "code": "as.56nodakhinkoronga",
-      "districtCode": "56_NO_DAKHIN_KORONGA",
+      "code": "as.dakhinkoronga",
+      "districtCode": "JORHAT",
       "population": "29334",
       "malePopulation": "14912",
       "femalePopulation": "14422",
@@ -3280,8 +3293,8 @@
       ]
     },
     {
-      "code": "as.55nokaranga",
-      "districtCode": "55_NO_KARANGA",
+      "code": "as.karanga",
+      "districtCode": "JORHAT",
       "population": "35765",
       "malePopulation": "17628",
       "femalePopulation": "18137",
@@ -3293,8 +3306,8 @@
       ]
     },
     {
-      "code": "as.sarishacharakurigp",
-      "districtCode": "SARISHA_CHARAKURI_GP",
+      "code": "as.sarishacharakuri",
+      "districtCode": "SRIBHUMI",
       "population": "11933",
       "malePopulation": "5828",
       "femalePopulation": "6105",
@@ -3306,8 +3319,8 @@
       ]
     },
     {
-      "code": "as.bakharshalgp",
-      "districtCode": "BAKHARSHAL_NAIRGRAM_GP",
+      "code": "as.bakharshal",
+      "districtCode": "SRIBHUMI",
       "population": "16299",
       "malePopulation": "8433",
       "femalePopulation": "7866",
@@ -3319,8 +3332,8 @@
       ]
     },
     {
-      "code": "as.medalsarifnagargp",
-      "districtCode": "MEDAL_SARIFNAGAR_GP",
+      "code": "as.medalsarifnagar",
+      "districtCode": "SRIBHUMI",
       "population": "42625",
       "malePopulation": "20881",
       "femalePopulation": "21744",
@@ -3332,8 +3345,8 @@
       ]
     },
     {
-      "code": "as.sadarahigp",
-      "districtCode": "SADARAHI_GP",
+      "code": "as.sadarahi",
+      "districtCode": "SRIBHUMI",
       "population": "11672",
       "malePopulation": "5747",
       "femalePopulation": "5925",
@@ -3345,8 +3358,8 @@
       ]
     },
     {
-      "code": "as.kanishailsarifnagargp",
-      "districtCode": "KANISHAIL_SARIFNAGAR_GP",
+      "code": "as.kanishailsarifnagar",
+      "districtCode": "SRIBHUMI",
       "population": "17331",
       "malePopulation": "8975",
       "femalePopulation": "8356",
@@ -3358,8 +3371,8 @@
       ]
     },
     {
-      "code": "as.longaighatbazarghatgp",
-      "districtCode": "LONGAIGHAT_BAZARGHAT_GP",
+      "code": "as.longaighatbazarghat",
+      "districtCode": "SRIBHUMI",
       "population": "23282",
       "malePopulation": "12099",
       "femalePopulation": "11183",
@@ -3371,8 +3384,8 @@
       ]
     },
     {
-      "code": "as.prasarpurgp",
-      "districtCode": "PRASARPUR_GP",
+      "code": "as.prasarpur",
+      "districtCode": "SRIBHUMI",
       "population": "30369",
       "malePopulation": "14899",
       "femalePopulation": "15470",
@@ -3384,8 +3397,8 @@
       ]
     },
     {
-      "code": "as.maijgramgp",
-      "districtCode": "MAIJGRAM_GP",
+      "code": "as.maijgram",
+      "districtCode": "SRIBHUMI",
       "population": "38323",
       "malePopulation": "19335",
       "femalePopulation": "18988",
@@ -3397,8 +3410,8 @@
       ]
     },
     {
-      "code": "as.latusajpurgp",
-      "districtCode": "LATU_SAJPUR_GP",
+      "code": "as.latusajpur",
+      "districtCode": "SRIBHUMI",
       "population": "26116",
       "malePopulation": "13487",
       "femalePopulation": "12629",
@@ -3410,8 +3423,8 @@
       ]
     },
     {
-      "code": "as.sadarashigp",
-      "districtCode": "SADARASHI_GP",
+      "code": "as.sadarashi",
+      "districtCode": "SRIBHUMI",
       "population": "14860",
       "malePopulation": "7161",
       "femalePopulation": "7699",
@@ -3423,8 +3436,8 @@
       ]
     },
     {
-      "code": "as.kanishailpatelnagargp",
-      "districtCode": "KANISHAIL_PATEL_NAGAR_GP",
+      "code": "as.kanishailpatelnagar",
+      "districtCode": "SRIBHUMI",
       "population": "32560",
       "malePopulation": "16434",
       "femalePopulation": "16126",
@@ -3436,8 +3449,8 @@
       ]
     },
     {
-      "code": "as.maizgramgp",
-      "districtCode": "MAIZGRAM_GP",
+      "code": "as.sribhumimb",
+      "districtCode": "SRIBHUMI",
       "population": "40099",
       "malePopulation": "20167",
       "femalePopulation": "19932",

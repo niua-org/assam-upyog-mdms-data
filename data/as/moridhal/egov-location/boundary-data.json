@@ -1,0 +1,68 @@
+{
+  "tenantId": "as.moridhal",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "4f98db8d-d2fd-426a-a060-88d8d4975392",
+        "boundaryNum": 1,
+        "name": "Moridhal",
+        "localname": "Moridhal",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.moridhal",
+        "children": [
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082i01",
+            "boundaryNum": 1,
+            "name": "Gutung Napam Gaon",
+            "localname": "Gutung Napam Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "MoridhalV1",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082i02",
+            "boundaryNum": 2,
+            "name": "Gutung Gaon",
+            "localname": "Gutung Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "MoridhalV2",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082i03",
+            "boundaryNum": 3,
+            "name": "2 No. Joktali Gaon",
+            "localname": "2 No. Joktali Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "MoridhalV3",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082i04",
+            "boundaryNum": 4,
+            "name": "Joktali Gaon",
+            "localname": "Joktali Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "MoridhalV4",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}
