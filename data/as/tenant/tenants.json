@@ -5316,9 +5316,9 @@
       }
     },
     {
-      "code": "as.bakharshal",
-      "name": "Bakharshal-Nairgram",
-      "description": "Bakharshal-Nairgram",
+      "code": "as.bakharshalnairgram",
+      "name": "Bakharshal-Nairgram GP",
+      "description": "Bakharshal-Nairgram GP",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -5329,8 +5329,8 @@
         "name": "Bakharshal-Nairgram",
         "districtName": "Sribhumi",
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "SRIBHUMI",
-        "districtTenantCode": "as.sribhumimb",
+        "districtCode": "BAKHARSHAL_NAIRGRAM_GP",
+        "districtTenantCode": "as.bakharshalnairgram",
         "planningAreaCode": "SRIBHUMI_MP",
         "code": "1858",
         "ddrName": "Bakharshal-Nairgram Gram Panchayat"

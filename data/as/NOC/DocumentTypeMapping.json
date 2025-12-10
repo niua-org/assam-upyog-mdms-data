@@ -61,6 +61,16 @@
                     "required": false
                 }
             ]
-        }        
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "SOIL_TEST",
+            "docTypes": [
+                {
+                    "documentType": "NOC.SOIL_TEST",
+                    "required": true
+                }
+            ]
+        }
     ]
 }

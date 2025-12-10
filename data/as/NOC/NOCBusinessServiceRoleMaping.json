@@ -8,7 +8,7 @@
             "roles": [
                 "FIRE_NOC_APPROVER"
             ],
-            "     i18nKey": "WF_FIRE_NOC_SRV"
+            "i18nKey": "WF_FIRE_NOC_SRV"
         },
         {
             "code": "AIRPORT_NOC_SRV",
@@ -24,7 +24,7 @@
             "roles": [
                 "SOIL_TEST_APPROVER"
             ],
-            "     i18nKey": "WF_SOIL_TEST_SRV"
+            "i18nKey": "WF_SOIL_TEST_SRV"
         }
     ]
 }
