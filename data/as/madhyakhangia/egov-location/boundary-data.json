@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.madhyakhangia",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "70 No. Madhya Khangia",
+        "localname": "70 No. Madhya Khangia",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.madhyakhangia",
+        "children": [
+          {
+            "id": "588dc138-f6d1-435b-aad3-72d46958f4fb",
+            "boundaryNum": 1,
+            "name": "KuhiarBoria (KuhiaBoria Gaon)",
+            "localname": "KuhiarBoria (KuhiaBoria Gaon)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "madhyakhangiaV46",
+            "children": []
+          },
+          {
+            "id": "b502589f-a30b-4edb-ad99-f0bae321c1e8",
+            "boundaryNum": 1,
+            "name": "DhekeliaBorsaikiaGaon",
+            "localname": "DhekeliaBorsaikiaGaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "madhyakhangiaV47",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

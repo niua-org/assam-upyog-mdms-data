@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.chinnamora",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "54 No. Chinnamora",
+        "localname": "54 No. Chinnamora",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.chinnamora",
+        "children": [
+          {
+            "id": "ac061471-6970-444f-ada9-554684bf4ffc",
+            "boundaryNum": 1,
+            "name": "Cinnamara Grant (OG)",
+            "localname": "Cinnamara Grant (OG)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "chinnamoraV22",
+            "children": []
+          },
+          {
+            "id": "e7b28407-b41c-4ca7-9c0e-4f1e97113122",
+            "boundaryNum": 1,
+            "name": "Toklai Cha Bagicha (OG)",
+            "localname": "Toklai Cha Bagicha (OG)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "chinnamoraV23",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

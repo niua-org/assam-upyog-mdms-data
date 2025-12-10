@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.pulibor",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Pulibor G.P",
+        "localname": "Pulibor G.P",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.pulibor",
+        "children": [
+          {
+            "id": "4b688800-1830-4189-934c-c3b001bbb230",
+            "boundaryNum": 1,
+            "name": "Golampatty Gaon Ist Part",
+            "localname": "Golampatty Gaon Ist Part",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "puliborV5",
+            "children": []
+          },
+          {
+            "id": "a4de0016-4a9e-440e-9d43-16139cda3ada",
+            "boundaryNum": 1,
+            "name": "Golampatty Gaon IInd Part",
+            "localname": "Golampatty Gaon IInd Part",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "puliborV6",
+            "children": []
+          },
+          {
+            "id": "04da7832-a93f-44e5-bf8d-0362b7e60c0d",
+            "boundaryNum": 1,
+            "name": "Chelangi Gaon.",
+            "localname": "Chelangi Gaon.",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "puliborV8",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

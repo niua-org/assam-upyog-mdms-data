@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.gargaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Gargaon G.P.",
+        "localname": "Gargaon G.P.",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.gargaon",
+        "children": [
+          {
+            "id": "72297736-39ee-4f2e-9a23-a57aa3709f0a",
+            "boundaryNum": 1,
+            "name": "Borkala Gorgaon",
+            "localname": "Borkala Gorgaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "egargaonV13",
+            "children": []
+          },
+          {
+            "id": "ad068224-73fe-4cd2-b35f-ecc232c2dd4f",
+            "boundaryNum": 1,
+            "name": "Ramu Gaon",
+            "localname": "Ramu Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "egargaonV14",
+            "children": []
+          },
+          {
+            "id": "b41be5af-dd0b-41aa-abad-c322211cf66a",
+            "boundaryNum": 1,
+            "name": "Borduwarmukh",
+            "localname": "Borduwarmukh",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "egargaonV15",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

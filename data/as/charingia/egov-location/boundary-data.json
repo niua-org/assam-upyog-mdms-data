@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.charingia",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "46 No. Charingia",
+        "localname": "46 No. Charingia",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.charingia",
+        "children": [
+          {
+            "id": "013247d2-48ba-4df6-b85a-589e57949b69",
+            "boundaryNum": 1,
+            "name": "CharingiaGaon (CT",
+            "localname": "CharingiaGaon (CT",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "charingiaV53",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

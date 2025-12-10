@@ -1,0 +1,90 @@
+{
+  "tenantId": "as.kuwarigaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kuwari gaon",
+        "localname": "Kuwari gaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.kuwarigaon",
+        "children": [
+          {
+            "id": "a4691f3d-0cd2-4c75-9fdb-642d48b7e2e7",
+            "boundaryNum": 1,
+            "name": "Kumargaon",
+            "localname": "Kumargaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "kuwarigaonV1",
+            "children": []
+          },
+          {
+            "id": "076f28da-2cd2-46c5-af51-f97100ce0012",
+            "boundaryNum": 1,
+            "name": "Kochgaon",
+            "localname": "Kochgaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "kuwarigaonV2",
+            "children": []
+          },
+          {
+            "id": "d304ce1e-ba3f-4dd6-8e9a-beae143151d8",
+            "boundaryNum": 1,
+            "name": "Japaubari",
+            "localname": "Japaubari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "kuwarigaonV3",
+            "children": []
+          },
+          {
+            "id": "4155bc24-c1d4-4966-8686-e5fca31410fb",
+            "boundaryNum": 1,
+            "name": "Petulibari",
+            "localname": "Petulibari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "kuwarigaonV4",
+            "children": []
+          },
+          {
+            "id": "7f4794c1-d120-4079-afcc-c03cd4fc655b",
+            "boundaryNum": 1,
+            "name": "Ghopsadharu",
+            "localname": "Ghopsadharu",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "kuwarigaonV5",
+            "children": []
+          },
+          {
+            "id": "c784e989-fc5f-4549-a891-81f64d1b7348",
+            "boundaryNum": 1,
+            "name": "Kuori Gaon",
+            "localname": "Kuori Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "kuwarigaonV6",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

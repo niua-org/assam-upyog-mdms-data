@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.katanigaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Katani Gaon",
+        "localname": "Katani Gaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.katanigaon",
+        "children": [
+          {
+            "id": "94b397bf-1d98-408b-aa20-e70fb5144aa8",
+            "boundaryNum": 1,
+            "name": "Katani Gaon",
+            "localname": "Katani Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "katanigaonV1",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

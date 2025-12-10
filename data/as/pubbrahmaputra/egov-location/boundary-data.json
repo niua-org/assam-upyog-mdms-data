@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.pubbrahmaputra",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Pub Brahmaputra G.P.",
+        "localname": "Pub Brahmaputra G.P.",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.pubbrahmaputra",
+        "children": [
+          {
+            "id": "48802c36-3f90-4cc4-942f-8c422c970f0b",
+            "boundaryNum": 1,
+            "name": "Part of Dighalipam gaon",
+            "localname": "Part of Dighalipam gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pubbrahmaputraV15",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+    "tenantId": "as.dakhincharaibahi",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "52 No. Dakhin Charaibahi",
+                "localname": "52 No. Dakhin Charaibahi",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.dakhincharaibahi",
+                "children": [
+                    {
+                        "id": "e8021a2b-76af-45f1-b079-6e43a739a7b1",
+                        "boundaryNum": 1,
+                        "name": "ChoudangGaon No.2",
+                        "localname": "ChoudangGaon No.2",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "dakhincharaibahiV33",
+                        "children": []
+                    },
+                    {
+                        "id": "f621d0ca-51d3-424d-a0be-91e0cae260a5",
+                        "boundaryNum": 1,
+                        "name": "Baghmoria",
+                        "localname": "Baghmoria",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "dakhincharaibahiV34",
+                        "children": []
+                    },
+                    {
+                        "id": "18089413-bc9e-43de-8e96-7e1159d020dd",
+                        "boundaryNum": 1,
+                        "name": "Charingia",
+                        "localname": "Charingia",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "dakhincharaibahiV42",
+                        "children": []
+                    }
+                ]
+            }
+        }
+    ]
+}

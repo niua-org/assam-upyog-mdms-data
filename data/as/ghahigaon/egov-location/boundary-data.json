@@ -1,0 +1,68 @@
+{
+  "tenantId": "as.ghahigaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Ghahi Gaon",
+        "localname": "Ghahi Gaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.ghahigaon",
+        "children": [
+          {
+            "id": "d9131777-b121-44ec-b4e9-87818263ddcb",
+            "boundaryNum": 1,
+            "name": "Bhatikuri",
+            "localname": "Bhatikuri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ghahigaonV1",
+            "children": []
+          },
+          {
+            "id": "093497a6-cf32-4c42-b3d6-c3e147d62170",
+            "boundaryNum": 1,
+            "name": "Ghahi Gaon",
+            "localname": "Ghahi Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ghahigaonV2",
+            "children": []
+          },
+          {
+            "id": "36ac3fec-0faa-4988-8419-b3a66d72b936",
+            "boundaryNum": 1,
+            "name": "Niz-Jagial",
+            "localname": "Niz-Jagial",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ghahigaonV3",
+            "children": []
+          },
+          {
+            "id": "e96bbf0d-a821-43e2-be70-08dac0ad3391",
+            "boundaryNum": 1,
+            "name": "Uttar Petborha",
+            "localname": "Uttar Petborha",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ghahigaonV4",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

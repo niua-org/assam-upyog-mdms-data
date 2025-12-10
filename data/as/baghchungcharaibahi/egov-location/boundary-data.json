@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.baghchungcharaibahi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "51 no. Baghchung Charaibahi",
+        "localname": "51 no. Baghchung Charaibahi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.baghchungcharaibahi",
+        "children": [
+          {
+            "id": "5c3fe445-572a-4dcd-a058-cee087163274",
+            "boundaryNum": 1,
+            "name": "Chekonidhara (CT)",
+            "localname": "Chekonidhara (CT)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "baghchungcharaibahiV1",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "tenantId": "as.kamalaboria",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kamalaboria",
+        "localname": "Kamalaboria",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.kamalaboria",
+        "children": [
+          {
+            "id": "256eaf22-cb03-4b87-9fda-29f71d072af3",
+            "boundaryNum": 1,
+            "name": "Hahchowa",
+            "localname": "Hahchowa",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "kamalaboriaV33",
+            "children": []
+          },
+          {
+            "id": "23269e6f-cb19-433c-a94c-7192b168a4db",
+            "boundaryNum": 1,
+            "name": "Khutakatia",
+            "localname": "Khutakatia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "kamalaboriaV34",
+            "children": []
+          },
+          {
+            "id": "be73b99d-827b-471a-af3e-c1d063995e58",
+            "boundaryNum": 1,
+            "name": "Rawnapur",
+            "localname": "Rawnapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "kamalaboriaV37",
+            "children": []
+          },
+          {
+            "id": "e6ad919e-3269-4845-88cb-a2e0c256b155",
+            "boundaryNum": 1,
+            "name": "Sonari",
+            "localname": "Sonari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "kamalaboriaV38",
+            "children": []
+          },
+          {
+            "id": "f39c6244-4137-4caa-9017-5cdedff61a67",
+            "boundaryNum": 1,
+            "name": "Kamalaboria",
+            "localname": "Kamalaboria",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "kamalaboriaV51",
+            "children": []
+          },
+          {
+            "id": "23ccaf98-9bcd-4274-98b7-9d63e72933b9",
+            "boundaryNum": 1,
+            "name": "Angarkhowa",
+            "localname": "Angarkhowa",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "kamalaboriaV55",
+            "children": []
+          },
+          {
+            "id": "36f78554-6759-4c18-ad8c-eb9b96e849fc",
+            "boundaryNum": 1,
+            "name": "Dhakuakhania",
+            "localname": "Dhakuakhania",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "kamalaboriaV56",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

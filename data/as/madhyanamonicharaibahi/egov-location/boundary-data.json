@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.madhyanamonicharaibahi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "49 no. Madhya Namoni Charaibahi",
+        "localname": "49 no. Madhya Namoni Charaibahi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.madhyanamonicharaibahi",
+        "children": [
+          {
+            "id": "6794b5a8-a7f5-4d02-8d56-6801be73f7ff",
+            "boundaryNum": 1,
+            "name": "SenchoaGaon",
+            "localname": "SenchoaGaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "madhyanamonicharaibahiV1",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

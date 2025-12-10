@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.nowboisa",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "36 no. Nowboisa",
+        "localname": "36 no. Nowboisa",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.nowboisa",
+        "children": [
+          {
+            "id": "0680490c-a4ee-4b67-a18b-b63a04d58230",
+            "boundaryNum": 1,
+            "name": "Dulia Gaon",
+            "localname": "Dulia Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "nowboisaV39",
+            "children": []
+          },
+          {
+            "id": "95ebd38a-83d2-4a04-a24e-cc7c77dfc5ca",
+            "boundaryNum": 1,
+            "name": "NakariBamunGaon (OG)",
+            "localname": "NakariBamunGaon (OG)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "nowboisaV41",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

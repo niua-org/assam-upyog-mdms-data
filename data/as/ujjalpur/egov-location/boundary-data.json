@@ -1,0 +1,156 @@
+{
+  "tenantId": "as.ujjalpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Ujjalpur",
+        "localname": "Ujjalpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.ujjalpur",
+        "children": [
+          {
+            "id": "4f2b73c3-5185-4bc8-b5d0-a26575e5c2fe",
+            "boundaryNum": 1,
+            "name": "Chandmari",
+            "localname": "Chandmari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ujjalpurV1",
+            "children": []
+          },
+          {
+            "id": "298daed1-c6f6-49ca-8c1c-38e12f6d1eef",
+            "boundaryNum": 1,
+            "name": "Putapukhuri",
+            "localname": "Putapukhuri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ujjalpurV13",
+            "children": []
+          },
+          {
+            "id": "7875789e-b7b5-4b7d-89ea-8b2321bb2556",
+            "boundaryNum": 1,
+            "name": "Kasipathar",
+            "localname": "Kasipathar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ujjalpurV16",
+            "children": []
+          },
+          {
+            "id": "c6c0996a-c97a-44a0-a6af-1e9abad6c81f",
+            "boundaryNum": 1,
+            "name": "Bahatia",
+            "localname": "Bahatia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ujjalpurV17",
+            "children": []
+          },
+          {
+            "id": "5eae52f6-a6b5-44d8-8d64-2e892c92ba09",
+            "boundaryNum": 1,
+            "name": "Napam Pathar Part-I",
+            "localname": "Napam Pathar Part-I",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ujjalpurV18",
+            "children": []
+          },
+          {
+            "id": "0c735ff4-414b-47be-93ea-4993ae90884e",
+            "boundaryNum": 1,
+            "name": "Napam Pathar Part-II",
+            "localname": "Napam Pathar Part-II",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ujjalpurV19",
+            "children": []
+          },
+          {
+            "id": "a8bfb843-3847-4348-ba34-05b258a49bf4",
+            "boundaryNum": 1,
+            "name": "Napam Gaon",
+            "localname": "Napam Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ujjalpurV20",
+            "children": []
+          },
+          {
+            "id": "a30e7c10-5b13-42a4-9180-9da4fd81570c",
+            "boundaryNum": 1,
+            "name": "Janakpur",
+            "localname": "Janakpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ujjalpurV21",
+            "children": []
+          },
+          {
+            "id": "e4ac3cd0-e160-48b4-b2bc-f1c9661393ab",
+            "boundaryNum": 1,
+            "name": "Ujjalpur",
+            "localname": "Ujjalpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ujjalpurV22",
+            "children": []
+          },
+          {
+            "id": "ff0fc58a-7993-4c74-a1cb-afcbf46f267b",
+            "boundaryNum": 1,
+            "name": "Hatibondha",
+            "localname": "Hatibondha",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ujjalpurV57",
+            "children": []
+          },
+          {
+            "id": "e23d591c-855c-4217-8b9f-b9f6dec35a1a",
+            "boundaryNum": 1,
+            "name": "Balijan",
+            "localname": "Balijan",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ujjalpurV60",
+            "children": []
+          },
+          {
+            "id": "89e09783-d04b-4327-a7f8-89c63efe4981",
+            "boundaryNum": 1,
+            "name": "Chatakpur",
+            "localname": "Chatakpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ujjalpurV62",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "tenantId": "as.dolabari",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Dolabari",
+        "localname": "Dolabari",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.dolabari",
+        "children": [
+          {
+            "id": "642867aa-c100-47e7-b10c-1583904dee59",
+            "boundaryNum": 1,
+            "name": "Khanamukh",
+            "localname": "Khanamukh",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "dolabariV1",
+            "children": []
+          },
+          {
+            "id": "ced17c18-984d-4a86-b76f-f40da4c70aeb",
+            "boundaryNum": 1,
+            "name": "Dolabari No.1",
+            "localname": "Dolabari No.1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "dolabariV2",
+            "children": []
+          },
+          {
+            "id": "a3d8ac95-40a8-4370-b1f7-18ef93a55c91",
+            "boundaryNum": 1,
+            "name": "Dolabari No.2",
+            "localname": "Dolabari No.2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "dolabariV3",
+            "children": []
+          },
+          {
+            "id": "c447b04e-9c56-4364-ad67-0f49ee99b456",
+            "boundaryNum": 1,
+            "name": "Gotlong",
+            "localname": "Gotlong",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "dolabariV4",
+            "children": []
+          },
+          {
+            "id": "cbdf142f-021a-4938-9d67-43dfdea4aa84",
+            "boundaryNum": 1,
+            "name": "Jahajduba",
+            "localname": "Jahajduba",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "dolabariV5",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

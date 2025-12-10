@@ -1,0 +1,68 @@
+{
+  "tenantId": "as.borbheti",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Borbheti",
+        "localname": "Borbheti",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.borbheti",
+        "children": [
+          {
+            "id": "e7230dbb-6b51-41c3-921a-277d457dee97",
+            "boundaryNum": 1,
+            "name": "Borbheti",
+            "localname": "Borbheti",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "borbhetiV1",
+            "children": []
+          },
+          {
+            "id": "55532427-f10c-4cf6-929e-bdd7616163f7",
+            "boundaryNum": 1,
+            "name": "Katimari Grant",
+            "localname": "Katimari Grant",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "borbhetiV2",
+            "children": []
+          },
+          {
+            "id": "7c107146-2259-4be7-8efd-e95f5b86c187",
+            "boundaryNum": 1,
+            "name": "Simaluguri",
+            "localname": "Simaluguri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "borbhetiV3",
+            "children": []
+          },
+          {
+            "id": "272a6780-64a0-4e6c-a89f-3e12bc028dec",
+            "boundaryNum": 1,
+            "name": "Kawaimari",
+            "localname": "Kawaimari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "borbhetiV4",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

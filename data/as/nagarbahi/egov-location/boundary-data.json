@@ -1,0 +1,79 @@
+{
+  "tenantId": "as.nagarbahi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagarbahi",
+        "localname": "Nagarbahi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.nagarbahi",
+        "children": [
+          {
+            "id": "54ed8152-e661-4e99-bce9-34c8e5290820",
+            "boundaryNum": 1,
+            "name": "Mohanpur",
+            "localname": "Mohanpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "NagarbahiV1",
+            "children": []
+          },
+          {
+            "id": "76472aeb-5089-4e93-a300-51a00a03f4cf",
+            "boundaryNum": 1,
+            "name": "Hengerajhar",
+            "localname": "Hengerajhar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "NagarbahiV2",
+            "children": []
+          },
+          {
+            "id": "a67f1611-3443-401f-8dda-ec58c420f5b2",
+            "boundaryNum": 1,
+            "name": "Mollapara-1",
+            "localname": "Mollapara-1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "NagarbahiV3",
+            "children": []
+          },
+          {
+            "id": "22584c15-daa3-4fd5-870f-df3445c5d137",
+            "boundaryNum": 1,
+            "name": "Mollapara-2",
+            "localname": "Mollapara-2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "NagarbahiV4",
+            "children": []
+          },
+          {
+            "id": "83c20ff1-b3ee-46e3-9f74-fcf7554100bd",
+            "boundaryNum": 1,
+            "name": "No.2 Bezpara",
+            "localname": "No.2 Bezpara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "NagarbahiV5",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

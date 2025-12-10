@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.bhakatgaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bhakatgaon",
+        "localname": "Bhakatgaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.bhakatgaon",
+        "children": [
+          {
+            "id": "11869bc3-5f03-4e04-b54a-999fa5b6003e",
+            "boundaryNum": 1,
+            "name": "Silangani Gaon",
+            "localname": "Silangani Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bhakatgaonV1",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "tenantId": "as.jamugurikujidah",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Jamuguri Kujidah",
+        "localname": "Jamuguri Kujidah",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.jamugurikujidah",
+        "children": [
+          {
+            "id": "39f3aa00-2c8a-42fc-8a6a-296296040ecc",
+            "boundaryNum": 1,
+            "name": "Jamuguri",
+            "localname": "Jamuguri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "jamugurikujidahV1",
+            "children": []
+          },
+          {
+            "id": "fa4fa9be-f7c1-46dc-b922-60d4877f08d4",
+            "boundaryNum": 1,
+            "name": "Samua Gaon",
+            "localname": "Samua Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "jamugurikujidahV2",
+            "children": []
+          },
+          {
+            "id": "f64cb18b-d41c-401c-8109-29da1571ffc1",
+            "boundaryNum": 1,
+            "name": "Lathabori",
+            "localname": "Lathabori",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "jamugurikujidahV3",
+            "children": []
+          },
+          {
+            "id": "1af390f5-505f-497d-bd5b-523793cf7623",
+            "boundaryNum": 1,
+            "name": "Kujarbori",
+            "localname": "Kujarbori",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "jamugurikujidahV4",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

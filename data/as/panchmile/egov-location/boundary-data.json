@@ -1,0 +1,68 @@
+{
+  "tenantId": "as.panchmile",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Panchmile",
+        "localname": "Panchmile",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.panchmile",
+        "children": [
+          {
+            "id": "da30033a-feaf-458a-a079-8372ccc6f93c",
+            "boundaryNum": 1,
+            "name": "Chatai Chapari",
+            "localname": "Chatai Chapari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "panchmileV1",
+            "children": []
+          },
+          {
+            "id": "1e6f8b38-206c-4536-b59d-4bc610f209df",
+            "boundaryNum": 1,
+            "name": "PuraniAlimur",
+            "localname": "PuraniAlimur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "panchmileV2",
+            "children": []
+          },
+          {
+            "id": "f402b056-c8eb-47a0-947e-3ebffd6721de",
+            "boundaryNum": 1,
+            "name": "Uriamguri",
+            "localname": "Uriamguri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "panchmileV3",
+            "children": []
+          },
+          {
+            "id": "7d34a9dc-8c99-4b3a-b8ba-a9b326b6a826",
+            "boundaryNum": 1,
+            "name": "Alichinga Uriamguri",
+            "localname": "Alichinga Uriamguri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "panchmileV4",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.dergaongp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Dergaon G.P",
+        "localname": "Dergaon G.P",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.dergaongp",
+        "children": [
+          {
+            "id": "71be7138-b39e-4d33-b498-cdec8b452ca0",
+            "boundaryNum": 1,
+            "name": "Dergaon",
+            "localname": "Dergaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "dergaonV7",
+            "children": []
+          },
+          {
+            "id": "4da306a6-51c8-4f3d-b622-f3adb1269dc0",
+            "boundaryNum": 1,
+            "name": "Jelehua gaon",
+            "localname": "Jelehua gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "dergaonV8",
+            "children": []
+          },
+          {
+            "id": "b7747672-0b94-4050-aae9-124560794c8a",
+            "boundaryNum": 1,
+            "name": "Feta gaon",
+            "localname": "Feta gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "dergaonV9",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

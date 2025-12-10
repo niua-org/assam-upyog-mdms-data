@@ -1,0 +1,79 @@
+{
+  "tenantId": "as.besseria",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Besseria",
+        "localname": "Besseria",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.besseria",
+        "children": [
+          {
+            "id": "77540d44-5b9b-47b3-a6f1-b7d2ad33ff1f",
+            "boundaryNum": 1,
+            "name": "Da-gaonpukhuria",
+            "localname": "Da-gaonpukhuria",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "besseriaV1",
+            "children": []
+          },
+          {
+            "id": "c1453e39-7f53-42e0-8f96-0d243e6add89",
+            "boundaryNum": 1,
+            "name": "Katakichuburi",
+            "localname": "Katakichuburi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "besseriaV2",
+            "children": []
+          },
+          {
+            "id": "c77aa638-9524-4fc2-8a17-aa4c6d86e60a",
+            "boundaryNum": 1,
+            "name": "SoporaChuburi",
+            "localname": "SoporaChuburi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "besseriaV3",
+            "children": []
+          },
+          {
+            "id": "e50857ba-1704-488b-83b5-198a0a8ecd95",
+            "boundaryNum": 1,
+            "name": "Bebejia",
+            "localname": "Bebejia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "besseriaV4",
+            "children": []
+          },
+          {
+            "id": "6d46cbf3-302d-4e1c-85de-f7c6ffeb1dd2",
+            "boundaryNum": 1,
+            "name": "Kumar Gaon",
+            "localname": "Kumar Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "besseriaV5",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

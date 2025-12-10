@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.mukhargarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Mukhargarh",
+        "localname": "Mukhargarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.mukhargarh",
+        "children": [
+          {
+            "id": "cb678beb-1c41-450f-a795-3b5d0cc54b57",
+            "boundaryNum": 1,
+            "name": "Nilpur",
+            "localname": "Nilpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "mukhargarhV1",
+            "children": []
+          },
+          {
+            "id": "5b347796-159d-4e61-9ea9-08b7e5ab4c56",
+            "boundaryNum": 1,
+            "name": "Pratapgarh",
+            "localname": "Pratapgarh",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "mukhargarhV2",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

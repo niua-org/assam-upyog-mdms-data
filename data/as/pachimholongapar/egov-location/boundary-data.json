@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.pachimholongapar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "22 No. Pachim Holongapar",
+        "localname": "22 No. Pachim Holongapar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.pachimholongapar",
+        "children": [
+          {
+            "id": "68e60897-dab4-403f-b22b-9d09e010c84c",
+            "boundaryNum": 1,
+            "name": "MoutGaon",
+            "localname": "MoutGaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pachimholongaparV13",
+            "children": []
+          },
+          {
+            "id": "72f85d43-a864-4615-9520-d3aad7390b61",
+            "boundaryNum": 1,
+            "name": "MeteliGaon",
+            "localname": "MeteliGaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pachimholongaparV54",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

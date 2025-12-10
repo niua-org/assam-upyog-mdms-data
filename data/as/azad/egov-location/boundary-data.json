@@ -1,0 +1,101 @@
+{
+  "tenantId": "as.azad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Azad",
+        "localname": "Azad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.azad",
+        "children": [
+          {
+            "id": "9b94aabf-0f89-4bb6-ae98-a667e8093d8f",
+            "boundaryNum": 1,
+            "name": "Japisajia",
+            "localname": "Japisajia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "azadV39",
+            "children": []
+          },
+          {
+            "id": "b5a3d480-cf29-4982-bfb7-b43876a504a5",
+            "boundaryNum": 1,
+            "name": "Tinikuria Sonari",
+            "localname": "Tinikuria Sonari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "azadV41",
+            "children": []
+          },
+          {
+            "id": "b56b4a1a-89ea-4f30-b91c-3adadd1ea15a",
+            "boundaryNum": 1,
+            "name": "Telia Tinikuria",
+            "localname": "Telia Tinikuria",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "azadV42",
+            "children": []
+          },
+          {
+            "id": "9d874a78-4125-4f5a-84fb-6e7981824c24",
+            "boundaryNum": 1,
+            "name": "Padumoni Lahon",
+            "localname": "Padumoni Lahon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "azadV43",
+            "children": []
+          },
+          {
+            "id": "e1c3e685-2349-4d94-bfbc-33f3efbd85b1",
+            "boundaryNum": 1,
+            "name": "Bahadur Mout",
+            "localname": "Bahadur Mout",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "azadV45",
+            "children": []
+          },
+          {
+            "id": "929a2756-f657-430d-91c3-d25bfd8809e1",
+            "boundaryNum": 1,
+            "name": "Dhenudharia Karchan",
+            "localname": "Dhenudharia Karchan",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "azadV66",
+            "children": []
+          },
+          {
+            "id": "1a8b6132-bfe9-4195-980b-053cfecb4a8c",
+            "boundaryNum": 1,
+            "name": "Kharkhari Bakal",
+            "localname": "Kharkhari Bakal",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "azadV69",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

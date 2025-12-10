@@ -1,0 +1,35 @@
+{
+    "tenantId": "as.dakhinjagial",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "Dakhin Jagial",
+                "localname": "Dakhin Jagial",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.dakhinjagial",
+                "children": [
+                    {
+                        "id": "30e05454-cd8f-4d83-8f01-46aa69c1495f",
+                        "boundaryNum": 1,
+                        "name": "Niz Bali Gaon",
+                        "localname": "Niz Bali Gaon",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "dakhinjagialV1",
+                        "children": []
+                    }
+                ]
+            }
+        }
+    ]
+}

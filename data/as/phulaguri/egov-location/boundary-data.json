@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.phulaguri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Phulaguri",
+        "localname": "Phulaguri",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.phulaguri",
+        "children": [
+          {
+            "id": "46e9f9ec-7247-4cba-b952-3cf5bb4b0153",
+            "boundaryNum": 1,
+            "name": "Garmur Satra",
+            "localname": "Garmur Satra",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "phulaguriV1",
+            "children": []
+          },
+          {
+            "id": "eb51ed88-ff58-45e9-b768-bde7ae5a01ab",
+            "boundaryNum": 1,
+            "name": "Pub Salmara",
+            "localname": "Pub Salmara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "phulaguriV2",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

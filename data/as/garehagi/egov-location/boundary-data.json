@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.garehagi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Garehagi",
+        "localname": "Garehagi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.garehagi",
+        "children": [
+          {
+            "id": "b7870413-e0de-47da-aa88-71ffff3be397",
+            "boundaryNum": 1,
+            "name": "Gorahagi",
+            "localname": "Gorahagi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "garehagiV1",
+            "children": []
+          },
+          {
+            "id": "33b48661-ba17-4697-8f8b-d2df4e363188",
+            "boundaryNum": 1,
+            "name": "Bamgaon",
+            "localname": "Bamgaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "garehagiV2",
+            "children": []
+          },
+          {
+            "id": "9382f15d-4ca8-4c3f-8d79-6814ce6b90cc",
+            "boundaryNum": 1,
+            "name": "Erabari",
+            "localname": "Erabari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "garehagiV3",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

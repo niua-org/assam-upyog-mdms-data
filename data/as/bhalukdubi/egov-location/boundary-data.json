@@ -1,0 +1,90 @@
+{
+  "tenantId": "as.bhalukdubi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bhalukdubi",
+        "localname": "Bhalukdubi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.bhalukdubi",
+        "children": [
+          {
+            "id": "49c52357-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Baladmari",
+            "localname": "Baladmari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BhalukdubiV1",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Bhalukdubi Pt-1",
+            "localname": "Bhalukdubi Pt-1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BhalukdubiV2",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41bat6e71171",
+            "boundaryNum": 1,
+            "name": "Bhalukdubi Pt-3",
+            "localname": "Bhalukdubi Pt-3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BhalukdubiV3",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-u8cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Bhalukdubi Pt-4",
+            "localname": "Bhalukdubi Pt-4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BhalukdubiV4",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Bhalukdubi Pt-5",
+            "localname": "Bhalukdubi Pt-5",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BhalukdubiV5",
+            "children": []
+          },
+          {
+            "id": "49e52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Jungle Block No. 2",
+            "localname": "Jungle Block No. 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BhalukdubiV6",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

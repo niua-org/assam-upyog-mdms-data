@@ -1,0 +1,200 @@
+{
+  "tenantId": "as.napam",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Na-pam",
+        "localname": "Na-pam",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.napam",
+        "children": [
+          {
+            "id": "03f4255f-0cbf-4f10-bb78-5a23c0ebbec2",
+            "boundaryNum": 1,
+            "name": "Parowa Gaon",
+            "localname": "Parowa Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "napamV1",
+            "children": []
+          },
+          {
+            "id": "9bbfd6d7-c89d-4694-a195-75ab3f1aa891",
+            "boundaryNum": 1,
+            "name": "Parowa TE",
+            "localname": "Parowa TE",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "napamV2",
+            "children": []
+          },
+          {
+            "id": "31bbdf3a-a33d-4466-bdc4-884fb60f9d04",
+            "boundaryNum": 1,
+            "name": "Na-pam",
+            "localname": "Na-pam",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "napamV3",
+            "children": []
+          },
+          {
+            "id": "3d1ec303-60f0-4c16-a95b-799e884c3bb2",
+            "boundaryNum": 1,
+            "name": "Amolapam",
+            "localname": "Amolapam",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "napamV4",
+            "children": []
+          },
+          {
+            "id": "3bdfac45-7aae-4f45-83ee-3bf533719fd8",
+            "boundaryNum": 1,
+            "name": "Borguri",
+            "localname": "Borguri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "napamV5",
+            "children": []
+          },
+          {
+            "id": "b9ca3344-9b5e-4cc5-9faf-d180e20971de",
+            "boundaryNum": 1,
+            "name": "Paramaighuli",
+            "localname": "Paramaighuli",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "napamV6",
+            "children": []
+          },
+          {
+            "id": "f629a230-6a16-4e12-8b47-3ab911c9cf46",
+            "boundaryNum": 1,
+            "name": "Solmara",
+            "localname": "Solmara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "napamV7",
+            "children": []
+          },
+          {
+            "id": "c0841eeb-a73f-42cc-8192-37c45a02b146",
+            "boundaryNum": 1,
+            "name": "Rupkuria",
+            "localname": "Rupkuria",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "napamV8",
+            "children": []
+          },
+          {
+            "id": "51ab59cb-02c8-4ac1-980e-276a0ffc4c8c",
+            "boundaryNum": 1,
+            "name": "Baghchung",
+            "localname": "Baghchung",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "napamV9",
+            "children": []
+          },
+          {
+            "id": "15eb1f31-d4b4-4460-af50-b47b666c0aeb",
+            "boundaryNum": 1,
+            "name": "Kasakani",
+            "localname": "Kasakani",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "napamV10",
+            "children": []
+          },
+          {
+            "id": "72810aa7-0636-41b2-a73f-c924cbc1df05",
+            "boundaryNum": 1,
+            "name": "Ahatguri",
+            "localname": "Ahatguri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "napamV11",
+            "children": []
+          },
+          {
+            "id": "ad70b778-b8c5-4569-8aef-9cf2510e1d60",
+            "boundaryNum": 1,
+            "name": "Puniani Gaon",
+            "localname": "Puniani Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "napamV12",
+            "children": []
+          },
+          {
+            "id": "c1aa38e2-6eb0-43b0-a01e-d2d53c17601f",
+            "boundaryNum": 1,
+            "name": "Salani Gaon",
+            "localname": "Salani Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "napamV13",
+            "children": []
+          },
+          {
+            "id": "327c5fa4-c2a4-4143-804c-e7269a55f307",
+            "boundaryNum": 1,
+            "name": "Jagalani",
+            "localname": "Jagalani",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "napamV14",
+            "children": []
+          },
+          {
+            "id": "5b226421-279c-40f7-8b67-ecfc8062f0c0",
+            "boundaryNum": 1,
+            "name": "Goroimari Gaon",
+            "localname": "Goroimari Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "napamV15",
+            "children": []
+          },
+          {
+            "id": "f1002964-b385-4783-8d04-9fff3e01bd2d",
+            "boundaryNum": 1,
+            "name": "Goroimari RF",
+            "localname": "Goroimari RF",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "napamV16",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

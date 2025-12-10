@@ -1,0 +1,101 @@
+{
+  "tenantId": "as.dariduri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Dariduri",
+        "localname": "Dariduri",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.dariduri",
+        "children": [
+          {
+            "id": "49c52357-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Dakurbhita N.C.",
+            "localname": "Dakurbhita N.C.",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DariduriV1",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Dakurbhita",
+            "localname": "Dakurbhita",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DariduriV2",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41bat6e71171",
+            "boundaryNum": 1,
+            "name": "Dakurbhita Salforest",
+            "localname": "Dakurbhita Salforest",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DariduriV3",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-u8cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Dariduri",
+            "localname": "Dariduri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DariduriV4",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Hurka kuchi",
+            "localname": "Hurka kuchi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DariduriV5",
+            "children": []
+          },
+          {
+            "id": "49e52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Kharboja",
+            "localname": "Kharboja",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DariduriV6",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b0id-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Makari",
+            "localname": "Makari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DariduriV7",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

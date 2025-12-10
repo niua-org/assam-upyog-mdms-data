@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.uriagaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Uriagaon",
+        "localname": "Uriagaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.uriagaon",
+        "children": [
+          {
+            "id": "7960bd43-570e-4356-a557-a661cc9c7ccf",
+            "boundaryNum": 1,
+            "name": "Uria Gaon",
+            "localname": "Uria Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "uriagaonV1",
+            "children": []
+          },
+          {
+            "id": "bde43a6d-0f26-43e7-a03a-00ed1fe7079b",
+            "boundaryNum": 1,
+            "name": "Morangial",
+            "localname": "Morangial",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "uriagaonV2",
+            "children": []
+          },
+          {
+            "id": "29478ea2-5c4c-4351-8323-00e5e3067e39",
+            "boundaryNum": 1,
+            "name": "Niz-Gumutha Gaon",
+            "localname": "Niz-Gumutha Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "uriagaonV3",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.dangtol",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Dangtol",
+        "localname": "Dangtol",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.dangtol",
+        "children": [
+          {
+            "id": "49c52357-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Dholagaon",
+            "localname": "Dholagaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DangtolV1",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Tengaigaon",
+            "localname": "Tengaigaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DangtolV2",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41bat6e71171",
+            "boundaryNum": 1,
+            "name": "Tilpukhuri",
+            "localname": "Tilpukhuri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DangtolV3",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

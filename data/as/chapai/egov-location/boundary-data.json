@@ -1,0 +1,101 @@
+{
+  "tenantId": "as.chapai",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Chapai",
+        "localname": "Chapai",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.chapai",
+        "children": [
+          {
+            "id": "49c52357-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Saikiapara",
+            "localname": "Saikiapara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ChapaiV1",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Gelaidingi",
+            "localname": "Gelaidingi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ChapaiV2",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41bat6e71171",
+            "boundaryNum": 1,
+            "name": "Gadhiapara",
+            "localname": "Gadhiapara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ChapaiV3",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-u8cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Medhipara",
+            "localname": "Medhipara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ChapaiV4",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Mangaldai Gaon",
+            "localname": "Mangaldai Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ChapaiV5",
+            "children": []
+          },
+          {
+            "id": "49e52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Bezpara Part A only",
+            "localname": "Bezpara Part A only",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ChapaiV6",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b0id-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Tengabari",
+            "localname": "Tengabari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ChapaiV7",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "tenantId": "as.baruahbamungaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Baruah Bamun Gaon G.P",
+        "localname": "Baruah Bamun Gaon G.P",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.baruahbamungaon",
+        "children": [
+          {
+            "id": "174756a3-085d-4a7f-b540-6abbdff2580b",
+            "boundaryNum": 1,
+            "name": "All revenue blocks of Dergaon Town from Block No. 1 to Block No. 18",
+            "localname": "All revenue blocks of Dergaon Town from Block No. 1 to Block No. 18",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "baruahbamungaonV1",
+            "children": []
+          },
+          {
+            "id": "e25519a0-9a48-4060-8928-7e69a31a5fce",
+            "boundaryNum": 1,
+            "name": "Baruabamun Gaon",
+            "localname": "Baruabamun Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "baruahbamungaonV2",
+            "children": []
+          },
+          {
+            "id": "4c9ea706-f938-48d2-810a-013dcdaca994",
+            "boundaryNum": 1,
+            "name": "Khangia gaon",
+            "localname": "Khangia gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "baruahbamungaonV3",
+            "children": []
+          },
+          {
+            "id": "645b36ad-4270-442a-aaf7-107bd9da65ac",
+            "boundaryNum": 1,
+            "name": "Hanpani gaon",
+            "localname": "Hanpani gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "baruahbamungaonV4",
+            "children": []
+          },
+          {
+            "id": "09e06519-9806-4393-a37b-d00d163e2e77",
+            "boundaryNum": 1,
+            "name": "7 No. Naharani grant",
+            "localname": "7 No. Naharani grant",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "baruahbamungaonV10",
+            "children": []
+          },
+          {
+            "id": "f25001b1-5ac3-4d3f-8197-bc4dcab102da",
+            "boundaryNum": 1,
+            "name": "Kumar gaon",
+            "localname": "Kumar gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "baruahbamungaonV12",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

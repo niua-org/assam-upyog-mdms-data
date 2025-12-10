@@ -1,0 +1,79 @@
+{
+  "tenantId": "as.senchowa",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Senchowa",
+        "localname": "Senchowa",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.senchowa",
+        "children": [
+          {
+            "id": "bc46f3b8-d2ff-40b6-917d-a147b466eb21",
+            "boundaryNum": 1,
+            "name": "Alengi Satra",
+            "localname": "Alengi Satra",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "senchowaV1",
+            "children": []
+          },
+          {
+            "id": "8c5a8ce8-74f0-4c41-87c3-adcf5906708c",
+            "boundaryNum": 1,
+            "name": "Khutikatia",
+            "localname": "Khutikatia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "senchowaV2",
+            "children": []
+          },
+          {
+            "id": "e7966608-2b3a-4324-a184-756daa6c87e9",
+            "boundaryNum": 1,
+            "name": "Kumar Gaon",
+            "localname": "Kumar Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "senchowaV3",
+            "children": []
+          },
+          {
+            "id": "96f5390b-a878-4545-9e63-e06f754d274c",
+            "boundaryNum": 1,
+            "name": "Phakali Pathar",
+            "localname": "Phakali Pathar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "senchowaV4",
+            "children": []
+          },
+          {
+            "id": "d591a595-9eb3-4666-9ec6-94b1cf97341e",
+            "boundaryNum": 1,
+            "name": "Senchowa",
+            "localname": "Senchowa",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "senchowaV5",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

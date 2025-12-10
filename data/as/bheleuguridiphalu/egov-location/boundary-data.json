@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.bheleuguridiphalu",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bheleuguri Diphalu",
+        "localname": "Bheleuguri Diphalu",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.bheleuguridiphalu",
+        "children": [
+          {
+            "id": "2d9ababf-daa6-4503-9235-3750833c81cd",
+            "boundaryNum": 1,
+            "name": "Diphalu",
+            "localname": "Diphalu",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bheleuguridiphaluV1",
+            "children": []
+          },
+          {
+            "id": "58e819e0-5e14-43cc-acb8-0782527c1604",
+            "boundaryNum": 1,
+            "name": "Laogaon",
+            "localname": "Laogaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bheleuguridiphaluV2",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

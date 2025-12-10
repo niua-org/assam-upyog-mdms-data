@@ -1,0 +1,101 @@
+{
+  "tenantId": "as.nagarmahal",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagarmahal G.P.",
+        "localname": "Nagarmahal G.P.",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.nagarmahal",
+        "children": [
+          {
+            "id": "1cf3389d-26e3-464d-8a16-a6967ef54543",
+            "boundaryNum": 1,
+            "name": "ARJUNGURI KUMAR GAON",
+            "localname": "ARJUNGURI KUMAR GAON",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "nagarmahalV1",
+            "children": []
+          },
+          {
+            "id": "fc38fd3c-54b4-4954-a7ae-28ad582b3f4e",
+            "boundaryNum": 1,
+            "name": "KAMARPHADIA GAON",
+            "localname": "KAMARPHADIA GAON",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "nagarmahalV2",
+            "children": []
+          },
+          {
+            "id": "57b2f8a1-33b4-4e4c-895e-1b2cea60af00",
+            "boundaryNum": 1,
+            "name": "BAILUNG PATHAR",
+            "localname": "BAILUNG PATHAR",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "nagarmahalV3",
+            "children": []
+          },
+          {
+            "id": "ff5c14f3-7b2f-4880-81e4-53703f0c2c8e",
+            "boundaryNum": 1,
+            "name": "PACHI PATHAR",
+            "localname": "PACHI PATHAR",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "nagarmahalV4",
+            "children": []
+          },
+          {
+            "id": "b6b6e8ec-bc08-4ad5-9e91-cee854cc9d09",
+            "boundaryNum": 1,
+            "name": "DUI ALI MAJ GAON",
+            "localname": "DUI ALI MAJ GAON",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "nagarmahalV5",
+            "children": []
+          },
+          {
+            "id": "515142ec-c5f6-4a29-af0d-8ef9df6ebf39",
+            "boundaryNum": 1,
+            "name": "DEULIAKAHATAR PATHAR",
+            "localname": "DEULIAKAHATAR PATHAR",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "nagarmahalV6",
+            "children": []
+          },
+          {
+            "id": "1eada536-2c1f-4db9-8d62-3be6a69dc671",
+            "boundaryNum": 1,
+            "name": "NAMTIAL PATHAR",
+            "localname": "NAMTIAL PATHAR",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "nagarmahalV7",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

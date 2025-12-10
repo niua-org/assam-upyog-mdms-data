@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.kumri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kumri",
+        "localname": "Kumri",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.kumri",
+        "children": [
+          {
+            "id": "49c52357-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Pancharatna",
+            "localname": "Pancharatna",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "KumriV1",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Panchratna Salforest",
+            "localname": "Panchratna Salforest",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "KumriV2",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

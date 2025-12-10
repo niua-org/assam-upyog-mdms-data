@@ -1,0 +1,79 @@
+{
+  "tenantId": "as.bhoju",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bhoju G.P.",
+        "localname": "Bhoju G.P.",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.bhoju",
+        "children": [
+          {
+            "id": "885b4e50-6762-4dd2-b852-ae80953be7c5",
+            "boundaryNum": 1,
+            "name": "HingirijanBagisa",
+            "localname": "HingirijanBagisa",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bhojuV14",
+            "children": []
+          },
+          {
+            "id": "5a4ce4e3-b1ba-41c5-bc1d-713ba4a88ab4",
+            "boundaryNum": 1,
+            "name": "Teak Gaon",
+            "localname": "Teak Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bhojuV19",
+            "children": []
+          },
+          {
+            "id": "f5de4a1c-a5d1-4e1d-ba38-f0d0ff58512b",
+            "boundaryNum": 1,
+            "name": "Teak Bengali Gaon",
+            "localname": "Teak Bengali Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bhojuV25",
+            "children": []
+          },
+          {
+            "id": "6b838732-b672-42e2-bd28-cb5ff7950ba6",
+            "boundaryNum": 1,
+            "name": "Sonari Town",
+            "localname": "Sonari Town",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bhojuV26",
+            "children": []
+          },
+          {
+            "id": "73b2b1ad-dc3d-450d-bb5d-5552c9115051",
+            "boundaryNum": 1,
+            "name": "Rajabari Grant",
+            "localname": "Rajabari Grant",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bhojuV27",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

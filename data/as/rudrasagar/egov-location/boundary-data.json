@@ -1,0 +1,68 @@
+{
+  "tenantId": "as.rudrasagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Rudrasagar G.P.",
+        "localname": "Rudrasagar G.P.",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.rudrasagar",
+        "children": [
+          {
+            "id": "f62100cd-08ad-475f-8891-f8476c122d83",
+            "boundaryNum": 1,
+            "name": "SIVASAGAR PART 13",
+            "localname": "SIVASAGAR PART 13",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "rudrasagarV21",
+            "children": []
+          },
+          {
+            "id": "b8034a29-ce78-4948-a9a4-b12ac50586df",
+            "boundaryNum": 1,
+            "name": "SIVASAGAR PART 14",
+            "localname": "SIVASAGAR PART 14",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "rudrasagarV22",
+            "children": []
+          },
+          {
+            "id": "afa7a87a-b124-452c-88f1-ef28f9596c4b",
+            "boundaryNum": 1,
+            "name": "SIVASAGAR PART 19",
+            "localname": "SIVASAGAR PART 19",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "rudrasagarV23",
+            "children": []
+          },
+          {
+            "id": "3dfddfda-4b3d-4c19-aa0c-1f91cee38f7b",
+            "boundaryNum": 1,
+            "name": "RUPAHI PATHAR",
+            "localname": "RUPAHI PATHAR",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "rudrasagarV24",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

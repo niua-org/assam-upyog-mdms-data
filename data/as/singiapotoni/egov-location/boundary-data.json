@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.singiapotoni",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Singia Potoni",
+        "localname": "Singia Potoni",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.singiapotoni",
+        "children": [
+          {
+            "id": "e2d008c2-b1d2-41ad-83c9-0e718e165a7c",
+            "boundaryNum": 1,
+            "name": "Maz Putani",
+            "localname": "Maz Putani",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "singiapotoniV1",
+            "children": []
+          },
+          {
+            "id": "4457a343-758d-44e7-a04d-49164aa61765",
+            "boundaryNum": 1,
+            "name": "Singia Gaon",
+            "localname": "Singia Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "singiapotoniV2",
+            "children": []
+          },
+          {
+            "id": "9bd29fd7-55b3-4a4b-9e89-18dfe2d6abf5",
+            "boundaryNum": 1,
+            "name": "Putani Gaon (Putani)",
+            "localname": "Putani Gaon (Putani)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "singiapotoniV3",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.lachit",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Lachit G.P.",
+        "localname": "Lachit G.P.",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.lachit",
+        "children": [
+          {
+            "id": "2fc00af2-4aca-4e9f-a8b5-5cda27da19d4",
+            "boundaryNum": 1,
+            "name": "NIMAIJAN GAON",
+            "localname": "NIMAIJAN GAON",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "lachitV31",
+            "children": []
+          },
+          {
+            "id": "eaed6acf-bb12-419a-907d-d13d5341c112",
+            "boundaryNum": 1,
+            "name": "KNOWER GAON NO.2",
+            "localname": "KNOWER GAON NO.2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "lachitV32",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

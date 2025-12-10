@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.simalugurigp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Simaluguri G.P.",
+        "localname": "Simaluguri G.P.",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.simalugurigp",
+        "children": [
+          {
+            "id": "666dfce1-a9c3-4130-bd44-f4fe49bfa28c",
+            "boundaryNum": 1,
+            "name": "Pahuchungi Deodhai",
+            "localname": "Pahuchungi Deodhai",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bsimaluguriV5",
+            "children": []
+          },
+          {
+            "id": "02e05b06-8c63-4fac-8c3f-aec74069dba8",
+            "boundaryNum": 1,
+            "name": "Luthuri Gaon",
+            "localname": "Luthuri Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bsimaluguriV6",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

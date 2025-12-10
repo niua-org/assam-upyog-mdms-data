@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.panibharal",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Panibharal",
+        "localname": "Panibharal",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.panibharal",
+        "children": [
+          {
+            "id": "cc4d2b8a-1e03-4131-8db4-186e1683c8b7",
+            "boundaryNum": 1,
+            "name": "Panibharal",
+            "localname": "Panibharal",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "panibharalV1",
+            "children": []
+          },
+          {
+            "id": "739fdf8c-4b7d-4f93-8c9a-627ddf5a752a",
+            "boundaryNum": 1,
+            "name": "Bhirgaon",
+            "localname": "Bhirgaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "panibharalV2",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "tenantId": "as.lakhimpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Lakhimpur",
+        "localname": "Lakhimpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.lakhimpur",
+        "children": [
+          {
+            "id": "45c8784d-98be-4b8c-a95c-7446e4af1ced",
+            "boundaryNum": 1,
+            "name": "Chutiakari",
+            "localname": "Chutiakari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "lakhimpurV4",
+            "children": []
+          },
+          {
+            "id": "ad5733ab-b378-4c29-9220-a83d4ec6c6bb",
+            "boundaryNum": 1,
+            "name": "Moidomia",
+            "localname": "Moidomia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "lakhimpurV11",
+            "children": []
+          },
+          {
+            "id": "6f2fb4fc-7076-432e-8e6e-f2060d8d0426",
+            "boundaryNum": 1,
+            "name": "Borpukhuri Part-I",
+            "localname": "Borpukhuri Part-I",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "lakhimpurV24",
+            "children": []
+          },
+          {
+            "id": "3f79b736-b7de-47f6-be50-ec3b56cc02f1",
+            "boundaryNum": 1,
+            "name": "Borpukhuri Part-II",
+            "localname": "Borpukhuri Part-II",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "lakhimpurV25",
+            "children": []
+          },
+          {
+            "id": "6395ea13-e746-4576-8555-2f1381d791a9",
+            "boundaryNum": 1,
+            "name": "Ahuchaul Konwar",
+            "localname": "Ahuchaul Konwar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "lakhimpurV40",
+            "children": []
+          },
+          {
+            "id": "6177e79f-d4aa-4ad1-9183-fcaeb8d312ac",
+            "boundaryNum": 1,
+            "name": "Chabukdhara Gohain",
+            "localname": "Chabukdhara Gohain",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "lakhimpurV44",
+            "children": []
+          },
+          {
+            "id": "35e38451-2ab0-41c3-be33-9b1ecfe80c84",
+            "boundaryNum": 1,
+            "name": "Gharmara",
+            "localname": "Gharmara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "lakhimpurV47",
+            "children": []
+          },
+          {
+            "id": "6b875c1e-939d-43d4-8020-d4f926eebdfb",
+            "boundaryNum": 1,
+            "name": "Boicha Garumoria",
+            "localname": "Boicha Garumoria",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "lakhimpurV48",
+            "children": []
+          },
+          {
+            "id": "b23e2ff4-eaad-4189-9af8-8cad13b86ae8",
+            "boundaryNum": 1,
+            "name": "Debera Doloni",
+            "localname": "Debera Doloni",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "lakhimpurV49",
+            "children": []
+          },
+          {
+            "id": "07bd7e64-a2f4-42ef-90e5-4d600edd4e1c",
+            "boundaryNum": 1,
+            "name": "Hindu NC No.1",
+            "localname": "Hindu NC No.1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "lakhimpurV67",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

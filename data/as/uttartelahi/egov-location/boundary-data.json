@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.uttartelahi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Uttar Telahi",
+        "localname": "Uttar Telahi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.uttartelahi",
+        "children": [
+          {
+            "id": "2b9d57f2-39e4-47d6-9fa8-a637159bf08d",
+            "boundaryNum": 1,
+            "name": "Alengmara",
+            "localname": "Alengmara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "uttartelahiV54",
+            "children": []
+          },
+          {
+            "id": "c36007de-dc42-4307-98ee-19451f8326de",
+            "boundaryNum": 1,
+            "name": "Athakotia",
+            "localname": "Athakotia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "uttartelahiV68",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

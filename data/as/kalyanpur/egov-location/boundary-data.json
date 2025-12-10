@@ -1,0 +1,167 @@
+{
+  "tenantId": "as.kalyanpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kalyanpur",
+        "localname": "Kalyanpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.kalyanpur",
+        "children": [
+          {
+            "id": "49c52357-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Bhaishkhuli",
+            "localname": "Bhaishkhuli",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "KalyanpurV1",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Dasarapara Matia",
+            "localname": "Dasarapara Matia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "KalyanpurV2",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41bat6e71171",
+            "boundaryNum": 1,
+            "name": "Garoimari",
+            "localname": "Garoimari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "KalyanpurV3",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-u8cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Garokuta",
+            "localname": "Garokuta",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "KalyanpurV4",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Gandra",
+            "localname": "Gandra",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "KalyanpurV5",
+            "children": []
+          },
+          {
+            "id": "49e52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Gandra N.C.",
+            "localname": "Gandra N.C.",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "KalyanpurV6",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b0id-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Jungle Block No. 1",
+            "localname": "Jungle Block No. 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "KalyanpurV7",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-p1id-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Kalyanpur",
+            "localname": "Kalyanpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "KalyanpurV8",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b0id-43rtf1e71171",
+            "boundaryNum": 1,
+            "name": "Kalyanpur N.C.",
+            "localname": "Kalyanpur N.C.",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "KalyanpurV9",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b0id-41baf1e71129",
+            "boundaryNum": 1,
+            "name": "Karuwa Bhasa",
+            "localname": "Karuwa Bhasa",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "KalyanpurV10",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b8od-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Rakyasini Jungle Block",
+            "localname": "Rakyasini Jungle Block",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "KalyanpurV11",
+            "children": []
+          },
+          {
+            "id": "49c52351-ki4c-474c-b0id-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Samaguri",
+            "localname": "Samaguri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "KalyanpurV12",
+            "children": []
+          },
+          {
+            "id": "49c09851-ki4c-474c-b0id-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Soulmari",
+            "localname": "Soulmari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "KalyanpurV13",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

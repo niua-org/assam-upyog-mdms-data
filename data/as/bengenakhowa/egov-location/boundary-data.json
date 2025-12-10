@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.bengenakhowa",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bengenakhowa G.P",
+        "localname": "Bengenakhowa G.P",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.bengenakhowa",
+        "children": [
+          {
+            "id": "515d13aa-1d46-40e0-9a75-e27130e91925",
+            "boundaryNum": 1,
+            "name": "Bengenakhowa Grant and Gaon",
+            "localname": "Bengenakhowa Grant and Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bengenakhowaV7",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

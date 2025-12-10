@@ -1,0 +1,90 @@
+{
+  "tenantId": "as.bhomoraguri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bhomora guri",
+        "localname": "Bhomora guri",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.bhomoraguri",
+        "children": [
+          {
+            "id": "b38fee22-add6-46e9-b712-0b4f8602209d",
+            "boundaryNum": 1,
+            "name": "Batamari",
+            "localname": "Batamari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bhomoraguriV1",
+            "children": []
+          },
+          {
+            "id": "2bc10f7d-9e59-4fed-bac4-6141170c2933",
+            "boundaryNum": 1,
+            "name": "Bhojkhowa Chapari",
+            "localname": "Bhojkhowa Chapari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bhomoraguriV2",
+            "children": []
+          },
+          {
+            "id": "4cf1f713-be1c-4188-b881-4a843115171e",
+            "boundaryNum": 1,
+            "name": "Bhojkhowa Gaon",
+            "localname": "Bhojkhowa Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bhomoraguriV3",
+            "children": []
+          },
+          {
+            "id": "93cabc1d-12f0-4d86-b816-88fef90cdcb8",
+            "boundaryNum": 1,
+            "name": "Bhomoraguri Pahar",
+            "localname": "Bhomoraguri Pahar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bhomoraguriV4",
+            "children": []
+          },
+          {
+            "id": "01f2bb64-eb0e-404d-bc11-1daee3dd88d9",
+            "boundaryNum": 1,
+            "name": "Kacharipam",
+            "localname": "Kacharipam",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bhomoraguriV5",
+            "children": []
+          },
+          {
+            "id": "21f0f4ae-76c8-4e27-9a60-0267084f6071",
+            "boundaryNum": 1,
+            "name": "BhomoraguriGaon",
+            "localname": "BhomoraguriGaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bhomoraguriV6",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

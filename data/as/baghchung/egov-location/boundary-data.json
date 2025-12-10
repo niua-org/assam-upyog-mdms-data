@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.baghchung",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "65 No. Baghchung",
+        "localname": "65 No. Baghchung",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.baghchung",
+        "children": [
+          {
+            "id": "23df33da-18fb-405d-91d2-fcce496c8596",
+            "boundaryNum": 1,
+            "name": "Chowdang No.1 (OG)",
+            "localname": "Chowdang No.1 (OG)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "baghchungV26",
+            "children": []
+          },
+          {
+            "id": "2054adf6-7f04-4a14-90bb-c363ab533490",
+            "boundaryNum": 1,
+            "name": "BarbhetaChapari (OG)",
+            "localname": "BarbhetaChapari (OG)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "baghchungV27",
+            "children": []
+          },
+          {
+            "id": "6c9683a3-1370-460b-8119-165abe18204d",
+            "boundaryNum": 1,
+            "name": "BhakatCheuni",
+            "localname": "BhakatCheuni",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "baghchungV36",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

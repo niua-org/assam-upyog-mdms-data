@@ -1,0 +1,47 @@
+
+  {
+    "tenantId": "as.negheriting",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+      {
+        "hierarchyType": {
+          "code": "REVENUE",
+          "name": "REVENUE"
+        },
+        "boundary": {
+          "id": 1,
+          "boundaryNum": 1,
+          "name": "Negheriting G.P",
+          "localname": "Negheriting G.P",
+          "longitude": null,
+          "latitude": null,
+          "label": "City",
+          "code": "as.negheriting",
+          "children": [
+            {
+              "id": "e9859fc4-d567-49a0-ab57-0caad2943897",
+              "boundaryNum": 1,
+              "name": "Kamar gaon",
+              "localname": "Kamar gaon",
+              "longitude": null,
+              "latitude": null,
+              "label": "Village",
+              "code": "negheritingV6",
+              "children": []
+            },
+            {
+              "id": "71a86aed-e346-4f16-8fcb-f015d3773c12",
+              "boundaryNum": 1,
+              "name": "1 No. Negheriting grant",
+              "localname": "1 No. Negheriting grant",
+              "longitude": null,
+              "latitude": null,
+              "label": "Village",
+              "code": "negheritingV13",
+              "children": []
+            }
+          ]
+        }
+      }
+    ]
+  }

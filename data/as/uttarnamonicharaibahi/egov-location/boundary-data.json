@@ -1,0 +1,79 @@
+{
+  "tenantId": "as.uttarnamonicharaibahi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "48 no. Uttar Namoni Charaibahi",
+        "localname": "48 no. Uttar Namoni Charaibahi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.uttarnamonicharaibahi",
+        "children": [
+          {
+            "id": "df3a87cd-bee1-4137-9eea-b031822bf21c",
+            "boundaryNum": 1,
+            "name": "Hazari Gaon",
+            "localname": "Hazari Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "uttarnamonicharaibahiV28",
+            "children": []
+          },
+          {
+            "id": "684f304c-07d6-4de4-a467-736428a512de",
+            "boundaryNum": 1,
+            "name": "PakimuriHabiGaon",
+            "localname": "PakimuriHabiGaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "uttarnamonicharaibahiV29",
+            "children": []
+          },
+          {
+            "id": "c043f60f-6258-4882-87ec-ae0481c2b62a",
+            "boundaryNum": 1,
+            "name": "Bam Chuck",
+            "localname": "Bam Chuck",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "uttarnamonicharaibahiV30",
+            "children": []
+          },
+          {
+            "id": "0a41d4c2-2b25-4203-91a6-963b0fe18e05",
+            "boundaryNum": 1,
+            "name": "NowsoliaGaon (CT)",
+            "localname": "NowsoliaGaon (CT)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "uttarnamonicharaibahiV37",
+            "children": []
+          },
+          {
+            "id": "0e43a4ef-d930-4581-bfee-ba7a7752af7f",
+            "boundaryNum": 1,
+            "name": "Sonari Gaon (OG)",
+            "localname": "Sonari Gaon (OG)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "uttarnamonicharaibahiV38",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

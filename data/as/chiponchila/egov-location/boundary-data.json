@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.chiponchila",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Chiponchila",
+        "localname": "Chiponchila",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.chiponchila",
+        "children": [
+          {
+            "id": "49c52357-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Kashidoba (Pt.)",
+            "localname": "Kashidoba (Pt.)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ChiponchilaV1",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

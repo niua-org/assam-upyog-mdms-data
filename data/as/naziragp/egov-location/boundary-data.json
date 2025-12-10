@@ -1,0 +1,68 @@
+{
+  "tenantId": "as.naziragp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nazira G.P.",
+        "localname": "Nazira G.P.",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.naziragp",
+        "children": [
+          {
+            "id": "5709ec48-aa16-4ea1-85d7-6f445501bc58",
+            "boundaryNum": 1,
+            "name": "Niz Nazira",
+            "localname": "Niz Nazira",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "anaziraV1",
+            "children": []
+          },
+          {
+            "id": "dac58d5b-9bb4-4d5e-bc39-6b318dd405bb",
+            "boundaryNum": 1,
+            "name": "Sundbacha Handiq",
+            "localname": "Sundbacha Handiq",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "anaziraV2",
+            "children": []
+          },
+          {
+            "id": "9f59ee0b-b447-494f-ab09-d0a33ee34b5b",
+            "boundaryNum": 1,
+            "name": "Hulang Kata",
+            "localname": "Hulang Kata",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "anaziraV3",
+            "children": []
+          },
+          {
+            "id": "a4592f6d-8b47-4e63-9568-0334777c098c",
+            "boundaryNum": 1,
+            "name": "Licksan Gaon",
+            "localname": "Licksan Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "anaziraV4",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

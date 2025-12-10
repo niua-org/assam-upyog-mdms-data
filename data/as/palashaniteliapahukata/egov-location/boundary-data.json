@@ -1,0 +1,79 @@
+{
+  "tenantId": "as.palashaniteliapahukata",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Palashani Telia Pahukata",
+        "localname": "Palashani Telia Pahukata",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.palashaniteliapahukata",
+        "children": [
+          {
+            "id": "bba26cc0-22b1-4dc3-b25b-58d1d621fa31",
+            "boundaryNum": 1,
+            "name": "Karaiyani",
+            "localname": "Karaiyani",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "palashaniteliapahukataV1",
+            "children": []
+          },
+          {
+            "id": "28678e23-8ff5-4237-aecc-14d626a9ff19",
+            "boundaryNum": 1,
+            "name": "Nartam Gaon (OG)",
+            "localname": "Nartam Gaon (OG)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "palashaniteliapahukataV2",
+            "children": []
+          },
+          {
+            "id": "1dc2fd8e-ec0e-418a-89c0-463eca19a87a",
+            "boundaryNum": 1,
+            "name": "Palasoni",
+            "localname": "Palasoni",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "palashaniteliapahukataV3",
+            "children": []
+          },
+          {
+            "id": "1a95e457-5710-474c-96bd-54afc9b2071b",
+            "boundaryNum": 1,
+            "name": "Telia Pahukata",
+            "localname": "Telia Pahukata",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "palashaniteliapahukataV4",
+            "children": []
+          },
+          {
+            "id": "728eb3d7-67d8-493c-aabf-0522905565e6",
+            "boundaryNum": 1,
+            "name": "Gatanga",
+            "localname": "Gatanga",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "palashaniteliapahukataV5",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

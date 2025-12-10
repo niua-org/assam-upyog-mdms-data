@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.pachimsarucharai",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "45 No. Pachim Sarucharai",
+        "localname": "45 No. Pachim Sarucharai",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.pachimsarucharai",
+        "children": [
+          {
+            "id": "612259b2-d59b-4cd3-8891-690bb87d8463",
+            "boundaryNum": 1,
+            "name": "PorbotiaGaon",
+            "localname": "PorbotiaGaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pachimsarucharaiV48",
+            "children": []
+          },
+          {
+            "id": "db0cd262-bdcb-41c5-811a-9bd2c16f02db",
+            "boundaryNum": 1,
+            "name": "BhatemoraGaon",
+            "localname": "BhatemoraGaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pachimsarucharaiV49",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

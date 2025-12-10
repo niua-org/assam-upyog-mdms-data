@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.pahumora",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Pahumora",
+        "localname": "Pahumora",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.pahumora",
+        "children": [
+          {
+            "id": "92203353-6fd2-4900-8554-aaaadcbbf49d",
+            "boundaryNum": 1,
+            "name": "Pahumora Ahom",
+            "localname": "Pahumora Ahom",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pahumoraV70",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}
