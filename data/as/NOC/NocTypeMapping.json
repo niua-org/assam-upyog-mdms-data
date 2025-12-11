@@ -176,7 +176,7 @@
           "source": "DXF_FILE",
           "conditions": [
             "ALL_NON_RESIDENTIAL_BUILDINGS",
-            "BUILDING_HEIGHT_GREATER_THAN_15.8M"
+            "BUILDING_HEIGHT_GREATER_THAN_15M"
           ],
           "reference": "Byelaw 28(d), 60(d), 94(2)(a)",
           "isActive": true,
@@ -320,7 +320,7 @@
           "name": "Fire Safety NOC for Occupancy",
           "mandatory": false,
           "source": "DXF_FILE",
-          "conditions": ["ALL_NON_RESIDENTIAL", "BUILDING_HEIGHT_GREATER_THAN_15.8M"],
+          "conditions": ["ALL_NON_RESIDENTIAL_BUILDINGS", "BUILDING_HEIGHT_GREATER_THAN_15M"],
           "reference": "Byelaw 28(d), 60(d), 94(2)(a)",
           "isActive": true,
           "offlineWF": "",
