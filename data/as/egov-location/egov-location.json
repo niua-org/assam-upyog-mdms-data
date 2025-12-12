@@ -409,13 +409,13 @@
             {
               "id": 12,
               "districtCode": "BISWANATH",
-              "planningAreaCode": "BISWANATHCHARIALI_MP",
+              "planningAreaCode": "BISWANATH_CHARIALI_MP",
               "planningAreaName": "Biswanath Chariali Master Plan",
               "planningAreaGisCode": "Biswanath Chariali",
               "active": true,
               "ppAuthority": {
                 "id": 12,
-                "planningAreaCode": "BISWANATHCHARIALI_MP",
+                "planningAreaCode": "BISWANATH_CHARIALI_MP",
                 "districtCode": "BISWANATH",
                 "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
                 "ppAuthorityName": "Development Authority",
@@ -573,13 +573,13 @@
             {
               "id": 17,
               "districtCode": "SIVASAGAR",
-              "planningAreaCode": "NAZIRA-SIMALUGURI_MP",
+              "planningAreaCode": "NAZIRA_SIMALUGURI_MP",
               "planningAreaName": "Nazira-Simaluguri Master Plan",
               "planningAreaGisCode": "Nazira-Simaluguri",
               "active": true,
               "ppAuthority": {
                 "id": 17,
-                "planningAreaCode": "NAZIRA-SIMALUGURI_MP",
+                "planningAreaCode": "NAZIRA_SIMALUGURI_MP",
                 "districtCode": "SIVASAGAR",
                 "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
                 "ppAuthorityName": "Development Authority",

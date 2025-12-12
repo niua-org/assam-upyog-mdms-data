@@ -1725,9 +1725,9 @@
       }
     },
     {
-      "code": "as.mangaldaimb",
-      "name": "Mangaldai Municipal Corporation",
-      "description": "Mangaldai Municipal Corporation",
+      "code": "as.mangaldoi",
+      "name": "Mangaldoi Municipal Corporation",
+      "description": "Mangaldoi Municipal Corporation",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -1735,14 +1735,14 @@
       "type": "CITY",
       "emailId": "complaints.mcj@gmail.com",
       "city": {
-        "name": "Mangaldai",
+        "name": "Mangaldoi",
         "districtCode": "DARANG",
         "districtName": "Darang",
-        "districtTenantCode": "as.mangaldaimb",
-        "planningAreaCode": "MANGALDAI_MP",
+        "districtTenantCode": "as.mangaldoi",
+        "planningAreaCode": "MANGALDOI_MP",
         "ulbGrade": "MUNICIPAL_BOARD",
         "code": "1677",
-        "ddrName": "Mangaldai Municipal Board"
+        "ddrName": "Mangaldoi Municipal Board"
       }
     },
     {
@@ -1767,9 +1767,9 @@
       }
     },
     {
-      "code": "as.bongaigaon",
-      "name": "Bongaigaon",
-      "description": "Bongaigaon",
+      "code": "as.bongaigaonmb",
+      "name": "Bongaigaon Municipal Board",
+      "description": "Bongaigaon Municipal Board",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -1781,10 +1781,10 @@
         "districtName": "Bomgaigaon",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "BOMGAIGAON",
-        "districtTenantCode": "as.bongaigaon",
+        "districtTenantCode": "as.bongaigaonmb",
         "planningAreaCode": "BONGAIGAON_MP",
         "code": "1680",
-        "ddrName": "Bongaigaon Gram Panchayat"
+        "ddrName": "Bongaigaon Municipal Board"
       }
     },
     {
@@ -1948,7 +1948,7 @@
         "name": "Nazira",
         "districtCode": "SIVASAGAR",
         "districtName": "Sivasagar",
-        "districtTenantCode": "as.naziramb",
+        "districtTenantCode": "as.sivasagarmb",
         "planningAreaCode": "NAZIRA_SIMALUGURI_MP",
         "ulbGrade": "MUNICIPAL_BOARD",
         "code": "1688",
@@ -1969,7 +1969,7 @@
         "name": "Simuluguri",
         "districtCode": "SIVSAGAR",
         "districtName": "Sivsagar",
-        "districtTenantCode": "as.simulugurimb",
+        "districtTenantCode": "as.sivasagarmb",
         "planningAreaCode": "NAZIRA_SIMALUGURI_MP",
         "ulbGrade": "MUNICIPAL_BOARD",
         "code": "1689",
@@ -1990,7 +1990,7 @@
         "name": "Sonari",
         "districtCode": "SIVSAGAR",
         "districtName": "Sivsagar",
-        "districtTenantCode": "as.sonarimb",
+        "districtTenantCode": "as.sivasagarmb",
         "planningAreaCode": "SONARI_MP",
         "ulbGrade": "MUNICIPAL_BOARD",
         "code": "1690",
@@ -2009,7 +2009,7 @@
       "emailId": "complaints.northlakhimpurmb@gmail.com",
       "city": {
         "name": "North Lakhimpur",
-        "districtCode": "NORTHLAKHIMPUR",
+        "districtCode": "NORTH_LAKHIMPUR",
         "districtName": "North Lakhimpur",
         "districtTenantCode": "as.northlakhimpurmb",
         "planningAreaCode": "NORTH_LAKHIMPUR_MP",
@@ -2075,7 +2075,7 @@
         "districtName": "Darang",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DARANG",
-        "districtTenantCode": "as.mangaldaimb",
+        "districtTenantCode": "as.mangaldoimb",
         "planningAreaCode": "MANGOLDAI_MP",
         "code": "1700",
         "ddrName": "Chapai Gram Panchayat"
@@ -2096,7 +2096,7 @@
         "districtName": "Darang",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DARANG",
-        "districtTenantCode": "as.mangaldaimb",
+        "districtTenantCode": "as.mangaldoimb",
         "planningAreaCode": "MANGOLDAI_MP",
         "code": "1701",
         "ddrName": "Nagarbahi Gram Panchayat"
@@ -2117,7 +2117,7 @@
         "districtName": "Darang",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DARANG",
-        "districtTenantCode": "as.mangaldaimb",
+        "districtTenantCode": "as.mangaldoimb",
         "planningAreaCode": "MANGOLDAI_MP",
         "code": "1702",
         "ddrName": "Mowamari Gram Panchayat"
@@ -2138,7 +2138,7 @@
         "districtName": "Darang",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DARANG",
-        "districtTenantCode": "as.mangaldaimb",
+        "districtTenantCode": "as.mangaldoimb",
         "planningAreaCode": "MANGOLDAI_MP",
         "code": "1703",
         "ddrName": "Upahupara Gram Panchayat"
@@ -2159,7 +2159,7 @@
         "districtName": "Darang",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DARANG",
-        "districtTenantCode": "as.mangaldaimb",
+        "districtTenantCode": "as.mangaldoimb",
         "planningAreaCode": "MANGOLDAI_MP",
         "code": "1704",
         "ddrName": "Bandia Gram Panchayat"
@@ -2180,7 +2180,7 @@
         "districtName": "Darang",
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "DARANG",
-        "districtTenantCode": "as.mangaldaimb",
+        "districtTenantCode": "as.mangaldoimb",
         "planningAreaCode": "MANGOLDAI_MP",
         "code": "1705",
         "ddrName": "Chamuapara Gram Panchayat"
@@ -2725,8 +2725,8 @@
         "name": "Pulibor",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "PULIBOR",
-        "districtTenantCode": "as.pulibor",
+        "districtCode": "GOLAGHAT",
+        "districtTenantCode": "as.golaghat",
         "planningAreaCode": "GOLAGHAT_MP",
         "code": "1731",
         "ddrName": "Pulibor Gram Panchayat"
@@ -2746,8 +2746,8 @@
         "name": "Bengenakhowa",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BENGENAKHOWA",
-        "districtTenantCode": "as.bengenakhowa",
+        "districtCode": "GOLAGHAT",
+        "districtTenantCode": "as.golaghat",
         "planningAreaCode": "GOLAGHAT_MP",
         "code": "1732",
         "ddrName": "Bengenakhowa Gram Panchayat"
@@ -2767,9 +2767,9 @@
         "name": "Baruah Bamun Gaon",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BARUAH_BAMUN_GAON",
-        "districtTenantCode": "as.baruahbamungaon",
-        "planningAreaCode": "GOLAGHAT_MP",
+        "districtCode": "GOLAGHAT",
+        "districtTenantCode": "as.golaghat",
+        "planningAreaCode": "DERGAON_MP",
         "code": "1733",
         "ddrName": "Baruah Bamun Gaon Gram Panchayat"
       }
@@ -3817,9 +3817,9 @@
         "name": "Sitalpathar",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "SITALPATHAR",
-        "districtTenantCode": "as.sitalpathar",
-        "planningAreaCode": "GOLAGHAT_MP",
+        "districtCode": "GOLAGHAT",
+        "districtTenantCode": "as.golaghat",
+        "planningAreaCode": "DERGAON_MP",
         "code": "1787",
         "ddrName": "Sitalpathar Gram Panchayat"
       }
@@ -3838,15 +3838,15 @@
         "name": "Negheriting",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "NEGHERITING",
-        "districtTenantCode": "as.negheriting",
-        "planningAreaCode": "GOLAGHAT_MP",
+        "districtCode": "GOLAGHAT",
+        "districtTenantCode": "as.golaghat",
+        "planningAreaCode": "DERGAON_MP",
         "code": "1788",
         "ddrName": "Negheriting Gram Panchayat"
       }
     },
     {
-      "code": "as.dergaon",
+      "code": "as.dergaongp",
       "name": "Dergaon",
       "description": "Dergaon",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
@@ -3859,9 +3859,9 @@
         "name": "Dergaon",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "DERGAON",
-        "districtTenantCode": "as.dergaon",
-        "planningAreaCode": "GOLAGHAT_MP",
+        "districtCode": "GOLAGHAT",
+        "districtTenantCode": "as.golaghat",
+        "planningAreaCode": "DERGAON_MP",
         "code": "1789",
         "ddrName": "Dergaon Gram Panchayat"
       }
@@ -3880,9 +3880,9 @@
         "name": "Pub Brahmaputra",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "PUB_BRAHMAPUTRA",
-        "districtTenantCode": "as.pubbrahmaputra",
-        "planningAreaCode": "GOLAGHAT_MP",
+        "districtCode": "GOLAGHAT",
+        "districtTenantCode": "as.golaghat",
+        "planningAreaCode": "DERGAON_MP",
         "code": "1790",
         "ddrName": "Pub Brahmaputra Gram Panchayat"
       }
@@ -3901,9 +3901,9 @@
         "name": "Pachim Missamora",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "PACHIM_MISSAMORA",
-        "districtTenantCode": "as.pachimmissamora",
-        "planningAreaCode": "GOLAGHAT_MP",
+        "districtCode": "GOLAGHAT",
+        "districtTenantCode": "as.golaghat",
+        "planningAreaCode": "DERGAON_MP",
         "code": "1791",
         "ddrName": "Pachim Missamora Gram Panchayat"
       }
@@ -3922,9 +3922,9 @@
         "name": "Madhya Missamora",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "MADHYA_MISSAMORA",
-        "districtTenantCode": "as.madhyamissamora",
-        "planningAreaCode": "GOLAGHAT_MP",
+        "districtCode": "GOLAGHAT",
+        "districtTenantCode": "as.golaghat",
+        "planningAreaCode": "DERGAON_MP",
         "code": "1792",
         "ddrName": "Madhya Missamora Gram Panchayat"
       }
@@ -3943,9 +3943,9 @@
         "name": "Pub Missamora",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "PUB_MISSAMORA",
-        "districtTenantCode": "as.pubmissamora",
-        "planningAreaCode": "GOLAGHAT_MP",
+        "districtCode": "GOLAGHAT",
+        "districtTenantCode": "as.golaghat",
+        "planningAreaCode": "DERGAON_MP",
         "code": "1793",
         "ddrName": "Pub Missamora Gram Panchayat"
       }
@@ -3964,8 +3964,8 @@
         "name": "Nagarmahal",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "NAGARMAHAL",
-        "districtTenantCode": "as.nagarmahal",
+        "districtCode": "SIVASAGAR",
+        "districtTenantCode": "as.sivasagarmb",
         "planningAreaCode": "GOLAGHAT_MP",
         "code": "1794",
         "ddrName": "Nagarmahal Gram Panchayat"
@@ -3985,8 +3985,8 @@
         "name": "Cherekapar",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "CHEREKAPAR",
-        "districtTenantCode": "as.cherekapar",
+        "districtCode": "SIVASAGAR",
+        "districtTenantCode": "as.sivasagarmb",
         "planningAreaCode": "GOLAGHAT_MP",
         "code": "1795",
         "ddrName": "Cherekapar Gram Panchayat"
@@ -4006,8 +4006,8 @@
         "name": "Rudrasagar",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "RUDRASAGAR",
-        "districtTenantCode": "as.rudrasagar",
+        "districtCode": "SIVASAGAR",
+        "districtTenantCode": "as.sivasagarmb",
         "planningAreaCode": "GOLAGHAT_MP",
         "code": "1796",
         "ddrName": "Rudrasagar Gram Panchayat"
@@ -4027,8 +4027,8 @@
         "name": "Salaguri",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "SALAGURI",
-        "districtTenantCode": "as.salaguri",
+        "districtCode": "SIVASAGAR",
+        "districtTenantCode": "as.sivasagarmb",
         "planningAreaCode": "GOLAGHAT_MP",
         "code": "1797",
         "ddrName": "Salaguri Gram Panchayat"
@@ -4048,8 +4048,8 @@
         "name": "Desangpar",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "DESANGPAR",
-        "districtTenantCode": "as.desangpar",
+        "districtCode": "SIVASAGAR",
+        "districtTenantCode": "as.sivasagarmb",
         "planningAreaCode": "GOLAGHAT_MP",
         "code": "1798",
         "ddrName": "Desangpar Gram Panchayat"
@@ -4069,8 +4069,8 @@
         "name": "Lachit",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "LACHIT",
-        "districtTenantCode": "as.lachit",
+        "districtCode": "SIVASAGAR",
+        "districtTenantCode": "as.sivasagarmb",
         "planningAreaCode": "GOLAGHAT_MP",
         "code": "1799",
         "ddrName": "Lachit Gram Panchayat"
@@ -4090,17 +4090,17 @@
         "name": "Betbari",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BETBARI",
-        "districtTenantCode": "as.betbari",
+        "districtCode": "SIVASAGAR",
+        "districtTenantCode": "as.sivasagarmb",
         "planningAreaCode": "SIVASAGAR_MP",
         "code": "1800",
         "ddrName": "Betbari Gram Panchayat"
       }
     },
     {
-      "code": "as.anazira",
-      "name": "A.Nazira",
-      "description": "A.Nazira",
+      "code": "as.nazira",
+      "name": "Nazira",
+      "description": "Nazira",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -4108,20 +4108,20 @@
       "type": "CITY",
       "emailId": "info.anazira@gmail.com",
       "city": {
-        "name": "A.Nazira",
+        "name": "Nazira",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "A_NAZIRA",
-        "districtTenantCode": "as.anazira",
+        "districtCode": "SIVASAGAR",
+        "districtTenantCode": "as.sivasagarmb",
         "planningAreaCode": "NAZIRA_SIMALUGURI_MP",
         "code": "1801",
         "ddrName": "A.Nazira Gram Panchayat"
       }
     },
     {
-      "code": "as.bsimaluguri",
-      "name": "B. Simaluguri",
-      "description": "B. Simaluguri",
+      "code": "as.simaluguri",
+      "name": "Simaluguri",
+      "description": "Simaluguri",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -4129,20 +4129,20 @@
       "type": "CITY",
       "emailId": "info.bsimaluguri@gmail.com",
       "city": {
-        "name": "B. Simaluguri",
+        "name": "Simaluguri",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "B_SIMALUGURI",
-        "districtTenantCode": "as.bsimaluguri",
+        "districtCode": "SIVASAGAR",
+        "districtTenantCode": "as.sivasagarmb",
         "planningAreaCode": "NAZIRA_SIMALUGURI_MP",
         "code": "1802",
         "ddrName": "B. Simaluguri Gram Panchayat"
       }
     },
     {
-      "code": "as.cphulpaniboruah",
-      "name": "C.Phulpani Boruah",
-      "description": "C.Phulpani Boruah",
+      "code": "as.phulpaniboruah",
+      "name": "Phulpani Boruah",
+      "description": "Phulpani Boruah",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -4150,20 +4150,20 @@
       "type": "CITY",
       "emailId": "info.cphulpaniboruah@gmail.com",
       "city": {
-        "name": "C.Phulpani Boruah",
+        "name": "Phulpani Boruah",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "C_PHULPANI_BORUAH",
-        "districtTenantCode": "as.cphulpaniboruah",
+        "districtCode": "SIVASAGAR",
+        "districtTenantCode": "as.sivasagarmb",
         "planningAreaCode": "NAZIRA_SIMALUGURI_MP",
         "code": "1803",
         "ddrName": "C.Phulpani Boruah Gram Panchayat"
       }
     },
     {
-      "code": "as.dkhatkhati",
-      "name": "D. Khatkhati",
-      "description": "D. Khatkhati",
+      "code": "as.khatkhati",
+      "name": "Khatkhati",
+      "description": "Khatkhati",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -4171,20 +4171,20 @@
       "type": "CITY",
       "emailId": "info.dkhatkhati@gmail.com",
       "city": {
-        "name": "D. Khatkhati",
+        "name": "Khatkhati",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "D_KHATKHATI",
-        "districtTenantCode": "as.dkhatkhati",
+        "districtCode": "SIVASAGAR",
+        "districtTenantCode": "as.sivasagarmb",
         "planningAreaCode": "NAZIRA_SIMALUGURI_MP",
         "code": "1804",
         "ddrName": "D. Khatkhati Gram Panchayat"
       }
     },
     {
-      "code": "as.egargaon",
-      "name": "E Gargaon",
-      "description": "E. Gargaon .",
+      "code": "as.gargaon",
+      "name": "Gargaon",
+      "description": "Gargaon",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -4192,20 +4192,20 @@
       "type": "CITY",
       "emailId": "info.egargaon@gmail.com",
       "city": {
-        "name": "E Gargaon",
+        "name": "Gargaon",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "E_GARGAON",
-        "districtTenantCode": "as.egargaon",
+        "districtCode": "SIVASAGAR",
+        "districtTenantCode": "as.sivasagarmb",
         "planningAreaCode": "NAZIRA_SIMALUGURI_MP",
         "code": "1805",
         "ddrName": "E Gargaon Gram Panchayat"
       }
     },
     {
-      "code": "as.sonari",
-      "name": "Sonari",
-      "description": "Sonari",
+      "code": "as.sonarigp",
+      "name": "Sonari GP",
+      "description": "Sonari GP",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
       "imageId": null,
@@ -4216,8 +4216,8 @@
         "name": "Sonari",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "SONARI",
-        "districtTenantCode": "as.sonari",
+        "districtCode": "SIVASAGAR",
+        "districtTenantCode": "as.sivasagarmb",
         "planningAreaCode": "SONARI_MP",
         "code": "1806",
         "ddrName": "Sonari Gram Panchayat"
@@ -4237,8 +4237,8 @@
         "name": "Abhaipur",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "ABHAIPUR",
-        "districtTenantCode": "as.abhaipur",
+        "districtCode": "SIVASAGAR",
+        "districtTenantCode": "as.sivasagarmb",
         "planningAreaCode": "SONARI_MP",
         "code": "1807",
         "ddrName": "Abhaipur Gram Panchayat"
@@ -4258,8 +4258,8 @@
         "name": "Longpotia",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "LONGPOTIA",
-        "districtTenantCode": "as.longpotia",
+        "districtCode": "SIVASAGAR",
+        "districtTenantCode": "as.sivasagarmb",
         "planningAreaCode": "SONARI_MP",
         "code": "1808",
         "ddrName": "Longpotia Gram Panchayat"
@@ -4279,8 +4279,8 @@
         "name": "Bhoju",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "BHOJU",
-        "districtTenantCode": "as.bhoju",
+        "districtCode": "SIVASAGAR",
+        "districtTenantCode": "as.sivasagarmb",
         "planningAreaCode": "SONARI_MP",
         "code": "1809",
         "ddrName": "Bhoju Gram Panchayat"
@@ -4300,8 +4300,8 @@
         "name": "Tawkak",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "TAWKAK",
-        "districtTenantCode": "as.tawkak",
+        "districtCode": "SIVASAGAR",
+        "districtTenantCode": "as.sivasagarmb",
         "planningAreaCode": "SONARI_MP",
         "code": "1810",
         "ddrName": "Tawkak Gram Panchayat"
@@ -4321,8 +4321,8 @@
         "name": "Safrai",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "SAFRAI",
-        "districtTenantCode": "as.safrai",
+        "districtCode": "SIVASAGAR",
+        "districtTenantCode": "as.sivasagarmb",
         "planningAreaCode": "SONARI_MP",
         "code": "1811",
         "ddrName": "Safrai Gram Panchayat"
@@ -4342,8 +4342,8 @@
         "name": "Rajapukhuri",
         "districtName": null,
         "ulbGrade": "GRAM_PANCHAYAT",
-        "districtCode": "RAJAPUKHURI",
-        "districtTenantCode": "as.rajapukhuri",
+        "districtCode": "SIVASAGAR",
+        "districtTenantCode": "as.sivasagarmb",
         "planningAreaCode": "SONARI_MP",
         "code": "1812",
         "ddrName": "Rajapukhuri Gram Panchayat"
@@ -4680,7 +4680,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SONITPUR",
         "districtTenantCode": "as.tezpurmb",
-        "planningAreaCode": "MANGALDAI_MP",
+        "planningAreaCode": "MANGALDOI_MP",
         "code": "1828",
         "ddrName": "Mazgaon Gaon Panchayat Gram Panchayat"
       }
@@ -4701,7 +4701,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SONITPUR",
         "districtTenantCode": "as.tezpurmb",
-        "planningAreaCode": "MANGALDAI_MP",
+        "planningAreaCode": "MANGALDOI_MP",
         "code": "1829",
         "ddrName": "Parbatia Gram Panchayat"
       }
@@ -4722,7 +4722,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SONITPUR",
         "districtTenantCode": "as.tezpurmb",
-        "planningAreaCode": "MANGALDAI_MP",
+        "planningAreaCode": "MANGALDOI_MP",
         "code": "1830",
         "ddrName": "Besseria Gram Panchayat"
       }
@@ -4743,7 +4743,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SONITPUR",
         "districtTenantCode": "as.tezpurmb",
-        "planningAreaCode": "MANGALDAI_MP",
+        "planningAreaCode": "MANGALDOI_MP",
         "code": "1831",
         "ddrName": "Dolabari Gram Panchayat"
       }
@@ -4764,7 +4764,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SONITPUR",
         "districtTenantCode": "as.tezpurmb",
-        "planningAreaCode": "MANGALDAI_MP",
+        "planningAreaCode": "MANGALDOI_MP",
         "code": "1832",
         "ddrName": "Dekargaon Gram Panchayat"
       }
@@ -4785,7 +4785,7 @@
         "ulbGrade": "GRAM_PANCHAYAT",
         "districtCode": "SONITPUR",
         "districtTenantCode": "as.tezpurmb",
-        "planningAreaCode": "MANGALDAI_MP",
+        "planningAreaCode": "MANGALDOI_MP",
         "code": "1833",
         "ddrName": "Balipukhuri Gram Panchayat"
       }
@@ -5609,7 +5609,28 @@
         "ddrName": "Kalyanpur Gram Panchayat"
       }
     },
-     {
+    {
+      "code": "as.bongaigaongp",
+      "name": "Bongaigaon GP",
+      "description": "Bongaigaon GP",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "emailId": "info.bongaigaongp@gmail.com",
+      "city": {
+        "name": "Bongaigaon GP",
+        "districtName": "Bomgaigaon",
+        "ulbGrade": "GRAM_PANCHAYAT",
+        "districtCode": "BOMGAIGAON",
+        "districtTenantCode": "as.bongaigaongp",
+        "planningAreaCode": "BONGAIGAON_MP",
+        "code": "1873",
+        "ddrName": "Bongaigaon Gram Panchayat"
+      }
+    },
+    {
       "code": "as.gmc",
       "name": "Municipal Corporation",
       "description": "Municipal Corporation",
@@ -5626,7 +5647,7 @@
         "districtCode": "KAMRUP_METRO",
         "districtTenantCode": "as.gmc",
         "planningAreaCode": "KAMRUP_METRO_MP",
-        "code": "1677",
+        "code": "1874",
         "ddrName": "Municipal Corporation"
       }
     }
