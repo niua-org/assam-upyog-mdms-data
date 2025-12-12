@@ -3473,6 +3473,19 @@
         "HN",
         "EN"
       ]
-    }
+    },
+    {
+      "code": "as.gmc",
+      "districtCode": "KAMRUP_METRO",
+      "population": "33632",
+      "malePopulation": "16510",
+      "femalePopulation": "17122",
+      "workingPopulation": "31.16",
+      "literacyRate": "93.53",
+      "languagesSpoken": [
+        "HN",
+        "EN"
+      ]
+    } 
   ]
 }

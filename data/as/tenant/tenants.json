@@ -5608,6 +5608,27 @@
         "code": "1872",
         "ddrName": "Kalyanpur Gram Panchayat"
       }
+    },
+     {
+      "code": "as.gmc",
+      "name": "Municipal Corporation",
+      "description": "Municipal Corporation",
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "emailId": null,
+      "city": {
+        "name": "Municipal Corporation",
+        "districtName": null,
+        "ulbGrade": "MUNICIPAL_CORPORATION",
+        "districtCode": "KAMRUP_METRO",
+        "districtTenantCode": "as.gmc",
+        "planningAreaCode": "KAMRUP_METRO_MP",
+        "code": "1677",
+        "ddrName": "Municipal Corporation"
+      }
     }
   ]
 }

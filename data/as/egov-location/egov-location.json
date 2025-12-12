@@ -735,7 +735,45 @@
               ]
             }
           ]
-        }
+        },
+        
+        {
+        "id": 19,
+        "districtCode": "KAMRUP_METRO",
+        "districtName": "Kamrup (Metro)",
+        "active": true,
+        "planningAreas": [
+          {
+            "id": 25,
+            "districtCode": "KAMRUP_METRO",
+            "planningAreaCode": "KAMRUP_METRO_MP",
+            "planningAreaName": "Kamrup Metro Master Plan",
+            "planningAreaGisCode": "Guwahati",
+            "active": true,
+            "ppAuthority": {
+              "id": 6,
+              "planningAreaCode": "KAMRUP_METRO_MP",
+              "districtCode": "KAMRUP_METRO",
+              "ppAuthorityCode": "GUWAHATI_METROPOLITAN _DEVELOPMENT_AUTHORITY",
+              "ppAuthorityName": "Guwahati Metropolitan Development Authority",
+              "active": true
+            },
+            "bpAuthorities": [
+              {
+                "name": "MUNICIPAL_CORPORATION",
+                "code": "MUNICIPAL_CORPORATION",
+                "active": true
+              },
+               {
+                "name": "GRAM_PANCHAYAT",
+                "code": "GUWAHATI_GRAM_PANCHAYAT",
+                "active": true
+              }
+            ]
+          }
+        ]
+      }
+        
       ]
     }
   ]
