@@ -224,6 +224,30 @@
         {
           "code": "APPL.ESTIMATEOFBUILDING",
           "active": true
+        },
+        {
+          "code": "NOC.SOIL_TEST",
+          "active": true
+        },
+        {
+          "code": "NOC.SITEELEVATION",
+          "active": true
+        },
+        {
+          "code": "NOC.SITECORDINATES",
+          "active": true
+        },
+        {
+          "code": "NOC.AUTHORIZATION",
+          "active": true
+        },
+        {
+          "code": "NOC.PERMISSION",
+          "active": true
+        },
+        {
+          "code": "NOC.UNDERTAKING1A",
+          "active": true
         }
   ]
 }
