@@ -121,6 +121,206 @@
                     "required": true
                 }
             ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "ARCHAEOLOGY",
+            "docTypes": [
+                {
+                    "documentType": "NOC.ARCHAEOLOGY",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "STRUCTURAL_SAFETY",
+            "docTypes": [
+                {
+                    "documentType": "NOC.STRUCTURAL_SAFETY",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "POLICE_CLEARANCE",
+            "docTypes": [
+                {
+                    "documentType": "NOC.POLICE_CLEARANCE",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "ENVIRONMENT",
+            "docTypes": [
+                {
+                    "documentType": "NOC.ENVIRONMENT",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "ELECTRICITY_DEPT",
+            "docTypes": [
+                {
+                    "documentType": "NOC.ELECTRICITY_DEPT",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "SAD_CLEARANCE",
+            "docTypes": [
+                {
+                    "documentType": "NOC.SAD_CLEARANCE",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "HOME_SECURITY",
+            "docTypes": [
+                {
+                    "documentType": "NOC.HOME_SECURITY",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "CIVIL_AVIATION_AZARA",
+            "docTypes": [
+                {
+                    "documentType": "NOC.CIVIL_AVIATION_AZARA",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "AZARA_CIRCLE",
+            "docTypes": [
+                {
+                    "documentType": "NOC.AZARA_CIRCLE",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "WATER_RESOURCES",
+            "docTypes": [
+                {
+                    "documentType": "NOC.WATER_RESOURCES",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "FIRE_SAFETY",
+            "docTypes": [
+                {
+                    "documentType": "NOC.FIRE_SAFETY",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "POLLUTION_CONTROL",
+            "docTypes": [
+                {
+                    "documentType": "NOC.POLLUTION_CONTROL",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "ARMY_DEFENCE",
+            "docTypes": [
+                {
+                    "documentType": "NOC.ARMY_DEFENCE",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "GROUND_WATER",
+            "docTypes": [
+                {
+                    "documentType": "NOC.GROUND_WATER",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "HEALTH_AUTHORITY",
+            "docTypes": [
+                {
+                    "documentType": "NOC.HEALTH_AUTHORITY",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "SACFA_RF",
+            "docTypes": [
+                {
+                    "documentType": "NOC.SACFA_RF",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "ELECTRICAL_INSPECTOR",
+            "docTypes": [
+                {
+                    "documentType": "NOC.ELECTRICAL_INSPECTOR",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "LIFT_SAFETY",
+            "docTypes": [
+                {
+                    "documentType": "NOC.LIFT_SAFETY",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "STP_CLEARANCE",
+            "docTypes": [
+                {
+                    "documentType": "NOC.STP_CLEARANCE",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "ESZ_CLEARANCE",
+            "docTypes": [
+                {
+                    "documentType": "NOC.ESZ_CLEARANCE",
+                    "required": true
+                }
+            ]
         }
     ]
 }

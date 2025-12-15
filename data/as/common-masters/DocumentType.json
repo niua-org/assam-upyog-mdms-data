@@ -248,6 +248,86 @@
         {
           "code": "NOC.UNDERTAKING1A",
           "active": true
+        },
+        {
+          "code": "NOC.ARCHAEOLOGY",
+          "active": true
+        },
+         {
+          "code": "NOC.STRUCTURAL_SAFETY",
+          "active": true
+        },
+         {
+          "code": "NOC.POLICE_CLEARANCE",
+          "active": true
+        },
+         {
+          "code": "NOC.ENVIRONMENT",
+          "active": true
+        },
+         {
+          "code": "NOC.ELECTRICITY_DEPT",
+          "active": true
+        },
+         {
+          "code": "NOC.SAD_CLEARANCE",
+          "active": true
+        },
+         {
+          "code": "NOC.HOME_SECURITY",
+          "active": true
+        },
+         {
+          "code": "NOC.CIVIL_AVIATION_AZARA",
+          "active": true
+        },
+         {
+          "code": "NOC.AZARA_CIRCLE",
+          "active": true
+        },
+         {
+          "code": "NOC.WATER_RESOURCES",
+          "active": true
+        },
+         {
+          "code": "NOC.FIRE_SAFETY",
+          "active": true
+        },
+         {
+          "code": "NOC.POLLUTION_CONTROL",
+          "active": true
+        },
+         {
+          "code": "NOC.ARMY_DEFENCE",
+          "active": true
+        },
+         {
+          "code": "NOC.GROUND_WATER",
+          "active": true
+        },
+         {
+          "code": "NOC.HEALTH_AUTHORITY",
+          "active": true
+        },
+         {
+          "code": "NOC.SACFA_RF",
+          "active": true
+        },
+         {
+          "code": "NOC.ELECTRICAL_INSPECTOR",
+          "active": true
+        },
+         {
+          "code": "NOC.LIFT_SAFETY",
+          "active": true
+        },
+         {
+          "code": "NOC.STP_CLEARANCE",
+          "active": true
+        },
+         {
+          "code": "NOC.ESZ_CLEARANCE",
+          "active": true
         }
   ]
 }
