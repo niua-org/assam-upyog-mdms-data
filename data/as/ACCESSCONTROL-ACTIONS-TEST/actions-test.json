@@ -21660,6 +21660,17 @@
   "serviceCode": "report",
   "code": "null",
   "path": ""
-}   
+},
+{
+      "id": 3086,
+      "name": "NOC Service Validate",
+      "url": "/noc-services/v1/noc/_validate",
+      "displayName": "NOC Service Validate",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "NOC",
+      "code": "null",
+      "path": ""
+   }	   
   ]
 }
