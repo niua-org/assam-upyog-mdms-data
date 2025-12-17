@@ -281,6 +281,11 @@
       "name": "Archaelogy Dept",
       "code": "ARCHAELOGY_DEPT",
       "active": true
+    },
+    {
+      "name": "Building Plan Approval",
+      "code": "BUILDING_PLAN_APPROVAL",
+      "active": true
     }
   ]
 }
