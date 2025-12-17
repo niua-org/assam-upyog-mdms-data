@@ -34090,47 +34090,1536 @@
       "actioncode": "",
       "tenantId": "as"
     },
-	  {
-  "rolecode": "OBPS_REPORT_VIEWER",
-  "actionid": 3087,
-  "actioncode": "",
-  "tenantId": "as"
-},
-{
-  "rolecode": "OBPS_REPORT_VIEWER",
-  "actionid": 3088,
-  "actioncode": "",
-  "tenantId": "as"
-},
-{
-  "rolecode": "OBPS_REPORT_VIEWER",
-  "actionid": 3089,
-  "actioncode": "",
-  "tenantId": "as"
-},
-{
-  "rolecode": "OBPS_REPORT_VIEWER",
-  "actionid": 3090,
-  "actioncode": "",
-  "tenantId": "as"
-},
-{
-  "rolecode": "OBPS_REPORT_VIEWER",
-  "actionid": 3091,
-  "actioncode": "",
-  "tenantId": "as"
-},
-{
-  "rolecode": "OBPS_REPORT_VIEWER",
-  "actionid": 3092,
-  "actioncode": "",
-  "tenantId": "as"
-},
-{
+    {
+      "rolecode": "OBPS_REPORT_VIEWER",
+      "actionid": 3087,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "OBPS_REPORT_VIEWER",
+      "actionid": 3088,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "OBPS_REPORT_VIEWER",
+      "actionid": 3089,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "OBPS_REPORT_VIEWER",
+      "actionid": 3090,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "OBPS_REPORT_VIEWER",
+      "actionid": 3091,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "OBPS_REPORT_VIEWER",
+      "actionid": 3092,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
       "rolecode": "CITIZEN",
       "actionid": 3086,
       "actioncode": "",
       "tenantId": "as"
-    }	  
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1950,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1972,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1975,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1989,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1990,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2032,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2042,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2317,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2002,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1864,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 1865,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 3077,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 3082,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 3084,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "actionid": 3085,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 1950,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 1972,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 1975,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 1989,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 1990,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 2032,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 2042,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 2317,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 2002,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 1864,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 1865,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 3077,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 3082,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 3084,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_MB",
+      "actionid": 3085,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 1950,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 1972,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 1975,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 1989,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 1990,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 2032,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 2042,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 2317,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 2002,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 1864,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 1865,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 3077,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 3082,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 3084,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_DD_AD_TCP",
+      "actionid": 3085,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 1950,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 1972,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 1975,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 1989,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 1990,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 2032,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 2042,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 2317,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 2002,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 1864,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 1865,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 3077,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 3082,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 3084,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 3085,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 1950,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 1972,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 1975,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 1989,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 1990,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 2032,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 2042,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 2317,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 2002,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 1864,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 1865,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 3077,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 3082,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 3084,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_ENGINEER_DA",
+      "actionid": 3085,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 1950,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 1972,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 1975,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 1989,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 1990,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 2032,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 2042,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 2317,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 2002,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 1864,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 1865,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 3077,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 3082,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 3084,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 3085,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 1950,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 1972,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 1975,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 1989,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 1990,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 2032,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 2042,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 2317,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 2002,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 1864,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 1865,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 3077,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 3082,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 3084,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_TECHNICAL_ENGINEER_GP",
+      "actionid": 3085,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 1950,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 1766,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 1972,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 1975,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 1989,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 1990,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 2027,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 2032,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 2041,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 2042,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 2043,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 2044,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 2005,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 701,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 2317,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 2002,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 1864,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 1865,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 3077,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 3078,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 3082,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 3084,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 3085,
+      "actioncode": "",
+      "tenantId": "as"
+    }
+
   ]
 }

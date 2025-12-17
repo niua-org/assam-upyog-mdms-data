@@ -1101,6 +1101,46 @@
       "code": "WATER_RESOURCES_APPROVER",
       "name": "Water Resources Approver",
       "description": "Water Resources Noc Approver"
+    },
+    {
+      "code": "BPA_DD_AD_DEVELOPMENT_AUTHORITY",
+      "name": "Bpa Dd Ad Development Authority",
+      "description": "Bpa Dd Ad Development Authority"
+    },
+    {
+      "code": "BPA_TECHNICAL_ENGINEER_MB",
+      "name": "Bpa Technical Engineer Mb",
+      "description": "Bpa Technical Engineer Mb"
+    },
+    {
+      "code": "BPA_DD_AD_TCP",
+      "name": "Bpa Dd Ad Tcp",
+      "description": "Bpa Dd Ad Tcp"
+    },
+    {
+      "code": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "name": "Bpa Chairman President Mb",
+      "description": "Bpa Chairman President Mb"
+    },
+    {
+      "code": "BPA_ENGINEER_DA",
+      "name": "Bpa Engineer Da",
+      "description": "Bpa Engineer Da"
+    },
+    {
+      "code": "BPA_CHAIRMAN_DA",
+      "name": "Bpa Chairman Da",
+      "description": "Bpa Chairman Da"
+    },
+    {
+      "code": "BPA_TECHNICAL_ENGINEER_GP",
+      "name": "Bpa Technical Engineer Gp",
+      "description": "Bpa Technical Engineer Gp"
+    },
+    {
+      "code": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "name": "Bpa Chairman President Gp",
+      "description": "Bpa Chairman President Gp"
     }
   ]
 }
