@@ -1141,6 +1141,11 @@
       "code": "BPA_CHAIRMAN_PRESIDENT_GP",
       "name": "Bpa Chairman President Gp",
       "description": "Bpa Chairman President Gp"
+    },
+    {
+      "code": "AAI_INTERNAL_MICROSERVICE_ROLE",
+      "name": "AAI Internal Microservice Role",
+      "description": "AAI Noc Internal Calls"
     }
   ]
 }

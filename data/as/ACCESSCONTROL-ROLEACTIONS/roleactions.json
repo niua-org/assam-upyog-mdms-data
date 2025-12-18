@@ -35619,7 +35619,60 @@
       "actionid": 3085,
       "actioncode": "",
       "tenantId": "as"
+    },
+    {
+      "rolecode": "AAI_INTERNAL_MICROSERVICE_ROLE",
+      "actionid": 1729,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "AAI_INTERNAL_MICROSERVICE_ROLE",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "AAI_INTERNAL_MICROSERVICE_ROLE",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "AAI_INTERNAL_MICROSERVICE_ROLE",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "AAI_INTERNAL_MICROSERVICE_ROLE",
+      "actionid": 2003,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "AAI_INTERNAL_MICROSERVICE_ROLE",
+      "actionid": 2002,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "AAI_INTERNAL_MICROSERVICE_ROLE",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "AAI_INTERNAL_MICROSERVICE_ROLE",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "AAI_INTERNAL_MICROSERVICE_ROLE",
+      "actionid": 1931,
+      "actioncode": "",
+      "tenantId": "as"
     }
-
   ]
 }
