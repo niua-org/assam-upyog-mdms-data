@@ -1,0 +1,23 @@
+{
+  "tenantId": "as.cacharda",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Silchar Development Authority",
+        "localname": "Silchar Development Authority",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.cacharda",
+        "children": []
+      }
+    }
+  ]
+}

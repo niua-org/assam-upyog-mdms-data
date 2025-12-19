@@ -1,0 +1,23 @@
+{
+  "tenantId": "as.dhubrida",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Dhubri-Gauripur Development Authority",
+        "localname": "Dhubri-Gauripur Development Authority",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.dhubrida",
+        "children": []
+      }
+    }
+  ]
+}
