@@ -1146,6 +1146,41 @@
       "code": "AAI_INTERNAL_MICROSERVICE_ROLE",
       "name": "AAI Internal Microservice Role",
       "description": "AAI Noc Internal Calls"
+    },
+    {
+      "code": "BPA_RTP",
+      "name": "Bpa RTP",
+      "description": "Bpa RTP"
+    },
+    {
+      "code": "BPA_ENGINEER_GMDA",
+      "name": "Bpa Engineer GMDA",
+      "description": "Bpa Engineer GMDA"
+    },
+    {
+      "code": "BPA_CEO",
+      "name": "Bpa CEO",
+      "description": "Bpa CEO"
+    },
+     {
+      "code": "BPA_ZONALOFFICER_GMC",
+      "name": "Bpa Zonal Officer GMC",
+      "description": "Bpa Zonal Officer GMC"
+    },
+     {
+      "code": "BPA_ASSOCIATE_PLANNER",
+      "name": "Bpa Associate Planner",
+      "description": "Bpa Associate Planner"
+    },
+     {
+      "code": "BPA_COMMISSIONER",
+      "name": "Bpa Commissioner",
+      "description": "Bpa Commissioner"
+    },
+    {
+      "code": "BPA_TOWNPLANNER",
+      "name": "Bpa Town Planner",
+      "description": "Bpa Town Planner"
     }
   ]
 }
