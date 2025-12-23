@@ -1171,11 +1171,6 @@
       "code": "BPA_COMMISSIONER",
       "name": "Bpa Commissioner",
       "description": "Bpa Commissioner"
-    },
-    {
-      "code": "BPA_TOWNPLANNER",
-      "name": "Bpa Town Planner",
-      "description": "Bpa Town Planner"
     }
   ]
 }
