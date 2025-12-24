@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.burigang",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Burigang",
+        "localname": "Burigang",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.burigang",
+        "children": [
+          {
+            "id": "781818a6-8c43-4fd8-a7ab-c10ea4b3bf5f",
+            "boundaryNum": 1,
+            "name": "Balipukhuri",
+            "localname": "Balipukhuri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "burigangV1",
+            "children": []
+          },
+          {
+            "id": "f61a10f9-0697-494f-afd7-ebb45bc29c66",
+            "boundaryNum": 1,
+            "name": "Maralgaon",
+            "localname": "Maralgaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "burigangV2",
+            "children": []
+          },
+          {
+            "id": "4468f6e8-9d51-4e7d-9b73-62a6351933a2",
+            "boundaryNum": 1,
+            "name": "Japariguri",
+            "localname": "Japariguri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "burigangV3",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

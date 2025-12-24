@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.melengbalichapori",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "28 No. Meleng Balichapori",
+        "localname": "28 No. Meleng Balichapori",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.melengbalichapori",
+        "children": [
+          {
+            "id": "3121464e-98e0-4654-ab30-6b8df619bf17",
+            "boundaryNum": 1,
+            "name": "No.1 GharpholiaGaon",
+            "localname": "No.1 GharpholiaGaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "melengbalichaporiV24",
+            "children": []
+          },
+          {
+            "id": "c96698d3-0d52-451c-bd32-1f155bfae922",
+            "boundaryNum": 1,
+            "name": "No.2 GharpholiaGaon",
+            "localname": "No.2 GharpholiaGaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "melengbalichaporiV25",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

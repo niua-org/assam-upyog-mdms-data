@@ -1,0 +1,68 @@
+  {
+    "tenantId": "as.ushapur",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+      {
+        "hierarchyType": {
+          "code": "REVENUE",
+          "name": "REVENUE"
+        },
+        "boundary": {
+          "id": 1,
+          "boundaryNum": 1,
+          "name": "Ushapur",
+          "localname": "Ushapur",
+          "longitude": null,
+          "latitude": null,
+          "label": "City",
+          "code": "as.ushapur",
+          "children": [
+            {
+              "id": "325ddaaf-9da0-4189-a31d-9870827acb09",
+              "boundaryNum": 1,
+              "name": "Kalibarichuk",
+              "localname": "Kalibarichuk",
+              "longitude": null,
+              "latitude": null,
+              "label": "Village",
+              "code": "ushapurV1",
+              "children": []
+            },
+            {
+              "id": "ee31288d-3757-452c-b1de-737f0f375f8b",
+              "boundaryNum": 1,
+              "name": "Balichapari",
+              "localname": "Balichapari",
+              "longitude": null,
+              "latitude": null,
+              "label": "Village",
+              "code": "ushapurV2",
+              "children": []
+            },
+            {
+              "id": "ada80382-6168-47d0-bea0-16f3d906d4c9",
+              "boundaryNum": 1,
+              "name": "Barikachuburi",
+              "localname": "Barikachuburi",
+              "longitude": null,
+              "latitude": null,
+              "label": "Village",
+              "code": "ushapurV3",
+              "children": []
+            },
+            {
+              "id": "32e536dc-ee7d-4986-bb36-43a4466353b7",
+              "boundaryNum": 1,
+              "name": "Hazarapar Dekargaon",
+              "localname": "Hazarapar Dekargaon",
+              "longitude": null,
+              "latitude": null,
+              "label": "Village",
+              "code": "ushapurV4",
+              "children": []
+            }
+          ]
+        }
+      }
+    ]
+  }

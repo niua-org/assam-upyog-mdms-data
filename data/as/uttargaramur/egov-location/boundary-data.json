@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.uttargaramur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "53 No. Uttar Garamur",
+        "localname": "53 No. Uttar Garamur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.uttargaramur",
+        "children": [
+          {
+            "id": "ea28c19c-62f7-475e-b6f6-151b449e9bcc",
+            "boundaryNum": 1,
+            "name": "DuliapamGaon",
+            "localname": "DuliapamGaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "uttargaramurV19",
+            "children": []
+          },
+          {
+            "id": "95135e17-d3ed-4173-be3b-5c11b3ec3202",
+            "boundaryNum": 1,
+            "name": "Kumar KaibartaGaon (CT)",
+            "localname": "Kumar KaibartaGaon (CT)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "uttargaramurV20",
+            "children": []
+          },
+          {
+            "id": "2cf692d6-4cb0-4dd7-b1c0-523e002a27f7",
+            "boundaryNum": 1,
+            "name": "Duliagaon (OG)",
+            "localname": "Duliagaon (OG)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "uttargaramurV21",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

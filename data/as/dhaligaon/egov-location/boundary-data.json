@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.dhaligaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Dhaligaon",
+        "localname": "Dhaligaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.dhaligaon",
+        "children": [
+          {
+            "id": "49c52357-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Borpothar",
+            "localname": "Borpothar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DhaligaonV1",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Chungapota",
+            "localname": "Chungapota",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DhaligaonV2",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41bat6e71171",
+            "boundaryNum": 1,
+            "name": "Dhaligaon",
+            "localname": "Dhaligaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DhaligaonV3",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

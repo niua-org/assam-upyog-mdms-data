@@ -1,0 +1,68 @@
+{
+  "tenantId": "as.golaghatgp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Golaghat G.P",
+        "localname": "Golaghat G.P",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.golaghatgp",
+        "children": [
+          {
+            "id": "59690f30-932c-43bc-91d8-02bb4e18beb8",
+            "boundaryNum": 1,
+            "name": "All revenue blocks of Golaghat Town from Block No. 1 to Block No. 22",
+            "localname": "All revenue blocks of Golaghat Town from Block No. 1 to Block No. 22",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "golaghatV1",
+            "children": []
+          },
+          {
+            "id": "ec960545-41d7-4ff7-a825-df2f5cafb5bd",
+            "boundaryNum": 1,
+            "name": "Bongaon Part-I",
+            "localname": "Bongaon Part-I",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "golaghatV2",
+            "children": []
+          },
+          {
+            "id": "fecdd881-8b58-404f-ad7b-f7e250b9bd50",
+            "boundaryNum": 1,
+            "name": "Bongaon Part-II",
+            "localname": "Bongaon Part-II",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "golaghatV3",
+            "children": []
+          },
+          {
+            "id": "41f86947-2fc0-40e3-9ed3-41d4a825ad28",
+            "boundaryNum": 1,
+            "name": "Chinatoli gaon",
+            "localname": "Chinatoli gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "golaghatV4",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

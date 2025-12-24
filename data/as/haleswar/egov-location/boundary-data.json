@@ -1,0 +1,68 @@
+{
+  "tenantId": "as.haleswar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Haleswar",
+        "localname": "Haleswar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.haleswar",
+        "children": [
+          {
+            "id": "14265d16-156d-4ecb-a2a4-7c1808b3dd37",
+            "boundaryNum": 1,
+            "name": "Nij Halleswar",
+            "localname": "Nij Halleswar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "haleswarV1",
+            "children": []
+          },
+          {
+            "id": "87f6246f-e2bf-4a90-9e86-141907619fa5",
+            "boundaryNum": 1,
+            "name": "Halleswar Devalaya",
+            "localname": "Halleswar Devalaya",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "haleswarV2",
+            "children": []
+          },
+          {
+            "id": "985efe96-2378-432c-a9aa-c17bf29b25cb",
+            "boundaryNum": 1,
+            "name": "Betonijhar",
+            "localname": "Betonijhar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "haleswarV3",
+            "children": []
+          },
+          {
+            "id": "8b39d57e-ea51-48c0-bbd9-2575bc917895",
+            "boundaryNum": 1,
+            "name": "Goroimari Borpukhuri",
+            "localname": "Goroimari Borpukhuri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "haleswarV4",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

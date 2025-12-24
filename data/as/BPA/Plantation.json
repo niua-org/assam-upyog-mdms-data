@@ -1,0 +1,62 @@
+{
+    "tenantId": "as",
+    "moduleName": "BPA",
+    "Plantation": [
+        {
+            "id": 1,
+            "occupancy": "residential",
+            "permissible": 0.05,
+            "percent": 5,
+            "noOfTreesToBePlant": 10,
+            "active": true
+        },
+        {
+            "id": 2,
+            "occupancy": "mercantile / commercial",
+            "permissible": 0.05,
+            "percent": 5,
+            "noOfTreesToBePlant": 10,
+            "active": true
+        },
+        {
+            "id": 3,
+            "occupancy": "industrial",
+            "permissible": 0.05,
+            "percent": 5,
+            "noOfTreesToBePlant": 10,
+            "active": true
+        },
+        {
+            "id": 4,
+            "occupancy": "educational",
+            "permissible": 0.05,
+            "percent": 5,
+            "noOfTreesToBePlant": 10,
+            "active": true
+        },
+        {
+            "id": 4,
+            "occupancy": "assembly",
+            "permissible": 0.05,
+            "percent": 5,
+            "noOfTreesToBePlant": 10,
+            "active": true
+        },
+        {
+            "id": 5,
+            "occupancy": "storage",
+            "permissible": 0.05,
+            "percent": 3,
+            "noOfTreesToBePlant": 10,
+            "active": true
+        },
+        {
+            "id": 6,
+            "occupancy": "factories",
+            "permissible": 0.05,
+            "percent": 2,
+            "noOfTreesToBePlant": 10,
+            "active": true
+        }
+    ]
+}

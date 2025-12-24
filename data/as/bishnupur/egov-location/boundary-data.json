@@ -1,0 +1,134 @@
+{
+  "tenantId": "as.bishnupur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "4f98db8d-d2fd-426a-a060-88d8d4975387",
+        "boundaryNum": 1,
+        "name": "Bishnupur",
+        "localname": "Bishnupur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.bishnupur",
+        "children": [
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082ec0",
+            "boundaryNum": 1,
+            "name": "Bali Gaon",
+            "localname": "Bali Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "BishnupurV1",
+            "children": []
+          },
+          {
+            "id": "bc3b5b4b-f06a-4f2d-9f06-148d104bd84f",
+            "boundaryNum": 2,
+            "name": "1 No. Nareng Gaon",
+            "localname": "1 No. Nareng Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "BishnupurV2",
+            "children": []
+          },
+          {
+            "id": "31f1427e-2ed0-48ab-b1bb-9302a670bcf6",
+            "boundaryNum": 3,
+            "name": "Dighalmukh Miri Gaon",
+            "localname": "Dighalmukh Miri Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "BishnupurV3",
+            "children": []
+          },
+          {
+            "id": "c123830f-ea58-473e-91cd-aacb5b561178",
+            "boundaryNum": 4,
+            "name": "Dighalmukh Gaon",
+            "localname": "Dighalmukh Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "BishnupurV4",
+            "children": []
+          },
+          {
+            "id": "68b26b56-f1a8-42ad-afb5-9404992fc2d1",
+            "boundaryNum": 5,
+            "name": "Dighalipathar Gaon",
+            "localname": "Dighalipathar Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "BishnupurV5",
+            "children": []
+          },
+          {
+            "id": "dd5b452a-ed06-4fb9-a83b-216185b2108b",
+            "boundaryNum": 6,
+            "name": "Bihida",
+            "localname": "Bihida",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "BishnupurV6",
+            "children": []
+          },
+          {
+            "id": "2b7f26ce-aeda-449b-9dd2-20d696300a4c",
+            "boundaryNum": 7,
+            "name": "Tangapara",
+            "localname": "Tangapara",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "BishnupurV7",
+            "children": []
+          },
+          {
+            "id": "d9689922-baae-46f0-ad8d-a3d9a41055c3",
+            "boundaryNum": 8,
+            "name": "Bor Gaon",
+            "localname": "Bor Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "BishnupurV8",
+            "children": []
+          },
+          {
+            "id": "1d85c907-7e85-4200-83e8-b9c68887736a",
+            "boundaryNum": 9,
+            "name": "Bebejia Gaon",
+            "localname": "Bebejia Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "BishnupurV9",
+            "children": []
+          },
+          {
+            "id": "21e4cbeb-1625-4996-a9cf-b97113141654",
+            "boundaryNum": 10,
+            "name": "Didhal Miripathar (Dighali Mukh)",
+            "localname": "Didhal Miripathar (Dighali Mukh)",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "BishnupurV10",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

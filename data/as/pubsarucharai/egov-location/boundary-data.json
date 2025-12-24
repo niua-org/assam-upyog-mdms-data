@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.pubsarucharai",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "42 no. Pub Sarucharai",
+        "localname": "42 no. Pub Sarucharai",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.pubsarucharai",
+        "children": [
+          {
+            "id": "7705971f-5f7f-41e0-8651-024c4b795864",
+            "boundaryNum": 1,
+            "name": "Kamalabaria N.C. (CT)",
+            "localname": "Kamalabaria N.C. (CT)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pubsarucharaiV2",
+            "children": []
+          },
+          {
+            "id": "73e3a39b-4408-4459-87e7-76026e0f4965",
+            "boundaryNum": 1,
+            "name": "BohotiaGaon (OG)",
+            "localname": "BohotiaGaon (OG)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pubsarucharaiV50",
+            "children": []
+          },
+          {
+            "id": "7eafc1bb-32a2-4a58-bb96-beb2c657140e",
+            "boundaryNum": 1,
+            "name": "Sarbaibandha (OG)",
+            "localname": "Sarbaibandha (OG)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pubsarucharaiV51",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

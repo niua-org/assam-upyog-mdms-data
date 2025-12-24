@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.khatkhati",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Khatkhati G.P.",
+        "localname": "Khatkhati G.P.",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.khatkhati",
+        "children": [
+          {
+            "id": "63c67caf-170d-4e68-9724-63f700233f8a",
+            "boundaryNum": 1,
+            "name": "Kapahua",
+            "localname": "Kapahua",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "dkhatkhatiV11",
+            "children": []
+          },
+          {
+            "id": "23484373-9c8e-4a70-aefd-5d340d8d8789",
+            "boundaryNum": 1,
+            "name": "Reboti Gaon",
+            "localname": "Reboti Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "dkhatkhatiV12",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

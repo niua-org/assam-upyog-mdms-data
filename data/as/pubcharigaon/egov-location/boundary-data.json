@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.pubcharigaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "32 No. Pub Charigaon",
+        "localname": "32 No. Pub Charigaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.pubcharigaon",
+        "children": [
+          {
+            "id": "0b84dbbf-4e70-4295-84a0-c6cb89e7c20d",
+            "boundaryNum": 1,
+            "name": "AliamukhiaGaon",
+            "localname": "AliamukhiaGaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pubcharigaonV7",
+            "children": []
+          },
+          {
+            "id": "e2063526-a1e3-4b8f-bb2c-d1eb8abed14d",
+            "boundaryNum": 1,
+            "name": "No.2 BamunGaon",
+            "localname": "No.2 BamunGaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pubcharigaonV8",
+            "children": []
+          },
+          {
+            "id": "56586771-12ad-4be7-a2dc-7c09b41aea54",
+            "boundaryNum": 1,
+            "name": "NaosoliaGaon (NauSalia Gaon)",
+            "localname": "NaosoliaGaon (NauSalia Gaon)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pubcharigaonV9",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

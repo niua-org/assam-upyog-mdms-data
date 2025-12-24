@@ -1,0 +1,90 @@
+{
+  "tenantId": "as.upahupara",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Upahupara",
+        "localname": "Upahupara",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.upahupara",
+        "children": [
+          {
+            "id": "54ed8152-e661-4e99-bce9-34c8e5290820",
+            "boundaryNum": 1,
+            "name": "Upahupara",
+            "localname": "Upahupara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "UpahuparaV1",
+            "children": []
+          },
+          {
+            "id": "76472aeb-5089-4e93-a300-51a00a03f4cf",
+            "boundaryNum": 1,
+            "name": "Kamarpara",
+            "localname": "Kamarpara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "UpahuparaV2",
+            "children": []
+          },
+          {
+            "id": "a67f1611-3443-401f-8dda-ec58c420f5b2",
+            "boundaryNum": 1,
+            "name": "Kowar Para",
+            "localname": "Kowar Para",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "UpahuparaV3",
+            "children": []
+          },
+          {
+            "id": "22584c15-daa3-4fd5-870f-df3445c5d137",
+            "boundaryNum": 1,
+            "name": "Bhebarghat",
+            "localname": "Bhebarghat",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "UpahuparaV4",
+            "children": []
+          },
+          {
+            "id": "83c20ff1-b3ee-46e3-9f74-fcf7554100bd",
+            "boundaryNum": 1,
+            "name": "No.1 Bezpara",
+            "localname": "No.1 Bezpara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "UpahuparaV5",
+            "children": []
+          },
+          {
+            "id": "83c20ff1-b3ee-46e3-9f74-fcf7554109io",
+            "boundaryNum": 1,
+            "name": "Bamunpara",
+            "localname": "Bamunpara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "UpahuparaV6",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

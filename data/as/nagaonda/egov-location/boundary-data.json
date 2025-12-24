@@ -1,0 +1,23 @@
+{
+  "tenantId": "as.nagaonda",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagaon Development Authority",
+        "localname": "Nagaon Development Authority",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.nagaonda",
+        "children": []
+      }
+    }
+  ]
+}

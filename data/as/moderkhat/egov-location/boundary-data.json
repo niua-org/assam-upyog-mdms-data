@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.moderkhat",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Moderkhat",
+        "localname": "Moderkhat",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.moderkhat",
+        "children": [
+          {
+            "id": "e6272f93-5121-476c-b440-82be132d332f",
+            "boundaryNum": 1,
+            "name": "Habi Chuk",
+            "localname": "Habi Chuk",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ModerkhatV1",
+            "children": []
+          },
+          {
+            "id": "64e24dda-4db7-4c6e-b5e1-8d61f201bead",
+            "boundaryNum": 1,
+            "name": "Rongliting No.2",
+            "localname": "Rongliting No.2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ModerkhatV2",
+            "children": []
+          },
+          {
+            "id": "77527326-bb24-4184-82ae-c4c6e8c95dbc",
+            "boundaryNum": 1,
+            "name": "Rongpuria",
+            "localname": "Rongpuria",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ModerkhatV3",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.desangpar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Desangpar G.P.",
+        "localname": "Desangpar G.P.",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.desangpar",
+        "children": [
+          {
+            "id": "cd457072-0e7f-4b37-935f-9f78a7277bd8",
+            "boundaryNum": 1,
+            "name": "NAWJAN GAON",
+            "localname": "NAWJAN GAON",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "desangparV30",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

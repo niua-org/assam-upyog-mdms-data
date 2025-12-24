@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.safrai",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Safrai G.P.",
+        "localname": "Safrai G.P.",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.safrai",
+        "children": [
+          {
+            "id": "e2e182eb-7bd0-4375-bad0-91877110bdd1",
+            "boundaryNum": 1,
+            "name": "Nagaon",
+            "localname": "Nagaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "safraiV20",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

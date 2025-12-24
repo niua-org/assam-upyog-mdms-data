@@ -1,0 +1,90 @@
+{
+  "tenantId": "as.mulagaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Mulagaon",
+        "localname": "Mulagaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.mulagaon",
+        "children": [
+          {
+            "id": "49c52357-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Barshangaon Pt.I",
+            "localname": "Barshangaon Pt.I",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "MulagaonV1",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Barshangaon Pt.II",
+            "localname": "Barshangaon Pt.II",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "MulagaonV2",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41bat6e71171",
+            "boundaryNum": 1,
+            "name": "Doshimapara",
+            "localname": "Doshimapara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "MulagaonV3",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-u8cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Gosaipara",
+            "localname": "Gosaipara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "MulagaonV4",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Jelkajhar Pt.I",
+            "localname": "Jelkajhar Pt.I",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "MulagaonV5",
+            "children": []
+          },
+          {
+            "id": "49e52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Jelkajhar Pt.II",
+            "localname": "Jelkajhar Pt.II",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "MulagaonV6",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

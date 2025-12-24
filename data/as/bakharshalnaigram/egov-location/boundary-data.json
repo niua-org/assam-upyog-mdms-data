@@ -1,0 +1,68 @@
+{
+  "tenantId": "as.bakharshalnaigram",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "4f98db8d-d2fd-426a-a060-88d8d4975405",
+        "boundaryNum": 1,
+        "name": "Bakharshal Naigram",
+        "localname": "Bakharshal Naigram",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.bakharshalnaigram",
+        "children": [
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082p01",
+            "boundaryNum": 1,
+            "name": "BAKHARSHAL PT-II",
+            "localname": "BAKHARSHAL PT-II",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "BakharshalnaigamV1",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082p02",
+            "boundaryNum": 2,
+            "name": "BAKHARSHAL PT-III",
+            "localname": "BAKHARSHAL PT-III",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "BakharshalnaigamV2",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082p03",
+            "boundaryNum": 3,
+            "name": "MUBARAQPUR",
+            "localname": "MUBARAQPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "BakharshalnaigamV3",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082p04",
+            "boundaryNum": 4,
+            "name": "NATHUPUR PART-I",
+            "localname": "NATHUPUR PART-I",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "BakharshalnaigamV4",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

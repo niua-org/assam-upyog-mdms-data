@@ -1,0 +1,90 @@
+  {
+    "tenantId": "as.dewdhar",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+      {
+        "hierarchyType": {
+          "code": "REVENUE",
+          "name": "REVENUE"
+        },
+        "boundary": {
+          "id": 1,
+          "boundaryNum": 1,
+          "name": "Dewdhar",
+          "localname": "Dewdhar",
+          "longitude": null,
+          "latitude": null,
+          "label": "City",
+          "code": "as.dewdhar",
+          "children": [
+            {
+              "id": "146b1df4-f934-4e26-9afb-176235734fb2",
+              "boundaryNum": 1,
+              "name": "Dewdhar",
+              "localname": "Dewdhar",
+              "longitude": null,
+              "latitude": null,
+              "label": "Village",
+              "code": "dewdharV1",
+              "children": []
+            },
+            {
+              "id": "c985d3b3-3f76-45e0-ac67-25f69bb678b9",
+              "boundaryNum": 1,
+              "name": "Bar Pathari Sutar Gaon",
+              "localname": "Bar Pathari Sutar Gaon",
+              "longitude": null,
+              "latitude": null,
+              "label": "Village",
+              "code": "dewdharV2",
+              "children": []
+            },
+            {
+              "id": "044f9709-e94e-4045-941b-96ba75d34c27",
+              "boundaryNum": 1,
+              "name": "Hatipara",
+              "localname": "Hatipara",
+              "longitude": null,
+              "latitude": null,
+              "label": "Village",
+              "code": "dewdharV3",
+              "children": []
+            },
+            {
+              "id": "674272d8-0f8a-46eb-b241-3ee1bc0f62dd",
+              "boundaryNum": 1,
+              "name": "Jalah Gaon",
+              "localname": "Jalah Gaon",
+              "longitude": null,
+              "latitude": null,
+              "label": "Village",
+              "code": "dewdharV4",
+              "children": []
+            },
+            {
+              "id": "1820a22c-d233-4ad0-b8c7-041bf8a3d061",
+              "boundaryNum": 1,
+              "name": "Ranthali",
+              "localname": "Ranthali",
+              "longitude": null,
+              "latitude": null,
+              "label": "Village",
+              "code": "dewdharV5",
+              "children": []
+            },
+            {
+              "id": "806ce794-aefd-4cef-91ff-1d9a5ff3b7ce",
+              "boundaryNum": 1,
+              "name": "Uzara Gaon",
+              "localname": "Uzara Gaon",
+              "longitude": null,
+              "latitude": null,
+              "label": "Village",
+              "code": "dewdharV6",
+              "children": []
+            }
+          ]
+        }
+      }
+    ]
+  }

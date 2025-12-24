@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.rajapukhuri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Rajapukhuri G.P.",
+        "localname": "Rajapukhuri G.P.",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.rajapukhuri",
+        "children": [
+          {
+            "id": "19294aa3-12d1-4964-9883-97e7573fec0b",
+            "boundaryNum": 1,
+            "name": "Nakachari Gaon",
+            "localname": "Nakachari Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "rajapukhuriV21",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

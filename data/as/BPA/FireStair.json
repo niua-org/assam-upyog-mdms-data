@@ -1,0 +1,62 @@
+{
+    "tenantId": "as",
+    "moduleName": "BPA",
+    "FireStair": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "fireStairExpectedNoofRise": "12",
+        "fireStairMinimumWidth": "1",
+        "fireStairRequiredTread": "0.25",
+        "active": true
+    },
+        {
+        "id": 2,
+        "occupancy": "mercantile / commercial",
+        "fireStairExpectedNoofRise": "1",
+        "fireStairMinimumWidth": "1",
+        "fireStairRequiredTread": "0.25",
+        "active": true
+    },
+        {
+        "id": 3,
+        "occupancy": "industrial",
+        "fireStairExpectedNoofRise": "2",
+        "fireStairMinimumWidth": "1",
+        "fireStairRequiredTread": "0.25",
+        "active": true
+    },
+    {
+        "id": 7,
+        "occupancy": "educational",
+        "fireStairExpectedNoofRise": "2",
+        "fireStairMinimumWidth": "1",
+        "fireStairRequiredTread": "0.25",
+        "active": true
+    },
+    {
+        "id": 4,
+        "occupancy": "assembly",
+        "fireStairExpectedNoofRise": "12",
+        "fireStairMinimumWidth": "1",
+        "fireStairRequiredTread": "0.25",
+        "active": true
+    },
+        {
+        "id": 5,
+        "occupancy": "storage",
+        "fireStairExpectedNoofRise": "1",
+        "fireStairMinimumWidth": "1",
+        "fireStairRequiredTread": "0.25",
+        "active": true
+    },
+        {
+        "id": 6,
+        "occupancy": "factories",
+        "fireStairExpectedNoofRise": "2",
+        "fireStairMinimumWidth": "1",
+        "fireStairRequiredTread": "0.25",
+        "active": true
+    }
+]
+}

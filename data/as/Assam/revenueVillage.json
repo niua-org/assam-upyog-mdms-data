@@ -1,0 +1,870 @@
+{
+  "tenantId": "as",
+  "moduleName": "BPA",
+  "revenueVillages": [
+    {
+      "id": 1,
+      "ulbCode": "NALBARI_MB",
+      "districtCode": "NALBARI",
+      "wardCode": "WARD_1",
+      "revenueVillageCode": "BOLAKUCHI_SANDHAKAIRARA",
+      "revenueVillageName": "Bolakuchi, Sandhakairara"
+    },
+    {
+      "id": 2,
+      "ulbCode": "NALBARI_MB",
+      "districtCode": "NALBARI",
+      "wardCode": "WARD_2",
+      "revenueVillageCode": "NALBARI_TOWN_DIGHELI",
+      "revenueVillageName": "Nalbari Town, part of Digheli"
+    },
+    {
+      "id": 3,
+      "ulbCode": "NALBARI_MB",
+      "districtCode": "NALBARI",
+      "wardCode": "WARD_3",
+      "revenueVillageCode": "DIGHELI_NALBARI_TOWN",
+      "revenueVillageName": "Digheli, Nalbari Town"
+    },
+    {
+      "id": 4,
+      "ulbCode": "NALBARI_MB",
+      "districtCode": "NALBARI",
+      "wardCode": "WARD_4",
+      "revenueVillageCode": "NALBARI_TOWN_4",
+      "revenueVillageName": "Nalbari Town"
+    },
+    {
+      "id": 5,
+      "ulbCode": "NALBARI_MB",
+      "districtCode": "NALBARI",
+      "wardCode": "WARD_5",
+      "revenueVillageCode": "NALBARI_TOWN_BHUYAR_KUCHI",
+      "revenueVillageName": "Nalbari Town, Bhuyar Kuchi, Kotla Borkuchismall part of Bardhan toli"
+    },
+    {
+      "id": 6,
+      "ulbCode": "NALBARI_MB",
+      "districtCode": "NALBARI",
+      "wardCode": "WARD_6",
+      "revenueVillageCode": "JAPARKUCHI",
+      "revenueVillageName": "Japarkuchi"
+    },
+    {
+      "id": 7,
+      "ulbCode": "NALBARI_MB",
+      "districtCode": "NALBARI",
+      "wardCode": "WARD_7",
+      "revenueVillageCode": "NALBARI_TOWN_GAON",
+      "revenueVillageName": "Nalbari Town, Nalbari gaon.part"
+    },
+    {
+      "id": 8,
+      "ulbCode": "NALBARI_MB",
+      "districtCode": "NALBARI",
+      "wardCode": "WARD_8",
+      "revenueVillageCode": "NALBARI_TOWN_BALIKORIA",
+      "revenueVillageName": "Nalbari Town, Balikoria, Borkura."
+    },
+    {
+      "id": 9,
+      "ulbCode": "NALBARI_MB",
+      "districtCode": "NALBARI",
+      "wardCode": "WARD_9",
+      "revenueVillageCode": "NALBARI_TOWN_9",
+      "revenueVillageName": "Nalbari Town"
+    },
+    {
+      "id": 10,
+      "ulbCode": "NALBARI_MB",
+      "districtCode": "NALBARI",
+      "wardCode": "WARD_10",
+      "revenueVillageCode": "NALBARI_TOWN_10",
+      "revenueVillageName": "Nalbari Town"
+    },
+    {
+      "id": 11,
+      "ulbCode": "NALBARI_MB",
+      "districtCode": "NALBARI",
+      "wardCode": "WARD_11",
+      "revenueVillageCode": "NALBARI_TOWN_11",
+      "revenueVillageName": "Nalbari Town"
+    },
+    {
+      "id": 12,
+      "ulbCode": "NALBARI_MB",
+      "districtCode": "NALBARI",
+      "wardCode": "WARD_12",
+      "revenueVillageCode": "NALBARI_TOWN_12",
+      "revenueVillageName": "Nalbari Town"
+    },
+    {
+      "id": 13,
+      "ulbCode": "NALBARI_MB",
+      "districtCode": "NALBARI",
+      "wardCode": "WARD_13",
+      "revenueVillageCode": "NALBARI_TOWN_13",
+      "revenueVillageName": "Nalbari Town"
+    },
+    {
+      "id": 14,
+      "ulbCode": "NALBARI_MB",
+      "districtCode": "NALBARI",
+      "wardCode": "WARD_14",
+      "revenueVillageCode": "BALIKORIA",
+      "revenueVillageName": "Balikoria"
+    },
+    {
+      "id": 15,
+      "ulbCode": "NALBARI_MB",
+      "districtCode": "NALBARI",
+      "wardCode": "WARD_15",
+      "revenueVillageCode": "NALBARI_GAON_JAPARKUCHI",
+      "revenueVillageName": "Nalbari Gaon and Japarkuchi"
+    },
+    {
+      "id": 16,
+      "ulbCode": "NALBARI_MB",
+      "districtCode": "NALBARI",
+      "wardCode": "WARD_16",
+      "revenueVillageCode": "BALIKURIA_KHARJARA_16",
+      "revenueVillageName": "Balikuria Kharjara"
+    },
+    {
+      "id": 17,
+      "ulbCode": "NALBARI_MB",
+      "districtCode": "NALBARI",
+      "wardCode": "WARD_17",
+      "revenueVillageCode": "BALIKURIA_KHARJARA_17",
+      "revenueVillageName": "Balikuria Kharjara"
+    },
+    {
+      "id": 18,
+      "ulbCode": "BARPETA_MB",
+      "districtCode": "BARPETA",
+      "wardCode": "WARD_1",
+      "revenueVillageCode": "BARPETA_TOWN_PART4_5",
+      "revenueVillageName": "Barpeta Town, Part 4 and Part 5"
+    },
+    {
+      "id": 19,
+      "ulbCode": "BARPETA_MB",
+      "districtCode": "BARPETA",
+      "wardCode": "WARD_2",
+      "revenueVillageCode": "BARPETA_TOWN_PART4_5_3",
+      "revenueVillageName": "Barpeta Town part 4, part 5 and part 3"
+    },
+    {
+      "id": 20,
+      "ulbCode": "BARPETA_MB",
+      "districtCode": "BARPETA",
+      "wardCode": "WARD_3",
+      "revenueVillageCode": "BARPETA_TOWN_PART6_5",
+      "revenueVillageName": "Barpeta Town Part 6 and part 5 part"
+    },
+    {
+      "id": 21,
+      "ulbCode": "BARPETA_MB",
+      "districtCode": "BARPETA",
+      "wardCode": "WARD_4",
+      "revenueVillageCode": "BARPETA_TOWN_PART6_GANAKUCHI",
+      "revenueVillageName": "Barpeta Town part 6 and Ganakuchi part 2"
+    },
+    {
+      "id": 22,
+      "ulbCode": "BARPETA_MB",
+      "districtCode": "BARPETA",
+      "wardCode": "WARD_5",
+      "revenueVillageCode": "BARPETA_TOWN_PART4_1_2",
+      "revenueVillageName": "Barpeta Town part 4, barpeta town part 1, Barpeta Town part 2 sheet 1, Barpeta Town part 2 sheet 2, Motuwakuchi Town part 1"
+    },
+    {
+      "id": 23,
+      "ulbCode": "BARPETA_MB",
+      "districtCode": "BARPETA",
+      "wardCode": "WARD_6",
+      "revenueVillageCode": "BARPETA_TOWN_PART4_2_2",
+      "revenueVillageName": "Barpeta Town part 4, Barpeta Town part 2 sheet 1, Barpeta Town Part 2 sheet 2, Barpeta Town part 4"
+    },
+    {
+      "id": 24,
+      "ulbCode": "BARPETA_MB",
+      "districtCode": "BARPETA",
+      "wardCode": "WARD_7",
+      "revenueVillageCode": "BARPETA_TOWN_PART4_6_2",
+      "revenueVillageName": "Barpeta Town Part 4, Barpeta Town Part 6 and Barpeta Town part 2 sheet 2"
+    },
+    {
+      "id": 25,
+      "ulbCode": "BARPETA_MB",
+      "districtCode": "BARPETA",
+      "wardCode": "WARD_8",
+      "revenueVillageCode": "BARPETA_TOWN_PART6_8",
+      "revenueVillageName": "Barpeta Town part 6"
+    },
+    {
+      "id": 26,
+      "ulbCode": "BARPETA_MB",
+      "districtCode": "BARPETA",
+      "wardCode": "WARD_9",
+      "revenueVillageCode": "BARPETA_TOWN_PART6_2_1",
+      "revenueVillageName": "Barpeta Town Part 6, Barpeta Town Part 2 sheet 2, Barpeta Town Part 2 sheet 1, Barpeta Town part 4 ,Motuakuchi Town part"
+    },
+    {
+      "id": 27,
+      "ulbCode": "BARPETA_MB",
+      "districtCode": "BARPETA",
+      "wardCode": "WARD_10",
+      "revenueVillageCode": "BARPETA_TOWN_PART6_MOTUAKUCHI",
+      "revenueVillageName": "Barpeta town Part 6,motuakuchi town part 2 and 3"
+    },
+    {
+      "id": 28,
+      "ulbCode": "BARPETA_MB",
+      "districtCode": "BARPETA",
+      "wardCode": "WARD_11",
+      "revenueVillageCode": "BARPETA_TOWN_6",
+      "revenueVillageName": "Barpeta town 6"
+    },
+    {
+      "id": 29,
+      "ulbCode": "BARPETA_MB",
+      "districtCode": "BARPETA",
+      "wardCode": "WARD_12",
+      "revenueVillageCode": "BARPETA_TOAN_PART6_MOTUAKUCHI",
+      "revenueVillageName": "Barpeta toan Part 6, motuakuchi town part 3, ganakkuchi Part 1 & 2"
+    },
+    {
+      "id": 30,
+      "ulbCode": "DIBRUGARH_MC",
+      "districtCode": "DIBRUGARH",
+      "wardCode": "WARD_1",
+      "revenueVillageCode": "BARBARI_TEA_ESTATE_CONTENTMENT",
+      "revenueVillageName": "barbari tea estate (1st Part),Contentment ward second part"
+    },
+    {
+      "id": 31,
+      "ulbCode": "DIBRUGARH_MC",
+      "districtCode": "DIBRUGARH",
+      "wardCode": "WARD_2",
+      "revenueVillageCode": "BARBARI_TEA_ESTATE_NIZKADAMONI",
+      "revenueVillageName": "barbari tea estate part 1, Nizkadamoni gaon"
+    },
+    {
+      "id": 32,
+      "ulbCode": "DIBRUGARH_MC",
+      "districtCode": "DIBRUGARH",
+      "wardCode": "WARD_3",
+      "revenueVillageCode": "NIZKADAMONI_KHALIHAMARI",
+      "revenueVillageName": "Nizkadamoni gaon , khalihamari gaon"
+    },
+    {
+      "id": 33,
+      "ulbCode": "DIBRUGARH_MC",
+      "districtCode": "DIBRUGARH",
+      "wardCode": "WARD_4",
+      "revenueVillageCode": "KHALIHAMARI_NEW_AMLAPATTY",
+      "revenueVillageName": "khalihamari gaon,New Amlapatty ward 2nd part & 3rd Part, Nizmankota."
+    },
+    {
+      "id": 34,
+      "ulbCode": "DIBRUGARH_MC",
+      "districtCode": "DIBRUGARH",
+      "wardCode": "WARD_5",
+      "revenueVillageCode": "CHIRING_TEKELA_MANCOTTA",
+      "revenueVillageName": "chiring gaon, tekela chiring gaon, mancotta TE 1/159 ORR(B) 2nd part"
+    },
+    {
+      "id": 35,
+      "ulbCode": "DIBRUGARH_MC",
+      "districtCode": "DIBRUGARH",
+      "wardCode": "WARD_6",
+      "revenueVillageCode": "TEKELA_CHIRING_WARD",
+      "revenueVillageName": "Tekela Chiring gaon, tekela chiring ward, Chiring gaon ward and Chiring gaon."
+    },
+    {
+      "id": 36,
+      "ulbCode": "DIBRUGARH_MC",
+      "districtCode": "DIBRUGARH",
+      "wardCode": "WARD_7",
+      "revenueVillageCode": "AMALAPATTY_JAPARA",
+      "revenueVillageName": "Amalapatty Gaon, japara  ward"
+    },
+    {
+      "id": 37,
+      "ulbCode": "DIBRUGARH_MC",
+      "districtCode": "DIBRUGARH",
+      "wardCode": "WARD_8",
+      "revenueVillageCode": "NEW_AMLAPATTY_1ST",
+      "revenueVillageName": "New Amalapatty ward 1st part"
+    },
+    {
+      "id": 38,
+      "ulbCode": "DIBRUGARH_MC",
+      "districtCode": "DIBRUGARH",
+      "wardCode": "WARD_9",
+      "revenueVillageCode": "PURONI_AMALAPATTY_MARWARI",
+      "revenueVillageName": "Puroni amalapatty gaon, marwari patty ward, Rehabari ward."
+    },
+    {
+      "id": 39,
+      "ulbCode": "DIBRUGARH_MC",
+      "districtCode": "DIBRUGARH",
+      "wardCode": "WARD_10",
+      "revenueVillageCode": "PURONI_AMALAPATTY_MARWARI_10",
+      "revenueVillageName": "Puroni amalapatty gaon, marwari patty ward"
+    },
+    {
+      "id": 40,
+      "ulbCode": "DIBRUGARH_MC",
+      "districtCode": "DIBRUGARH",
+      "wardCode": "WARD_11",
+      "revenueVillageCode": "MARWARI_PATTY_WARD",
+      "revenueVillageName": "marwari patty ward"
+    },
+    {
+      "id": 41,
+      "ulbCode": "DIBRUGARH_MC",
+      "districtCode": "DIBRUGARH",
+      "wardCode": "WARD_12",
+      "revenueVillageCode": "NEW_AMLAPATTY_1ST_2ND",
+      "revenueVillageName": "New amalapatty ward 1st part & 2nd part."
+    },
+    {
+      "id": 42,
+      "ulbCode": "DIBRUGARH_MC",
+      "districtCode": "DIBRUGARH",
+      "wardCode": "WARD_13",
+      "revenueVillageCode": "NEW_AMLAPATTY_2ND",
+      "revenueVillageName": "New amalapatty ward  2nd part"
+    },
+    {
+      "id": 43,
+      "ulbCode": "DIBRUGARH_MC",
+      "districtCode": "DIBRUGARH",
+      "wardCode": "WARD_14",
+      "revenueVillageCode": "NEW_AMLAPATTY_2ND_3RD",
+      "revenueVillageName": "New amalapatty ward  2nd part and part 3"
+    },
+    {
+      "id": 44,
+      "ulbCode": "DIBRUGARH_MC",
+      "districtCode": "DIBRUGARH",
+      "wardCode": "WARD_15",
+      "revenueVillageCode": "REHABARI_KHALIHAMARI",
+      "revenueVillageName": "rehabari ward, Khalihamari ward 1st part &2nd part"
+    },
+    {
+      "id": 45,
+      "ulbCode": "DIBRUGARH_MC",
+      "districtCode": "DIBRUGARH",
+      "wardCode": "WARD_16",
+      "revenueVillageCode": "REHABARI_KHALIHAMARI_16",
+      "revenueVillageName": "rehabari ward, Khalihamari ward 1st part"
+    },
+    {
+      "id": 46,
+      "ulbCode": "DIBRUGARH_MC",
+      "districtCode": "DIBRUGARH",
+      "wardCode": "WARD_17",
+      "revenueVillageCode": "TINKUNIA_GRAHAM_BAZAR",
+      "revenueVillageName": "Tinkunia Ward, Graham Bazar ward"
+    },
+    {
+      "id": 47,
+      "ulbCode": "DIBRUGARH_MC",
+      "districtCode": "DIBRUGARH",
+      "wardCode": "WARD_18",
+      "revenueVillageCode": "GRAHAM_BAZAR_GABHORU",
+      "revenueVillageName": "Graham Bazar war, Gabhoru pathar ward first part and third part"
+    },
+    {
+      "id": 48,
+      "ulbCode": "DIBRUGARH_MC",
+      "districtCode": "DIBRUGARH",
+      "wardCode": "WARD_19",
+      "revenueVillageCode": "GABHORU_PATHAR_3RD",
+      "revenueVillageName": "Gabhoru pathar ward  part and third partnd"
+    },
+    {
+      "id": 49,
+      "ulbCode": "DIBRUGARH_MC",
+      "districtCode": "DIBRUGARH",
+      "wardCode": "WARD_20",
+      "revenueVillageCode": "GABHORU_PATHAR_1ST_2ND_3RD",
+      "revenueVillageName": "Gabhoru pathar ward first part, 2nd part  and third part"
+    },
+    {
+      "id": 50,
+      "ulbCode": "DIBRUGARH_MC",
+      "districtCode": "DIBRUGARH",
+      "wardCode": "WARD_21",
+      "revenueVillageCode": "GABHORU_PATHAR_GRAHAM_CONTENTMENT",
+      "revenueVillageName": "Gabhoru pathar ward first part, 2nd part , Graham Bazar, Contentment ward 1st part and 2nd part"
+    },
+    {
+      "id": 51,
+      "ulbCode": "DIBRUGARH_MC",
+      "districtCode": "DIBRUGARH",
+      "wardCode": "WARD_22",
+      "revenueVillageCode": "CONTENTMENT_BORBARI_TEA",
+      "revenueVillageName": "Contentment ward 1st part and 2nd part, Borbari Tea Estate first part"
+    },
+    {
+      "id": 52,
+      "ulbCode": "TINSUKIA_MB",
+      "districtCode": "TINSUKIA",
+      "wardCode": "WARD_1",
+      "revenueVillageCode": "TINSUKIA_TOWN_SHEET_9_8_18_19_20",
+      "revenueVillageName": "Tinsukia Town Sheet 9,8,18,19,20"
+    },
+    {
+      "id": 53,
+      "ulbCode": "TINSUKIA_MB",
+      "districtCode": "TINSUKIA",
+      "wardCode": "WARD_2",
+      "revenueVillageCode": "TINSUKIA_TOWN_SHEET_9_8_20_21",
+      "revenueVillageName": "Tinsukia Town Sheet 9,8,20,21"
+    },
+    {
+      "id": 54,
+      "ulbCode": "TINSUKIA_MB",
+      "districtCode": "TINSUKIA",
+      "wardCode": "WARD_3",
+      "revenueVillageCode": "TINSUKIA_TOWN_SHEET_10_11_21_22",
+      "revenueVillageName": "Tinsukia Town Sheet 10,11,21,22"
+    },
+    {
+      "id": 55,
+      "ulbCode": "TINSUKIA_MB",
+      "districtCode": "TINSUKIA",
+      "wardCode": "WARD_4",
+      "revenueVillageCode": "TINSUKIA_TOWN_SHEET_12_13_14_23",
+      "revenueVillageName": "Tinsukia Town Sheet 12,13,14,23"
+    },
+    {
+      "id": 56,
+      "ulbCode": "TINSUKIA_MB",
+      "districtCode": "TINSUKIA",
+      "wardCode": "WARD_5",
+      "revenueVillageCode": "TINSUKIA_TOWN_SHEET_14_27_28_29",
+      "revenueVillageName": "Tinsukia Town Sheet 14,27,28,29"
+    },
+    {
+      "id": 57,
+      "ulbCode": "TINSUKIA_MB",
+      "districtCode": "TINSUKIA",
+      "wardCode": "WARD_6",
+      "revenueVillageCode": "TINSUKIA_TOWN_SHEET_26_27",
+      "revenueVillageName": "Tinsukia Town Sheet 26,27"
+    },
+    {
+      "id": 58,
+      "ulbCode": "TINSUKIA_MB",
+      "districtCode": "TINSUKIA",
+      "wardCode": "WARD_7",
+      "revenueVillageCode": "TINSUKIA_TOWN_SHEET_24_25_27_28",
+      "revenueVillageName": "Tinsukia Town Sheet 24,25,27,28,Parbotia Gaon"
+    },
+    {
+      "id": 59,
+      "ulbCode": "TINSUKIA_MB",
+      "districtCode": "TINSUKIA",
+      "wardCode": "WARD_8",
+      "revenueVillageCode": "TINSUKIA_TOWN_SHEET_1_2_3_15_24",
+      "revenueVillageName": "Tinsukia Town Sheet 1,2,3,15,24"
+    },
+    {
+      "id": 60,
+      "ulbCode": "TINSUKIA_MB",
+      "districtCode": "TINSUKIA",
+      "wardCode": "WARD_9",
+      "revenueVillageCode": "TINSUKIA_TOWN_SHEET_2_3_4_24",
+      "revenueVillageName": "Tinsukia Town Sheet 2,3,4,24"
+    },
+    {
+      "id": 61,
+      "ulbCode": "TINSUKIA_MB",
+      "districtCode": "TINSUKIA",
+      "wardCode": "WARD_10",
+      "revenueVillageCode": "TINSUKIA_TOWN_SHEET_3_4_24",
+      "revenueVillageName": "Tinsukia Town Sheet 3,4, 24"
+    },
+    {
+      "id": 62,
+      "ulbCode": "TINSUKIA_MB",
+      "districtCode": "TINSUKIA",
+      "wardCode": "WARD_11",
+      "revenueVillageCode": "TINSUKIA_TOWN_SHEET_10_12",
+      "revenueVillageName": "Tinsukia Town Sheet 10,12"
+    },
+    {
+      "id": 63,
+      "ulbCode": "TINSUKIA_MB",
+      "districtCode": "TINSUKIA",
+      "wardCode": "WARD_12",
+      "revenueVillageCode": "TINSUKIA_TOWN_SHEET_8_12",
+      "revenueVillageName": "Tinsukia Town Sheet 8,12"
+    },
+    {
+      "id": 64,
+      "ulbCode": "TINSUKIA_MB",
+      "districtCode": "TINSUKIA",
+      "wardCode": "WARD_13",
+      "revenueVillageCode": "TINSUKIA_TOWN_SHEET_5_7",
+      "revenueVillageName": "Tinsukia Town Sheet 5,7"
+    },
+    {
+      "id": 65,
+      "ulbCode": "TINSUKIA_MB",
+      "districtCode": "TINSUKIA",
+      "wardCode": "WARD_14",
+      "revenueVillageCode": "TINSUKIA_TOWN_SHEET_16_5_BAZALTOLI",
+      "revenueVillageName": "Tinsukia Town Sheet 16,5,Bazaltoli gaon Part 2"
+    },
+    {
+      "id": 66,
+      "ulbCode": "TINSUKIA_MB",
+      "districtCode": "TINSUKIA",
+      "wardCode": "WARD_15",
+      "revenueVillageCode": "TINSUKIA_TOWN_SHEET_5_6_7_17",
+      "revenueVillageName": "Tinsukia Town Sheet 5,6,7,17"
+    },
+    {
+      "id": 67,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_1",
+      "revenueVillageCode": "DUDHPATIL_BAHADURPUR_GOSSAIPUR",
+      "revenueVillageName": "Dudhpatil Part-V,VI,VII; Bahadurpur, Gossaipur Part - III,V"
+    },
+    {
+      "id": 68,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_2",
+      "revenueVillageCode": "MASUGHAT_DUDHPATIL_PART4_5",
+      "revenueVillageName": "MASUGHAT, DUDHPATIL, PART-IV,V"
+    },
+    {
+      "id": 69,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_3",
+      "revenueVillageCode": "RONGPUR_PART3_4",
+      "revenueVillageName": "RONGPUR PT-III,IV"
+    },
+    {
+      "id": 70,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_4",
+      "revenueVillageCode": "PART_SMB_WARD_5",
+      "revenueVillageName": "Part of SMB Ward No.-5"
+    },
+    {
+      "id": 71,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_5",
+      "revenueVillageCode": "PART_SMB_WARD_5_5",
+      "revenueVillageName": "Part of SMB Ward No.-5"
+    },
+    {
+      "id": 72,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_6",
+      "revenueVillageCode": "PART_SMB_WARD_2",
+      "revenueVillageName": "Part of SMB Ward No.-2"
+    },
+    {
+      "id": 73,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_7",
+      "revenueVillageCode": "PART_SMB_WARD_2_3",
+      "revenueVillageName": "Part of SMB Ward No.-2 and 3"
+    },
+    {
+      "id": 74,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_8",
+      "revenueVillageCode": "PART_SMB_WARD_2_3_8",
+      "revenueVillageName": "Part of SMB Ward No.-2 and 3"
+    },
+    {
+      "id": 75,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_9",
+      "revenueVillageCode": "PART_SMB_WARD_1_4",
+      "revenueVillageName": "Part of SMB Ward No.-1 and 4"
+    },
+    {
+      "id": 76,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_10",
+      "revenueVillageCode": "PART_SMB_WARD_6_7",
+      "revenueVillageName": "Part of SMB Ward No.-6 and 7"
+    },
+    {
+      "id": 77,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_11",
+      "revenueVillageCode": "PART_SMB_WARD_6_23",
+      "revenueVillageName": "Part of SMB Ward No.-6 and 23"
+    },
+    {
+      "id": 78,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_12",
+      "revenueVillageCode": "SMB_WARD_24_25_27",
+      "revenueVillageName": "SMB Ward No.-24, SMB Ward, No.-25 and Part of SMB Ward, No-27"
+    },
+    {
+      "id": 79,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_13",
+      "revenueVillageCode": "TARAPUR_PART7_SMB_WARD_28",
+      "revenueVillageName": "Tarapur Part-VII. SMB Ward No.- 28"
+    },
+    {
+      "id": 80,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_14",
+      "revenueVillageCode": "TARAPUR_PART7_14",
+      "revenueVillageName": "Tarapur Part-VII"
+    },
+    {
+      "id": 81,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_15",
+      "revenueVillageCode": "TARAPUR_PART6_15",
+      "revenueVillageName": "Tarapur Part-VI"
+    },
+    {
+      "id": 82,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_16",
+      "revenueVillageCode": "TUPKHANA_TARAPUR_PART1",
+      "revenueVillageName": "Tupkhana Part-I(CT), Tarapur Part - I"
+    },
+    {
+      "id": 83,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_17",
+      "revenueVillageCode": "TARAPUR_PART4_5",
+      "revenueVillageName": "Tarapur Part-IV,V"
+    },
+    {
+      "id": 84,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_18",
+      "revenueVillageCode": "TARAPUR_PART8_AMBICAPUR",
+      "revenueVillageName": "Tarapur Part-VIII, Ambicapur Part-I, PART OF SMB WARD NO-19"
+    },
+    {
+      "id": 85,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_19",
+      "revenueVillageCode": "SMB_WARD_19",
+      "revenueVillageName": "SMB WARD NO-19"
+    },
+    {
+      "id": 86,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_20",
+      "revenueVillageCode": "PART_SMB_WARD_27",
+      "revenueVillageName": "PART OF SMB WARD NO-27"
+    },
+    {
+      "id": 87,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_21",
+      "revenueVillageCode": "PART_SMB_WARD_25",
+      "revenueVillageName": "PART OF SMB WARD NO-25"
+    },
+    {
+      "id": 88,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_22",
+      "revenueVillageCode": "SMB_WARD_22",
+      "revenueVillageName": "SMB WARD NO-22"
+    },
+    {
+      "id": 89,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_23",
+      "revenueVillageCode": "SMB_WARD_10_9",
+      "revenueVillageName": "SMB WARD NO-10 AND SMB WARD NO-9"
+    },
+    {
+      "id": 90,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_24",
+      "revenueVillageCode": "SILCHAR_X_XI",
+      "revenueVillageName": "Silchar X(CT), Silchar XI(OG)"
+    },
+    {
+      "id": 91,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_25",
+      "revenueVillageCode": "BERENGA_3_4_5",
+      "revenueVillageName": "Berenga III,IV,V"
+    },
+    {
+      "id": 92,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_26",
+      "revenueVillageCode": "BERANGA_1_2",
+      "revenueVillageName": "Beranga I,II"
+    },
+    {
+      "id": 93,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_27",
+      "revenueVillageCode": "KANAKPUR_PART2_SMB_WARD_14",
+      "revenueVillageName": "KANAKPUR PART-II AND PART SMB WARD NO-14"
+    },
+    {
+      "id": 94,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_28",
+      "revenueVillageCode": "SMB_WARD_12",
+      "revenueVillageName": "SMB WARD NO-12"
+    },
+    {
+      "id": 95,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_29",
+      "revenueVillageCode": "SMB_WARD_11_21",
+      "revenueVillageName": "SMB WARD NO-11 and 21"
+    },
+    {
+      "id": 96,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_30",
+      "revenueVillageCode": "SMB_WARD_21_21",
+      "revenueVillageName": "SMB WARD NO-21 AND 21"
+    },
+    {
+      "id": 97,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_31",
+      "revenueVillageCode": "PART_WARD_19",
+      "revenueVillageName": "PART OF WARD NO-19"
+    },
+    {
+      "id": 98,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_32",
+      "revenueVillageCode": "AMBICAPUR_PART7_8",
+      "revenueVillageName": "Ambicapur Part-VII,VIII(CT)"
+    },
+    {
+      "id": 99,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_33",
+      "revenueVillageCode": "PART_WARD_17",
+      "revenueVillageName": "PART OF WARD NO-17"
+    },
+    {
+      "id": 100,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_34",
+      "revenueVillageCode": "PART_SMB_WARD_18_17",
+      "revenueVillageName": "PART OF SMB WARD NO-18 AND 17"
+    },
+    {
+      "id": 101,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_35",
+      "revenueVillageCode": "PART_SMB_WARD_13_15",
+      "revenueVillageName": "PART OF SMB WARD NO-13 AND SMB WARD NO-15"
+    },
+    {
+      "id": 102,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_36",
+      "revenueVillageCode": "PART_SMB_WARD_13_14",
+      "revenueVillageName": "PART OF SMB WARD NO-13 AND 14"
+    },
+    {
+      "id": 103,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_37",
+      "revenueVillageCode": "KANAKPUR_PART1_SMB_WARD_14",
+      "revenueVillageName": "KANAKPUR PART-I and Existing SMB WARD NO-14"
+    },
+    {
+      "id": 104,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_38",
+      "revenueVillageCode": "SMB_WARD_16",
+      "revenueVillageName": "SMB WARD NO-16"
+    },
+    {
+      "id": 105,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_39",
+      "revenueVillageCode": "AMBICAPUR_PART7_10_11_SMB_17",
+      "revenueVillageName": "Ambicapur Part-VII, Ambicapur, Part-X(CT), Ambicapur Part-XI, AND PART OF SMB WARD, NO-17"
+    },
+    {
+      "id": 106,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_40",
+      "revenueVillageCode": "AMBICAPUR_PART10",
+      "revenueVillageName": "Ambicapur Part - X(CT)"
+    },
+    {
+      "id": 107,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_41",
+      "revenueVillageCode": "KANAKPUR_UKPUR_PART1_3",
+      "revenueVillageName": "Kanakpur Part-I, U.K.Pur Part-I, U.K.Pur Part-III"
+    },
+    {
+      "id": 108,
+      "ulbCode": "SILCHAR_MC",
+      "districtCode": "CACHAR",
+      "wardCode": "WARD_42",
+      "revenueVillageCode": "AMBICAPUR_PART6",
+      "revenueVillageName": "Ambicapur Part - VI(CT)"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "tenantId": "as.pubnalbari",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Pub-Nalbari",
+        "localname": "Pub-Nalbari",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.pubnalbari",
+        "children": [
+          {
+            "id": "20046d8b-6809-4edf-a357-aea85db72ac4",
+            "boundaryNum": 1,
+            "name": "Barchenikuchi",
+            "localname": "Barchenikuchi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "PubNalbariV1",
+            "children": []
+          },
+          {
+            "id": "49f7d5a1-3b5b-4889-a923-1220ccc4b2ff",
+            "boundaryNum": 1,
+            "name": "Khudrachenikuchi",
+            "localname": "Khudrachenikuchi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "PubNalbariV2",
+            "children": []
+          },
+          {
+            "id": "22c1c7d4-57c9-4e27-9bf5-b425999b8214",
+            "boundaryNum": 1,
+            "name": "Paikarkuchi",
+            "localname": "Paikarkuchi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "PubNalbariV3",
+            "children": []
+          },
+          {
+            "id": "22bc96b1-dab1-42e7-a83e-f4560432d6a8",
+            "boundaryNum": 1,
+            "name": "Porakuchi",
+            "localname": "Porakuchi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "PubNalbariV4",
+            "children": []
+          },
+          {
+            "id": "8b0c36ee-4633-4d61-9813-5e66b418810f",
+            "boundaryNum": 1,
+            "name": "Sandha",
+            "localname": "Sandha",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "PubNalbariV5",
+            "children": []
+          },
+          {
+            "id": "809ee747-3a25-43fe-979c-4e26cf007c6a",
+            "boundaryNum": 1,
+            "name": "Dolua",
+            "localname": "Dolua",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "PubNalbariV6",
+            "children": []
+          },
+          {
+            "id": "85839bd7-9227-47d5-8136-cc68c5445c18",
+            "boundaryNum": 1,
+            "name": "Paisara",
+            "localname": "Paisara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "PubNalbariV7",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

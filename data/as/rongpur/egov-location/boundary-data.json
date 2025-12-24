@@ -1,0 +1,156 @@
+{
+  "tenantId": "as.rongpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Rongpur G.P.",
+        "localname": "Rongpur G.P.",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.rongpur",
+        "children": [
+          {
+            "id": "87da6226-341c-4e0c-adcd-71305143065d",
+            "boundaryNum": 1,
+            "name": "SIVASAGAR TOWN PART 15",
+            "localname": "SIVASAGAR TOWN PART 15",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "rongpurV9",
+            "children": []
+          },
+          {
+            "id": "7e41c1d6-73d2-4d41-a84e-9659b28cc14a",
+            "boundaryNum": 1,
+            "name": "SIVASAGAR TOWN PART 16",
+            "localname": "SIVASAGAR TOWN PART 16",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "rongpurV10",
+            "children": []
+          },
+          {
+            "id": "fac9b05a-e3c0-482a-82e4-9742020558ea",
+            "boundaryNum": 1,
+            "name": "SIVASAGAR TOWN PART 17",
+            "localname": "SIVASAGAR TOWN PART 17",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "rongpurV11",
+            "children": []
+          },
+          {
+            "id": "5b6912e4-46a3-4622-9e06-4cabcc55146f",
+            "boundaryNum": 1,
+            "name": "SIVASAGAR TOWN PART 18",
+            "localname": "SIVASAGAR TOWN PART 18",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "rongpurV12",
+            "children": []
+          },
+          {
+            "id": "4ac89065-517c-40e9-af37-86114cccc5e5",
+            "boundaryNum": 1,
+            "name": "SIVASAGAR TOWN PART 20",
+            "localname": "SIVASAGAR TOWN PART 20",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "rongpurV13",
+            "children": []
+          },
+          {
+            "id": "b65183ee-4a47-4430-85b6-a3dbb984f6c9",
+            "boundaryNum": 1,
+            "name": "SIVASAGAR TOWN PART 21",
+            "localname": "SIVASAGAR TOWN PART 21",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "rongpurV14",
+            "children": []
+          },
+          {
+            "id": "81b358d7-36c7-4f82-918e-3af88e2acf52",
+            "boundaryNum": 1,
+            "name": "KURULAKATIA GAON",
+            "localname": "KURULAKATIA GAON",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "rongpurV15",
+            "children": []
+          },
+          {
+            "id": "1304924c-9503-4dbf-ab98-19c771d5c3d7",
+            "boundaryNum": 1,
+            "name": "HALUA BHAKAT GAON",
+            "localname": "HALUA BHAKAT GAON",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "rongpurV16",
+            "children": []
+          },
+          {
+            "id": "74d8c538-ec21-40d4-af4e-3613f30c2023",
+            "boundaryNum": 1,
+            "name": "METEKA PATHAR",
+            "localname": "METEKA PATHAR",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "rongpurV17",
+            "children": []
+          },
+          {
+            "id": "8791cf63-d8fe-49e6-a6fd-1d9977cda8ff",
+            "boundaryNum": 1,
+            "name": "SALAGURIA GAON",
+            "localname": "SALAGURIA GAON",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "rongpurV18",
+            "children": []
+          },
+          {
+            "id": "4077d54e-9f18-4c5d-8860-f0e08eaff84e",
+            "boundaryNum": 1,
+            "name": "JULA GAON",
+            "localname": "JULA GAON",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "rongpurV19",
+            "children": []
+          },
+          {
+            "id": "5b5e0478-421c-4593-a631-db59e70e34b6",
+            "boundaryNum": 1,
+            "name": "DECHIAL DHULIA GAON",
+            "localname": "DECHIAL DHULIA GAON",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "rongpurV20",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

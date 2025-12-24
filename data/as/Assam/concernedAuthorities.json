@@ -1,0 +1,17 @@
+{
+    "tenantId": "as",
+    "moduleName": "BPA",
+    "concernedAuthorities": 
+    [
+        {
+        "id": 1,
+        "authorityType": "MUNICIPAL_BOARD",
+        "active": true
+        },
+        {
+        "id": 2,
+        "authorityType": "GRAM_PANCHAYAT",
+        "active": true
+        }
+    ]
+}

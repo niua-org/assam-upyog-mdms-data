@@ -1,0 +1,55 @@
+{
+    "tenantId": "as",
+    "moduleName": "BPA",
+    "Verandah": [
+        {
+            "id": 1,
+            "occupancy": "residential",
+            "verandahWidth": 1.5,
+            "verandahDepth": 3.66,
+            "active": true
+        },
+        {
+            "id": 2,
+            "occupancy": "mercantile / commercial",
+            "verandahWidth": 2.5,
+            "verandahDepth": 4.0,
+            "active": true
+        },
+        {
+            "id": 3,
+            "occupancy": "industrial",
+            "verandahWidth": 3.0,
+            "verandahDepth": 5.0,
+            "active": true
+        },
+        {
+            "id": 7,
+            "occupancy": "educational",
+            "verandahWidth": 3.0,
+            "verandahDepth": 5.0,
+            "active": true
+        },
+        {
+            "id": 4,
+            "occupancy": "assembly",
+            "verandahWidth": 2.5,
+            "verandahDepth": 4.0,
+            "active": true
+        },
+        {
+            "id": 5,
+            "occupancy": "storage",
+            "verandahWidth": 2.5,
+            "verandahDepth": 4.0,
+            "active": true
+        },
+        {
+            "id": 6,
+            "occupancy": "factories",
+            "verandahWidth": 3.0,
+            "verandahDepth": 5.0,
+            "active": true
+        }
+    ]
+}

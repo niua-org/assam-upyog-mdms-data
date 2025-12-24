@@ -1,0 +1,178 @@
+{
+  "tenantId": "as.borguri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Borguri",
+        "localname": "Borguri",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.borguri",
+        "children": [
+          {
+            "id": "20e3b6cf-0158-4a7e-b1cb-6df3b04997d4",
+            "boundaryNum": 1,
+            "name": "Hengaluguri Gaon (Out Growth)",
+            "localname": "Hengaluguri Gaon (Out Growth)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BorguriV1",
+            "children": []
+          },
+          {
+            "id": "8b52b8b2-b85c-46b7-bf82-8dfcbfd14fd9",
+            "boundaryNum": 1,
+            "name": "Bordoloi Nagar (Out Growth)",
+            "localname": "Bordoloi Nagar (Out Growth)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BorguriV2",
+            "children": []
+          },
+          {
+            "id": "d918b83c-cce1-4f06-8c9b-940bb6f06c68",
+            "boundaryNum": 1,
+            "name": "Kachujan Gaon (Census Town)",
+            "localname": "Kachujan Gaon (Census Town)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BorguriV3",
+            "children": []
+          },
+          {
+            "id": "ef4b9f7e-16a1-4453-bd79-5f0733a9c4cf",
+            "boundaryNum": 1,
+            "name": "Porbatia Gaon",
+            "localname": "Porbatia Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BorguriV4",
+            "children": []
+          },
+          {
+            "id": "96c3343a-d2e9-4e90-b2cf-f46ee49a9b12",
+            "boundaryNum": 1,
+            "name": "Ahukhat Gaon",
+            "localname": "Ahukhat Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BorguriV5",
+            "children": []
+          },
+          {
+            "id": "3f5c25e8-2a29-4d2c-9e7b-1de6b5415b12",
+            "boundaryNum": 1,
+            "name": "Hukanpukhuri Gaon",
+            "localname": "Hukanpukhuri Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BorguriV6",
+            "children": []
+          },
+          {
+            "id": "cfe05646-0bdf-4149-a59a-d062c5108f92",
+            "boundaryNum": 1,
+            "name": "Joriguri Gaon",
+            "localname": "Joriguri Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BorguriV7",
+            "children": []
+          },
+          {
+            "id": "d73c6c16-01b7-46f8-b4b9-c4b9c17eab7f",
+            "boundaryNum": 1,
+            "name": "Kokratoli Gaon",
+            "localname": "Kokratoli Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BorguriV8",
+            "children": []
+          },
+          {
+            "id": "e86d33e1-fc2c-43ef-86b3-71a25b16bdb3",
+            "boundaryNum": 1,
+            "name": "Kachujan TE Gr. No.236/234, TE 163/160 & 257 NLR",
+            "localname": "Kachujan TE Gr. No.236/234, TE 163/160 & 257 NLR",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BorguriV9",
+            "children": []
+          },
+          {
+            "id": "fae36b6d-c7ef-4455-bf0a-07a3346ac8cb",
+            "boundaryNum": 1,
+            "name": "Chandmari Nepali gaon",
+            "localname": "Chandmari Nepali gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BorguriV10",
+            "children": []
+          },
+          {
+            "id": "b2a23a36-19f3-4809-9c3e-eb83f27c0a8b",
+            "boundaryNum": 1,
+            "name": "Hukanpukhuri TE Patta land",
+            "localname": "Hukanpukhuri TE Patta land",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BorguriV11",
+            "children": []
+          },
+          {
+            "id": "96e58ae3-3d75-4d8b-b9b1-ddf6605b8046",
+            "boundaryNum": 1,
+            "name": "Gelapukhuri Gaon",
+            "localname": "Gelapukhuri Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BorguriV12",
+            "children": []
+          },
+          {
+            "id": "c05aba4f-f2b3-450f-82e6-d8de020f1b94",
+            "boundaryNum": 1,
+            "name": "Chikajan Gaon",
+            "localname": "Chikajan Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BorguriV13",
+            "children": []
+          },
+          {
+            "id": "c05aba4f-f2b3-450f-82e6-d8def40f1b94",
+            "boundaryNum": 1,
+            "name": "Chandmari Gaon",
+            "localname": "Chandmari Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BorguriV14",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

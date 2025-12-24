@@ -1,0 +1,55 @@
+{
+    "tenantId": "as",
+    "moduleName": "BPA",
+    "BuildingHeight": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "buildingHeightMaximumDistancetoRoad": "12",
+        "buildingHeightMaxBuildingHeight": "10",
+        "active": true
+    },
+        {
+        "id": 2,
+        "occupancy": "mercantile / commercial",
+        "buildingHeightMaximumDistancetoRoad": "32",
+        "buildingHeightMaxBuildingHeight": "10",
+        "active": true
+    },
+        {
+        "id": 3,
+        "occupancy": "industrial",
+        "buildingHeightMaximumDistancetoRoad": "1",
+        "buildingHeightMaxBuildingHeight": "10",
+        "active": true
+    },
+    {
+        "id": 7,
+        "occupancy": "educational",
+        "buildingHeightMaximumDistancetoRoad": "12",
+        "buildingHeightMaxBuildingHeight": "10",
+        "active": true
+    },
+    {
+        "id": 4,
+        "occupancy": "assembly",
+        "buildingHeightMaximumDistancetoRoad": "12",
+        "buildingHeightMaxBuildingHeight": "10",
+        "active": true
+    },
+        {
+        "id": 5,
+        "occupancy": "storage",
+        "buildingHeightMaximumDistancetoRoad": "32",
+        "buildingHeightMaxBuildingHeight": "10",
+        "active": true
+    },
+        {
+        "id": 6,
+        "occupancy": "factories",
+        "buildingHeightMaximumDistancetoRoad": "1",
+        "buildingHeightMaxBuildingHeight": "10",
+        "active": true
+    }
+]
+}

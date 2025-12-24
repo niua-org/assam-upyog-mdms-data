@@ -1,0 +1,101 @@
+{
+  "tenantId": "as.bebejiadimowbanthai",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bebejia Dimow Banthai",
+        "localname": "Bebejia Dimow Banthai",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.bebejiadimowbanthai",
+        "children": [
+          {
+            "id": "4d464723-5e3a-4c4d-9131-3addc3add74d",
+            "boundaryNum": 1,
+            "name": "Bangthai",
+            "localname": "Bangthai",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bebejiadimowbanthaiV1",
+            "children": []
+          },
+          {
+            "id": "896b1281-859c-494e-afbb-ed36d4fbdba5",
+            "boundaryNum": 1,
+            "name": "Birah Bebejia",
+            "localname": "Birah Bebejia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bebejiadimowbanthaiV2",
+            "children": []
+          },
+          {
+            "id": "aff7331d-4360-4b69-aa25-1ac6f4ae96ae",
+            "boundaryNum": 1,
+            "name": "Dimow",
+            "localname": "Dimow",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bebejiadimowbanthaiV3",
+            "children": []
+          },
+          {
+            "id": "4d53eaf1-2c05-4275-a004-7469581ebcd5",
+            "boundaryNum": 1,
+            "name": "Garikuri Bebejia",
+            "localname": "Garikuri Bebejia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bebejiadimowbanthaiV4",
+            "children": []
+          },
+          {
+            "id": "4c51d5ee-305d-4861-9433-4d60254c348c",
+            "boundaryNum": 1,
+            "name": "Gederbori",
+            "localname": "Gederbori",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bebejiadimowbanthaiV5",
+            "children": []
+          },
+          {
+            "id": "22a5dea7-e9df-4608-b34a-a7d647e6a15d",
+            "boundaryNum": 1,
+            "name": "Jamuguri",
+            "localname": "Jamuguri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bebejiadimowbanthaiV6",
+            "children": []
+          },
+          {
+            "id": "6cf19d41-dfb6-4f19-b490-31c9f20616bf",
+            "boundaryNum": 1,
+            "name": "Tukulai Bebejia (Tukulai)",
+            "localname": "Tukulai Bebejia (Tukulai)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bebejiadimowbanthaiV7",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

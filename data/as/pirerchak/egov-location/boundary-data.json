@@ -1,0 +1,68 @@
+{
+  "tenantId": "as.pirerchak",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "4f98db8d-d2fd-426a-a060-88d8d4975412",
+        "boundaryNum": 1,
+        "name": "Pirerchak",
+        "localname": "Pirerchak",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.pirerchak",
+        "children": [
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082w01",
+            "boundaryNum": 1,
+            "name": "KAIBARTAKAPON",
+            "localname": "KAIBARTAKAPON",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "PirerchakV1",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082w02",
+            "boundaryNum": 2,
+            "name": "MEDAL PT-I",
+            "localname": "MEDAL PT-I",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "PirerchakV2",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082w03",
+            "boundaryNum": 3,
+            "name": "MEDAL PT-II",
+            "localname": "MEDAL PT-II",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "PirerchakV3",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082w04",
+            "boundaryNum": 4,
+            "name": "MEDAL PT-III",
+            "localname": "MEDAL PT-III",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "PirerchakV4",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

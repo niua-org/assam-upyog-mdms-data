@@ -1,0 +1,23 @@
+{
+  "tenantId": "as.nazirasimalugurida",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nazira-Simaluguri Development Authority",
+        "localname": "Nazira-Simaluguri Development Authority",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.nazirasimalugurida",
+        "children": []
+      }
+    }
+  ]
+}

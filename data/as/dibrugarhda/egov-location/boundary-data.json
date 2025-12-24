@@ -1,0 +1,23 @@
+{
+  "tenantId": "as.dibrugarhda",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Dibrugarh Development Authority",
+        "localname": "Dibrugarh Development Authority",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.dibrugarhda",
+        "children": []
+      }
+    }
+  ]
+}

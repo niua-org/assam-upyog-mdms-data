@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.bengenaati",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bengena Ati",
+        "localname": "Bengena Ati",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.bengenaati",
+        "children": [
+          {
+            "id": "8490d660-39fe-4f73-8745-9a214ae15894",
+            "boundaryNum": 1,
+            "name": "Kachalukhowa (OG)",
+            "localname": "Kachalukhowa (OG)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bengenaatiV1",
+            "children": []
+          },
+          {
+            "id": "4a285e5c-08ea-4b6b-a75b-e640a22bc90f",
+            "boundaryNum": 1,
+            "name": "Mahrul",
+            "localname": "Mahrul",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bengenaatiV2",
+            "children": []
+          },
+          {
+            "id": "9947988f-54a9-4dfb-a94e-864a36e2ed15",
+            "boundaryNum": 1,
+            "name": "Bengenaati",
+            "localname": "Bengenaati",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bengenaatiV3",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

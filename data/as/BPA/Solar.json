@@ -1,0 +1,55 @@
+{
+    "tenantId": "as",
+    "moduleName": "BPA",
+    "Solar": [
+        {
+            "id": 1,
+            "occupancy": "residential",
+            "solarValueOne": 400,
+            "solarValueTwo": 500,
+            "active": true
+        },
+        {
+            "id": 2,
+            "occupancy": "mercantile / commercial",
+            "solarValueOne": 600,
+            "solarValueTwo": 800,
+            "active": true
+        },
+        {
+            "id": 3,
+            "occupancy": "industrial",
+            "solarValueOne": 1000,
+            "solarValueTwo": 1200,
+            "active": true
+        },
+        {
+            "id": 7,
+            "occupancy": "educational",
+            "solarValueOne": 1000,
+            "solarValueTwo": 1200,
+            "active": true
+        },
+        {
+            "id": 4,
+            "occupancy": "assembly",
+            "solarValueOne": 600,
+            "solarValueTwo": 800,
+            "active": true
+        },
+        {
+            "id": 5,
+            "occupancy": "storage",
+            "solarValueOne": 600,
+            "solarValueTwo": 800,
+            "active": true
+        },
+        {
+            "id": 6,
+            "occupancy": "factories",
+            "solarValueOne": 1000,
+            "solarValueTwo": 1200,
+            "active": true
+        }
+    ]
+}

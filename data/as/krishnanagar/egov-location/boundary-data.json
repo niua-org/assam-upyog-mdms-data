@@ -1,0 +1,68 @@
+{
+  "tenantId": "as.krishnanagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "4f98db8d-d2fd-426a-a060-88d8d4975404",
+        "boundaryNum": 1,
+        "name": "Krishna Nagar",
+        "localname": "Krishna Nagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.krishnanagar",
+        "children": [
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082o01",
+            "boundaryNum": 1,
+            "name": "BHAGISAGI",
+            "localname": "BHAGISAGI",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "KrishnangarV1",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082o02",
+            "boundaryNum": 2,
+            "name": "BISKUT",
+            "localname": "BISKUT",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "KrishnangarV2",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082o03",
+            "boundaryNum": 3,
+            "name": "CHANDPUR",
+            "localname": "CHANDPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "KrishnangarV3",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082o04",
+            "boundaryNum": 4,
+            "name": "JINAHABRA",
+            "localname": "JINAHABRA",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "KrishnangarV4",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

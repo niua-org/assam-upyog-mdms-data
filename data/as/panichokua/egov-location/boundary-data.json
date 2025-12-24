@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.panichokua",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "67 No. Panichokua",
+        "localname": "67 No. Panichokua",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.panichokua",
+        "children": [
+          {
+            "id": "5da4c00b-c874-4a08-ac56-95760ffa4b38",
+            "boundaryNum": 1,
+            "name": "AjanBamunGaon",
+            "localname": "AjanBamunGaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "panichokuaV44",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

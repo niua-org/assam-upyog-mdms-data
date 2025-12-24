@@ -1,0 +1,23 @@
+{
+  "tenantId": "as.sivsagarda",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Sivasagar Development Authority",
+        "localname": "Sivasagar Development Authority",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.sivsagarda",
+        "children": []
+      }
+    }
+  ]
+}

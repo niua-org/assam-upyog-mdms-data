@@ -1,0 +1,68 @@
+{
+  "tenantId": "as.mowamari",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Mowamari",
+        "localname": "Mowamari",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.mowamari",
+        "children": [
+          {
+            "id": "54ed8152-e661-4e99-bce9-34c8e5290820",
+            "boundaryNum": 1,
+            "name": "Mowamari Chapori - 1",
+            "localname": "Mowamari Chapori - 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "MowamariV1",
+            "children": []
+          },
+          {
+            "id": "76472aeb-5089-4e93-a300-51a00a03f4cf",
+            "boundaryNum": 1,
+            "name": "Gerimari Chapori-1",
+            "localname": "Gerimari Chapori-1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "MowamariV2",
+            "children": []
+          },
+          {
+            "id": "a67f1611-3443-401f-8dda-ec58c420f5b2",
+            "boundaryNum": 1,
+            "name": "Gerimari Chapori-2",
+            "localname": "Gerimari Chapori-2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "MowamariV3",
+            "children": []
+          },
+          {
+            "id": "22584c15-daa3-4fd5-870f-df3445c5d137",
+            "boundaryNum": 1,
+            "name": "Gerimari Chapori-3",
+            "localname": "Gerimari Chapori-3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "MowamariV4",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

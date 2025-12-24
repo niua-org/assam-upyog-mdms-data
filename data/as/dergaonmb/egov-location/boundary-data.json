@@ -1,0 +1,463 @@
+{
+  "tenantId": "as.dergaonmb",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Dergaon Municipal Board",
+        "localname": "Dergaon Municipal Board",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.dergaonmb",
+        "children": [
+          {
+            "id": "0fa98f7a-5eb8-4db0-a4bb-701ed56a9544",
+            "boundaryNum": 1,
+            "name": "WARD_1",
+            "localname": "WARD_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DergaonW1",
+            "children": [
+              {
+                "id": "c53e9f77-875f-43d8-835e-eba9e3aa2c6d",
+                "boundaryNum": 1,
+                "name": "Kumar gaon",
+                "localname": "Kumar gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DergaonW1V1",
+                "children": []
+              },
+              {
+                "id": "a781e274-41db-4cd9-81c1-1cdd63d4d817",
+                "boundaryNum": 2,
+                "name": "Uttar Dalijalia Part",
+                "localname": "Uttar Dalijalia Part",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DergaonW1V2",
+                "children": []
+              },
+              {
+                "id": "7778c51e-9e08-4a9e-9ac4-815aee9fc468",
+                "boundaryNum": 3,
+                "name": "Dakhin Dalijalia Gaon",
+                "localname": "Dakhin Dalijalia Gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DergaonW1V3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "27cd8221-6e39-4bfd-87b4-857c389ea24d",
+            "boundaryNum": 2,
+            "name": "WARD_2",
+            "localname": "WARD_2",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DergaonW2",
+            "children": [
+              {
+                "id": "59a8a0b5-bd96-4b20-a281-3b2eebf2ad41",
+                "boundaryNum": 1,
+                "name": "Kumar gaon",
+                "localname": "Kumar gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DergaonW2V1",
+                "children": []
+              },
+              {
+                "id": "b5c77c22-3136-4c09-8424-45ea1a9cbbc7",
+                "boundaryNum": 2,
+                "name": "Uttar Dalijalia Part",
+                "localname": "Uttar Dalijalia Part",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DergaonW2V2",
+                "children": []
+              },
+              {
+                "id": "928295b6-f17d-458d-be84-357f0d797e2f",
+                "boundaryNum": 3,
+                "name": "Dakhin Dalijalia Gaon",
+                "localname": "Dakhin Dalijalia Gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DergaonW2V3",
+                "children": []
+              },
+              {
+                "id": "f3a4cd27-3044-4c0b-995e-edf96c7bfab0",
+                "boundaryNum": 4,
+                "name": "Dergaon Part",
+                "localname": "Dergaon Part",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DergaonW2V4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "28500fab-9fb2-4bcf-87ec-7cd3b20d11e1",
+            "boundaryNum": 3,
+            "name": "WARD_3",
+            "localname": "WARD_3",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DergaonW3",
+            "children": [
+              {
+                "id": "b55b92f4-1a12-4914-b5ea-53d0b4da62c3",
+                "boundaryNum": 1,
+                "name": "Kumar gaon",
+                "localname": "Kumar gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DergaonW3V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "4beaa6a0-f50a-4acf-ba0f-48d92a8763c7",
+            "boundaryNum": 4,
+            "name": "WARD_4",
+            "localname": "WARD_4",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DergaonW4",
+            "children": [
+              {
+                "id": "89073cfa-3561-47c4-8c70-c6f77bb0f9d0",
+                "boundaryNum": 1,
+                "name": "Kumar gaon",
+                "localname": "Kumar gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DergaonW4V1",
+                "children": []
+              },
+              {
+                "id": "e0a3b406-49a2-40f5-b16c-2ed496601407",
+                "boundaryNum": 2,
+                "name": "Dergaon part",
+                "localname": "Dergaon part",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DergaonW4V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "bb8b45d0-b00c-4629-8ffc-6141ac4d3918",
+            "boundaryNum": 5,
+            "name": "WARD_5",
+            "localname": "WARD_5",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DergaonW5",
+            "children": [
+              {
+                "id": "882ea855-5429-4f23-9d1c-9c8a27f77146",
+                "boundaryNum": 1,
+                "name": "Dergaon part",
+                "localname": "Dergaon part",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DergaonW5V1",
+                "children": []
+              },
+              {
+                "id": "cc4dfc0f-121e-4a46-96d3-74b924198f67",
+                "boundaryNum": 2,
+                "name": "Negheriting Gramt No.1",
+                "localname": "Negheriting Gramt No.1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DergaonW5V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "aa18ba5a-5130-4768-95f8-4fc0f3dabd12",
+            "boundaryNum": 6,
+            "name": "WARD_6",
+            "localname": "WARD_6",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DergaonW6",
+            "children": [
+              {
+                "id": "520b122c-e0d2-4e1f-9c88-d3f56c01c83e",
+                "boundaryNum": 1,
+                "name": "Dergaon part",
+                "localname": "Dergaon part",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DergaonW6V1",
+                "children": []
+              },
+              {
+                "id": "ca5c88ec-f56b-4b48-beea-102b19de6f3f",
+                "boundaryNum": 2,
+                "name": "Negheriting Gramt",
+                "localname": "Negheriting Gramt",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DergaonW6V2",
+                "children": []
+              },
+              {
+                "id": "0c359c38-f4c3-4d6e-9988-bf0097df822d",
+                "boundaryNum": 3,
+                "name": "Dergaon",
+                "localname": "Dergaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DergaonW6V3",
+                "children": []
+              },
+              {
+                "id": "26a92674-97dd-4bb2-b81a-7fa172d4e24a",
+                "boundaryNum": 4,
+                "name": "Jelahua Gaon",
+                "localname": "Jelahua Gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DergaonW6V4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "e93be770-e4c3-4b10-9063-f06db31dfd45",
+            "boundaryNum": 7,
+            "name": "WARD_7",
+            "localname": "WARD_7",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DergaonW7",
+            "children": [
+              {
+                "id": "163d2d37-a744-41bf-81c1-013c12bd4718",
+                "boundaryNum": 1,
+                "name": "Dergaon part",
+                "localname": "Dergaon part",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DergaonW7V1",
+                "children": []
+              },
+              {
+                "id": "39ff3272-2f84-4afe-92eb-7b04d86515d3",
+                "boundaryNum": 2,
+                "name": "Dergaon",
+                "localname": "Dergaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DergaonW7V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "ef5c6283-91c5-4578-af09-e1999b97fd42",
+            "boundaryNum": 8,
+            "name": "WARD_8",
+            "localname": "WARD_8",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DergaonW8",
+            "children": [
+              {
+                "id": "9584dbcc-8977-41d4-9800-ecb50b7f89f5",
+                "boundaryNum": 1,
+                "name": "Dergaon part",
+                "localname": "Dergaon part",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DergaonW8V1",
+                "children": []
+              },
+              {
+                "id": "bcf5d1c2-e143-47a4-bf4d-8b7b8f7f2b8a",
+                "boundaryNum": 2,
+                "name": "Dergaon",
+                "localname": "Dergaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DergaonW8V2",
+                "children": []
+              },
+              {
+                "id": "f666ec20-6723-4bca-b47e-44ebbc503c63",
+                "boundaryNum": 3,
+                "name": "Kumar gaon part 1",
+                "localname": "Kumar gaon part 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DergaonW8V3",
+                "children": []
+              },
+              {
+                "id": "4f979d2d-0299-4c51-aa13-bc47bdf4ae46",
+                "boundaryNum": 4,
+                "name": "Kumar gaon part 2",
+                "localname": "Kumar gaon part 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DergaonW8V4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "9a29e0f0-52dd-4979-a521-460f6cb2700b",
+            "boundaryNum": 9,
+            "name": "WARD_9",
+            "localname": "WARD_9",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DergaonW9",
+            "children": [
+              {
+                "id": "604a0874-3577-4a11-afd8-0426619f9ed4",
+                "boundaryNum": 1,
+                "name": "Dergaon part",
+                "localname": "Dergaon part",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DergaonW9V1",
+                "children": []
+              },
+              {
+                "id": "1f6c6ecb-eefd-4a22-90a3-dcac88128d29",
+                "boundaryNum": 2,
+                "name": "Rajabahar gaon",
+                "localname": "Rajabahar gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DergaonW9V2",
+                "children": []
+              },
+              {
+                "id": "489d6b71-d469-47d0-87c7-b7e2df781c6c",
+                "boundaryNum": 3,
+                "name": "Bongal Gaon",
+                "localname": "Bongal Gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DergaonW9V3",
+                "children": []
+              },
+              {
+                "id": "f4fcd2f5-937e-4c2f-a631-4a86891a4033",
+                "boundaryNum": 4,
+                "name": "Kumar gaon part 1",
+                "localname": "Kumar gaon part 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DergaonW9V4",
+                "children": []
+              },
+              {
+                "id": "a116a411-ba06-4f45-9d2c-5ee122ba31e0",
+                "boundaryNum": 5,
+                "name": "Kumar gaon part 2",
+                "localname": "Kumar gaon part 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DergaonW9V5",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "da3a6f52-2490-4b18-a924-ac97a4a0ef64",
+            "boundaryNum": 10,
+            "name": "WARD_10",
+            "localname": "WARD_10",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DergaonW10",
+            "children": [
+              {
+                "id": "ba46c9d3-21ac-4d31-972b-2b8b9a6eb1e8",
+                "boundaryNum": 1,
+                "name": "Dergaon part",
+                "localname": "Dergaon part",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DergaonW10V1",
+                "children": []
+              },
+              {
+                "id": "5afb7ca4-b7db-4407-aec0-aa3e8bc0dee3",
+                "boundaryNum": 2,
+                "name": "Rajabahar Gaon",
+                "localname": "Rajabahar Gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DergaonW10V2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

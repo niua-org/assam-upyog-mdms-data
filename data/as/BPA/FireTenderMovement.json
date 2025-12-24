@@ -1,0 +1,55 @@
+{
+    "tenantId": "as",
+    "moduleName": "BPA",
+    "FireTenderMovement": [
+    {
+        "id": 1,
+        "occupancy": "residential",
+        "fireTenderMovementValueOne": "15",
+        "fireTenderMovementValueTwo": "3.66",
+        "active": true
+    },
+        {
+        "id": 2,
+        "occupancy": "mercantile / commercial",
+        "fireTenderMovementValueOne": "105",
+        "fireTenderMovementValueTwo": "3.66",
+        "active": true
+    },
+        {
+        "id": 3,
+        "occupancy": "industrial",
+        "fireTenderMovementValueOne": "5",
+        "fireTenderMovementValueTwo": "3.66",
+        "active": true
+    },
+    {
+        "id": 7,
+        "occupancy": "educational",
+        "fireTenderMovementValueOne": "5",
+        "fireTenderMovementValueTwo": "3.66",
+        "active": true
+    },
+    {
+        "id": 4,
+        "occupancy": "assembly",
+        "fireTenderMovementValueOne": "15",
+        "fireTenderMovementValueTwo": "3.66",
+        "active": true
+    },
+        {
+        "id": 5,
+        "occupancy": "storage",
+        "fireTenderMovementValueOne": "105",
+        "fireTenderMovementValueTwo": "3.66",
+        "active": true
+    },
+        {
+        "id": 6,
+        "occupancy": "factories",
+        "fireTenderMovementValueOne": "5",
+        "fireTenderMovementValueTwo": "3.66",
+        "active": true
+    }
+]
+}

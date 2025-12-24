@@ -1,0 +1,79 @@
+{
+  "tenantId": "as.balipukhuri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Balipukhuri",
+        "localname": "Balipukhuri",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.balipukhuri",
+        "children": [
+          {
+            "id": "f6accf1d-eaaf-41a7-831b-1abd67d92370",
+            "boundaryNum": 1,
+            "name": "Dekachuburi Kundarbari",
+            "localname": "Dekachuburi Kundarbari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "balipukhuriV1",
+            "children": []
+          },
+          {
+            "id": "dc289153-065b-4f20-9b65-738538dab6ab",
+            "boundaryNum": 1,
+            "name": "Dipota Hatkhola",
+            "localname": "Dipota Hatkhola",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "balipukhuriV2",
+            "children": []
+          },
+          {
+            "id": "026cca30-bfd7-4c1d-ad67-54a4dc77eb87",
+            "boundaryNum": 1,
+            "name": "GatongaKahdol",
+            "localname": "GatongaKahdol",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "balipukhuriV3",
+            "children": []
+          },
+          {
+            "id": "214a22cc-b4df-4c7b-ad1e-5dad9f157c2d",
+            "boundaryNum": 1,
+            "name": "Dihingia Gaon",
+            "localname": "Dihingia Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "balipukhuriV4",
+            "children": []
+          },
+          {
+            "id": "121fed44-7b0f-4b80-acba-65e68cf99a0f",
+            "boundaryNum": 1,
+            "name": "BhitarParowa",
+            "localname": "BhitarParowa",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "balipukhuriV5",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

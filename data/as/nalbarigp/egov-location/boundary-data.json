@@ -1,0 +1,90 @@
+{
+  "tenantId": "as.nalbarigp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nalbarigp",
+        "localname": "Nalbarigp",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.nalbarigp",
+        "children": [
+          {
+            "id": "54ed8152-e661-4e99-bce9-34c8e5290820",
+            "boundaryNum": 1,
+            "name": "Balikoria",
+            "localname": "Balikoria",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "NalbarigpV1",
+            "children": []
+          },
+          {
+            "id": "76472aeb-5089-4e93-a300-51a00a03f4cf",
+            "boundaryNum": 1,
+            "name": "Balakuchi",
+            "localname": "Balakuchi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "NalbarigpV2",
+            "children": []
+          },
+          {
+            "id": "a67f1611-3443-401f-8dda-ec58c420f5b2",
+            "boundaryNum": 1,
+            "name": "Japarkuchi",
+            "localname": "Japarkuchi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "NalbarigpV3",
+            "children": []
+          },
+          {
+            "id": "22584c15-daa3-4fd5-870f-df3445c5d137",
+            "boundaryNum": 1,
+            "name": "Nalbari Gaon",
+            "localname": "Nalbari Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "NalbarigpV4",
+            "children": []
+          },
+          {
+            "id": "83c20ff1-b3ee-46e3-9f74-fcf7554100bd",
+            "boundaryNum": 1,
+            "name": "Sandha Kairara",
+            "localname": "Sandha Kairara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "NalbarigpV5",
+            "children": []
+          },
+          {
+            "id": "49c52357-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Bhuyarkuchi",
+            "localname": "Bhuyarkuchi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "NalbarigpV6",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

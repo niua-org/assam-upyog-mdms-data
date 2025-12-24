@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.lehugaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Lehugaon",
+        "localname": "Lehugaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.lehugaon",
+        "children": [
+          {
+            "id": "8091783c-5020-4817-bac0-32a84116a3c8",
+            "boundaryNum": 1,
+            "name": "Lehugaon",
+            "localname": "Lehugaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "lehugaonV1",
+            "children": []
+          },
+          {
+            "id": "168f59f5-ad7e-4843-9013-ac4514fe7c30",
+            "boundaryNum": 1,
+            "name": "Geruabari",
+            "localname": "Geruabari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "lehugaonV2",
+            "children": []
+          },
+          {
+            "id": "3a3f8855-beed-4c7b-9d4e-e1e76d623bd1",
+            "boundaryNum": 1,
+            "name": "Fatikagaon",
+            "localname": "Fatikagaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "lehugaonV3",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "tenantId": "as.salaguri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Salaguri G.P.",
+        "localname": "Salaguri G.P.",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.salaguri",
+        "children": [
+          {
+            "id": "d79c7334-dc6a-4192-955e-27263d88aee1",
+            "boundaryNum": 1,
+            "name": "SIVASAGAR PART 22",
+            "localname": "SIVASAGAR PART 22",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "salaguriV25",
+            "children": []
+          },
+          {
+            "id": "67871936-a257-4727-b1ab-ac9158f96864",
+            "boundaryNum": 1,
+            "name": "JOI SAGAR",
+            "localname": "JOI SAGAR",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "salaguriV26",
+            "children": []
+          },
+          {
+            "id": "4e507a52-0cf0-4b06-95d6-a2b9673842c8",
+            "boundaryNum": 1,
+            "name": "DEMOW PATHAR",
+            "localname": "DEMOW PATHAR",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "salaguriV27",
+            "children": []
+          },
+          {
+            "id": "aa12e50a-5276-47a1-bd42-144f81727dbc",
+            "boundaryNum": 1,
+            "name": "BEZ GAON",
+            "localname": "BEZ GAON",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "salaguriV28",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

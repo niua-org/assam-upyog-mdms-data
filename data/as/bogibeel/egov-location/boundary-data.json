@@ -1,0 +1,178 @@
+{
+  "tenantId": "as.bogibeel",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bogibeel",
+        "localname": "Bogibeel",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.bogibeel",
+        "children": [
+          {
+            "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Gabharujan Gaon",
+            "localname": "Gabharujan Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BogibeelV1",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-421e-bi27-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Hapekhati Gaon",
+            "localname": "Hapekhati Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BogibeelV2",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-428e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Jagalani Grant No. 43 FS",
+            "localname": "Jagalani Grant No. 43 FS",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BogibeelV3",
+            "children": []
+          },
+          {
+            "id": "b65bi672-b3d4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Kalatomoni Gaon",
+            "localname": "Kalatomoni Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BogibeelV4",
+            "children": []
+          },
+          {
+            "id": "u55bf972-b3d4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Kapowtepor Gaon",
+            "localname": "Kapowtepor Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BogibeelV5",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b6y4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Kawoimari Gaon",
+            "localname": "Kawoimari Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BogibeelV6",
+            "children": []
+          },
+          {
+            "id": "b653f972-b3d4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Lengapathar Gaon",
+            "localname": "Lengapathar Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BogibeelV7",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-421e-b327-747i6e3325c0",
+            "boundaryNum": 1,
+            "name": "Patra Gaon",
+            "localname": "Patra Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BogibeelV8",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-421e-o5677-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Shahjan Gaon No. 1",
+            "localname": "Shahjan Gaon No. 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BogibeelV9",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-421e-b317-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Shahjan Gaon No.2",
+            "localname": "Shahjan Gaon No.2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BogibeelV10",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-4r3e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Tepar Pather Gaon",
+            "localname": "Tepar Pather Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BogibeelV11",
+            "children": []
+          },
+          {
+            "id": "b65bf372-b3d4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Wallkhabi Gaon No.2",
+            "localname": "Wallkhabi Gaon No.2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BogibeelV12",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-421e-b376-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Wallkhabi Gaon No.1",
+            "localname": "Wallkhabi Gaon No.1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BogibeelV13",
+            "children": []
+          },
+          {
+            "id": "b65bf232-b3d4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Matak Gaon",
+            "localname": "Matak Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BogibeelV14",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "tenantId": "as.barbarua",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Barbarua",
+        "localname": "Barbarua",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.barbarua",
+        "children": [
+          {
+            "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Borahajar Konwar Gaon",
+            "localname": "Borahajar Konwar Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "barbaruaV1",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-421e-bi27-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Changmai Garia Gaon",
+            "localname": "Changmai Garia Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "barbaruaV2",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-428e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Changmai Gohain Gaon",
+            "localname": "Changmai Gohain Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "barbaruaV3",
+            "children": []
+          },
+          {
+            "id": "b65bi672-b3d4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Dibruwal Dihingia Gaon",
+            "localname": "Dibruwal Dihingia Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "barbaruaV4",
+            "children": []
+          },
+          {
+            "id": "u55bf972-b3d4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Dulia Gaon",
+            "localname": "Dulia Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "barbaruaV5",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b6y4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Dulia Nahorani Gaon",
+            "localname": "Dulia Nahorani Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "barbaruaV6",
+            "children": []
+          },
+          {
+            "id": "b653f972-b3d4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Ghoronia T.E. 81, 184. 91/94 No. Nir",
+            "localname": "Ghoronia T.E. 81, 184. 91/94 No. Nir",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "barbaruaV7",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-421e-b327-747i6e3325c0",
+            "boundaryNum": 1,
+            "name": "Lepetkatta Bangali Gaon",
+            "localname": "Lepetkatta Bangali Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "barbaruaV8",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-421e-o5677-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Lepetkatta Bangla Block",
+            "localname": "Lepetkatta Bangla Block",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "barbaruaV9",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-421e-b317-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Lepetkatta Gaon",
+            "localname": "Lepetkatta Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "barbaruaV10",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-4r3e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "No-Hazar Konwar Gaon",
+            "localname": "No-Hazar Konwar Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "barbaruaV11",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "tenantId": "as.chaprakata",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Chaprakata",
+        "localname": "Chaprakata",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.chaprakata",
+        "children": [
+          {
+            "id": "49c52357-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Birjhora T.E. Pt.I",
+            "localname": "Birjhora T.E. Pt.I",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ChaprakataV1",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Birjhora T.E. Pt.II",
+            "localname": "Birjhora T.E. Pt.II",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ChaprakataV2",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41bat6e71171",
+            "boundaryNum": 1,
+            "name": "Birjhora T.E. Pt.III",
+            "localname": "Birjhora T.E. Pt.III",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ChaprakataV3",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-u8cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Birjhora T.E. Pt.IV",
+            "localname": "Birjhora T.E. Pt.IV",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ChaprakataV4",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Chitkagaon",
+            "localname": "Chitkagaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ChaprakataV5",
+            "children": []
+          },
+          {
+            "id": "49e52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Hirapara",
+            "localname": "Hirapara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ChaprakataV6",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b0id-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Nayapara Pt.I",
+            "localname": "Nayapara Pt.I",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ChaprakataV7",
+            "children": []
+          },
+          {
+            "id": "49c98761-be4c-474c-b0id-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Nayapara Pt.II",
+            "localname": "Nayapara Pt.II",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ChaprakataV8",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

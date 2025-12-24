@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.chamuapara",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Chamuapara",
+        "localname": "Chamuapara",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.chamuapara",
+        "children": [
+          {
+            "id": "49c52357-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Lankapuri",
+            "localname": "Lankapuri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ChamuaparaV1",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Saloipara-1",
+            "localname": "Saloipara-1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ChamuaparaV2",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41bat6e71171",
+            "boundaryNum": 1,
+            "name": "Saloipara-2",
+            "localname": "Saloipara-2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "ChamuaparaV3",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.lawgaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Lawgaon",
+        "localname": "Lawgaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.lawgaon",
+        "children": [
+          {
+            "id": "b5c6af7a-4cce-427b-aac4-54e135a144a1",
+            "boundaryNum": 1,
+            "name": "Laogaon",
+            "localname": "Laogaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "lawgaonV1",
+            "children": []
+          },
+          {
+            "id": "78cc53b6-8403-4da4-980a-168fb0ae49d1",
+            "boundaryNum": 1,
+            "name": "Etapara",
+            "localname": "Etapara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "lawgaonV2",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,645 @@
+{
+  "tenantId": "as.sribhumimb",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "3252bfe9-a820-4a40-b110-423f9d779d99",
+        "boundaryNum": 1,
+        "name": "Sribhumi",
+        "localname": "Sribhumi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.sribhumimb",
+        "children": [
+          {
+            "id": "ad544946-037d-4e47-af6b-c5cd1d75fa5a",
+            "boundaryNum": 1,
+            "name": "WARD_1",
+            "localname": "WARD_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "Sribhumi/KarimganjW1",
+            "children": [
+              {
+                "id": "be1f236a-1941-42d0-9774-c1452fb24247",
+                "boundaryNum": 1,
+                "name": "Karimganj Town part 1",
+                "localname": "Karimganj Town part 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "Sribhumi/KarimganjW1V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "0c8679b0-d663-4728-b610-a67f06235180",
+            "boundaryNum": 2,
+            "name": "WARD_2",
+            "localname": "WARD_2",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "Sribhumi/KarimganjW2",
+            "children": [
+              {
+                "id": "3bfb5180-8e59-45e5-8627-ee7be464f332",
+                "boundaryNum": 1,
+                "name": "Karimganj Town part 1",
+                "localname": "Karimganj Town part 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "Sribhumi/KarimganjW2V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "db2e3e1f-dc21-4bc0-96dc-aea8cbf4475d",
+            "boundaryNum": 3,
+            "name": "WARD_3",
+            "localname": "WARD_3",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "Sribhumi/KarimganjW3",
+            "children": [
+              {
+                "id": "3fc752dd-d9d8-4385-99f9-c8d3f6dca572",
+                "boundaryNum": 1,
+                "name": "Karimganj Town part 1",
+                "localname": "Karimganj Town part 1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "Sribhumi/KarimganjW3V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "d4234665-18d3-4e91-abeb-7e7b9c2c04a1",
+            "boundaryNum": 4,
+            "name": "WARD_4",
+            "localname": "WARD_4",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "Sribhumi/KarimganjW4",
+            "children": [
+              {
+                "id": "070b450d-4d5f-4168-b5cf-52dbdd35dcb6",
+                "boundaryNum": 1,
+                "name": "Karimganj Town part 3",
+                "localname": "Karimganj Town part 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "Sribhumi/KarimganjW4V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "4e6a45fb-b6c4-4c0f-af6a-2d2be94d0c05",
+            "boundaryNum": 5,
+            "name": "WARD_5",
+            "localname": "WARD_5",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "Sribhumi/KarimganjW5",
+            "children": [
+              {
+                "id": "7299548b-0689-47d7-9526-79c8591e3ef0",
+                "boundaryNum": 1,
+                "name": "Karimganj Town part 2",
+                "localname": "Karimganj Town part 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "Sribhumi/KarimganjW5V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "274fbe06-fd18-4c41-aa49-eba2852c2f2f",
+            "boundaryNum": 6,
+            "name": "WARD_6",
+            "localname": "WARD_6",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "Sribhumi/KarimganjW6",
+            "children": [
+              {
+                "id": "852aea29-971c-40f7-b873-45c285ddad6a",
+                "boundaryNum": 1,
+                "name": "Karimganj Town part 2",
+                "localname": "Karimganj Town part 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "Sribhumi/KarimganjW6V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "edb42ad8-7608-42a9-9d07-9da08464c7b9",
+            "boundaryNum": 7,
+            "name": "WARD_7",
+            "localname": "WARD_7",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "Sribhumi/KarimganjW7",
+            "children": [
+              {
+                "id": "5a7778fb-7868-401e-b90d-0c8f3f3e6007",
+                "boundaryNum": 1,
+                "name": "Karimganj Town part 2",
+                "localname": "Karimganj Town part 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "Sribhumi/KarimganjW7V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "bf8117a5-5fc4-4524-917c-ebfd5437ed0d",
+            "boundaryNum": 8,
+            "name": "WARD_8",
+            "localname": "WARD_8",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "Sribhumi/KarimganjW8",
+            "children": [
+              {
+                "id": "85934d6e-a763-4914-94f8-0131e63fd5a8",
+                "boundaryNum": 1,
+                "name": "Karimganj Town part 2",
+                "localname": "Karimganj Town part 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "Sribhumi/KarimganjW8V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "e6e16711-9fb4-4d0f-9d5e-35f02c3d5508",
+            "boundaryNum": 9,
+            "name": "WARD_9",
+            "localname": "WARD_9",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "Sribhumi/KarimganjW9",
+            "children": [
+              {
+                "id": "a66de0dc-ad5e-4acd-863c-4df082507835",
+                "boundaryNum": 1,
+                "name": "Karimganj Town part 2",
+                "localname": "Karimganj Town part 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "Sribhumi/KarimganjW9V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "9e23f6d4-1278-47b7-b402-cf1ca3767c3e",
+            "boundaryNum": 10,
+            "name": "WARD_10",
+            "localname": "WARD_10",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "Sribhumi/KarimganjW10",
+            "children": [
+              {
+                "id": "281a09c3-7330-486f-a837-f5cebea241d0",
+                "boundaryNum": 1,
+                "name": "Karimganj Town part 2",
+                "localname": "Karimganj Town part 2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "Sribhumi/KarimganjW10V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "f83acefa-e03a-44cb-be24-abc781e2d946",
+            "boundaryNum": 11,
+            "name": "WARD_11",
+            "localname": "WARD_11",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "Sribhumi/KarimganjW11",
+            "children": [
+              {
+                "id": "e2d33cac-8860-4ab3-83c0-c87fdbae3d5d",
+                "boundaryNum": 1,
+                "name": "Karimganj Town part 5",
+                "localname": "Karimganj Town part 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "Sribhumi/KarimganjW11V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "af64e04d-eb25-49e0-aba7-018aca0297c6",
+            "boundaryNum": 12,
+            "name": "WARD_12",
+            "localname": "WARD_12",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "Sribhumi/KarimganjW12",
+            "children": [
+              {
+                "id": "c6237575-b9ce-4e63-9d89-817c628d3b08",
+                "boundaryNum": 1,
+                "name": "Karimganj Town part 3",
+                "localname": "Karimganj Town part 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "Sribhumi/KarimganjW12V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "b1d6677f-2dfb-445e-8d57-f314a633b3d1",
+            "boundaryNum": 13,
+            "name": "WARD_13",
+            "localname": "WARD_13",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "Sribhumi/KarimganjW13",
+            "children": [
+              {
+                "id": "bd833755-1846-4536-951d-531ab97f6678",
+                "boundaryNum": 1,
+                "name": "Karimganj Town part 4",
+                "localname": "Karimganj Town part 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "Sribhumi/KarimganjW13V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "dfc03605-71fd-452c-a117-7b9872e1b60d",
+            "boundaryNum": 14,
+            "name": "WARD_14",
+            "localname": "WARD_14",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "Sribhumi/KarimganjW14",
+            "children": [
+              {
+                "id": "e3a19f3b-ac36-4224-b36b-079195a09d93",
+                "boundaryNum": 1,
+                "name": "Karimganj Town part 4",
+                "localname": "Karimganj Town part 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "Sribhumi/KarimganjW14V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "cb06a11a-6269-4d56-9a86-87905c7a3279",
+            "boundaryNum": 15,
+            "name": "WARD_15",
+            "localname": "WARD_15",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "Sribhumi/KarimganjW15",
+            "children": [
+              {
+                "id": "f967e890-69ea-499b-8b31-8092adfddd06",
+                "boundaryNum": 1,
+                "name": "Karimganj Town part 4",
+                "localname": "Karimganj Town part 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "Sribhumi/KarimganjW15V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "d667d682-ccb3-43ce-a047-d3722e230541",
+            "boundaryNum": 16,
+            "name": "WARD_16",
+            "localname": "WARD_16",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "Sribhumi/KarimganjW16",
+            "children": [
+              {
+                "id": "8b156136-b860-41b7-9950-b7e693952b0a",
+                "boundaryNum": 1,
+                "name": "Karimganj Town part 4",
+                "localname": "Karimganj Town part 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "Sribhumi/KarimganjW16V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "877ab075-a679-4d44-893a-5c110f62570e",
+            "boundaryNum": 17,
+            "name": "WARD_17",
+            "localname": "WARD_17",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "Sribhumi/KarimganjW17",
+            "children": [
+              {
+                "id": "6feea839-8dad-4047-a231-6b81c92cba53",
+                "boundaryNum": 1,
+                "name": "Karimganj Town part 5",
+                "localname": "Karimganj Town part 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "Sribhumi/KarimganjW17V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "7a8b9ccf-4afa-4d01-8a95-e61ee2180aab",
+            "boundaryNum": 18,
+            "name": "WARD_18",
+            "localname": "WARD_18",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "Sribhumi/KarimganjW18",
+            "children": [
+              {
+                "id": "97aa571b-0955-4ed5-876c-b21834cb39b1",
+                "boundaryNum": 1,
+                "name": "Karimganj Town part 5",
+                "localname": "Karimganj Town part 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "Sribhumi/KarimganjW18V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "457fe220-5f95-4075-8022-bb3c52946bdc",
+            "boundaryNum": 19,
+            "name": "WARD_19",
+            "localname": "WARD_19",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "Sribhumi/KarimganjW19",
+            "children": [
+              {
+                "id": "3f127ee8-98b8-47c7-915c-2d49e3f15d87",
+                "boundaryNum": 1,
+                "name": "Karimganj Town part 5",
+                "localname": "Karimganj Town part 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "Sribhumi/KarimganjW19V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1fd12514-d565-42af-8c70-1e0eaf5ee6e8",
+            "boundaryNum": 20,
+            "name": "WARD_20",
+            "localname": "WARD_20",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "Sribhumi/KarimganjW20",
+            "children": [
+              {
+                "id": "30a5867b-7484-4282-af8f-795f0cb892fa",
+                "boundaryNum": 1,
+                "name": "Karimganj Town part 5",
+                "localname": "Karimganj Town part 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "Sribhumi/KarimganjW20V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1d464463-a5fb-465a-b7fc-44ad06054dbc",
+            "boundaryNum": 21,
+            "name": "WARD_21",
+            "localname": "WARD_21",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "Sribhumi/KarimganjW21",
+            "children": [
+              {
+                "id": "c3798d75-ea54-4204-a05c-734ec11f6914",
+                "boundaryNum": 1,
+                "name": "Karimganj Town part 5",
+                "localname": "Karimganj Town part 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "Sribhumi/KarimganjW21V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "8131c799-3ef2-4dba-ad55-1f631528da61",
+            "boundaryNum": 22,
+            "name": "WARD_22",
+            "localname": "WARD_22",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "Sribhumi/KarimganjW22",
+            "children": [
+              {
+                "id": "3fc3afbf-662f-4f68-8e9c-8eba9fda62e9",
+                "boundaryNum": 1,
+                "name": "Karimganj Town part 5",
+                "localname": "Karimganj Town part 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "Sribhumi/KarimganjW22V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "8254e16e-6f8f-4f2d-87c2-735c0c1fafa9",
+            "boundaryNum": 23,
+            "name": "WARD_23",
+            "localname": "WARD_23",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "Sribhumi/KarimganjW23",
+            "children": [
+              {
+                "id": "b1742fcb-4705-4485-baa9-022ce006d3f8",
+                "boundaryNum": 1,
+                "name": "Karimganj Town part 5",
+                "localname": "Karimganj Town part 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "Sribhumi/KarimganjW23V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "f36b6c59-36b7-4bab-93ae-7f0648637c54",
+            "boundaryNum": 24,
+            "name": "WARD_24",
+            "localname": "WARD_24",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "Sribhumi/KarimganjW24",
+            "children": [
+              {
+                "id": "684d2e45-3e78-4390-8158-59e596aec681",
+                "boundaryNum": 1,
+                "name": "Karimganj Town part 5",
+                "localname": "Karimganj Town part 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "Sribhumi/KarimganjW24V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "10a19b8a-380a-439d-924f-e49934e84ed4",
+            "boundaryNum": 25,
+            "name": "WARD_25",
+            "localname": "WARD_25",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "Sribhumi/KarimganjW25",
+            "children": [
+              {
+                "id": "6ec5caff-49fd-4aeb-909f-fdce33380076",
+                "boundaryNum": 1,
+                "name": "Karimganj Town part 5",
+                "localname": "Karimganj Town part 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "Sribhumi/KarimganjW25V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "a0d0bda3-6905-403d-a5ae-141d96b22535",
+            "boundaryNum": 26,
+            "name": "WARD_26",
+            "localname": "WARD_26",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "Sribhumi/KarimganjW26",
+            "children": [
+              {
+                "id": "5ad83c29-b031-41f8-ada0-8a463c060347",
+                "boundaryNum": 1,
+                "name": "Karimganj Town part 4",
+                "localname": "Karimganj Town part 4",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "Sribhumi/KarimganjW26V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1b98f6d8-496b-4b2a-ac21-4cd46a7f6bb8",
+            "boundaryNum": 27,
+            "name": "WARD_27",
+            "localname": "WARD_27",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "Sribhumi/KarimganjW27",
+            "children": [
+              {
+                "id": "451c458c-c242-4208-af62-6af168877ea5",
+                "boundaryNum": 1,
+                "name": "Karimganj Town part 5",
+                "localname": "Karimganj Town part 5",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "Sribhumi/KarimganjW27V1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

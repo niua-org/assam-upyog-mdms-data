@@ -1,0 +1,48 @@
+{
+    "tenantId": "as",
+    "moduleName": "BPA",
+    "StairCover": [
+        {
+            "id": 1,
+            "occupancy": "residential",
+            "permissible": 3,
+            "active": true
+        },
+        {
+            "id": 2,
+            "occupancy": "mercantile / commercial",
+            "permissible": 3,
+            "active": true
+        },
+        {
+            "id": 3,
+            "occupancy": "industrial",
+            "permissible": 4,
+            "active": true
+        },
+        {
+            "id": 7,
+            "occupancy": "educational",
+            "permissible": 4,
+            "active": true
+        },
+        {
+            "id": 4,
+            "occupancy": "assembly",
+            "permissible": 3,
+            "active": true
+        },
+        {
+            "id": 5,
+            "occupancy": "storage",
+            "permissible": 3,
+            "active": true
+        },
+        {
+            "id": 6,
+            "occupancy": "factories",
+            "permissible": 4,
+            "active": true
+        }
+    ]
+}

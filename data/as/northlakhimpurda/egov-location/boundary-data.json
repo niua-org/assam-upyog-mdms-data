@@ -1,0 +1,23 @@
+{
+  "tenantId": "as.northlakhimpurda",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "North Lakhimpur Development Authority",
+        "localname": "North Lakhimpur Development Authority",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.northlakhimpurda",
+        "children": []
+      }
+    }
+  ]
+}

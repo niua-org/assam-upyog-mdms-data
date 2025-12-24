@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.tengapani",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Tengapani",
+        "localname": "Tengapani",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.tengapani",
+        "children": [
+          {
+            "id": "4e3d986f-bab9-45c4-b528-6024318cf6b1",
+            "boundaryNum": 1,
+            "name": "Hebeda Bongali Gaon",
+            "localname": "Hebeda Bongali Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "TengapaniV1",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

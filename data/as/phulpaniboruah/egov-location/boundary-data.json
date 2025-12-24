@@ -1,0 +1,68 @@
+{
+  "tenantId": "as.phulpaniboruah",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Phulpani Boruah G.P",
+        "localname": "Phulpani Boruah G.P",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.phulpaniboruah",
+        "children": [
+          {
+            "id": "3581a372-54f8-455a-badf-4afd3a453d1d",
+            "boundaryNum": 1,
+            "name": "Naoholia Gaon",
+            "localname": "Naoholia Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "cphulpaniboruahV7",
+            "children": []
+          },
+          {
+            "id": "7a9f3a5f-0137-4ac6-9e5f-b394bdcb3126",
+            "boundaryNum": 1,
+            "name": "Namati",
+            "localname": "Namati",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "cphulpaniboruahV8",
+            "children": []
+          },
+          {
+            "id": "7bd4d705-bdeb-4984-97e0-f4519ddb3bc6",
+            "boundaryNum": 1,
+            "name": "Dihingia",
+            "localname": "Dihingia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "cphulpaniboruahV9",
+            "children": []
+          },
+          {
+            "id": "cb3790bb-cedb-4375-8382-227712f18fbb",
+            "boundaryNum": 1,
+            "name": "Joykhamdang",
+            "localname": "Joykhamdang",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "cphulpaniboruahV10",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

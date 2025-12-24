@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.madhyacharigaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "31 No. Madhya Charigaon",
+        "localname": "31 No. Madhya Charigaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.madhyacharigaon",
+        "children": [
+          {
+            "id": "009080a1-70be-45ae-a78c-d00c497e982f",
+            "boundaryNum": 1,
+            "name": "HukimaraGaon(Only Part)",
+            "localname": "HukimaraGaon(Only Part)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "madhyacharigaonV12",
+            "children": []
+          },
+          {
+            "id": "3d62807c-5646-4e85-8aad-a89a1e50ad7f",
+            "boundaryNum": 1,
+            "name": "BaghmuriaGaon",
+            "localname": "BaghmuriaGaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "madhyacharigaonV15",
+            "children": []
+          },
+          {
+            "id": "bfc0bf87-6300-4caa-beb2-ffbc1b84f3f1",
+            "boundaryNum": 1,
+            "name": "Chari Gaon",
+            "localname": "Chari Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "madhyacharigaonV16",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

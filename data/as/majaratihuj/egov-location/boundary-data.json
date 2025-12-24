@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.majaratihuj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Majarati Huj",
+        "localname": "Majarati Huj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.majaratihuj",
+        "children": [
+          {
+            "id": "172dd78e-87d4-433f-bfb3-95eac98daaa4",
+            "boundaryNum": 1,
+            "name": "Majarati",
+            "localname": "Majarati",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "majaratihujV1",
+            "children": []
+          },
+          {
+            "id": "b582f758-a964-42c3-a07e-272b05121dfd",
+            "boundaryNum": 1,
+            "name": "Ranga Gara Huz",
+            "localname": "Ranga Gara Huz",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "majaratihujV2",
+            "children": []
+          },
+          {
+            "id": "17610ce5-fa8c-4bb1-855c-10c5dbecbd2f",
+            "boundaryNum": 1,
+            "name": "Telia Gaon",
+            "localname": "Telia Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "majaratihujV3",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

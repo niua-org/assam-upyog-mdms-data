@@ -1,0 +1,291 @@
+{
+  "tenantId": "as",
+  "moduleName": "common-masters",
+  "Department": [
+    {
+      "name": "Street Lights",
+      "code": "DEPT_1",
+      "active": true
+    },
+    {
+      "name": "Building & Roads",
+      "code": "DEPT_2",
+      "active": true
+    },
+    {
+      "name": "Health & Sanitation",
+      "code": "DEPT_3",
+      "active": true
+    },
+    {
+      "name": "Operation & Maintenance",
+      "code": "DEPT_4",
+      "active": true
+    },
+    {
+      "name": "Horticulture",
+      "code": "DEPT_5",
+      "active": true
+    },
+    {
+      "name": "Building Branch",
+      "code": "DEPT_6",
+      "active": true
+    },
+    {
+      "name": "Citizen service desk",
+      "code": "DEPT_7",
+      "active": true
+    },
+    {
+      "name": "Complaint Cell",
+      "code": "DEPT_8",
+      "active": true
+    },
+    {
+      "name": "Executive Branch",
+      "code": "DEPT_9",
+      "active": true
+    },
+    {
+      "name": "Others",
+      "code": "DEPT_10",
+      "active": true
+    },
+    {
+      "name": "Project Branch",
+      "code": "DEPT_11",
+      "active": true
+    },
+    {
+      "name": "Birth and Death Branch",
+      "code": "DEPT_12",
+      "active": true
+    },
+    {
+      "name": "Tax Branch",
+      "code": "DEPT_13",
+      "active": true
+    },
+    {
+      "name": "Civil",
+      "code": "DEPT_14",
+      "active": true
+    },
+    {
+      "name": "Engineering Branch (O&M - W&S)",
+      "code": "DEPT_15",
+      "active": true
+    },
+    {
+      "name": "Health Branch",
+      "code": "DEPT_16",
+      "active": true
+    },
+    {
+      "name": "Tehbazri Branch",
+      "code": "DEPT_17",
+      "active": true
+    },
+    {
+      "name": "Engineering Branch",
+      "code": "DEPT_18",
+      "active": true
+    },
+    {
+      "name": "Advertisement Branch",
+      "code": "DEPT_19",
+      "active": true
+    },
+    {
+      "name": "Sanitation Branch",
+      "code": "DEPT_21",
+      "active": true
+    },
+    {
+      "name": "Fire Brigade Department",
+      "code": "DEPT_24",
+      "active": true
+    },
+    {
+      "name": "Accounts Branch",
+      "code": "DEPT_25",
+      "active": true
+    },
+    {
+      "name": "Property Tax Branch",
+      "code": "DEPT_33",
+      "active": true
+    },
+    {
+      "name": "Establishment Branch",
+      "code": "DEPT_34",
+      "active": true
+    },
+    {
+      "name": "Works Branch",
+      "code": "DEPT_35",
+      "active": true
+    },
+    {
+      "name": "General Branch",
+      "code": "DEPT_38",
+      "active": true
+    },
+    {
+      "name": "Architect & Planning (A&P) Branch DEPT",
+      "code": "DEPT_53",
+      "active": true
+    },
+    {
+      "name": "Estate Branch",
+      "code": "DEPT_54",
+      "active": true
+    },
+    {
+      "name": "Veterinary public health office (V.P.H.O.)",
+      "code": "DEPT_55",
+      "active": true
+    },
+    {
+      "name": "Law Branch",
+      "code": "DEPT_56",
+      "active": true
+    },
+    {
+      "name": "Trade License Branch",
+      "code": "TRADE_BRANCH",
+      "active": true
+    },
+    {
+      "name": "Legal Branch",
+      "code": "DEPT_LG",
+      "active": true
+    },
+    {
+      "name": "Agenda Branch",
+      "code": "AGENDA_BRANCH",
+      "active": true
+    },
+    {
+      "name": "Caretaker Branch",
+      "code": "CARETAKER_BRANCH",
+      "active": true
+    },
+    {
+      "name": "IT Branch",
+      "code": "IT_BRANCH",
+      "active": true
+    },
+    {
+      "name": "Revenue Branch",
+      "code": "REVENUE_BRANCH",
+      "active": false
+    },
+    {
+      "name": "Townplanning",
+      "code": "DEPT_TP",
+      "active": true
+    },
+    {
+      "name": "Tender Cell",
+      "code": "DEPT_57",
+      "active": true
+    },
+    {
+      "name": "Soil Test Department",
+      "code": "SOIL_TEST_DEPT",
+      "active": true
+    },
+    {
+      "name": "Water Resources Dept",
+      "code": "WATER_RESOURCE_DEPT",
+      "active": true
+    },
+    {
+      "name": "Structural Safety Dept",
+      "code": "STRUCTURAL_SAFETY_DEPT",
+      "active": true
+    },
+    {
+      "name": "STP Clearance Dept",
+      "code": "STP_CLEARANCE_DEPT",
+      "active": true
+    },
+    {
+      "name": "SAD Clearance Dept",
+      "code": "SAD_CLEARANCE_DEPT",
+      "active": true
+    },
+    {
+      "name": "Sacfa RF Dept",
+      "code": "SACFA_RF_DEPT",
+      "active": true
+    },
+    {
+      "name": "Pollution Control Department",
+      "code": "POLLUTION_CONTROL_DEPT",
+      "active": true
+    },
+    {
+      "name": "Police Clearance Dept",
+      "code": "POLICE_CLEARANCE_DEPT",
+      "active": true
+    },
+    {
+      "name": "Lift Safety Dept",
+      "code": "LIFT_SAFETY_DEPT",
+      "active": true
+    },
+    {
+      "name": "Home Security Dept",
+      "code": "HOME_SECURITY_DEPT",
+      "active": true
+    },
+    {
+      "name": "Ground Water Dept",
+      "code": "GROUND_WATER_DEPT",
+      "active": true
+    },
+    {
+      "name": "ESZ Clearance Dept",
+      "code": "ESZ_CLEARANCE_DEPT",
+      "active": true
+    },
+    {
+      "name": "Environment Dept",
+      "code": "ENVIRONMENT_DEPARTMENT",
+      "active": true
+    },
+    {
+      "name": "Electricity Dept",
+      "code": "ELECTRICITY_DEPT",
+      "active": true
+    },
+    {
+      "name": "Civil Aviation Dept",
+      "code": "CIVIL_AVIATION_DEPT",
+      "active": true
+    },
+    {
+      "name": "Azara Circle Dept",
+      "code": "AZARA_CIRCLE_DEPT",
+      "active": true
+    },
+    {
+      "name": "Army Defence Dept",
+      "code": "ARMY_DEPT",
+      "active": true
+    },
+    {
+      "name": "Archaelogy Dept",
+      "code": "ARCHAELOGY_DEPT",
+      "active": true
+    },
+    {
+      "name": "Building Plan Approval",
+      "code": "BUILDING_PLAN_APPROVAL",
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "tenantId": "as.karanga",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "55 No. Karanga",
+        "localname": "55 No. Karanga",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.karanga",
+        "children": [
+          {
+            "id": "5037e7d2-b820-4b52-9224-202be7f485ad",
+            "boundaryNum": 1,
+            "name": "Kamar Hazarika Gaon",
+            "localname": "Kamar Hazarika Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "karangaV56",
+            "children": []
+          },
+          {
+            "id": "6350caa3-2fce-4f2e-a30d-b3cc36e74d43",
+            "boundaryNum": 1,
+            "name": "KataniGaon",
+            "localname": "KataniGaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "karangaV57",
+            "children": []
+          },
+          {
+            "id": "4f70eb16-97fe-443d-8840-0a1cccc37a38",
+            "boundaryNum": 1,
+            "name": "Na-Pamua (Na Pam Chowdang Gaon)",
+            "localname": "Na-Pamua (Na Pam Chowdang Gaon)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "karangaV58",
+            "children": []
+          },
+          {
+            "id": "6c0ef7f2-cd32-4288-b2e4-31a7bd57dfd7",
+            "boundaryNum": 1,
+            "name": "KathkatiaGaon",
+            "localname": "KathkatiaGaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "karangaV59",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.tawkak",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Tawkak G.P.",
+        "localname": "Tawkak G.P.",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.tawkak",
+        "children": [
+          {
+            "id": "8119bea3-012c-47b2-89a0-856796212c00",
+            "boundaryNum": 1,
+            "name": "JobokaChahBagisa",
+            "localname": "JobokaChahBagisa",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "tawkakV18",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

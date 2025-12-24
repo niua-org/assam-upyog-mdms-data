@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.rowmarirupahi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Rowmari Rupahi",
+        "localname": "Rowmari Rupahi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.rowmarirupahi",
+        "children": [
+          {
+            "id": "06526d8e-7b5b-4fd0-9f70-d55ba29dc962",
+            "boundaryNum": 1,
+            "name": "Rupahi Gaon",
+            "localname": "Rupahi Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "rowmarirupahiV1",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

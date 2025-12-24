@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.uttarpubcharigaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "33 No. Uttar Pub Chari Gaon",
+        "localname": "33 No. Uttar Pub Chari Gaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.uttarpubcharigaon",
+        "children": [
+          {
+            "id": "c7bcccce-7255-41ee-abb5-480e34c2f589",
+            "boundaryNum": 1,
+            "name": "SonariGaon",
+            "localname": "SonariGaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "uttarpubcharigaonV17",
+            "children": []
+          },
+          {
+            "id": "f0d22efe-5fa7-4e69-b547-b923c9063f77",
+            "boundaryNum": 1,
+            "name": "GajpuriyaGaon",
+            "localname": "GajpuriyaGaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "uttarpubcharigaonV18",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

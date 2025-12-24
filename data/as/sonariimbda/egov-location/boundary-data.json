@@ -1,0 +1,23 @@
+{
+  "tenantId": "as.sonariimbda",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Sonari Development Authority",
+        "localname": "Sonari Development Authority",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.sonariimbda",
+        "children": []
+      }
+    }
+  ]
+}

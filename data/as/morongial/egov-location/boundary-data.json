@@ -1,0 +1,46 @@
+  {
+    "tenantId": "as.morongial",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+      {
+        "hierarchyType": {
+          "code": "REVENUE",
+          "name": "REVENUE"
+        },
+        "boundary": {
+          "id": 1,
+          "boundaryNum": 1,
+          "name": "Morongial",
+          "localname": "Morongial",
+          "longitude": null,
+          "latitude": null,
+          "label": "City",
+          "code": "as.morongial",
+          "children": [
+            {
+              "id": "40f165cb-7d83-46b8-ab74-115a58185f79",
+              "boundaryNum": 1,
+              "name": "Kutayani",
+              "localname": "Kutayani",
+              "longitude": null,
+              "latitude": null,
+              "label": "Village",
+              "code": "morongialV1",
+              "children": []
+            },
+            {
+              "id": "3cf96859-f1f2-441c-b20a-ae448ba79a6a",
+              "boundaryNum": 1,
+              "name": "Morongial (CT)",
+              "localname": "Morongial (CT)",
+              "longitude": null,
+              "latitude": null,
+              "label": "Village",
+              "code": "morongialV2",
+              "children": []
+            }
+          ]
+        }
+      }
+    ]
+  }

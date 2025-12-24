@@ -1,0 +1,55 @@
+{
+    "tenantId": "as",
+    "moduleName": "BPA",
+    "PlotArea": [
+        {
+            "id": 1,
+            "occupancy": "residential",
+            "plotAreaValueOne": 300,
+            "plotAreaValueTwo": 500,
+            "active": true
+        },
+        {
+            "id": 2,
+            "occupancy": "mercantile / commercial",
+            "plotAreaValueOne": 400,
+            "plotAreaValueTwo": 600,
+            "active": true
+        },
+        {
+            "id": 3,
+            "occupancy": "industrial",
+            "plotAreaValueOne": 500,
+            "plotAreaValueTwo": 800,
+            "active": true
+        },
+        {
+            "id": 7,
+            "occupancy": "educational",
+            "plotAreaValueOne": 300,
+            "plotAreaValueTwo": 500,
+            "active": true
+        },
+        {
+            "id": 4,
+            "occupancy": "assembly",
+            "plotAreaValueOne": 300,
+            "plotAreaValueTwo": 500,
+            "active": true
+        },
+        {
+            "id": 5,
+            "occupancy": "storage",
+            "plotAreaValueOne": 400,
+            "plotAreaValueTwo": 600,
+            "active": true
+        },
+        {
+            "id": 6,
+            "occupancy": "factories",
+            "plotAreaValueOne": 500,
+            "plotAreaValueTwo": 800,
+            "active": true
+        }
+    ]
+}

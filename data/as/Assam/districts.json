@@ -1,0 +1,36 @@
+{
+  "tenantId": "as",
+  "moduleName": "BPA",
+  "districts": [
+    {
+      "id": 1,
+      "districtCode": "NALBARI",
+      "districtName": "Nalbari",
+      "active": true
+    },
+    {
+      "id": 2,
+      "districtCode": "BARPETA",
+      "districtName": "Barpeta",
+      "active": true
+    },
+    {
+      "id": 3,
+      "districtCode": "DIBRUGARH",
+      "districtName": "Dibrugarh",
+      "active": true
+    },
+    {
+      "id": 4,
+      "districtCode": "TINSUKIA",
+      "districtName": "Tinsukia",
+      "active": true
+    },
+    {
+      "id": 5,
+      "districtCode": "CACHAR",
+      "districtName": "Cachar",
+      "active": true
+    }
+  ]
+}

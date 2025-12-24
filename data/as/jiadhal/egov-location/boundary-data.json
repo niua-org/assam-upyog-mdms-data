@@ -1,0 +1,134 @@
+{
+  "tenantId": "as.jiadhal",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "4f98db8d-d2fd-426a-a060-88d8d4975391",
+        "boundaryNum": 1,
+        "name": "Jiadhal",
+        "localname": "Jiadhal",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.jiadhal",
+        "children": [
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082h01",
+            "boundaryNum": 1,
+            "name": "Gopak Gaon Pt -I",
+            "localname": "Gopak Gaon Pt -I",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "JiadhalV1",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082h02",
+            "boundaryNum": 2,
+            "name": "Gopak Gaon Pt -II",
+            "localname": "Gopak Gaon Pt -II",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "JiadhalV2",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082h03",
+            "boundaryNum": 3,
+            "name": "Gopak",
+            "localname": "Gopak",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "JiadhalV3",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082h04",
+            "boundaryNum": 4,
+            "name": "2 No. Gopak Sonowal",
+            "localname": "2 No. Gopak Sonowal",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "JiadhalV4",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082h05",
+            "boundaryNum": 5,
+            "name": "1 No. Gopak Sonowal",
+            "localname": "1 No. Gopak Sonowal",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "JiadhalV5",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082h06",
+            "boundaryNum": 6,
+            "name": "No. 1 Nareng gaon",
+            "localname": "No. 1 Nareng gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "JiadhalV6",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082h07",
+            "boundaryNum": 7,
+            "name": "Kulapathar",
+            "localname": "Kulapathar",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "JiadhalV7",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082h08",
+            "boundaryNum": 8,
+            "name": "2 No. Nareng",
+            "localname": "2 No. Nareng",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "JiadhalV8",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082h09",
+            "boundaryNum": 9,
+            "name": "2 No. Nareng Part II",
+            "localname": "2 No. Nareng Part II",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "JiadhalV9",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082h10",
+            "boundaryNum": 10,
+            "name": "Naharbari",
+            "localname": "Naharbari",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "JiadhalV10",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

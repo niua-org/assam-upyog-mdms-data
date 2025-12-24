@@ -1,0 +1,90 @@
+{
+  "tenantId": "as.pubmissamora",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Pub- Missamora G.P",
+        "localname": "Pub- Missamora G.P",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.pubmissamora",
+        "children": [
+          {
+            "id": "21119e8f-43e2-4450-93ff-0d32965ec1f4",
+            "boundaryNum": 1,
+            "name": "Doingial gual gaon",
+            "localname": "Doingial gual gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pubmissamoraV21",
+            "children": []
+          },
+          {
+            "id": "7e20452a-5681-4089-b83b-3825d3e52ee4",
+            "boundaryNum": 1,
+            "name": "Bongal gaon",
+            "localname": "Bongal gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pubmissamoraV22",
+            "children": []
+          },
+          {
+            "id": "d0db6928-0b74-4bdd-aab0-d523fb52c3dc",
+            "boundaryNum": 1,
+            "name": "Dadhara Ahom gaon",
+            "localname": "Dadhara Ahom gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pubmissamoraV23",
+            "children": []
+          },
+          {
+            "id": "6265c730-7c99-42f1-812b-f46f7981707b",
+            "boundaryNum": 1,
+            "name": "Rajabahor",
+            "localname": "Rajabahor",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pubmissamoraV24",
+            "children": []
+          },
+          {
+            "id": "60ead0f1-5642-4cf2-9d2d-1740f6dfa66b",
+            "boundaryNum": 1,
+            "name": "Ekorani pathar",
+            "localname": "Ekorani pathar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pubmissamoraV25",
+            "children": []
+          },
+          {
+            "id": "47f88629-f0d4-45b0-b2ac-a6ad7ce57297",
+            "boundaryNum": 1,
+            "name": "Dakhin Dolijalia",
+            "localname": "Dakhin Dolijalia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pubmissamoraV26",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

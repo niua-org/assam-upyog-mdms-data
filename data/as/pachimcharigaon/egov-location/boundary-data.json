@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.pachimcharigaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "34 no. Pachim Charigaon",
+        "localname": "34 no. Pachim Charigaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.pachimcharigaon",
+        "children": [
+          {
+            "id": "8c11ae57-2322-4f31-9bc4-82412f6da7e9",
+            "boundaryNum": 1,
+            "name": "KalakhowaGaon",
+            "localname": "KalakhowaGaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pachimcharigaonV4",
+            "children": []
+          },
+          {
+            "id": "f14c2401-563c-4997-a623-cea7f03b13de",
+            "boundaryNum": 1,
+            "name": "ChengeliGaon (OG)",
+            "localname": "ChengeliGaon (OG)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pachimcharigaonV10",
+            "children": []
+          },
+          {
+            "id": "ae876fc0-540e-4bbf-a8b0-ea77fbbf77b4",
+            "boundaryNum": 1,
+            "name": "Gohain Tekela Gaon (OG)",
+            "localname": "Gohain Tekela Gaon (OG)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pachimcharigaonV11",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,780 @@
+{
+  "tenantId": "as",
+  "moduleName": "egov-location",
+  "egov-location": [
+    {
+      "districts": [
+        {
+          "id": 1,
+          "districtCode": "NALBARI",
+          "districtName": "Nalbari",
+          "active": true,
+          "planningAreas": [
+            {
+              "id": 1,
+              "districtCode": "NALBARI",
+              "planningAreaCode": "NALBARI_MP",
+              "planningAreaName": "Nalbari MP",
+              "planningAreaGisCode": "Nalbari",
+              "active": true,
+              "ppAuthority": {
+                "id": 1,
+                "planningAreaCode": "NALBARI_MP",
+                "districtCode": "NALBARI",
+                "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+                "ppAuthorityName": "Development Authority",
+                "active": true
+              },
+              "bpAuthorities": [
+                {
+                  "name": "GRAM_PANCHAYAT",
+                  "code": "GRAM_PANCHAYAT",
+                  "active": true
+                },
+                {
+                  "name": "MUNICIPAL_BOARD",
+                  "code": "MUNICIPAL_BOARD",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "districtCode": "BARPETA",
+          "districtName": "Barpeta",
+          "active": true,
+          "planningAreas": [
+            {
+              "id": 2,
+              "districtCode": "BARPETA",
+              "planningAreaCode": "BARPETA_MP",
+              "planningAreaName": "Barpeta MP",
+              "planningAreaGisCode": "Barpeta",
+              "active": true,
+              "ppAuthority": {
+                "id": 2,
+                "planningAreaCode": "BARPETA_MP",
+                "districtCode": "BARPETA",
+                "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+                "ppAuthorityName": "Development Authority",
+                "active": true
+              },
+              "bpAuthorities": [
+                {
+                  "name": "GRAM_PANCHAYAT",
+                  "code": "GRAM_PANCHAYAT",
+                  "active": true
+                },
+                {
+                  "name": "MUNICIPAL_BOARD",
+                  "code": "MUNICIPAL_BOARD",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "districtCode": "DIBRUGARH",
+          "districtName": "Dibrugarh",
+          "active": true,
+          "planningAreas": [
+            {
+              "id": 3,
+              "districtCode": "DIBRUGARH",
+              "planningAreaCode": "DIBRUGARH_MP",
+              "planningAreaName": "Dibrugarh MP",
+              "planningAreaGisCode": "Dibrugarh",
+              "active": true,
+              "ppAuthority": {
+                "id": 3,
+                "planningAreaCode": "DIBRUGARH_MP",
+                "districtCode": "DIBRUGARH",
+                "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+                "ppAuthorityName": "Development Authority",
+                "active": true
+              },
+              "bpAuthorities": [
+                {
+                  "name": "GRAM_PANCHAYAT",
+                  "code": "GRAM_PANCHAYAT",
+                  "active": true
+                },
+                {
+                  "name": "MUNICIPAL_BOARD",
+                  "code": "MUNICIPAL_BOARD",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "districtCode": "TINSUKIA",
+          "districtName": "Tinsukia",
+          "active": true,
+          "planningAreas": [
+            {
+              "id": 4,
+              "districtCode": "TINSUKIA",
+              "planningAreaCode": "TINSUKIA_MP",
+              "planningAreaName": "Tinsukia Master Plan",
+              "planningAreaGisCode": "Tinsukia",
+              "active": true,
+              "ppAuthority": {
+                "id": 4,
+                "planningAreaCode": "TINSUKIA_MP",
+                "districtCode": "TINSUKIA",
+                "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+                "ppAuthorityName": "Development Authority",
+                "active": true
+              },
+              "bpAuthorities": [
+                {
+                  "name": "GRAM_PANCHAYAT",
+                  "code": "GRAM_PANCHAYAT",
+                  "active": true
+                },
+                {
+                  "name": "MUNICIPAL_BOARD",
+                  "code": "MUNICIPAL_BOARD",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "districtCode": "CACHAR",
+          "districtName": "Cachar",
+          "active": true,
+          "planningAreas": [
+            {
+              "id": 5,
+              "districtCode": "CACHAR",
+              "planningAreaCode": "SILCHAR_MP",
+              "planningAreaName": "Silchar Master Plan",
+              "planningAreaGisCode": "Silchar",
+              "active": true,
+              "ppAuthority": {
+                "id": 5,
+                "planningAreaCode": "SILCHAR_MP",
+                "districtCode": "CACHAR",
+                "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+                "ppAuthorityName": "Development Authority",
+                "active": true
+              },
+              "bpAuthorities": [
+                {
+                  "name": "GRAM_PANCHAYAT",
+                  "code": "GRAM_PANCHAYAT",
+                  "active": true
+                },
+                {
+                  "name": "MUNICIPAL_BOARD",
+                  "code": "MUNICIPAL_BOARD",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "districtCode": "DARANG",
+          "districtName": "Darang",
+          "active": true,
+          "planningAreas": [
+            {
+              "id": 6,
+              "districtCode": "DARANG",
+              "planningAreaCode": "MANGALDOI_MP",
+              "planningAreaName": "Mangaldoi Master Plan",
+              "planningAreaGisCode": "Mangaldoi",
+              "active": true,
+              "ppAuthority": {
+                "id": 6,
+                "planningAreaCode": "MANGALDOI_MP",
+                "districtCode": "DARANG",
+                "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+                "ppAuthorityName": "Development Authority",
+                "active": true
+              },
+              "bpAuthorities": [
+                {
+                  "name": "GRAM_PANCHAYAT",
+                  "code": "GRAM_PANCHAYAT",
+                  "active": true
+                },
+                {
+                  "name": "MUNICIPAL_BOARD",
+                  "code": "MUNICIPAL_BOARD",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "districtCode": "DHUBRI",
+          "districtName": "Dhubri",
+          "active": true,
+          "planningAreas": [
+            {
+              "id": 7,
+              "districtCode": "DHUBRI",
+              "planningAreaCode": "DHUBRI_GAURIPUR_MP",
+              "planningAreaName": "Dhubri Gauripur Master Plan",
+              "planningAreaGisCode": "Dhubri Gauripur",
+              "active": true,
+              "ppAuthority": {
+                "id": 7,
+                "planningAreaCode": "DHUBRI_GAURIPUR_MP",
+                "districtCode": "DHUBRI",
+                "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+                "ppAuthorityName": "Development Authority",
+                "active": true
+              },
+              "bpAuthorities": [
+                {
+                  "name": "GRAM_PANCHAYAT",
+                  "code": "GRAM_PANCHAYAT",
+                  "active": true
+                },
+                {
+                  "name": "MUNICIPAL_BOARD",
+                  "code": "MUNICIPAL_BOARD",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "districtCode": "GOALPARA",
+          "districtName": "Goalpara",
+          "active": true,
+          "planningAreas": [
+            {
+              "id": 8,
+              "districtCode": "GOALPARA",
+              "planningAreaCode": "GOALPARA_MP",
+              "planningAreaName": "Goalpara Master Plan",
+              "planningAreaGisCode": "Goalpara",
+              "active": true,
+              "ppAuthority": {
+                "id": 8,
+                "planningAreaCode": "GOALPARA_MP",
+                "districtCode": "GOALPARA",
+                "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+                "ppAuthorityName": "Development Authority",
+                "active": true
+              },
+              "bpAuthorities": [
+                {
+                  "name": "GRAM_PANCHAYAT",
+                  "code": "GRAM_PANCHAYAT",
+                  "active": true
+                },
+                {
+                  "name": "MUNICIPAL_BOARD",
+                  "code": "MUNICIPAL_BOARD",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "districtCode": "BONGAIGAON",
+          "districtName": "Bomgaigaon",
+          "active": true,
+          "planningAreas": [
+            {
+              "id": 9,
+              "districtCode": "BONGAIGAON",
+              "planningAreaCode": "BONGAIGAON_MP",
+              "planningAreaName": "Bongaigaon Master Plan",
+              "planningAreaGisCode": "Bongaigaon",
+              "active": true,
+              "ppAuthority": {
+                "id": 9,
+                "planningAreaCode": "BONGAIGAON_MP",
+                "districtCode": "BONGAIGAON",
+                "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+                "ppAuthorityName": "Development Authority",
+                "active": true
+              },
+              "bpAuthorities": [
+                {
+                  "name": "GRAM_PANCHAYAT",
+                  "code": "GRAM_PANCHAYAT",
+                  "active": true
+                },
+                {
+                  "name": "MUNICIPAL_BOARD",
+                  "code": "MUNICIPAL_BOARD",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "districtCode": "NAGAON",
+          "districtName": "Nagaon",
+          "active": true,
+          "planningAreas": [
+            {
+              "id": 10,
+              "districtCode": "NAGAON",
+              "planningAreaCode": "NAGAON_MP",
+              "planningAreaName": "Nagaon Master Plan",
+              "planningAreaGisCode": "Nagaon",
+              "active": true,
+              "ppAuthority": {
+                "id": 10,
+                "planningAreaCode": "NAGAON_MP",
+                "districtCode": "NAGAON",
+                "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+                "ppAuthorityName": "Development Authority",
+                "active": true
+              },
+              "bpAuthorities": [
+                {
+                  "name": "GRAM_PANCHAYAT",
+                  "code": "GRAM_PANCHAYAT",
+                  "active": true
+                },
+                {
+                  "name": "MUNICIPAL_BOARD",
+                  "code": "MUNICIPAL_BOARD",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "districtCode": "SONITPUR",
+          "districtName": "Sonitpur",
+          "active": true,
+          "planningAreas": [
+            {
+              "id": 11,
+              "districtCode": "SONITPUR",
+              "planningAreaCode": "TEZPUR_MP",
+              "planningAreaName": "Tezpur Master Plan",
+              "planningAreaGisCode": "Tezpur",
+              "active": true,
+              "ppAuthority": {
+                "id": 11,
+                "planningAreaCode": "TEZPUR_MP",
+                "districtCode": "SONITPUR",
+                "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+                "ppAuthorityName": "Development Authority",
+                "active": true
+              },
+              "bpAuthorities": [
+                {
+                  "name": "GRAM_PANCHAYAT",
+                  "code": "GRAM_PANCHAYAT",
+                  "active": true
+                },
+                {
+                  "name": "MUNICIPAL_BOARD",
+                  "code": "MUNICIPAL_BOARD",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "districtCode": "BISWANATH",
+          "districtName": "Biswanath",
+          "active": true,
+          "planningAreas": [
+            {
+              "id": 12,
+              "districtCode": "BISWANATH",
+              "planningAreaCode": "BISWANATH_CHARIALI_MP",
+              "planningAreaName": "Biswanath Chariali Master Plan",
+              "planningAreaGisCode": "Biswanath Chariali",
+              "active": true,
+              "ppAuthority": {
+                "id": 12,
+                "planningAreaCode": "BISWANATH_CHARIALI_MP",
+                "districtCode": "BISWANATH",
+                "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+                "ppAuthorityName": "Development Authority",
+                "active": true
+              },
+              "bpAuthorities": [
+                {
+                  "name": "GRAM_PANCHAYAT",
+                  "code": "GRAM_PANCHAYAT",
+                  "active": true
+                },
+                {
+                  "name": "MUNICIPAL_BOARD",
+                  "code": "MUNICIPAL_BOARD",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "districtCode": "GOLAGHAT",
+          "districtName": "Golaghat",
+          "active": true,
+          "planningAreas": [
+            {
+              "id": 13,
+              "districtCode": "GOLAGHAT",
+              "planningAreaCode": "GOLAGHAT_MP",
+              "planningAreaName": "Golaghat Master Plan",
+              "planningAreaGisCode": "Golaghat",
+              "active": true,
+              "ppAuthority": {
+                "id": 13,
+                "planningAreaCode": "GOLAGHAT_MP",
+                "districtCode": "GOLAGHAT",
+                "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+                "ppAuthorityName": "Development Authority",
+                "active": true
+              },
+              "bpAuthorities": [
+                {
+                  "name": "GRAM_PANCHAYAT",
+                  "code": "GRAM_PANCHAYAT",
+                  "active": true
+                },
+                {
+                  "name": "MUNICIPAL_BOARD",
+                  "code": "MUNICIPAL_BOARD",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": 14,
+              "districtCode": "GOLAGHAT",
+              "planningAreaCode": "DERGAON_MP",
+              "planningAreaName": "Dergaon Master Plan",
+              "planningAreaGisCode": "Dergaon",
+              "active": true,
+              "ppAuthority": {
+                "id": 14,
+                "planningAreaCode": "DERGAON_MP",
+                "districtCode": "GOLAGHAT",
+                "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+                "ppAuthorityName": "Development Authority",
+                "active": true
+              },
+              "bpAuthorities": [
+                {
+                  "name": "GRAM_PANCHAYAT",
+                  "code": "GRAM_PANCHAYAT",
+                  "active": true
+                },
+                {
+                  "name": "MUNICIPAL_BOARD",
+                  "code": "MUNICIPAL_BOARD",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "districtCode": "JORHAT",
+          "districtName": "Jorhat",
+          "active": true,
+          "planningAreas": [
+            {
+              "id": 15,
+              "districtCode": "JORHAT",
+              "planningAreaCode": "JORHAT_MP",
+              "planningAreaName": "Jorhat Master Plan",
+              "planningAreaGisCode": "Jorhat",
+              "active": true,
+              "ppAuthority": {
+                "id": 15,
+                "planningAreaCode": "JORHAT_MP",
+                "districtCode": "JORHAT",
+                "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+                "ppAuthorityName": "Development Authority",
+                "active": true
+              },
+              "bpAuthorities": [
+                {
+                  "name": "GRAM_PANCHAYAT",
+                  "code": "GRAM_PANCHAYAT",
+                  "active": true
+                },
+                {
+                  "name": "MUNICIPAL_BOARD",
+                  "code": "MUNICIPAL_BOARD",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "districtCode": "SIVASAGAR",
+          "districtName": "Sivasagar",
+          "active": true,
+          "planningAreas": [
+            {
+              "id": 16,
+              "districtCode": "SIVASAGAR",
+              "planningAreaCode": "SIVASAGAR_MP",
+              "planningAreaName": "Sivasagar Master Plan",
+              "planningAreaGisCode": "Sivasagar",
+              "active": true,
+              "ppAuthority": {
+                "id": 16,
+                "planningAreaCode": "SIVASAGAR_MP",
+                "districtCode": "SIVASAGAR",
+                "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+                "ppAuthorityName": "Development Authority",
+                "active": true
+              },
+              "bpAuthorities": [
+                {
+                  "name": "GRAM_PANCHAYAT",
+                  "code": "GRAM_PANCHAYAT",
+                  "active": true
+                },
+                {
+                  "name": "MUNICIPAL_BOARD",
+                  "code": "MUNICIPAL_BOARD",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": 17,
+              "districtCode": "SIVASAGAR",
+              "planningAreaCode": "NAZIRA_SIMALUGURI_MP",
+              "planningAreaName": "Nazira-Simaluguri Master Plan",
+              "planningAreaGisCode": "Nazira-Simaluguri",
+              "active": true,
+              "ppAuthority": {
+                "id": 17,
+                "planningAreaCode": "NAZIRA_SIMALUGURI_MP",
+                "districtCode": "SIVASAGAR",
+                "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+                "ppAuthorityName": "Development Authority",
+                "active": true
+              },
+              "bpAuthorities": [
+                {
+                  "name": "GRAM_PANCHAYAT",
+                  "code": "GRAM_PANCHAYAT",
+                  "active": true
+                },
+                {
+                  "name": "MUNICIPAL_BOARD",
+                  "code": "MUNICIPAL_BOARD",
+                  "active": true
+                }
+              ]
+            },
+            {
+              "id": 18,
+              "districtCode": "SIVASAGAR",
+              "planningAreaCode": "SONARI_MP",
+              "planningAreaName": "Sonari Master Plan",
+              "planningAreaGisCode": "Sonari",
+              "active": true,
+              "ppAuthority": {
+                "id": 18,
+                "planningAreaCode": "SONARI_MP",
+                "districtCode": "SIVASAGAR",
+                "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+                "ppAuthorityName": "Development Authority",
+                "active": true
+              },
+              "bpAuthorities": [
+                {
+                  "name": "GRAM_PANCHAYAT",
+                  "code": "GRAM_PANCHAYAT",
+                  "active": true
+                },
+                {
+                  "name": "MUNICIPAL_BOARD",
+                  "code": "MUNICIPAL_BOARD",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "districtCode": "NORTH_LAKHIMPUR",
+          "districtName": "North Lakhimpur",
+          "active": true,
+          "planningAreas": [
+            {
+              "id": 19,
+              "districtCode": "NORTH_LAKHIMPUR",
+              "planningAreaCode": "NORTH_LAKHIMPUR_MP",
+              "planningAreaName": "North Lakhimpur Master Plan",
+              "planningAreaGisCode": "North Lakhimpur",
+              "active": true,
+              "ppAuthority": {
+                "id": 19,
+                "planningAreaCode": "NORTH_LAKHIMPUR_MP",
+                "districtCode": "NORTH_LAKHIMPUR",
+                "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+                "ppAuthorityName": "Development Authority",
+                "active": true
+              },
+              "bpAuthorities": [
+                {
+                  "name": "GRAM_PANCHAYAT",
+                  "code": "GRAM_PANCHAYAT",
+                  "active": true
+                },
+                {
+                  "name": "MUNICIPAL_BOARD",
+                  "code": "MUNICIPAL_BOARD",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "districtCode": "SRIBHUMI_KARIMGANJ",
+          "districtName": "Sribhumi/ Karimganj",
+          "active": true,
+          "planningAreas": [
+            {
+              "id": 23,
+              "districtCode": "SRIBHUMI_KARIMGANJ",
+              "planningAreaCode": "SRIBHUMI_MP",
+              "planningAreaName": "Sribhumi Master Plan",
+              "planningAreaGisCode": "Sribhumi",
+              "active": true,
+              "ppAuthority": {
+                "id": 23,
+                "planningAreaCode": "SRIBHUMI_MP",
+                "districtCode": "SRIBHUMI_KARIMGANJ",
+                "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+                "ppAuthorityName": "Development Authority",
+                "active": true
+              },
+              "bpAuthorities": [
+                {
+                  "name": "GRAM_PANCHAYAT",
+                  "code": "GRAM_PANCHAYAT",
+                  "active": true
+                },
+                {
+                  "name": "MUNICIPAL_BOARD",
+                  "code": "MUNICIPAL_BOARD",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "districtCode": "DHEMAJI",
+          "districtName": "Dhemaji",
+          "active": true,
+          "planningAreas": [
+            {
+              "id": 24,
+              "districtCode": "DHEMAJI",
+              "planningAreaCode": "DHEMAJI_MP",
+              "planningAreaName": "Dhemaji Master Plan",
+              "planningAreaGisCode": "Dhemaji",
+              "active": true,
+              "ppAuthority": {
+                "id": 24,
+                "planningAreaCode": "DHEMAJI_MP",
+                "districtCode": "DHEMAJI",
+                "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+                "ppAuthorityName": "Development Authority",
+                "active": true
+              },
+              "bpAuthorities": [
+                {
+                  "name": "GRAM_PANCHAYAT",
+                  "code": "GRAM_PANCHAYAT",
+                  "active": true
+                },
+                {
+                  "name": "MUNICIPAL_BOARD",
+                  "code": "MUNICIPAL_BOARD",
+                  "active": true
+                }
+              ]
+            }
+          ]
+        },
+        
+        {
+        "id": 19,
+        "districtCode": "KAMRUP_METRO",
+        "districtName": "Kamrup (Metro)",
+        "active": true,
+        "planningAreas": [
+          {
+            "id": 25,
+            "districtCode": "KAMRUP_METRO",
+            "planningAreaCode": "KAMRUP_METRO_MP",
+            "planningAreaName": "Kamrup Metro Master Plan",
+            "planningAreaGisCode": "Guwahati",
+            "active": true,
+            "ppAuthority": {
+              "id": 6,
+              "planningAreaCode": "KAMRUP_METRO_MP",
+              "districtCode": "KAMRUP_METRO",
+              "ppAuthorityCode": "GUWAHATI_METROPOLITAN_DEVELOPMENT_AUTHORITY",
+              "ppAuthorityName": "Guwahati Metropolitan Development Authority",
+              "active": true
+            },
+            "bpAuthorities": [
+              {
+                "name": "MUNICIPAL_CORPORATION",
+                "code": "MUNICIPAL_CORPORATION",
+                "active": true
+              },
+               {
+                "name": "GRAM_PANCHAYAT",
+                "code": "GUWAHATI_GRAM_PANCHAYAT",
+                "active": true
+              }
+            ]
+          }
+        ]
+      }
+        
+      ]
+    }
+  ]
+}

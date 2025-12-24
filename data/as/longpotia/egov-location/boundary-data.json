@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.longpotia",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Longpotia G.P.",
+        "localname": "Longpotia G.P.",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.longpotia",
+        "children": [
+          {
+            "id": "733e18aa-d7f8-482f-a2cc-f55d4ce6f105",
+            "boundaryNum": 1,
+            "name": "AideobariKathani",
+            "localname": "AideobariKathani",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "longpotiaV13",
+            "children": []
+          },
+          {
+            "id": "690140ca-9c39-41d3-a045-5d9376e033d9",
+            "boundaryNum": 1,
+            "name": "RongchowalChangmai Gaon",
+            "localname": "RongchowalChangmai Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "longpotiaV22",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

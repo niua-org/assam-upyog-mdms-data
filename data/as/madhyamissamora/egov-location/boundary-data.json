@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.madhyamissamora",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Madhya Missamora G.P",
+        "localname": "Madhya Missamora G.P",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.madhyamissamora",
+        "children": [
+          {
+            "id": "1739fbd2-63ec-4e00-a9b7-a5b44721b752",
+            "boundaryNum": 1,
+            "name": "Malaikumar",
+            "localname": "Malaikumar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "madhyamissamoraV18",
+            "children": []
+          },
+          {
+            "id": "5024b250-059d-47be-a19b-60fa695de495",
+            "boundaryNum": 1,
+            "name": "Bhabali gaon",
+            "localname": "Bhabali gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "madhyamissamoraV19",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

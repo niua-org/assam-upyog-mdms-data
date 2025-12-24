@@ -1,0 +1,62 @@
+{
+    "tenantId": "as",
+    "moduleName": "BPA",
+    "TravelDistanceToExit": [
+        {
+            "id": 1,
+            "occupancy": "residential",
+            "travelDistanceToExitValueOne": 30,
+            "travelDistanceToExitValueTwo": 20,
+            "travelDistanceToExitValueThree": 3,
+            "active": true
+        },
+        {
+            "id": 2,
+            "occupancy": "mercantile / commercial",
+            "travelDistanceToExitValueOne": 40,
+            "travelDistanceToExitValueTwo": 25,
+            "travelDistanceToExitValueThree": 4,
+            "active": true
+        },
+        {
+            "id": 3,
+            "occupancy": "industrial",
+            "travelDistanceToExitValueOne": 50,
+            "travelDistanceToExitValueTwo": 30,
+            "travelDistanceToExitValueThree": 5,
+            "active": true
+        },
+        {
+            "id": 7,
+            "occupancy": "educational",
+            "travelDistanceToExitValueOne": 50,
+            "travelDistanceToExitValueTwo": 30,
+            "travelDistanceToExitValueThree": 5,
+            "active": true
+        },
+        {
+            "id": 4,
+            "occupancy": "assembly",
+            "travelDistanceToExitValueOne": 40,
+            "travelDistanceToExitValueTwo": 25,
+            "travelDistanceToExitValueThree": 4,
+            "active": true
+        },
+        {
+            "id": 5,
+            "occupancy": "storage",
+            "travelDistanceToExitValueOne": 40,
+            "travelDistanceToExitValueTwo": 25,
+            "travelDistanceToExitValueThree": 4,
+            "active": true
+        },
+        {
+            "id": 6,
+            "occupancy": "factories",
+            "travelDistanceToExitValueOne": 50,
+            "travelDistanceToExitValueTwo": 30,
+            "travelDistanceToExitValueThree": 5,
+            "active": true
+        }
+    ]
+}

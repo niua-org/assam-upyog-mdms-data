@@ -1,0 +1,134 @@
+{
+  "tenantId": "as.rongpuria",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Rongpuria",
+        "localname": "Rongpuria",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.rongpuria",
+        "children": [
+          {
+            "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Lohari Kachari Gaon (Out Growth)",
+            "localname": "Lohari Kachari Gaon (Out Growth)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "RongpuriaV1",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-421e-bi27-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Bhimpara Gaon",
+            "localname": "Bhimpara Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "RongpuriaV2",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-428e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "No.1 Patia Pathar",
+            "localname": "No.1 Patia Pathar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "RongpuriaV3",
+            "children": []
+          },
+          {
+            "id": "b65bi672-b3d4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Tingrai habi Gaon",
+            "localname": "Tingrai habi Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "RongpuriaV4",
+            "children": []
+          },
+          {
+            "id": "u55bf972-b3d4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Hukanpukhuri TE 37/73 NLR Grant",
+            "localname": "Hukanpukhuri TE 37/73 NLR Grant",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "RongpuriaV5",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b6y4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Luhari Bongali Gaon",
+            "localname": "Luhari Bongali Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "RongpuriaV6",
+            "children": []
+          },
+          {
+            "id": "b653f972-b3d4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Luhari Nepali Gaon",
+            "localname": "Luhari Nepali Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "RongpuriaV7",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-421e-b327-747i6e3325c0",
+            "boundaryNum": 1,
+            "name": "No. 2 Patia Pathar Gaon",
+            "localname": "No. 2 Patia Pathar Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "RongpuriaV8",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-421e-o5677-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Pakhorijan Gaon",
+            "localname": "Pakhorijan Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "RongpuriaV9",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-421e-b317-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Norshing Gaon",
+            "localname": "Norshing Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "RongpuriaV10",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.parbatia",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Parbatia",
+        "localname": "Parbatia",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.parbatia",
+        "children": [
+          {
+            "id": "c24c23e4-f7e4-428a-b509-8c0db17d21ae",
+            "boundaryNum": 1,
+            "name": "Da-parbatia",
+            "localname": "Da-parbatia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "parbatiaV1",
+            "children": []
+          },
+          {
+            "id": "66646705-27f1-440d-9a28-9245818d1221",
+            "boundaryNum": 1,
+            "name": "Parbatia",
+            "localname": "Parbatia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "parbatiaV2",
+            "children": []
+          },
+          {
+            "id": "299a6c90-42fc-4465-8402-a775b261b1fd",
+            "boundaryNum": 1,
+            "name": "Da-atigaon",
+            "localname": "Da-atigaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "parbatiaV3",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2418 @@
+{
+    "tenantId": "as",
+    "moduleName": "BPA",
+    "villages": [
+      {
+        "id": 1,
+        "gramPanchayatCode": "PUB_BAHJANI",
+        "villageCode": "ALENGIDAL",
+        "villageName": "Alengidal"
+      },
+      {
+        "id": 2,
+        "gramPanchayatCode": "PUB_BAHJANI",
+        "villageCode": "AMAYA_PUR",
+        "villageName": "Amaya-Pur"
+      },
+      {
+        "id": 3,
+        "gramPanchayatCode": "PUB_BAHJANI",
+        "villageCode": "ARARA",
+        "villageName": "Arara"
+      },
+      {
+        "id": 4,
+        "gramPanchayatCode": "BALITARA_BATAHGILA",
+        "villageCode": "BAR_AGRA",
+        "villageName": "Bar-Agra"
+      },
+      {
+        "id": 5,
+        "gramPanchayatCode": "SARIATOLI",
+        "villageCode": "BARSARKUCHI",
+        "villageName": "Barsarkuchi"
+      },
+      {
+        "id": 6,
+        "gramPanchayatCode": "PUB_BAHJANI",
+        "villageCode": "BHADRA",
+        "villageName": "Bhadra"
+      },
+      {
+        "id": 7,
+        "gramPanchayatCode": "NALBARI_MB",
+        "villageCode": "BHUYARKUCHI",
+        "villageName": "Bhuyarkuchi"
+      },
+      {
+        "id": 8,
+        "gramPanchayatCode": "CHANDAKUCHI",
+        "villageCode": "DAKHIN_BEJERA",
+        "villageName": "Dakhin Bejera"
+      },
+      {
+        "id": 9,
+        "gramPanchayatCode": "UTTAR_PUB_DHARMAPUR",
+        "villageCode": "DHEKIABARI",
+        "villageName": "Dhekiabari"
+      },
+      {
+        "id": 10,
+        "gramPanchayatCode": "BALITARA_BATAHGILA",
+        "villageCode": "GAREMARA",
+        "villageName": "Garemara"
+      },
+      {
+        "id": 11,
+        "gramPanchayatCode": "SARIATOLI",
+        "villageCode": "HARIPUR",
+        "villageName": "Haripur"
+      },
+      {
+        "id": 12,
+        "gramPanchayatCode": "MADHYA_BAHJANI",
+        "villageCode": "JANIGOG",
+        "villageName": "Janigog (Jarigog)"
+      },
+      {
+        "id": 13,
+        "gramPanchayatCode": "HATI_NAMATI",
+        "villageCode": "KATLA_BARKUCHI",
+        "villageName": "Katla Barkuchi"
+      },
+      {
+        "id": 14,
+        "gramPanchayatCode": "HATI_NAMATI",
+        "villageCode": "KHUDRARKATLA_BARKUCHI",
+        "villageName": "Khudrakatla Barkuchi"
+      },
+      {
+        "id": 15,
+        "gramPanchayatCode": "CHANDAKUCHI",
+        "villageCode": "MADAN_MOHAN_SAKHOWA",
+        "villageName": "Madan-Mohan Sakhowa"
+      },
+      {
+        "id": 16,
+        "gramPanchayatCode": "DAKSHIN_NALBARI",
+        "villageCode": "MUGKUCHI",
+        "villageName": "Mugkuchi"
+      },
+      {
+        "id": 17,
+        "gramPanchayatCode": "PUB_BAHJANI",
+        "villageCode": "NANDA_GAON",
+        "villageName": "Nanda Gaon"
+      },
+      {
+        "id": 18,
+        "gramPanchayatCode": "PUB_BAHJANI",
+        "villageCode": "TILANA",
+        "villageName": "Tilana"
+      },
+      {
+        "id": 19,
+        "gramPanchayatCode": "NALBARI_MB",
+        "villageCode": "BALIKORIA",
+        "villageName": "Balikoria"
+      },
+      {
+        "id": 20,
+        "gramPanchayatCode": "SARIATOLI",
+        "villageCode": "BARDHANTALI",
+        "villageName": "Bardhantali"
+      },
+      {
+        "id": 21,
+        "gramPanchayatCode": "SARIATOLI",
+        "villageCode": "BARKURA",
+        "villageName": "Barkura"
+      },
+      {
+        "id": 22,
+        "gramPanchayatCode": "BALITARA_BATAHGILA",
+        "villageCode": "MAIRADONGA",
+        "villageName": "Mairadonga"
+      },
+      {
+        "id": 23,
+        "gramPanchayatCode": "HATI_NAMATI",
+        "villageCode": "NAMATI",
+        "villageName": "Namati"
+      },
+      {
+        "id": 24,
+        "gramPanchayatCode": "HATI_NAMATI",
+        "villageCode": "NIZ_BATAHGILA",
+        "villageName": "Niz-Batahgila"
+      },
+      {
+        "id": 25,
+        "gramPanchayatCode": "SARIATOLI",
+        "villageCode": "PITNIPARA",
+        "villageName": "Pitnipara"
+      },
+      {
+        "id": 26,
+        "gramPanchayatCode": "SARIATOLI",
+        "villageCode": "SARIATALI",
+        "villageName": "Sariahtali"
+      },
+      {
+        "id": 27,
+        "gramPanchayatCode": "NALBARI_MB",
+        "villageCode": "BALAKUCHI",
+        "villageName": "Balakuchi"
+      },
+      {
+        "id": 28,
+        "gramPanchayatCode": "UPPER_BARBHAG_KHATA",
+        "villageCode": "BALILESHA",
+        "villageName": "Balilesha"
+      },
+      {
+        "id": 29,
+        "gramPanchayatCode": "UTTAR_PUB_KHATA",
+        "villageCode": "BAR_KHANAJAN",
+        "villageName": "Bar Khanajan"
+      },
+      {
+        "id": 30,
+        "gramPanchayatCode": "PUB_NALBARI",
+        "villageCode": "BARCHENIKUCHI",
+        "villageName": "Barchenikuchi"
+      },
+      {
+        "id": 31,
+        "gramPanchayatCode": "UTTAR_PUB_KHATA",
+        "villageCode": "BHUTKATRA",
+        "villageName": "Bhutkatra"
+      },
+      {
+        "id": 32,
+        "gramPanchayatCode": "DIGHELI",
+        "villageCode": "DIGHELI_CT",
+        "villageName": "Digheli (Ct)"
+      },
+      {
+        "id": 33,
+        "gramPanchayatCode": "UTTAR_PUB_KHATA",
+        "villageCode": "JAIJABARI",
+        "villageName": "Jaijabari"
+      },
+      {
+        "id": 34,
+        "gramPanchayatCode": "NALBARI_MB",
+        "villageCode": "JAPARKUCHI",
+        "villageName": "Japarkuchi"
+      },
+      {
+        "id": 35,
+        "gramPanchayatCode": "DAKSHIN_NALBARI",
+        "villageCode": "JOY_MANGLA",
+        "villageName": "Joy Mangla"
+      },
+      {
+        "id": 36,
+        "gramPanchayatCode": "UPPER_BARBHAG_KHATA",
+        "villageCode": "KARDOITOLA",
+        "villageName": "Kardoitola"
+      },
+      {
+        "id": 37,
+        "gramPanchayatCode": "UTTAR_PUB_KHATA",
+        "villageCode": "KATAHKUCHI",
+        "villageName": "Katahkuchi"
+      },
+      {
+        "id": 38,
+        "gramPanchayatCode": "UTTAR_PUB_KHATA",
+        "villageCode": "KENDUKUCHI",
+        "villageName": "Kendukuchi"
+      },
+      {
+        "id": 39,
+        "gramPanchayatCode": "UTTAR_PUB_DHARMAPUR",
+        "villageCode": "BOUSHIAPARA",
+        "villageName": "Boushiapara"
+      },
+      {
+        "id": 40,
+        "gramPanchayatCode": "UTTAR_PUB_KHATA",
+        "villageCode": "KHAT_KATRA",
+        "villageName": "Khat-Katra"
+      },
+      {
+        "id": 41,
+        "gramPanchayatCode": "PUB_NALBARI",
+        "villageCode": "KHUDRACHENIKUCHI",
+        "villageName": "Khudrachenikuchi"
+      },
+      {
+        "id": 42,
+        "gramPanchayatCode": "UTTAR_PUB_KHATA",
+        "villageCode": "KHUDRAPIPALIA",
+        "villageName": "Khudrapipalia"
+      },
+      {
+        "id": 43,
+        "gramPanchayatCode": "DIGHELI",
+        "villageCode": "KSHUDRA_SHANKARA",
+        "villageName": "Kshudra Shankara"
+      },
+      {
+        "id": 44,
+        "gramPanchayatCode": "NALBARI_MB",
+        "villageCode": "BALIKORIA_KHARJARA",
+        "villageName": "Balikoria Kharjara"
+      },
+      {
+        "id": 45,
+        "gramPanchayatCode": "DAKSHIN_NALBARI",
+        "villageCode": "MAJDIA",
+        "villageName": "Majdia"
+      },
+      {
+        "id": 46,
+        "gramPanchayatCode": "NALBARI_MB",
+        "villageCode": "NALBARI_GAON",
+        "villageName": "Nalbari Gaon"
+      },
+      {
+        "id": 47,
+        "gramPanchayatCode": "PUB_NALBARI",
+        "villageCode": "PAIKARKUCHI",
+        "villageName": "Paikarkuchi"
+      },
+      {
+        "id": 48,
+        "gramPanchayatCode": "DIGHELI",
+        "villageCode": "PAILA",
+        "villageName": "Paila"
+      },
+      {
+        "id": 49,
+        "gramPanchayatCode": "PUB_NALBARI",
+        "villageCode": "PORAKUCHI",
+        "villageName": "Porakuchi"
+      },
+      {
+        "id": 50,
+        "gramPanchayatCode": "UTTAR_PUB_KHATA",
+        "villageCode": "SAHPUR",
+        "villageName": "Sahpur"
+      },
+      {
+        "id": 51,
+        "gramPanchayatCode": "PUB_NALBARI",
+        "villageCode": "SANDHA",
+        "villageName": "Sandha"
+      },
+      {
+        "id": 52,
+        "gramPanchayatCode": "NALBARI_MB",
+        "villageCode": "SANDHA_KAIRARA",
+        "villageName": "Sandha Kairara"
+      },
+      {
+        "id": 53,
+        "gramPanchayatCode": "DIGHELI",
+        "villageCode": "TANTRA_SANKARA",
+        "villageName": "Tantra Sankara"
+      },
+      {
+        "id": 54,
+        "gramPanchayatCode": "DIGHELI",
+        "villageCode": "TERECHIA",
+        "villageName": "Terechia"
+      },
+      {
+        "id": 55,
+        "gramPanchayatCode": "NATUN_DEHAR",
+        "villageCode": "BARKHETRI_BANEKUCHI",
+        "villageName": "Barkhetri Banekuchi"
+      },
+      {
+        "id": 56,
+        "gramPanchayatCode": "HATI_NAMATI",
+        "villageCode": "KACHIMPUR",
+        "villageName": "Kachimpur"
+      },
+      {
+        "id": 57,
+        "gramPanchayatCode": "NATUN_DEHAR",
+        "villageCode": "NIZ_BANEKUCHI",
+        "villageName": "Niz-Banekuchi"
+      },
+      {
+        "id": 58,
+        "gramPanchayatCode": "PANIGAON",
+        "villageCode": "NIZPOKOWA",
+        "villageName": "Nizpokowa"
+      },
+      {
+        "id": 59,
+        "gramPanchayatCode": "PANIGAON",
+        "villageCode": "PANIGAON",
+        "villageName": "Panigaon"
+      },
+      {
+        "id": 60,
+        "gramPanchayatCode": "PANIGAON",
+        "villageCode": "SANDHELI",
+        "villageName": "Sandheli"
+      },
+      {
+        "id": 61,
+        "gramPanchayatCode": "GHOGRAPAR",
+        "villageCode": "BAGHMARA",
+        "villageName": "Baghmara"
+      },
+      {
+        "id": 62,
+        "gramPanchayatCode": "GHOGRAPAR",
+        "villageCode": "BILPAR",
+        "villageName": "Bilpar"
+      },
+      {
+        "id": 63,
+        "gramPanchayatCode": "PUB_NALBARI",
+        "villageCode": "DOLUA",
+        "villageName": "Dolua"
+      },
+      {
+        "id": 64,
+        "gramPanchayatCode": "SILPOTABORI_LATIMA",
+        "villageCode": "GATIYAN",
+        "villageName": "Gatiyan"
+      },
+      {
+        "id": 65,
+        "gramPanchayatCode": "SILPOTABORI_LATIMA",
+        "villageCode": "GUAKUCHI",
+        "villageName": "Guakuchi (Ghyakuchi)"
+      },
+      {
+        "id": 66,
+        "gramPanchayatCode": "GHOGRAPAR",
+        "villageCode": "KATAKIYA",
+        "villageName": "Katakiya (Katirkiya)"
+      },
+      {
+        "id": 67,
+        "gramPanchayatCode": "BARAJOL",
+        "villageCode": "KATURIYA",
+        "villageName": "Katuriya"
+      },
+      {
+        "id": 68,
+        "gramPanchayatCode": "DIHJARI",
+        "villageCode": "KAYAKUCHI",
+        "villageName": "Kayakuchi"
+      },
+      {
+        "id": 69,
+        "gramPanchayatCode": "DIHJARI",
+        "villageCode": "MAJARBARI",
+        "villageName": "Majarbari"
+      },
+      {
+        "id": 70,
+        "gramPanchayatCode": "PUB_NALBARI",
+        "villageCode": "PAISARA",
+        "villageName": "Paisara"
+      },
+      {
+        "id": 71,
+        "gramPanchayatCode": "BARPETA_MB",
+        "villageCode": "METUAKUCHI_TOWN",
+        "villageName": "Metuakuchi Town"
+      },
+      {
+        "id": 72,
+        "gramPanchayatCode": "BARPETA_MB",
+        "villageCode": "JATI_TOWN",
+        "villageName": "Jati Town"
+      },
+      {
+        "id": 73,
+        "gramPanchayatCode": "PATBAUSHI",
+        "villageCode": "JOTI_GAON",
+        "villageName": "Joti Gaon"
+      },
+      {
+        "id": 74,
+        "gramPanchayatCode": "BARPETA_MB",
+        "villageCode": "GANAK_KUCHI_TOWN",
+        "villageName": "Ganak Kuchi Town"
+      },
+      {
+        "id": 75,
+        "gramPanchayatCode": "BARPETA_MB",
+        "villageCode": "BADRARTUP_TOWN",
+        "villageName": "Badrartup Town"
+      },
+      {
+        "id": 76,
+        "gramPanchayatCode": "SUNDARIDIA",
+        "villageCode": "SUNDARIDIYA",
+        "villageName": "Sundaridiya"
+      },
+      {
+        "id": 77,
+        "gramPanchayatCode": "BARPETA_MB",
+        "villageCode": "SONKUCHI",
+        "villageName": "Sonkuchi"
+      },
+      {
+        "id": 78,
+        "gramPanchayatCode": "SUNDARIDIA",
+        "villageCode": "DANGARKUCHI",
+        "villageName": "Dangarkuchi"
+      },
+      {
+        "id": 79,
+        "gramPanchayatCode": "BARPETA_MB",
+        "villageCode": "BARPETA_TOWN",
+        "villageName": "Barpeta Town"
+      },
+      {
+        "id": 80,
+        "gramPanchayatCode": "RAJABHETA",
+        "villageCode": "MOHPUWALIMORA_GOHAIN_GAON",
+        "villageName": "Mohpuwalimora Gohain Gaon (OG)"
+      },
+      {
+        "id": 81,
+        "gramPanchayatCode": "RAJABHETA",
+        "villageCode": "TEKELA_CHIRING_GAON",
+        "villageName": "Tekela Chiring Gaon (OG)"
+      },
+      {
+        "id": 82,
+        "gramPanchayatCode": "NIZ_MANKOTTA",
+        "villageCode": "NIZ_MANCOTTA_CT",
+        "villageName": "Niz-Mancotta (CT)"
+      },
+      {
+        "id": 83,
+        "gramPanchayatCode": "HILOIDHARI",
+        "villageCode": "BORBARI_AMC_AREA_CT",
+        "villageName": "Borbari AMC Area (CT)"
+      },
+      {
+        "id": 84,
+        "gramPanchayatCode": "RAJABHETA",
+        "villageCode": "BORBARI_12_144_ORR",
+        "villageName": "Borbari 12/144 Orr"
+      },
+      {
+        "id": 85,
+        "gramPanchayatCode": "RAJABHETA",
+        "villageCode": "BORSAIKIA_GAON",
+        "villageName": "Borsaikia Gaon"
+      },
+      {
+        "id": 86,
+        "gramPanchayatCode": "RAJABHETA",
+        "villageCode": "JAPARA_GAON",
+        "villageName": "Japara Gaon"
+      },
+      {
+        "id": 87,
+        "gramPanchayatCode": "RAJABHETA",
+        "villageCode": "RAJABHETA_135_FS",
+        "villageName": "Rajabheta 135 F.S."
+      },
+      {
+        "id": 88,
+        "gramPanchayatCode": "HILOIDHARI",
+        "villageCode": "SAGUNIBARI_GAON",
+        "villageName": "Sagunibari Gaon"
+      },
+      {
+        "id": 89,
+        "gramPanchayatCode": "NIZ_MANKOTTA",
+        "villageCode": "BOIRAGIMOTH_KACHARI_GAON",
+        "villageName": "Boiragimoth Kachari Gaon"
+      },
+      {
+        "id": 90,
+        "gramPanchayatCode": "MANKOTTA_KHANIKAR",
+        "villageCode": "CHIRING_GAON",
+        "villageName": "Chiring Gaon"
+      },
+      {
+        "id": 91,
+        "gramPanchayatCode": "NIZ_MANKOTTA",
+        "villageCode": "DHEKERI_GAON",
+        "villageName": "Dhekeri Gaon"
+      },
+      {
+        "id": 92,
+        "gramPanchayatCode": "MANKOTTA_KHANIKAR",
+        "villageCode": "HATIMORA_GAON",
+        "villageName": "Hatimora Gaon"
+      },
+      {
+        "id": 93,
+        "gramPanchayatCode": "RAJABHETA",
+        "villageCode": "KOMAR_GAON",
+        "villageName": "Komar Gaon"
+      },
+      {
+        "id": 94,
+        "gramPanchayatCode": "MANKOTTA_KHANIKAR",
+        "villageCode": "MANCOTTA_TE_1_159_RRA_A",
+        "villageName": "Mancotta T.E. 1/159 Rra(A)"
+      },
+      {
+        "id": 95,
+        "gramPanchayatCode": "MANKOTTA_KHANIKAR",
+        "villageCode": "CHOTO_BOGPARA_10_165_B",
+        "villageName": "Choto Bogpara 10/ 165(B)"
+      },
+      {
+        "id": 96,
+        "gramPanchayatCode": "ROMAI",
+        "villageCode": "TEPOR_GAON",
+        "villageName": "Tepor Gaon"
+      },
+      {
+        "id": 97,
+        "gramPanchayatCode": "ROMAI",
+        "villageCode": "NLR_GRANT_123_244",
+        "villageName": "123/244 No. NLR Grant"
+      },
+      {
+        "id": 98,
+        "gramPanchayatCode": "TIMONA",
+        "villageCode": "AGNI_PATHER_GAON",
+        "villageName": "Agni Pather Gaon"
+      },
+      {
+        "id": 99,
+        "gramPanchayatCode": "MOHANBARI",
+        "villageCode": "ATHABARI_GAON",
+        "villageName": "Athabari Gaon"
+      },
+      {
+        "id": 100,
+        "gramPanchayatCode": "BOKUL",
+        "villageCode": "BAKUL_TE_6_LCR",
+        "villageName": "Bakul T.E. 6 No. LCR"
+      },
+      {
+        "id": 101,
+        "gramPanchayatCode": "BOKUL",
+        "villageCode": "BAKULBARI_26_147_ORR",
+        "villageName": "Bakulbari 26/ 147 ORR"
+      },
+      {
+        "id": 102,
+        "gramPanchayatCode": "BOKUL",
+        "villageCode": "BAKULMAJ_GAON",
+        "villageName": "Bakulmaj Gaon"
+      },
+      {
+        "id": 103,
+        "gramPanchayatCode": "MOHANBARI",
+        "villageCode": "BASHBARI_GAON",
+        "villageName": "Bashbari Gaon"
+      },
+      {
+        "id": 104,
+        "gramPanchayatCode": "BOKUL",
+        "villageCode": "BEBEJIA_GAON",
+        "villageName": "Bebejia Gaon"
+      },
+      {
+        "id": 105,
+        "gramPanchayatCode": "RAJABHETA",
+        "villageCode": "BEHIA_CHETIA_GAON",
+        "villageName": "Behia Chetia Gaon"
+      },
+      {
+        "id": 106,
+        "gramPanchayatCode": "TIMONA",
+        "villageCode": "BHIMPARA",
+        "villageName": "Bhimpara"
+      },
+      {
+        "id": 107,
+        "gramPanchayatCode": "HILOIDHARI",
+        "villageCode": "BONGAL_GAON",
+        "villageName": "Bongal Gaon"
+      },
+      {
+        "id": 108,
+        "gramPanchayatCode": "HILOIDHARI",
+        "villageCode": "CHAULKHOWA_GRANT_GAON",
+        "villageName": "Chaulkhowa Grant Gaon"
+      },
+      {
+        "id": 109,
+        "gramPanchayatCode": "TIMONA",
+        "villageCode": "CHENGLIJAN",
+        "villageName": "Chenglijan"
+      },
+      {
+        "id": 110,
+        "gramPanchayatCode": "ROMAI",
+        "villageCode": "DANGAR_POTHAR_1",
+        "villageName": "Dangar Pothar No. 1"
+      },
+      {
+        "id": 111,
+        "gramPanchayatCode": "ROMAI",
+        "villageCode": "DANGAR_POTHAR_2",
+        "villageName": "Dangar Pothar No.2"
+      },
+      {
+        "id": 112,
+        "gramPanchayatCode": "BOKUL",
+        "villageCode": "DIBRUAL_CHANGMAI",
+        "villageName": "Dibrual Changmai"
+      },
+      {
+        "id": 113,
+        "gramPanchayatCode": "MAIJAN",
+        "villageCode": "FILNUGURI_GRANT_4_152",
+        "villageName": "Filnuguri Grant 4/152"
+      },
+      {
+        "id": 114,
+        "gramPanchayatCode": "NIZ_KANAI",
+        "villageCode": "GARUCHUR_GAON",
+        "villageName": "Garuchur Gaon"
+      },
+      {
+        "id": 115,
+        "gramPanchayatCode": "ROMAI",
+        "villageCode": "GHAGRAJAN",
+        "villageName": "Ghagrajan"
+      },
+      {
+        "id": 116,
+        "gramPanchayatCode": "MODERKHAT",
+        "villageCode": "HABI_CHUK",
+        "villageName": "Habi Chuk"
+      },
+      {
+        "id": 117,
+        "gramPanchayatCode": "MOHANBARI",
+        "villageCode": "HARABARI_GRANT_115_FS",
+        "villageName": "Harabari Grant 115 F/S"
+      },
+      {
+        "id": 118,
+        "gramPanchayatCode": "MOHANBARI",
+        "villageCode": "HARABARI_KONWAR_GAON",
+        "villageName": "Harabari Konwar Gaon"
+      },
+      {
+        "id": 119,
+        "gramPanchayatCode": "HILOIDHARI",
+        "villageCode": "HILOIDHARI_CHANDOI_GAON",
+        "villageName": "Hiloidhari Chandoi Gaon"
+      },
+      {
+        "id": 120,
+        "gramPanchayatCode": "BOKUL",
+        "villageCode": "JAPISAJIA_GAON",
+        "villageName": "Japisajia Gaon"
+      },
+      {
+        "id": 121,
+        "gramPanchayatCode": "TIMONA",
+        "villageCode": "JILLIGURI_GAON",
+        "villageName": "Jilliguri Gaon"
+      },
+      {
+        "id": 122,
+        "gramPanchayatCode": "JOKAI",
+        "villageCode": "JOKAI_TE_CO_29_143_ORR",
+        "villageName": "Jokai T.E. Co. 29/143 Orr"
+      },
+      {
+        "id": 123,
+        "gramPanchayatCode": "NIZ_KANAI",
+        "villageCode": "KANDULIBARI_GRANT_4",
+        "villageName": "Kandulibari Grant 4"
+      },
+      {
+        "id": 124,
+        "gramPanchayatCode": "LAHOWAL",
+        "villageCode": "LAHOAL_19_150_ORR",
+        "villageName": "Lahoal 19/150 Orr (27 No.LC)"
+      },
+      {
+        "id": 125,
+        "gramPanchayatCode": "LAHOWAL",
+        "villageCode": "LAHOAL_PATRA",
+        "villageName": "Lahoal Patra"
+      },
+      {
+        "id": 126,
+        "gramPanchayatCode": "LAHOWAL",
+        "villageCode": "LAHOAL_TE_27_148_ORR",
+        "villageName": "Lahoal T.E. 27/148 Orr"
+      },
+      {
+        "id": 127,
+        "gramPanchayatCode": "HILOIDHARI",
+        "villageCode": "MAIJAN_GRANT_GAON",
+        "villageName": "Maijan Grant Gaon"
+      },
+      {
+        "id": 128,
+        "gramPanchayatCode": "TIMONA",
+        "villageCode": "MELEINGAL_GAON",
+        "villageName": "Meleingal Gaon"
+      },
+      {
+        "id": 129,
+        "gramPanchayatCode": "MOHANBARI",
+        "villageCode": "MIRIPATHAR_16_FS",
+        "villageName": "Miripathar 16 No. FS"
+      },
+      {
+        "id": 130,
+        "gramPanchayatCode": "MOHANBARI",
+        "villageCode": "MIRIPATHAR_GAON",
+        "villageName": "Miripathar Gaon"
+      },
+      {
+        "id": 131,
+        "gramPanchayatCode": "MOHANBARI",
+        "villageCode": "MOHANBARI_31_160_ORR",
+        "villageName": "Mohanbari 31/160 Orr"
+      },
+      {
+        "id": 132,
+        "gramPanchayatCode": "MOHANBARI",
+        "villageCode": "MOHANBARI_HINDU_GAON",
+        "villageName": "Mohanbari Hindu Gaon"
+      },
+      {
+        "id": 133,
+        "gramPanchayatCode": "MAIJAN",
+        "villageCode": "NAGAGHULI_16_177_ORR",
+        "villageName": "Nagaghuli 16/177 Orr"
+      },
+      {
+        "id": 134,
+        "gramPanchayatCode": "ROMAI",
+        "villageCode": "NA_GAON",
+        "villageName": "Na-Gaon"
+      },
+      {
+        "id": 135,
+        "gramPanchayatCode": "LAHOWAL",
+        "villageCode": "NIZ_MOIDOMIA",
+        "villageName": "Niz Moidomia"
+      },
+      {
+        "id": 136,
+        "gramPanchayatCode": "LAHOWAL",
+        "villageCode": "NIZ_LAHOAL",
+        "villageName": "Niz- Lahoal"
+      },
+      {
+        "id": 137,
+        "gramPanchayatCode": "TIMONA",
+        "villageCode": "NUNPURIA",
+        "villageName": "Nunpuria"
+      },
+      {
+        "id": 138,
+        "gramPanchayatCode": "ROMAI",
+        "villageCode": "PHUTAHULA",
+        "villageName": "Phutahula"
+      },
+      {
+        "id": 139,
+        "gramPanchayatCode": "ROMAI",
+        "villageCode": "RAJGARH_NO_2",
+        "villageName": "Rajgarh No.2"
+      },
+      {
+        "id": 140,
+        "gramPanchayatCode": "ROMAI",
+        "villageCode": "ROMAI_GAON",
+        "villageName": "Romai Gaon"
+      },
+      {
+        "id": 141,
+        "gramPanchayatCode": "MODERKHAT",
+        "villageCode": "RONGLITING_NO_2",
+        "villageName": "Rongliting No.2"
+      },
+      {
+        "id": 142,
+        "gramPanchayatCode": "MODERKHAT",
+        "villageCode": "RONGPURIA",
+        "villageName": "Rongpuria"
+      },
+      {
+        "id": 143,
+        "gramPanchayatCode": "ROMAI",
+        "villageCode": "SAGALIKATA",
+        "villageName": "Sagalikata"
+      },
+      {
+        "id": 144,
+        "gramPanchayatCode": "TIMONA",
+        "villageCode": "TAMULBARI_TE",
+        "villageName": "Tamulbari T.E."
+      },
+      {
+        "id": 145,
+        "gramPanchayatCode": "TIMONA",
+        "villageCode": "TAMULBARI_TE_40_43_NIR",
+        "villageName": "Tamulbari T.E. 40/43 Nir"
+      },
+      {
+        "id": 146,
+        "gramPanchayatCode": "TIMONA",
+        "villageCode": "TAMULBARI_TE_43_46_NIR",
+        "villageName": "Tamulbari T.E. 43/46 Nir"
+      },
+      {
+        "id": 147,
+        "gramPanchayatCode": "TIMONA",
+        "villageCode": "TAMULBARI_TE_90_93_NIR",
+        "villageName": "Tamulbari T.E. 90/93 Nir"
+      },
+      {
+        "id": 148,
+        "gramPanchayatCode": "TIMONA",
+        "villageCode": "TIMONA_GAON",
+        "villageName": "Timona Gaon"
+      },
+      {
+        "id": 149,
+        "gramPanchayatCode": "MOHANBARI",
+        "villageCode": "TITADIMARU_GAON",
+        "villageName": "Titadimaru Gaon"
+      },
+      {
+        "id": 150,
+        "gramPanchayatCode": "KOTOHA",
+        "villageCode": "FC_GRANT_53",
+        "villageName": "53 No. FC Grant"
+      },
+      {
+        "id": 151,
+        "gramPanchayatCode": "RAJABHETA",
+        "villageCode": "BOGIBILL_GAON",
+        "villageName": "Bogibill Gaon"
+      },
+      {
+        "id": 152,
+        "gramPanchayatCode": "BORPOTHAR",
+        "villageCode": "BEHAITING_TE",
+        "villageName": "Behaiting T.E."
+      },
+      {
+        "id": 153,
+        "gramPanchayatCode": "KOTOHA",
+        "villageCode": "BHOGAMUR_GAON",
+        "villageName": "Bhogamur Gaon"
+      },
+      {
+        "id": 154,
+        "gramPanchayatCode": "JOKAI",
+        "villageCode": "BHORBURI_NOGAON_1",
+        "villageName": "Bhorburi Nogaon No. 1"
+      },
+      {
+        "id": 155,
+        "gramPanchayatCode": "JOKAI",
+        "villageCode": "BHORBURI_NOGAON_2",
+        "villageName": "Bhorburi Nogaon No.2"
+      },
+      {
+        "id": 156,
+        "gramPanchayatCode": "JOKAI",
+        "villageCode": "BHORBURI_NOGAON_3",
+        "villageName": "Bhorburi Nogaon No.3"
+      },
+      {
+        "id": 157,
+        "gramPanchayatCode": "LEJAI",
+        "villageCode": "BINOIGUTIA_GAON",
+        "villageName": "Binoigutia Gaon"
+      },
+      {
+        "id": 158,
+        "gramPanchayatCode": "NIZ_MANKOTTA",
+        "villageCode": "BOGPARA_GAON",
+        "villageName": "Bogpara Gaon"
+      },
+      {
+        "id": 159,
+        "gramPanchayatCode": "KOTOHA",
+        "villageCode": "BOLAI_GAON",
+        "villageName": "Bolai Gaon"
+      },
+      {
+        "id": 160,
+        "gramPanchayatCode": "KOTOHA",
+        "villageCode": "BOLAI_NOGAON",
+        "villageName": "Bolai Nogaon"
+      },
+      {
+        "id": 161,
+        "gramPanchayatCode": "DULIA_KAKOTI",
+        "villageCode": "BOLAI_TE_A_45_GRANT",
+        "villageName": "Bolai T.E. (A) No.45 Grant"
+      },
+      {
+        "id": 162,
+        "gramPanchayatCode": "DULIA_KAKOTI",
+        "villageCode": "BOLAI_TE_B_45_GRANT",
+        "villageName": "Bolai T.E. (B) No.45 Grant"
+      },
+      {
+        "id": 163,
+        "gramPanchayatCode": "DULIA_KAKOTI",
+        "villageCode": "BOLAI_TE_42_137_RR_GRANT",
+        "villageName": "Bolai T.E. 42/ 137 Rr Grant"
+      },
+      {
+        "id": 164,
+        "gramPanchayatCode": "KOTOHA",
+        "villageCode": "BOLAIBARI_GAON",
+        "villageName": "Bolaibari Gaon"
+      },
+      {
+        "id": 165,
+        "gramPanchayatCode": "NIZ_MANKOTTA",
+        "villageCode": "BOR_BOGPARA_TE_8_185_ORR",
+        "villageName": "Bor Bogpara T.E. 8/ 185 Orr Grant"
+      },
+      {
+        "id": 166,
+        "gramPanchayatCode": "JOKAI",
+        "villageCode": "BOR_TEMTOW_GAON",
+        "villageName": "Bor Temtow Gaon"
+      },
+      {
+        "id": 167,
+        "gramPanchayatCode": "BARBARUA",
+        "villageCode": "BORAHajar_KONWAR_GAON",
+        "villageName": "Borahajar Konwar Gaon"
+      },
+      {
+        "id": 168,
+        "gramPanchayatCode": "BORPOTHAR",
+        "villageCode": "BORBARUA_TE_13_76_ORR",
+        "villageName": "Borbarua T.E. 13/76 Orr Grant"
+      },
+      {
+        "id": 169,
+        "gramPanchayatCode": "JOKAI",
+        "villageCode": "BORBILL_GAON_2",
+        "villageName": "Borbill Gaon No.2"
+      },
+      {
+        "id": 170,
+        "gramPanchayatCode": "DULIA_KAKOTI",
+        "villageCode": "BORPATHER_KAKOTI_GAON",
+        "villageName": "Borpather Kakoti Gaon"
+      },
+      {
+        "id": 171,
+        "gramPanchayatCode": "BORPOTHAR",
+        "villageCode": "BORPATHER_KONWAR_GAON",
+        "villageName": "Borpather Konwar Gaon"
+      },
+      {
+        "id": 172,
+        "gramPanchayatCode": "KALAKHOWA",
+        "villageCode": "BURISUTI_KOIBORTA_GAON",
+        "villageName": "Burisuti Koiborta Gaon"
+      },
+      {
+        "id": 173,
+        "gramPanchayatCode": "JOKAI",
+        "villageCode": "CHAMOGURI_KACHARI_GAON",
+        "villageName": "Chamoguri Kachari Gaon"
+      },
+      {
+        "id": 174,
+        "gramPanchayatCode": "JOKAI",
+        "villageCode": "CHAMUGURI_BONGALI_GAON",
+        "villageName": "Chamuguri Bongali Gaon"
+      },
+      {
+        "id": 175,
+        "gramPanchayatCode": "JOKAI",
+        "villageCode": "CHANGAMARI_GAON",
+        "villageName": "Changamari Gaon"
+      },
+      {
+        "id": 176,
+        "gramPanchayatCode": "BORPOTHAR",
+        "villageCode": "CHANGAMARI_HABI_GAON",
+        "villageName": "Changamari Habi gaon"
+      },
+      {
+        "id": 177,
+        "gramPanchayatCode": "BORPOTHAR",
+        "villageCode": "CHANGAMARI_TEKELA_GAON",
+        "villageName": "Changamari Tekela Gaon"
+      },
+      {
+        "id": 178,
+        "gramPanchayatCode": "BARBARUA",
+        "villageCode": "CHANGMAI_GARIA_GAON",
+        "villageName": "Changmai Garia Gaon"
+      },
+      {
+        "id": 179,
+        "gramPanchayatCode": "BARBARUA",
+        "villageCode": "CHANGMAI_GOHAIN_GAON",
+        "villageName": "Changmai Gohain Gaon"
+      },
+      {
+        "id": 180,
+        "gramPanchayatCode": "RAJABHETA",
+        "villageCode": "DAINIJAN_GAON",
+        "villageName": "Dainijan Gaon"
+      },
+      {
+        "id": 181,
+        "gramPanchayatCode": "KOTOHA",
+        "villageCode": "DEORI_GAON",
+        "villageName": "Deori Gaon"
+      },
+      {
+        "id": 182,
+        "gramPanchayatCode": "LEJAI",
+        "villageCode": "DEWANBARI_BAGISHA",
+        "villageName": "Dewanbari Bagisha"
+      },
+      {
+        "id": 183,
+        "gramPanchayatCode": "LEJAI",
+        "villageCode": "DEWANBARI_BAGISHA_24_149_NIR",
+        "villageName": "Dewanbari Bagisha 24/ 149 Nir Grant"
+      },
+      {
+        "id": 184,
+        "gramPanchayatCode": "LEJAI",
+        "villageCode": "DEWANBARI_GAON",
+        "villageName": "Dewanbari Gaon"
+      },
+      {
+        "id": 185,
+        "gramPanchayatCode": "TIMONA",
+        "villageCode": "DHARIATOLI_GAON",
+        "villageName": "Dhariatoli Gaon"
+      },
+      {
+        "id": 186,
+        "gramPanchayatCode": "BARBARUA",
+        "villageCode": "DIBRUWAL_DIHINGIA_GAON",
+        "villageName": "Dibruwal Dihingia Gaon"
+      },
+      {
+        "id": 187,
+        "gramPanchayatCode": "GARUDHORIA",
+        "villageCode": "DIGALI_DALANI_GAON",
+        "villageName": "Digali Dalani Gaon"
+      },
+      {
+        "id": 188,
+        "gramPanchayatCode": "RAJABHETA",
+        "villageCode": "DIGHALA_GAON",
+        "villageName": "Dighala Gaon"
+      },
+      {
+        "id": 189,
+        "gramPanchayatCode": "LEJAI",
+        "villageCode": "DIHING_KAIBARTA_GAON",
+        "villageName": "Dihing Kaibarta Giaon"
+      },
+      {
+        "id": 190,
+        "gramPanchayatCode": "BARBARUA",
+        "villageCode": "DULIA_GAON",
+        "villageName": "Dulia Gaon"
+      },
+      {
+        "id": 191,
+        "gramPanchayatCode": "BARBARUA",
+        "villageCode": "DULIA_NAHORANI_GAON",
+        "villageName": "Dulia Nahorani Gaon"
+      },
+      {
+        "id": 192,
+        "gramPanchayatCode": "BOGIBEEL",
+        "villageCode": "GABHARUJAN_GAON",
+        "villageName": "Gabharujan Gaon"
+      },
+      {
+        "id": 193,
+        "gramPanchayatCode": "GARUDHORIA",
+        "villageCode": "GARUDHARIA_CHARAIHABI_GAON",
+        "villageName": "Garudharia Charaihabi Gaon"
+      },
+      {
+        "id": 194,
+        "gramPanchayatCode": "NIZ_MANKOTTA",
+        "villageCode": "GHARBONDI_CHUK_JARUA_GAON",
+        "villageName": "Gharbondi Chuk Jarua Gaon"
+      },
+      {
+        "id": 195,
+        "gramPanchayatCode": "JOKAI",
+        "villageCode": "GHETIRA_PATHAR_GAON",
+        "villageName": "Ghetira Pathar Gaon"
+      },
+      {
+        "id": 196,
+        "gramPanchayatCode": "DULIA_KAKOTI",
+        "villageCode": "GHORAMORA_GAON",
+        "villageName": "Ghoramora Gaon"
+      },
+      {
+        "id": 197,
+        "gramPanchayatCode": "BARBARUA",
+        "villageCode": "GHORONIA_TE_81_184_91_94_NIR",
+        "villageName": "Ghoronia T.E. 81, 184. 91/94 No. Nir"
+      },
+      {
+        "id": 198,
+        "gramPanchayatCode": "JOKAI",
+        "villageCode": "HANCHARA_GAON",
+        "villageName": "Hanchara Gaon"
+      },
+      {
+        "id": 199,
+        "gramPanchayatCode": "JOKAI",
+        "villageCode": "HANCHARA_PATHAR_GAON",
+        "villageName": "Hanchara Pathar Gaon"
+      },
+      {
+        "id": 200,
+        "gramPanchayatCode": "BORPOTHAR",
+        "villageCode": "HANDIQUE_CHUK_GAON",
+        "villageName": "Handique Chuk Gaon"
+      },
+      {
+        "id": 201,
+        "gramPanchayatCode": "BOGIBEEL",
+        "villageCode": "HAPEKHATI_GAON",
+        "villageName": "Hapekhati Gaon"
+      },
+      {
+        "id": 202,
+        "gramPanchayatCode": "JOKAI",
+        "villageCode": "HAROK_PATHAR_GAON",
+        "villageName": "Harok Pathar Gaon"
+      },
+      {
+        "id": 203,
+        "gramPanchayatCode": "GARUDHORIA",
+        "villageCode": "HILOIBAM_GAON",
+        "villageName": "Hiloibam Gaon"
+      },
+      {
+        "id": 204,
+        "gramPanchayatCode": "BOGIBEEL",
+        "villageCode": "JAGALANI_GRANT_43_FS",
+        "villageName": "Jagalani Grant No. 43 FS"
+      },
+      {
+        "id": 205,
+        "gramPanchayatCode": "RAJABHETA",
+        "villageCode": "JAPARA_GAON_2",
+        "villageName": "Japara Gaon"
+      },
+      {
+        "id": 206,
+        "gramPanchayatCode": "JOKAI",
+        "villageCode": "JOKAI_TE_NO_1_LCR",
+        "villageName": "Jokai T.E. No. 1 L.C.R."
+      },
+      {
+        "id": 207,
+        "gramPanchayatCode": "BORPOTHAR",
+        "villageCode": "KACHARI_GAON",
+        "villageName": "Kachari Gaon"
+      },
+      {
+        "id": 208,
+        "gramPanchayatCode": "KOTOHA",
+        "villageCode": "KACHOMARI_DEORI_GAON",
+        "villageName": "Kachomari Deori Gaon"
+      },
+      {
+        "id": 209,
+        "gramPanchayatCode": "KOTOHA",
+        "villageCode": "KACHOMARI_HATIGAR_GAON",
+        "villageName": "Kachomari Hatigar Gaon"
+      },
+      {
+        "id": 210,
+        "gramPanchayatCode": "BOGIBEEL",
+        "villageCode": "KALATOMONI_GAON",
+        "villageName": "Kalatomoni Gaon"
+      },
+      {
+        "id": 211,
+        "gramPanchayatCode": "JOKAI",
+        "villageCode": "KAMAKHYA_GAON",
+        "villageName": "Kamakhya Gaon"
+      },
+      {
+        "id": 212,
+        "gramPanchayatCode": "BOGIBEEL",
+        "villageCode": "KAPOWTEPOR_GAON",
+        "villageName": "Kapowtepor Gaon"
+      },
+      {
+        "id": 213,
+        "gramPanchayatCode": "JOKAI",
+        "villageCode": "KATH_GAON",
+        "villageName": "Kath Gaon"
+      },
+      {
+        "id": 214,
+        "gramPanchayatCode": "BOGIBEEL",
+        "villageCode": "KAWOIMARI_GAON",
+        "villageName": "Kawoimari Gaon"
+      },
+      {
+        "id": 215,
+        "gramPanchayatCode": "MANKOTTA_KHANIKAR",
+        "villageCode": "KHANIKAR_TE_2_LCR_GRANT",
+        "villageName": "Khanikar T.E. 2 L.C.R. Grant"
+      },
+      {
+        "id": 216,
+        "gramPanchayatCode": "DULIA_KAKOTI",
+        "villageCode": "KHANIKAR_TE_32_31_NLR_GRANT",
+        "villageName": "Khanikar T.E. 32/31 N.L.R. Grant"
+      },
+      {
+        "id": 217,
+        "gramPanchayatCode": "JOKAI",
+        "villageCode": "KOLIANI_NOGAON",
+        "villageName": "Koliani Nogaon"
+      },
+      {
+        "id": 218,
+        "gramPanchayatCode": "BORPOTHAR",
+        "villageCode": "KONWAR_HANDIQUE_GAON",
+        "villageName": "Konwar Handique Gaon"
+      },
+      {
+        "id": 219,
+        "gramPanchayatCode": "JOKAI",
+        "villageCode": "KONWAR_KHERONI_GAON",
+        "villageName": "Konwar Kheroni Gaon"
+      },
+      {
+        "id": 220,
+        "gramPanchayatCode": "KOTOHA",
+        "villageCode": "KOTOHA_BANGALI_GAON",
+        "villageName": "Kotoha Bangali Gaon"
+      },
+      {
+        "id": 221,
+        "gramPanchayatCode": "KOTOHA",
+        "villageCode": "KOTOHA_GAON",
+        "villageName": "Kotoha Gaon"
+      },
+      {
+        "id": 222,
+        "gramPanchayatCode": "NIZ_MANKOTTA",
+        "villageCode": "KUCHIA_KHANA_GAON",
+        "villageName": "Kuchia Khana Gaon"
+      },
+      {
+        "id": 223,
+        "gramPanchayatCode": "DULIA_KAKOTI",
+        "villageCode": "LEKAI_GAON",
+        "villageName": "Lekai Gaon"
+      },
+      {
+        "id": 224,
+        "gramPanchayatCode": "GARUDHORIA",
+        "villageCode": "LARUAIJAN_GAON",
+        "villageName": "Laruajan Gaon"
+      },
+      {
+        "id": 225,
+        "gramPanchayatCode": "BOGIBEEL",
+        "villageCode": "LENGAPATHAR_GAON",
+        "villageName": "Lengapathar Gaon"
+      },
+      {
+        "id": 226,
+        "gramPanchayatCode": "LEJAI",
+        "villageCode": "LEPETKATTA_60_FS_71_NLR",
+        "villageName": "Lepetkatta 60 No. FS 71 No. Nlr"
+      },
+      {
+        "id": 227,
+        "gramPanchayatCode": "LEJAI",
+        "villageCode": "LEPETKATTA_BAGISHA",
+        "villageName": "Lepetkatta Bagisha"
+      },
+      {
+        "id": 228,
+        "gramPanchayatCode": "BARBARUA",
+        "villageCode": "LEPETKATTA_BANGALI_GAON",
+        "villageName": "Lepetkatta Bangali Gaon"
+      },
+      {
+        "id": 229,
+        "gramPanchayatCode": "BARBARUA",
+        "villageCode": "LEPETKATTA_BANGLA_BLOCK",
+        "villageName": "Lepetkatta Bangla Block"
+      },
+      {
+        "id": 230,
+        "gramPanchayatCode": "BARBARUA",
+        "villageCode": "LEPETKATTA_GAON",
+        "villageName": "Lepetkatta Gaon"
+      },
+      {
+        "id": 231,
+        "gramPanchayatCode": "DULIA_KAKOTI",
+        "villageCode": "LEPETKATTA_KACHARI_GAON",
+        "villageName": "Lepetkatta Kachari Gaon"
+      },
+      {
+        "id": 232,
+        "gramPanchayatCode": "BORPOTHAR",
+        "villageCode": "MAHMARI_PATHER",
+        "villageName": "Mahmari Pather"
+      },
+      {
+        "id": 233,
+        "gramPanchayatCode": "JOKAI",
+        "villageCode": "MAJU_TEMTOW_BAGISHA",
+        "villageName": "Maju Temtow Bagisha"
+      },
+      {
+        "id": 234,
+        "gramPanchayatCode": "MANKOTTA_KHANIKAR",
+        "villageCode": "MANKATA_TE_1_159_RR_B_GRANT",
+        "villageName": "Mankata T.E. 1 / 159 Rr(B) Grant"
+      },
+      {
+        "id": 235,
+        "gramPanchayatCode": "BOGIBEEL",
+        "villageCode": "MATAK_GAON",
+        "villageName": "Matak Gaon"
+      },
+      {
+        "id": 236,
+        "gramPanchayatCode": "GARUDHORIA",
+        "villageCode": "MEDELA_GRANT_NO_3",
+        "villageName": "Medela Grant No.3"
+      },
+      {
+        "id": 237,
+        "gramPanchayatCode": "GARUDHORIA",
+        "villageCode": "METEKANI_GAON",
+        "villageName": "Metekani Gaon"
+      },
+      {
+        "id": 238,
+        "gramPanchayatCode": "JOKAI",
+        "villageCode": "MOHMARI_GAON_NO_1",
+        "villageName": "Mohmari Gaon No. 1"
+      },
+      {
+        "id": 239,
+        "gramPanchayatCode": "JOKAI",
+        "villageCode": "MOHMARI_GAON_NO_2",
+        "villageName": "Mohmari Gaon No.2"
+      },
+      {
+        "id": 240,
+        "gramPanchayatCode": "RAJABHETA",
+        "villageCode": "NAGAKHELIA_GAON",
+        "villageName": "Nagakhelia Gaon"
+      },
+      {
+        "id": 241,
+        "gramPanchayatCode": "KOTOHA",
+        "villageCode": "NIBUK_GAON",
+        "villageName": "Nibuk Gaon"
+      },
+      {
+        "id": 242,
+        "gramPanchayatCode": "MANKOTTA_KHANIKAR",
+        "villageCode": "NIZ_KHANIKAR_GAON",
+        "villageName": "Niz Khanikar Gaon"
+      },
+      {
+        "id": 243,
+        "gramPanchayatCode": "GARUDHORIA",
+        "villageCode": "NO_1_GARUDHARIA_GAON",
+        "villageName": "No. 1 Garudharia Gaon"
+      },
+      {
+        "id": 244,
+        "gramPanchayatCode": "BARBARUA",
+        "villageCode": "NO_HAZAR_KONWAR_GAON",
+        "villageName": "No-Hazar Konwar Gaon"
+      },
+      {
+        "id": 245,
+        "gramPanchayatCode": "KOTOHA",
+        "villageCode": "NOWJAN_GAON_NO_1",
+        "villageName": "Nowjan Gaon No. 1"
+      },
+      {
+        "id": 246,
+        "gramPanchayatCode": "KOTOHA",
+        "villageCode": "NOWJAN_GAON_NO_2",
+        "villageName": "Nowjan Gaon No.2"
+      },
+      {
+        "id": 247,
+        "gramPanchayatCode": "KOTOHA",
+        "villageCode": "NOWJAN_SALMARI_NC",
+        "villageName": "Nowjan Salmari NC"
+      },
+      {
+        "id": 248,
+        "gramPanchayatCode": "TIMONA",
+        "villageCode": "PALONIA_GAON",
+        "villageName": "Palonia Gaon"
+      },
+      {
+        "id": 249,
+        "gramPanchayatCode": "JOKAI",
+        "villageCode": "PANITOLA_KONWAR_GAON",
+        "villageName": "Panitola Konwar Gaon"
+      },
+      {
+        "id": 250,
+        "gramPanchayatCode": "BOGIBEEL",
+        "villageCode": "PATRA_GAON",
+        "villageName": "Patra Gaon"
+      },
+      {
+        "id": 251,
+        "gramPanchayatCode": "BORPOTHAR",
+        "villageCode": "ROWMARI_GAON",
+        "villageName": "Rowmari Gaon"
+      },
+      {
+        "id": 252,
+        "gramPanchayatCode": "DULIA_KAKOTI",
+        "villageCode": "SESSA_TE_14_153_ORR_GRANT",
+        "villageName": "Sessa T.E. 14/153 0rr Grant"
+      },
+      {
+        "id": 253,
+        "gramPanchayatCode": "LEJAI",
+        "villageCode": "SESSAKUCH_GAON_NO_1",
+        "villageName": "Sessakuch Gaon No. 1"
+      },
+      {
+        "id": 254,
+        "gramPanchayatCode": "LEJAI",
+        "villageCode": "SESSAKUCH_GAON_NO_2",
+        "villageName": "Sessakuch Gaon No.2"
+      },
+      {
+        "id": 255,
+        "gramPanchayatCode": "BOGIBEEL",
+        "villageCode": "SHAHJAN_GAON_NO_1",
+        "villageName": "Shahjan Gaon No. 1"
+      },
+      {
+        "id": 256,
+        "gramPanchayatCode": "BOGIBEEL",
+        "villageCode": "SHAHJAN_GAON_NO_2",
+        "villageName": "Shahjan Gaon No.2"
+      },
+      {
+        "id": 257,
+        "gramPanchayatCode": "GARUDHORIA",
+        "villageCode": "SUBACHUK_GAON",
+        "villageName": "Subachuk Gaon"
+      },
+      {
+        "id": 258,
+        "gramPanchayatCode": "MANKOTTA_KHANIKAR",
+        "villageCode": "SUTA_BOGPAR_TE_10_165_OR_A_GRANT",
+        "villageName": "Suta Bogpar T.E. 10/ 165 O.R.(A) Grant"
+      },
+      {
+        "id": 259,
+        "gramPanchayatCode": "BOGIBEEL",
+        "villageCode": "TEPAR_PATHER_GAON",
+        "villageName": "Tepar Pather Gaon"
+      },
+      {
+        "id": 260,
+        "gramPanchayatCode": "GARUDHORIA",
+        "villageCode": "THANGAL_GAON",
+        "villageName": "Thangal Gaon"
+      },
+      {
+        "id": 261,
+        "gramPanchayatCode": "LEJAI",
+        "villageCode": "TINCHUKIA_GAON",
+        "villageName": "Tinchukia Gaon"
+      },
+      {
+        "id": 262,
+        "gramPanchayatCode": "RAJABHETA",
+        "villageCode": "TINGKHONG_GAON",
+        "villageName": "Tingkhong Gaon"
+      },
+      {
+        "id": 263,
+        "gramPanchayatCode": "BOGIBEEL",
+        "villageCode": "WALLKHABI_GAON_NO_1",
+        "villageName": "Wallkhabi Gaon No.1"
+      },
+      {
+        "id": 264,
+        "gramPanchayatCode": "BOGIBEEL",
+        "villageCode": "WALLKHABI_GAON_NO_2",
+        "villageName": "Wallkhabi Gaon No.2"
+      },
+      {
+        "id": 265,
+        "gramPanchayatCode": "KOLOLUWA",
+        "villageCode": "KOLLALOWA_HABI",
+        "villageName": "Kollalowa Habi"
+      },
+      {
+        "id": 266,
+        "gramPanchayatCode": "KOLOLUWA",
+        "villageCode": "MUWAMORI_GAON_NO_2",
+        "villageName": "Muwamori Gaon No.2"
+      },
+      {
+        "id": 267,
+        "gramPanchayatCode": "TINSUKIA_MB",
+        "villageCode": "TINSUKIA_MUNICIPAL_BOARD_AREA",
+        "villageName": "Tinsukia Municipal Board Area"
+      },
+      {
+        "id": 268,
+        "gramPanchayatCode": "RONGPURIA",
+        "villageCode": "LOHARI_KACHARI_GAON_OG",
+        "villageName": "Lohari Kachari Gaon (Out Growth)"
+      },
+      {
+        "id": 269,
+        "gramPanchayatCode": "BORGURI",
+        "villageCode": "HENGALUGURI_GAON_OG",
+        "villageName": "Hengaluguri Gaon (Out Growth)"
+      },
+      {
+        "id": 270,
+        "gramPanchayatCode": "BOJALTOLI",
+        "villageCode": "BAJALTALI_GAON_OG",
+        "villageName": "Bajaltali Gaon (Out Growth)"
+      },
+      {
+        "id": 271,
+        "gramPanchayatCode": "ITAKHULI_CHARIALI",
+        "villageCode": "HIJUGURI_GAON_OG",
+        "villageName": "Hijuguri Gaon (Out Growth)"
+      },
+      {
+        "id": 272,
+        "gramPanchayatCode": "BORGURI",
+        "villageCode": "BORDOLOI_NAGAR_OG",
+        "villageName": "Bordoloi Nagar (Out Growth)"
+      },
+      {
+        "id": 273,
+        "gramPanchayatCode": "LAIPULI",
+        "villageCode": "BAHBARI_GAON_CT",
+        "villageName": "Bahbari Gaon (Census Town)"
+      },
+      {
+        "id": 274,
+        "gramPanchayatCode": "BORGURI",
+        "villageCode": "KACHUJAN_GAON_CT",
+        "villageName": "Kachujan Gaon (Census Town)"
+      },
+      {
+        "id": 275,
+        "gramPanchayatCode": "RONGPURIA",
+        "villageCode": "BHIMPARA_GAON",
+        "villageName": "Bhimpara Gaon"
+      },
+      {
+        "id": 276,
+        "gramPanchayatCode": "BOJALTOLI",
+        "villageCode": "DEHINGIA_GAON",
+        "villageName": "Dehingia Gaon"
+      },
+      {
+        "id": 277,
+        "gramPanchayatCode": "LAIPULI",
+        "villageCode": "DHEKIAJURI_GAON",
+        "villageName": "Dhekiajuri Gaon"
+      },
+      {
+        "id": 278,
+        "gramPanchayatCode": "DIMARUGURI",
+        "villageCode": "DIMARUGURI_GAON",
+        "villageName": "Dimaruguri Gaon"
+      },
+      {
+        "id": 279,
+        "gramPanchayatCode": "ITAKHULI_CHARIALI",
+        "villageCode": "DHEKIAJURI_BANGALI_GAON",
+        "villageName": "Dhekiajuri Bangali Gaon"
+      },
+      {
+        "id": 280,
+        "gramPanchayatCode": "BORGURI",
+        "villageCode": "HUKANPUKHURI_GAON",
+        "villageName": "Hukanpukhuri Gaon"
+      },
+      {
+        "id": 281,
+        "gramPanchayatCode": "ITAKHULI_CHARIALI",
+        "villageCode": "ITAKHULI_TE_GR_250_NLR",
+        "villageName": "Itakhuli T.E. Gr. No.250 NLR"
+      },
+      {
+        "id": 282,
+        "gramPanchayatCode": "BORGURI",
+        "villageCode": "JORIGURI_GAON",
+        "villageName": "Joriguri Gaon"
+      },
+      {
+        "id": 283,
+        "gramPanchayatCode": "BORGURI",
+        "villageCode": "KOKRATOLI_GAON",
+        "villageName": "Kokratoli Gaon"
+      },
+      {
+        "id": 284,
+        "gramPanchayatCode": "BORGURI",
+        "villageCode": "KACHUJAN_TE_GR_236_234",
+        "villageName": "Kachujan TE Gr. No.236/234, TE 163/160 & 257 NLR"
+      },
+      {
+        "id": 285,
+        "gramPanchayatCode": "LAIPULI",
+        "villageCode": "KAPTANCHUK_GAON",
+        "villageName": "Kaptanchuk Gaon"
+      },
+      {
+        "id": 286,
+        "gramPanchayatCode": "DIMARUGURI",
+        "villageCode": "KADAMONI_GAON",
+        "villageName": "Kadamoni Gaon"
+      },
+      {
+        "id": 287,
+        "gramPanchayatCode": "BOJALTOLI",
+        "villageCode": "LEZAIHULAGAON",
+        "villageName": "Lezaihulagaon"
+      },
+      {
+        "id": 288,
+        "gramPanchayatCode": "RONGPURIA",
+        "villageCode": "NORSHING_GAON",
+        "villageName": "Norshing Gaon"
+      },
+      {
+        "id": 289,
+        "gramPanchayatCode": "RONGPURIA",
+        "villageCode": "NO_1_PATIA_PATHAR",
+        "villageName": "No.1 Patia Pathar"
+      },
+      {
+        "id": 290,
+        "gramPanchayatCode": "BOJALTOLI",
+        "villageCode": "OKONIMURIA_BANGALI_GAON",
+        "villageName": "Okonimuria Bangali Gaon"
+      },
+      {
+        "id": 291,
+        "gramPanchayatCode": "DIMARUGURI",
+        "villageCode": "OKONIMURIA_KACHARI_GAON",
+        "villageName": "Okonimuria Kachari Gaon"
+      },
+      {
+        "id": 292,
+        "gramPanchayatCode": "BORGURI",
+        "villageCode": "PORBATIA_GAON",
+        "villageName": "Porbatia Gaon"
+      },
+      {
+        "id": 293,
+        "gramPanchayatCode": "RONGPURIA",
+        "villageCode": "TINGRAI_HABI_GAON",
+        "villageName": "Tingrai habi Gaon"
+      },
+      {
+        "id": 294,
+        "gramPanchayatCode": "BORGURI",
+        "villageCode": "AHUKHAT_GAON",
+        "villageName": "Ahukhat Gaon"
+      },
+      {
+        "id": 295,
+        "gramPanchayatCode": "BORGURI",
+        "villageCode": "BHERJAN_GAON",
+        "villageName": "Bherjan Gaon"
+      },
+      {
+        "id": 296,
+        "gramPanchayatCode": "BAPUJI",
+        "villageCode": "BORBHETA_BANGALI_GAON",
+        "villageName": "Borbheta Bangali Gaon"
+      },
+      {
+        "id": 297,
+        "gramPanchayatCode": "BORGURI",
+        "villageCode": "CHANDMARI_NEPALI_GAON",
+        "villageName": "Chandmari Nepali gaon"
+      },
+      {
+        "id": 298,
+        "gramPanchayatCode": "LAIPULI",
+        "villageCode": "CHANGMAI_GAON",
+        "villageName": "Changmai Gaon"
+      },
+      {
+        "id": 299,
+        "gramPanchayatCode": "BAPUJI",
+        "villageCode": "CHOTO_TINGRAI_TE_54_FS",
+        "villageName": "Choto Tingrai TE 54 FS"
+      },
+      {
+        "id": 300,
+        "gramPanchayatCode": "LAIPULI",
+        "villageCode": "DAHUTIA_GAON",
+        "villageName": "Dahutia Gaon"
+      },
+      {
+        "id": 301,
+        "gramPanchayatCode": "DIMARUGURI",
+        "villageCode": "GAHARIPAM_GAON",
+        "villageName": "Gaharipam Gaon"
+      },
+      {
+        "id": 302,
+        "gramPanchayatCode": "GOTTONG",
+        "villageCode": "GELAPUKHURI_TE_258_NLR_GR",
+        "villageName": "Gelapukhuri TE 258 NLR Gr."
+      },
+      {
+        "id": 303,
+        "gramPanchayatCode": "GOTTONG",
+        "villageCode": "GELAPUKHURI_TE_261_NLR_GR",
+        "villageName": "Gelapukhuri TE 261 NLR Gr."
+      },
+      {
+        "id": 304,
+        "gramPanchayatCode": "GOTTONG",
+        "villageCode": "GELAPUKHURI_TE_285_NLR_GR",
+        "villageName": "Gelapukhuri TE 285 NLR Gr."
+      },
+      {
+        "id": 305,
+        "gramPanchayatCode": "GOTTONG",
+        "villageCode": "GELAPUKHURI_TE_266_NLR_GR",
+        "villageName": "Gelapukhuri TE 266 NLR Gr."
+      },
+      {
+        "id": 306,
+        "gramPanchayatCode": "ITAKHULI_CHARIALI",
+        "villageCode": "HILIKHAGURI_GAON",
+        "villageName": "Hilikhaguri Gaon"
+      },
+      {
+        "id": 307,
+        "gramPanchayatCode": "BORGURI",
+        "villageCode": "HUKANPUKHURI_TE_PATTA_LAND",
+        "villageName": "Hukanpukhuri TE Patta land"
+      },
+      {
+        "id": 308,
+        "gramPanchayatCode": "RONGPURIA",
+        "villageCode": "HUKANPUKHURI_TE_37_73_NLR_GRANT",
+        "villageName": "Hukanpukhuri TE 37/73 NLR Grant"
+      },
+      {
+        "id": 309,
+        "gramPanchayatCode": "ITAKHULI_CHARIALI",
+        "villageCode": "ITAKHULI_TE_107_NLR",
+        "villageName": "Itakhuli TE 107 NLR"
+      },
+      {
+        "id": 310,
+        "gramPanchayatCode": "ITAKHULI_CHARIALI",
+        "villageCode": "ITAKHULI_TE_129_125_NLR",
+        "villageName": "Itakhuli TE 129/125 NLR"
+      },
+      {
+        "id": 311,
+        "gramPanchayatCode": "ITAKHULI_CHARIALI",
+        "villageCode": "JHINGA_GAON",
+        "villageName": "Jhinga Gaon"
+      },
+      {
+        "id": 312,
+        "gramPanchayatCode": "DIMARUGURI",
+        "villageCode": "JUGIPATHAR_GAON",
+        "villageName": "Jugipathar Gaon"
+      },
+      {
+        "id": 313,
+        "gramPanchayatCode": "BORGURI",
+        "villageCode": "GELAPUKHURI_GAON",
+        "villageName": "Gelapukhuri Gaon"
+      },
+      {
+        "id": 314,
+        "gramPanchayatCode": "ITAKHULI_CHARIALI",
+        "villageCode": "KEHENG_TE_23_145_ORR",
+        "villageName": "Keheng TE 23/145 ORR"
+      },
+      {
+        "id": 315,
+        "gramPanchayatCode": "DIMARUGURI",
+        "villageCode": "KUKUREKHUWA_GAON",
+        "villageName": "Kukurekhuwa Gaon"
+      },
+      {
+        "id": 316,
+        "gramPanchayatCode": "GOTTONG",
+        "villageCode": "LIMBUGURI_TE_251_149_NLR_GR",
+        "villageName": "Limbuguri TE 251/149 NLr Gr."
+      },
+      {
+        "id": 317,
+        "gramPanchayatCode": "RONGPURIA",
+        "villageCode": "LUHARI_BONGALI_GAON",
+        "villageName": "Luhari Bongali Gaon"
+      },
+      {
+        "id": 318,
+        "gramPanchayatCode": "RONGPURIA",
+        "villageCode": "LUHARI_NEPALI_GAON",
+        "villageName": "Luhari Nepali Gaon"
+      },
+      {
+        "id": 319,
+        "gramPanchayatCode": "ITAKHULI_CHARIALI",
+        "villageCode": "MORANKARI_GAON",
+        "villageName": "Morankari Gaon"
+      },
+      {
+        "id": 320,
+        "gramPanchayatCode": "PANITOLA",
+        "villageCode": "NA_GAON_TINSUKIA",
+        "villageName": "Na-Gaon"
+      },
+      {
+        "id": 321,
+        "gramPanchayatCode": "BOJALTOLI",
+        "villageCode": "NAKHARAI_BONGALI_GAON",
+        "villageName": "Nakharai Bongali Gaon"
+      },
+      {
+        "id": 322,
+        "gramPanchayatCode": "BOJALTOLI",
+        "villageCode": "NAKHARAI_GAON",
+        "villageName": "Nakharai gaon"
+      },
+      {
+        "id": 323,
+        "gramPanchayatCode": "BOJALTOLI",
+        "villageCode": "NO_1_BALUPARA_GAON",
+        "villageName": "No.1 Balupara Gaon"
+      },
+      {
+        "id": 324,
+        "gramPanchayatCode": "BOJALTOLI",
+        "villageCode": "NO_2_BALUPARA_GAON",
+        "villageName": "No.2 Balupara Gaon"
+      },
+      {
+        "id": 325,
+        "gramPanchayatCode": "RONGPURIA",
+        "villageCode": "NO_2_PATIA_PATHAR_GAON",
+        "villageName": "No. 2 Patia Pathar Gaon"
+      },
+      {
+        "id": 326,
+        "gramPanchayatCode": "DIMARUGURI",
+        "villageCode": "NUNPURIA_BONGALI_GAON",
+        "villageName": "Nunpuria Bongali Gaon"
+      },
+      {
+        "id": 327,
+        "gramPanchayatCode": "DIMARUGURI",
+        "villageCode": "NUNPURIA_KAIBOTRA_GAON",
+        "villageName": "Nunpuria Kaibotra Gaon"
+      },
+      {
+        "id": 328,
+        "gramPanchayatCode": "RONGPURIA",
+        "villageCode": "PAKHORIJAN_GAON",
+        "villageName": "Pakhorijan Gaon"
+      },
+      {
+        "id": 329,
+        "gramPanchayatCode": "BAREKURI",
+        "villageCode": "HATIGARH_GAON",
+        "villageName": "Hatigarh Gaon"
+      },
+      {
+        "id": 330,
+        "gramPanchayatCode": "BORGURI",
+        "villageCode": "CHIKAJAN_GAON",
+        "villageName": "Chikajan Gaon"
+      },
+      {
+        "id": 331,
+        "gramPanchayatCode": "BORGURI",
+        "villageCode": "CHANDMARI_GAON",
+        "villageName": "Chandmari Gaon"
+      },
+      {
+        "id": 332,
+        "gramPanchayatCode": "BOJALTOLI",
+        "villageCode": "NAKHARI_DHEKERI_GAON",
+        "villageName": "Nakhari Dhekeri gaon"
+      },
+      {
+        "id": 333,
+        "gramPanchayatCode": "BOJALTOLI",
+        "villageCode": "PODUMONI_GAON",
+        "villageName": "Podumoni Gaon"
+      },
+      {
+        "id": 334,
+        "gramPanchayatCode": "TENGAPANI",
+        "villageCode": "HEBEDA_BONGALI_GAON",
+        "villageName": "Hebeda Bongali Gaon"
+      },
+      {
+        "id": 335,
+        "gramPanchayatCode": "BAREKURI",
+        "villageCode": "TARAJAN_GAON",
+        "villageName": "Tarajan Gaon"
+      },
+      {
+        "id": 336,
+        "gramPanchayatCode": "HAPJAN",
+        "villageCode": "LESENGKA_BANGALI_GAON",
+        "villageName": "Lesengka Bangali Gaon"
+      },
+      {
+        "id": 337,
+        "gramPanchayatCode": "PANITOLA",
+        "villageCode": "PANITOLA_GAON",
+        "villageName": "Panitola Gaon"
+      },
+      {
+        "id": 338,
+        "gramPanchayatCode": "JERAI",
+        "villageCode": "PANITOLA_TE_68",
+        "villageName": "Panitola T.E.-68"
+      },
+      {
+        "id": 339,
+        "gramPanchayatCode": "BOJALTOLI",
+        "villageCode": "NOKHROY_TE_162_159_NLR",
+        "villageName": "Nokhroy T.E.162/159 Nlr-149/146 Nlr"
+      },
+      {
+        "id": 340,
+        "gramPanchayatCode": "BOJALTOLI",
+        "villageCode": "NAKHRAI_TE_149_146",
+        "villageName": "Nakhrai T.E. 149-146 (P)161/158,216/194/192 NLR"
+      },
+      {
+        "id": 341,
+        "gramPanchayatCode": "PANITOLA",
+        "villageCode": "PANITOLA_TOWN",
+        "villageName": "Panitola town"
+      },
+      {
+        "id": 342,
+        "gramPanchayatCode": "HAPJAN",
+        "villageCode": "BETJAN_255_NLR",
+        "villageName": "Betjan 255 NLR"
+      },
+      {
+        "id": 343,
+        "gramPanchayatCode": "HAPJAN",
+        "villageCode": "BETJAN_297_NLR",
+        "villageName": "Betjan 297 NLR"
+      },
+      {
+        "id": 344,
+        "gramPanchayatCode": "BAREKURI",
+        "villageCode": "LESENGKA_GAON",
+        "villageName": "Lesengka gaon"
+      },
+      {
+        "id": 345,
+        "gramPanchayatCode": "BAREKURI",
+        "villageCode": "DISAWJAN",
+        "villageName": "Disawjan"
+      },
+      {
+        "id": 346,
+        "gramPanchayatCode": "MADHUR_BOND",
+        "villageCode": "SILCHAR_TOWN_X_XI",
+        "villageName": "Silchar Town, SilcharPt -X, XI"
+      },
+      {
+        "id": 347,
+        "gramPanchayatCode": "BERENGA",
+        "villageCode": "BERENGA_I_II",
+        "villageName": "Berenga -I,II"
+      },
+      {
+        "id": 348,
+        "gramPanchayatCode": "BHAGADHAR_BARJURAI",
+        "villageCode": "BERENGA_III_IV_V",
+        "villageName": "Berenga -III, IV, V"
+      },
+      {
+        "id": 349,
+        "gramPanchayatCode": "AMBIKAPUR",
+        "villageCode": "AMBIKAPUR_PART_I_IV_V_VII_VIII",
+        "villageName": "Ambikapur Part – I, IV, V, VII, VIII"
+      },
+      {
+        "id": 350,
+        "gramPanchayatCode": "GHUNGOOR",
+        "villageCode": "AMBIKAPUR_PART_VI_XI",
+        "villageName": "Ambikapur Part-VI,XI"
+      },
+      {
+        "id": 351,
+        "gramPanchayatCode": "BHANJANTIPUR",
+        "villageCode": "AMBIKAPUR_PART_II_III",
+        "villageName": "Ambikapur Part-II,III"
+      },
+      {
+        "id": 352,
+        "gramPanchayatCode": "MEHERPUR",
+        "villageCode": "AMBIKAPUR_PART_X",
+        "villageName": "Ambikapur Part – X"
+      },
+      {
+        "id": 353,
+        "gramPanchayatCode": "KANAKPUR",
+        "villageCode": "KANAKPUR_PART_I_II",
+        "villageName": "Kanakpur Part – I, II"
+      },
+      {
+        "id": 354,
+        "gramPanchayatCode": "RONGPUR",
+        "villageCode": "RANGPUR_PART_III_IV",
+        "villageName": "Rangpur Part –III,IV"
+      },
+      {
+        "id": 355,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "BAHADURPUR",
+        "villageName": "Bahadurpur"
+      },
+      {
+        "id": 356,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "GOSHAIPUR_PART_I_III_V",
+        "villageName": "Goshaipur Part – I, III, V (portion)"
+      },
+      {
+        "id": 357,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "DUDHPATIL_PART_III_IV_V_VI_VII",
+        "villageName": "Dudhpatil Part-III (portion), IV (portion), V, VI, VII"
+      },
+      {
+        "id": 358,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "DUDHPATIL_GRANT",
+        "villageName": "Dudhpatil Grant"
+      },
+      {
+        "id": 359,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "MAGHUGHAT",
+        "villageName": "Maghughat"
+      },
+      {
+        "id": 360,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "MACHIMPUR_PART_II",
+        "villageName": "Machimpur Part-II"
+      },
+      {
+        "id": 361,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "MACHIMPUR_GRANT",
+        "villageName": "Machimpur Grant"
+      },
+      {
+        "id": 362,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "MACHIMPURBAGICHA",
+        "villageName": "MachimpurBagicha"
+      },
+      {
+        "id": 363,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "MOHIMPUR_PART_I",
+        "villageName": "Mohimpur Part-I"
+      },
+      {
+        "id": 364,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "KASHIPUR_GRANT",
+        "villageName": "Kashipur Grant"
+      },
+      {
+        "id": 365,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "KASHIPUR_PART_I_II",
+        "villageName": "Kashipur Part-I, II"
+      },
+      {
+        "id": 366,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "ARKATIPUR_GRANT_PORTION",
+        "villageName": "Arkatipur Grant (portion)"
+      },
+      {
+        "id": 367,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "BADRIPUR_PART_IV_V",
+        "villageName": "Badripur Part-IV, V"
+      },
+      {
+        "id": 368,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "GANGAPUR",
+        "villageName": "Gangapur"
+      },
+      {
+        "id": 369,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "NEAR_GRAM_PART_I",
+        "villageName": "Near Gram Part-I"
+      },
+      {
+        "id": 370,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "DHAMALIA",
+        "villageName": "Dhamalia"
+      },
+      {
+        "id": 371,
+        "gramPanchayatCode": "UTTAR_KRISHNAPUR",
+        "villageCode": "UTTAR_KRISHNAPUR_PART_I_II",
+        "villageName": "Uttar Krishnapur Part-I, II"
+      },
+      {
+        "id": 372,
+        "gramPanchayatCode": "DAKSHIN_KRISHNAPUR",
+        "villageCode": "UTTAR_KRISHNAPUR_PART_III_IV",
+        "villageName": "Uttar Krishnapur Part-III,IV"
+      },
+      {
+        "id": 373,
+        "gramPanchayatCode": "TUPKHANA",
+        "villageCode": "TUPKHANA_PART_I_II",
+        "villageName": "Tupkhana Part-I, II"
+      },
+      {
+        "id": 374,
+        "gramPanchayatCode": "UTTAR_KRISHNAPUR",
+        "villageCode": "SABAJPUR",
+        "villageName": "Sabajpur"
+      },
+      {
+        "id": 375,
+        "gramPanchayatCode": "GHOUNGOOR",
+        "villageCode": "BHORAKHAI_GRANT_SHEET_I_III_V",
+        "villageName": "Bhorakhai Grant sheet-I, III, V"
+      },
+      {
+        "id": 376,
+        "gramPanchayatCode": "BHORAKHAI",
+        "villageCode": "BHORAKHAI_PART_II_IV",
+        "villageName": "Bhorakhai Part-II,IV"
+      },
+      {
+        "id": 377,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "SAIDPUR_PART_I_II_III",
+        "villageName": "Saidpur Part-I, II-III (portion)"
+      },
+      {
+        "id": 378,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "BARIKNAGAR_PART_I_II",
+        "villageName": "Bariknagar Part-I, II"
+      },
+      {
+        "id": 379,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "SILCOORIE_GRANT_PART_IV",
+        "villageName": "Silcoorie Grant Part-IV"
+      },
+      {
+        "id": 380,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "SILCOORIE_GRANT",
+        "villageName": "Silcoorie Grant"
+      },
+      {
+        "id": 381,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "MAGAL_KHAL",
+        "villageName": "Magal Khal"
+      },
+      {
+        "id": 382,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "KHATAL_GRANT",
+        "villageName": "Khatal Grant"
+      },
+      {
+        "id": 383,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "MERUA_GRANT",
+        "villageName": "Merua Grant"
+      },
+      {
+        "id": 384,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "CHANG_DUAR_PART_I",
+        "villageName": "Chang Duar Part-I"
+      },
+      {
+        "id": 385,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "DIGAR_SRIKONA_PART_II",
+        "villageName": "Digar Srikona Part-II"
+      },
+      {
+        "id": 386,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "ELGIN_GRANT",
+        "villageName": "Elgin Grant"
+      },
+      {
+        "id": 387,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "PACHIM_BIROIN_HOWAR",
+        "villageName": "Pachim Biroin Howar"
+      },
+      {
+        "id": 388,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "INDIRA_GOARH",
+        "villageName": "Indira Goarh"
+      },
+      {
+        "id": 389,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "INDIRA_GOARH_GRANT",
+        "villageName": "Indira Goarh Grant"
+      },
+      {
+        "id": 390,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "SRIKONA_GRANT",
+        "villageName": "Srikona Grant"
+      },
+      {
+        "id": 391,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "SRIKONA",
+        "villageName": "Srikona"
+      },
+      {
+        "id": 392,
+        "gramPanchayatCode": "SILCHAR_MC",
+        "villageCode": "MATIRHAR_PART_I",
+        "villageName": "Matirhar Part-I"
+      },
+      {
+        "id": 393,
+        "gramPanchayatCode": "BHANJANTIPUR",
+        "villageCode": "JAYFARPUR",
+        "villageName": "Jayfarpur"
+      },
+      {
+        "id": 394,
+        "gramPanchayatCode": "TARUTAJABARI",
+        "villageCode": "TARUTAJABARI_PART_I",
+        "villageName": "Tarutajabari Part-I"
+      },
+      {
+        "id": 395,
+        "gramPanchayatCode": "CHENKOORI",
+        "villageCode": "BAGALAGHAT_GRANT_I_II",
+        "villageName": "Bagalaghat Grant-I, II"
+      },
+      {
+        "id": 396,
+        "gramPanchayatCode": "CHENKOORI",
+        "villageCode": "BAGALAGHAT_PART_I_II",
+        "villageName": "Bagalaghat Part-I, II"
+      },
+      {
+        "id": 397,
+        "gramPanchayatCode": "CHENKOORI",
+        "villageCode": "CHENGKURI_GRANT_I_II",
+        "villageName": "Chengkuri Grant-I, II"
+      },
+      {
+        "id": 398,
+        "gramPanchayatCode": "CHENKOORI",
+        "villageCode": "NIJCHATLA_HOWAR",
+        "villageName": "Nijchatla Howar"
+      },
+      {
+        "id": 399,
+        "gramPanchayatCode": "RAJNAGAR",
+        "villageCode": "RAKHALKHALERPUR_PART_I_II",
+        "villageName": "Rakhalkhalerpur Part-I, II"
+      },
+      {
+        "id": 400,
+        "gramPanchayatCode": "KUMARPARA_NIZJOINAGAR",
+        "villageCode": "BALIGHAT",
+        "villageName": "Balighat"
+      },
+      {
+        "id": 401,
+        "gramPanchayatCode": "KUMARPARA_NIZJOINAGAR",
+        "villageCode": "KUMARPARA",
+        "villageName": "Kumarpara"
+      },
+      {
+        "id": 402,
+        "gramPanchayatCode": "KUMARPARA_NIZJOINAGAR",
+        "villageCode": "UZAN_GRAM",
+        "villageName": "Uzan Gram"
+      }
+    ]
+}

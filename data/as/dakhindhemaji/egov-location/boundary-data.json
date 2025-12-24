@@ -1,0 +1,79 @@
+{
+  "tenantId": "as.dakhindhemaji",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "4f98db8d-d2fd-426a-a060-88d8d4975390",
+        "boundaryNum": 1,
+        "name": "Dakhin Dhemaji",
+        "localname": "Dakhin Dhemaji",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.dakhindhemaji",
+        "children": [
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082g01",
+            "boundaryNum": 1,
+            "name": "Mattikhula Gaon",
+            "localname": "Mattikhula Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "DakhindhemajiV1",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082g02",
+            "boundaryNum": 2,
+            "name": "Kowafala Habi",
+            "localname": "Kowafala Habi",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "DakhindhemajiV2",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082g03",
+            "boundaryNum": 3,
+            "name": "Kowafala Miri",
+            "localname": "Kowafala Miri",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "DakhindhemajiV3",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082g04",
+            "boundaryNum": 4,
+            "name": "Kowafala",
+            "localname": "Kowafala",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "DakhindhemajiV4",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082g05",
+            "boundaryNum": 5,
+            "name": "Dushutimuk Miri Pathar",
+            "localname": "Dushutimuk Miri Pathar",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "DakhindhemajiV5",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

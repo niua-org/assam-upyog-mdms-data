@@ -1,0 +1,1397 @@
+{
+  "tenantId": "as.silchar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "e2d66067-9556-4158-b3e9-421eb3e26a1d",
+        "boundaryNum": 1,
+        "name": "Silchar",
+        "localname": "Silchar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.silchar",
+        "children": [
+          {
+            "id": "039d31c6-3e46-4b54-97a3-6858bd572300",
+            "boundaryNum": 1,
+            "name": "WARD_1",
+            "localname": "WARD_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW1",
+            "children": [
+              {
+                "id": "ee1a3f1b-44fa-4078-98f9-4f889a608dc2",
+                "boundaryNum": 1,
+                "name": "Dudhpatil Part-V",
+                "localname": "Dudhpatil Part-V",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW1V1",
+                "children": []
+              },
+              {
+                "id": "4095ac21-3a3b-47b8-a319-a0fbb9851fe0",
+                "boundaryNum": 2,
+                "name": "Dudhpatil Part VI",
+                "localname": "Dudhpatil Part VI",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW1V2",
+                "children": []
+              },
+              {
+                "id": "39c88b8c-b969-4067-9c11-288325d68b04",
+                "boundaryNum": 3,
+                "name": "Dudhpatil Part VII",
+                "localname": "Dudhpatil Part VII",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW1V3",
+                "children": []
+              },
+              {
+                "id": "fce31aa4-053b-488a-b818-7e8f530ac3ce",
+                "boundaryNum": 4,
+                "name": "Bahadurpur",
+                "localname": "Bahadurpur",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW1V4",
+                "children": []
+              },
+              {
+                "id": "505c7d3e-40af-4d53-8ad3-c2a61fc10943",
+                "boundaryNum": 5,
+                "name": "Gossaipur Part - III",
+                "localname": "Gossaipur Part - III",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW1V5",
+                "children": []
+              },
+              {
+                "id": "30fa93f2-6d18-4cf2-bba6-f197dfc11cb2",
+                "boundaryNum": 6,
+                "name": "Gossaipur Part - V",
+                "localname": "Gossaipur Part - V",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW1V6",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "c5d3225c-b060-4cbc-9899-d5ae2f443cfd",
+            "boundaryNum": 2,
+            "name": "WARD_2",
+            "localname": "WARD_2",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW2",
+            "children": [
+              {
+                "id": "5a795145-73f7-4395-b6d0-212cb07bd826",
+                "boundaryNum": 1,
+                "name": "MASUGHAT",
+                "localname": "MASUGHAT",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW2V1",
+                "children": []
+              },
+              {
+                "id": "d969468e-fefe-449f-a4c2-c435f22da018",
+                "boundaryNum": 2,
+                "name": "DUDHPATIL PART-IV",
+                "localname": "DUDHPATIL PART-IV",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW2V2",
+                "children": []
+              },
+              {
+                "id": "555bbcfb-b102-407c-b021-757c73042554",
+                "boundaryNum": 3,
+                "name": "DUDHPATIL PART- V",
+                "localname": "DUDHPATIL PART- V",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW2V3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "596c13a8-a3ef-4bcf-a6e4-85bc77f98dc1",
+            "boundaryNum": 3,
+            "name": "WARD_3",
+            "localname": "WARD_3",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW3",
+            "children": [
+              {
+                "id": "1a885ebb-1815-4f3d-ac33-adc2436d5fd4",
+                "boundaryNum": 1,
+                "name": "RONGPUR PT-III,IV",
+                "localname": "RONGPUR PT-III,IV",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW3V1",
+                "children": []
+              },
+              {
+                "id": "832d9920-9de8-46ba-98aa-3c17420e5294",
+                "boundaryNum": 2,
+                "name": "RONGPUR PT-IV",
+                "localname": "RONGPUR PT-IV",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW3V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1084b714-cf39-427c-ba4d-01961909bdb8",
+            "boundaryNum": 4,
+            "name": "WARD_4",
+            "localname": "WARD_4",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW4",
+            "children": [
+              {
+                "id": "e8d3e869-b473-448b-8b89-7eb4f78e9592",
+                "boundaryNum": 1,
+                "name": "Part of SMB Ward No.-5",
+                "localname": "Part of SMB Ward No.-5",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW4V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "fe65158e-b475-4604-b0dc-e76f5f710f9e",
+            "boundaryNum": 5,
+            "name": "WARD_5",
+            "localname": "WARD_5",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW5",
+            "children": [
+              {
+                "id": "f9e2ca1e-ddbd-4be8-96de-7a3f4b683595",
+                "boundaryNum": 1,
+                "name": "Part of SMB Ward No.-5",
+                "localname": "Part of SMB Ward No.-5",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW5V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "ad522ca9-2a2d-4823-91d6-e49a6a583c0e",
+            "boundaryNum": 6,
+            "name": "WARD_6",
+            "localname": "WARD_6",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW6",
+            "children": [
+              {
+                "id": "b5a26842-488b-49a3-b572-eca32985b078",
+                "boundaryNum": 1,
+                "name": "Part of SMB Ward No.-2",
+                "localname": "Part of SMB Ward No.-2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW6V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "08ba6cb3-5561-446c-9e02-18cd0dbf160d",
+            "boundaryNum": 7,
+            "name": "WARD_7",
+            "localname": "WARD_7",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW7",
+            "children": [
+              {
+                "id": "b03de45b-b2b8-44c2-bd2b-3fca6b2afead",
+                "boundaryNum": 1,
+                "name": "Part of SMB Ward No.-2",
+                "localname": "Part of SMB Ward No.-2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW7V1",
+                "children": []
+              },
+              {
+                "id": "babaff1b-b181-40d0-a633-7ae3ae00a018",
+                "boundaryNum": 2,
+                "name": "Part of SMB Ward No. 3",
+                "localname": "Part of SMB Ward No. 3",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW7V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "02698463-b307-4e85-93e2-deed3941a717",
+            "boundaryNum": 8,
+            "name": "WARD_8",
+            "localname": "WARD_8",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW8",
+            "children": [
+              {
+                "id": "cca71d3f-6a3c-4a2c-8b59-1b9db9c3b292",
+                "boundaryNum": 1,
+                "name": "Part of SMB Ward No.-2",
+                "localname": "Part of SMB Ward No.-2",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW8V1",
+                "children": []
+              },
+              {
+                "id": "c4246ca4-55ff-409a-bdd8-e3c82e83e95d",
+                "boundaryNum": 2,
+                "name": "Part of SMB Ward No.-3",
+                "localname": "Part of SMB Ward No.-3",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW8V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "b0a6dc88-3b1d-4f2e-883b-fbcc072d2154",
+            "boundaryNum": 9,
+            "name": "WARD_9",
+            "localname": "WARD_9",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW9",
+            "children": [
+              {
+                "id": "8c1bb910-6524-4a67-9eff-44e6a42ee665",
+                "boundaryNum": 1,
+                "name": "Part of SMB Ward No.-1",
+                "localname": "Part of SMB Ward No.-1",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW9V1",
+                "children": []
+              },
+              {
+                "id": "3a2d83a3-d990-440c-9ec5-b734ecdbd2ca",
+                "boundaryNum": 2,
+                "name": "Part of SMB Ward No.-4",
+                "localname": "Part of SMB Ward No.-4",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW9V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "83ee5c75-e635-41ab-9e41-5d610da7cc75",
+            "boundaryNum": 10,
+            "name": "WARD_10",
+            "localname": "WARD_10",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW10",
+            "children": [
+              {
+                "id": "365f0e62-38a6-469c-8078-3534dfdc83be",
+                "boundaryNum": 1,
+                "name": "Part of SMB Ward No.-6",
+                "localname": "Part of SMB Ward No.-6",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW10V1",
+                "children": []
+              },
+              {
+                "id": "4c0010e5-6aee-49f4-ac21-4c4f6f776984",
+                "boundaryNum": 2,
+                "name": "Part of SMB Ward No.-7",
+                "localname": "Part of SMB Ward No.-7",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW10V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "2854e79e-f154-4a19-8c51-5256b22f7b88",
+            "boundaryNum": 11,
+            "name": "WARD_11",
+            "localname": "WARD_11",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW11",
+            "children": [
+              {
+                "id": "6b0fa537-f40f-4f6b-b757-27db6b907784",
+                "boundaryNum": 1,
+                "name": "Part of SMB Ward No.-6",
+                "localname": "Part of SMB Ward No.-6",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW11V1",
+                "children": []
+              },
+              {
+                "id": "fce28036-d8d5-409e-8ef1-747284cd3ffd",
+                "boundaryNum": 2,
+                "name": "Part of SMB Ward No.- 23",
+                "localname": "Part of SMB Ward No.- 23",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW11V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "5409e65b-e8ea-40fa-aa99-bde8e8799ca8",
+            "boundaryNum": 12,
+            "name": "WARD_12",
+            "localname": "WARD_12",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW12",
+            "children": [
+              {
+                "id": "54e00bb2-4892-4d9c-9763-b9d1a5f14fb9",
+                "boundaryNum": 1,
+                "name": "SMB Ward No.-24",
+                "localname": "SMB Ward No.-24",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW12V1",
+                "children": []
+              },
+              {
+                "id": "bfe0f1e2-f84d-4415-bb34-130a82fda7e9",
+                "boundaryNum": 2,
+                "name": "SMB Ward, No.-25",
+                "localname": "SMB Ward, No.-25",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW12V2",
+                "children": []
+              },
+              {
+                "id": "051847ef-10f9-40c8-9d8c-2ac60ecc3815",
+                "boundaryNum": 3,
+                "name": "Part of SMB Ward, No-27",
+                "localname": "Part of SMB Ward, No-27",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW12V3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "bb5efcb1-b276-402b-a1cb-d3fccf17f78f",
+            "boundaryNum": 13,
+            "name": "WARD_13",
+            "localname": "WARD_13",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW13",
+            "children": [
+              {
+                "id": "bc99b9f6-ae13-4075-9e57-00221ee4224d",
+                "boundaryNum": 1,
+                "name": "Tarapur Part-VII.",
+                "localname": "Tarapur Part-VII.",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW13V1",
+                "children": []
+              },
+              {
+                "id": "668a9f7f-f770-47bd-a504-756e7fd09907",
+                "boundaryNum": 2,
+                "name": "SMB Ward No.- 28",
+                "localname": "SMB Ward No.- 28",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW13V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1aa04d34-29bb-4efe-80ae-cb61ae2145c4",
+            "boundaryNum": 14,
+            "name": "WARD_14",
+            "localname": "WARD_14",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW14",
+            "children": [
+              {
+                "id": "230578cd-b671-4175-9691-2da225f7c0a8",
+                "boundaryNum": 1,
+                "name": "Tarapur Part-VII",
+                "localname": "Tarapur Part-VII",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW14V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "e769cbb5-e506-4487-8b0c-b926c476e083",
+            "boundaryNum": 15,
+            "name": "WARD_15",
+            "localname": "WARD_15",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW15",
+            "children": [
+              {
+                "id": "5ded5715-f14a-4f6d-99c7-b4dcc457f019",
+                "boundaryNum": 1,
+                "name": "Tarapur Part-VI",
+                "localname": "Tarapur Part-VI",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW15V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "036d3f54-c895-44e3-ae95-d5d7326b4bb5",
+            "boundaryNum": 16,
+            "name": "WARD_16",
+            "localname": "WARD_16",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW16",
+            "children": [
+              {
+                "id": "77044f0e-2a58-4c5d-8f72-22f8026f8f27",
+                "boundaryNum": 1,
+                "name": "Tupkhana Part-I(CT)",
+                "localname": "Tupkhana Part-I(CT)",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW16V1",
+                "children": []
+              },
+              {
+                "id": "31a6d195-9fab-4a9c-be55-056947e1761d",
+                "boundaryNum": 2,
+                "name": "Tarapur Part - I",
+                "localname": "Tarapur Part - I",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW16V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "a9468100-f54c-4256-97cb-f3c2df184323",
+            "boundaryNum": 17,
+            "name": "WARD_17",
+            "localname": "WARD_17",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW17",
+            "children": [
+              {
+                "id": "20c2ab68-ea19-4895-a093-506ebcb0821c",
+                "boundaryNum": 1,
+                "name": "Tarapur Part-IV",
+                "localname": "Tarapur Part-IV",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW17V1",
+                "children": []
+              },
+              {
+                "id": "92282699-5fea-451e-926f-6be6bea76dd1",
+                "boundaryNum": 2,
+                "name": "Tarapur Part-V",
+                "localname": "Tarapur Part-V",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW17V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "467cb53a-192c-45fb-9ad2-99e14bd5f877",
+            "boundaryNum": 18,
+            "name": "WARD_18",
+            "localname": "WARD_18",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW18",
+            "children": [
+              {
+                "id": "87e12445-92a9-4f99-9d5b-f664c133f74c",
+                "boundaryNum": 1,
+                "name": "Tarapur Part-VIII",
+                "localname": "Tarapur Part-VIII",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW18V1",
+                "children": []
+              },
+              {
+                "id": "707efb18-b2b5-49f9-8d2d-fe14b67c8478",
+                "boundaryNum": 2,
+                "name": "Ambicapur Part-I",
+                "localname": "Ambicapur Part-I",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW18V2",
+                "children": []
+              },
+              {
+                "id": "9c703020-1858-4e3c-be71-f87d55a2e252",
+                "boundaryNum": 3,
+                "name": "PART OF SMB WARD NO-19",
+                "localname": "PART OF SMB WARD NO-19",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW18V3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "a598003a-9563-477e-a589-7094cde1965a",
+            "boundaryNum": 19,
+            "name": "WARD_19",
+            "localname": "WARD_19",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW19",
+            "children": [
+              {
+                "id": "d71533be-032c-40f9-8d67-933c541c3a25",
+                "boundaryNum": 1,
+                "name": "SMB WARD NO-19",
+                "localname": "SMB WARD NO-19",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW19V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "d9809831-6646-41ca-bc6d-4ac80fbb9c46",
+            "boundaryNum": 20,
+            "name": "WARD_20",
+            "localname": "WARD_20",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW20",
+            "children": [
+              {
+                "id": "2c1e69b3-74fd-41fc-974b-b74ff2d7547e",
+                "boundaryNum": 1,
+                "name": "PART OF SMB WARD NO-27",
+                "localname": "PART OF SMB WARD NO-27",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW20V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "00d724c1-0cbc-43e3-ac1e-627a2ebc2ebc",
+            "boundaryNum": 21,
+            "name": "WARD_21",
+            "localname": "WARD_21",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW21",
+            "children": [
+              {
+                "id": "afbd8db1-5df0-4713-83ed-c9b0d9916024",
+                "boundaryNum": 1,
+                "name": "PART OF SMB WARD NO-25",
+                "localname": "PART OF SMB WARD NO-25",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW21V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "abb80629-0bd3-409e-8347-366d26013722",
+            "boundaryNum": 22,
+            "name": "WARD_22",
+            "localname": "WARD_22",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW22",
+            "children": [
+              {
+                "id": "9e962387-c093-4ef1-90b7-913487a5e6c3",
+                "boundaryNum": 1,
+                "name": "SMB WARD NO-22",
+                "localname": "SMB WARD NO-22",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW22V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "01c69ea3-a56c-488a-bc44-0bf4662ff1d8",
+            "boundaryNum": 23,
+            "name": "WARD_23",
+            "localname": "WARD_23",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW23",
+            "children": [
+              {
+                "id": "34489f78-8701-4a32-ab85-426d900f2df7",
+                "boundaryNum": 1,
+                "name": "SMB WARD NO-10",
+                "localname": "SMB WARD NO-10",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW23V1",
+                "children": []
+              },
+              {
+                "id": "51fd8b04-2243-41e7-89e2-2224ac61685d",
+                "boundaryNum": 2,
+                "name": "SMB WARD NO-9",
+                "localname": "SMB WARD NO-9",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW23V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "0598a4ab-ff9c-45b2-be95-c1bbfca80b1c",
+            "boundaryNum": 24,
+            "name": "WARD_24",
+            "localname": "WARD_24",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW24",
+            "children": [
+              {
+                "id": "72f2b44b-cd5d-46c6-b783-7a3bda16035e",
+                "boundaryNum": 1,
+                "name": "Silchar X(CT)",
+                "localname": "Silchar X(CT)",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW24V1",
+                "children": []
+              },
+              {
+                "id": "6ad320e2-fece-44bc-912e-e86cab480a49",
+                "boundaryNum": 2,
+                "name": "Silchar XI(OG)",
+                "localname": "Silchar XI(OG)",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW24V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "f1d1c055-995d-43d4-8d80-0625c7aeccd6",
+            "boundaryNum": 25,
+            "name": "WARD_25",
+            "localname": "WARD_25",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW25",
+            "children": [
+              {
+                "id": "dec72ce6-d6b3-4301-b839-1784852bcb37",
+                "boundaryNum": 1,
+                "name": "Berenga III",
+                "localname": "Berenga III",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW25V1",
+                "children": []
+              },
+              {
+                "id": "2b8a598e-b762-4cac-99e9-19d5e071c246",
+                "boundaryNum": 2,
+                "name": "Berenga IV",
+                "localname": "Berenga IV",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW25V2",
+                "children": []
+              },
+              {
+                "id": "20df201b-433d-490d-9305-42cce6802be4",
+                "boundaryNum": 3,
+                "name": "Berenga V",
+                "localname": "Berenga V",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW25V3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "39473a01-f719-4739-91f8-00a4ff3e8f7e",
+            "boundaryNum": 26,
+            "name": "WARD_26",
+            "localname": "WARD_26",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW26",
+            "children": [
+              {
+                "id": "ef6b87d3-c7b3-4113-89c5-a1a278c4bbf9",
+                "boundaryNum": 1,
+                "name": "Beranga II",
+                "localname": "Beranga II",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW26V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "51f50ba6-c23c-4ab0-8cb5-1c0f12e1f814",
+            "boundaryNum": 27,
+            "name": "WARD_27",
+            "localname": "WARD_27",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW27",
+            "children": [
+              {
+                "id": "70aba174-fde0-4d86-9f2d-430feac17639",
+                "boundaryNum": 1,
+                "name": "KANAKPUR PART-II",
+                "localname": "KANAKPUR PART-II",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW27V1",
+                "children": []
+              },
+              {
+                "id": "76e0c667-e92b-4930-9f8f-6a0b85423911",
+                "boundaryNum": 2,
+                "name": "PART SMB WARD NO-14",
+                "localname": "PART SMB WARD NO-14",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW27V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "299d1f0b-249f-40da-a530-cd2ffe3c13fb",
+            "boundaryNum": 28,
+            "name": "WARD_28",
+            "localname": "WARD_28",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW28",
+            "children": [
+              {
+                "id": "b338fe23-0cf4-4c64-93bc-1fcff2623c44",
+                "boundaryNum": 1,
+                "name": "SMB WARD NO-12",
+                "localname": "SMB WARD NO-12",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW28V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "1f111e8c-7c28-4943-ad6a-416a7b4e5482",
+            "boundaryNum": 29,
+            "name": "WARD_29",
+            "localname": "WARD_29",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW29",
+            "children": [
+              {
+                "id": "30ed6313-6ef6-4606-8822-42d654a1a3d8",
+                "boundaryNum": 1,
+                "name": "SMB WARD NO-11 and",
+                "localname": "SMB WARD NO-11 and",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW29V1",
+                "children": []
+              },
+              {
+                "id": "1ae424b1-5d2a-4ee9-9b7d-0fd9cd2ee611",
+                "boundaryNum": 2,
+                "name": "SMB WARD NO- 21",
+                "localname": "SMB WARD NO- 21",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW29V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "f3763d8a-d526-4123-94a4-d953099482d9",
+            "boundaryNum": 30,
+            "name": "WARD_30",
+            "localname": "WARD_30",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW30",
+            "children": [
+              {
+                "id": "74233748-8e54-47cf-9df3-f1be0e17386e",
+                "boundaryNum": 1,
+                "name": "SMB WARD NO-11",
+                "localname": "SMB WARD NO-11",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW30V1",
+                "children": []
+              },
+              {
+                "id": "71792b23-d69b-4d65-b362-7a6f4d8b089f",
+                "boundaryNum": 2,
+                "name": "SMB WARD NO- 21",
+                "localname": "SMB WARD NO- 21",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW30V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "72f8c7f5-d7b2-433d-a95e-90101bd72dfd",
+            "boundaryNum": 31,
+            "name": "WARD_31",
+            "localname": "WARD_31",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW31",
+            "children": [
+              {
+                "id": "bae4553c-4239-4b8f-9da8-618b91275ae0",
+                "boundaryNum": 1,
+                "name": "PART OF WARD NO-19",
+                "localname": "PART OF WARD NO-19",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW31V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "ad6f7c50-00a7-4c54-a0fb-3ceab9e92c24",
+            "boundaryNum": 32,
+            "name": "WARD_32",
+            "localname": "WARD_32",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW32",
+            "children": [
+              {
+                "id": "be59d719-776a-4cb8-bd9e-5369a0546bec",
+                "boundaryNum": 1,
+                "name": "Ambicapur Part-VII",
+                "localname": "Ambicapur Part-VII",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW32V1",
+                "children": []
+              },
+              {
+                "id": "2b03869f-bb80-4519-a797-d8dcfd01423e",
+                "boundaryNum": 2,
+                "name": "Ambicapur Part- VIII(CT)",
+                "localname": "Ambicapur Part- VIII(CT)",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW32V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "bee0433e-a90c-4d4b-94e7-a139a99c77f2",
+            "boundaryNum": 33,
+            "name": "WARD_33",
+            "localname": "WARD_33",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW33",
+            "children": [
+              {
+                "id": "43686288-30e8-4fb0-af12-6c6178260940",
+                "boundaryNum": 1,
+                "name": "PART OF WARD NO-17",
+                "localname": "PART OF WARD NO-17",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW33V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "a2519b02-19d5-491b-9fa1-caeb2b814091",
+            "boundaryNum": 34,
+            "name": "WARD_34",
+            "localname": "WARD_34",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW34",
+            "children": [
+              {
+                "id": "c196e5ef-05b9-4a85-9e72-b625e194aa7c",
+                "boundaryNum": 1,
+                "name": "PART OF SMB WARD NO-18",
+                "localname": "PART OF SMB WARD NO-18",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW34V1",
+                "children": []
+              },
+              {
+                "id": "cce46e5f-2801-44b1-a2d8-5e087cf00de1",
+                "boundaryNum": 2,
+                "name": "PART OF SMB WARD NO- 17",
+                "localname": "PART OF SMB WARD NO- 17",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW34V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "d633e70f-846c-4d25-aee5-220b1da22961",
+            "boundaryNum": 35,
+            "name": "WARD_35",
+            "localname": "WARD_35",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW35",
+            "children": [
+              {
+                "id": "7f31aa33-a3e1-4dbe-bddd-633277eaa6dc",
+                "boundaryNum": 1,
+                "name": "PART OF SMB WARD NO-13",
+                "localname": "PART OF SMB WARD NO-13",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW35V1",
+                "children": []
+              },
+              {
+                "id": "000b45ea-2d6c-45fd-b028-bc400a8bf542",
+                "boundaryNum": 2,
+                "name": "SMB WARD NO-15",
+                "localname": "SMB WARD NO-15",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW35V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "75aac853-a814-4ea8-82ce-28cba73599c1",
+            "boundaryNum": 36,
+            "name": "WARD_36",
+            "localname": "WARD_36",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW36",
+            "children": [
+              {
+                "id": "d8398476-ee42-438a-be98-61a8393bc813",
+                "boundaryNum": 1,
+                "name": "PART OF SMB WARD NO-13",
+                "localname": "PART OF SMB WARD NO-13",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW36V1",
+                "children": []
+              },
+              {
+                "id": "cc423871-d807-4bed-a99e-702e80689a8c",
+                "boundaryNum": 2,
+                "name": "PART OF SMB WARD NO-14",
+                "localname": "PART OF SMB WARD NO-14",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW36V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "a9318cb1-defb-45f8-b0f2-0a730203afa4",
+            "boundaryNum": 37,
+            "name": "WARD_37",
+            "localname": "WARD_37",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW37",
+            "children": [
+              {
+                "id": "aa44ff87-0f82-4587-a8bc-f6478326d43b",
+                "boundaryNum": 1,
+                "name": "KANAKPUR PART-I",
+                "localname": "KANAKPUR PART-I",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW37V1",
+                "children": []
+              },
+              {
+                "id": "f84dbe38-d73b-4dd7-928f-bf6fdad69318",
+                "boundaryNum": 2,
+                "name": "Existing SMB WARD NO-14",
+                "localname": "Existing SMB WARD NO-14",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW37V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "a5e7c20a-21db-4529-b7fd-bead80d41f2a",
+            "boundaryNum": 38,
+            "name": "WARD_38",
+            "localname": "WARD_38",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW38",
+            "children": [
+              {
+                "id": "0e5aa8c9-13e4-4387-9478-38b14723674f",
+                "boundaryNum": 1,
+                "name": "SMB WARD NO-16",
+                "localname": "SMB WARD NO-16",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW38V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "4008df43-644d-4a33-b085-c883af9b6cd0",
+            "boundaryNum": 39,
+            "name": "WARD_39",
+            "localname": "WARD_39",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW39",
+            "children": [
+              {
+                "id": "b4911b27-8dd1-4512-9bbd-36e6d512b40f",
+                "boundaryNum": 1,
+                "name": "Ambicapur Part-VII, , AND",
+                "localname": "Ambicapur Part-VII, , AND",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW39V1",
+                "children": []
+              },
+              {
+                "id": "9e76f89b-2f25-46e0-9503-6f23f0ff6a15",
+                "boundaryNum": 2,
+                "name": "Ambicapur, Part-X(CT)",
+                "localname": "Ambicapur, Part-X(CT)",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW39V2",
+                "children": []
+              },
+              {
+                "id": "b959afbb-1fa4-42bd-b151-d2cc6062f8e9",
+                "boundaryNum": 3,
+                "name": "Ambicapur Part-XI",
+                "localname": "Ambicapur Part-XI",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW39V3",
+                "children": []
+              },
+              {
+                "id": "0304485e-6acc-49a6-b574-2d32e1c6e9f7",
+                "boundaryNum": 4,
+                "name": "PART OF SMB WARD, NO-17",
+                "localname": "PART OF SMB WARD, NO-17",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW39V4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "279bcbaf-f09a-4117-8198-61054bfaf43c",
+            "boundaryNum": 40,
+            "name": "WARD_40",
+            "localname": "WARD_40",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW40",
+            "children": [
+              {
+                "id": "5fa8ad7f-7906-42e6-9812-71bda7bbba50",
+                "boundaryNum": 1,
+                "name": "Ambicapur Part - X(CT)",
+                "localname": "Ambicapur Part - X(CT)",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW40V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "68376c19-564a-4f69-973c-d1f45d76d112",
+            "boundaryNum": 41,
+            "name": "WARD_41",
+            "localname": "WARD_41",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW41",
+            "children": [
+              {
+                "id": "d7d6177c-9bec-4dee-8347-98eaa19c737a",
+                "boundaryNum": 1,
+                "name": "Kanakpur Part-I",
+                "localname": "Kanakpur Part-I",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW41V1",
+                "children": []
+              },
+              {
+                "id": "e2d042e4-af55-40ac-aea2-570d5372684d",
+                "boundaryNum": 2,
+                "name": "U.K.Pur Part-I",
+                "localname": "U.K.Pur Part-I",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW41V2",
+                "children": []
+              },
+              {
+                "id": "f568445f-e024-4884-b237-7427fd87256f",
+                "boundaryNum": 3,
+                "name": "U.K.Pur Part-III",
+                "localname": "U.K.Pur Part-III",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW41V3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "ecef6ffc-f9c2-4525-921a-29dd72a3fd6f",
+            "boundaryNum": 42,
+            "name": "WARD_42",
+            "localname": "WARD_42",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "CacharW42",
+            "children": [
+              {
+                "id": "2e7531eb-18f0-4aaa-9048-235be7e5587e",
+                "boundaryNum": 1,
+                "name": "Ambicapur Part - VI(CT)",
+                "localname": "Ambicapur Part - VI(CT)",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "CacharW42V1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

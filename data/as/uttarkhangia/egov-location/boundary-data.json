@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.uttarkhangia",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "68 No. Uttar Khangia",
+        "localname": "68 No. Uttar Khangia",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.uttarkhangia",
+        "children": [
+          {
+            "id": "3f6c19e1-5c59-46c2-ae0a-ae18b38daeae",
+            "boundaryNum": 1,
+            "name": "Goriahabi Grant",
+            "localname": "Goriahabi Grant",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "uttarkhangiaV43",
+            "children": []
+          },
+          {
+            "id": "40f1962b-35c6-4f08-8d20-5d70dcfd3e47",
+            "boundaryNum": 1,
+            "name": "Chaliha Gaon",
+            "localname": "Chaliha Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "uttarkhangiaV45",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+    "tenantId": "as.dakhinpubnamonicharaibahi",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "50 No. Dakhin Pub Namoni Charaibahi",
+                "localname": "50 No. Dakhin Pub Namoni Charaibahi",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.dakhinpubnamonicharaibahi",
+                "children": [
+                    {
+                        "id": "253a6803-5e6e-44d1-8770-6bbc92efe840",
+                        "boundaryNum": 1,
+                        "name": "Rongai Habi",
+                        "localname": "Rongai Habi",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "dakhinpubnamonicharaibahiV31",
+                        "children": []
+                    },
+                    {
+                        "id": "8c170254-f732-4f38-a659-a0e9579e4349",
+                        "boundaryNum": 1,
+                        "name": "Chutiakari",
+                        "localname": "Chutiakari",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "dakhinpubnamonicharaibahiV35",
+                        "children": []
+                    }
+                ]
+            }
+        }
+    ]
+}

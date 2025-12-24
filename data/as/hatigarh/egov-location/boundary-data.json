@@ -1,0 +1,134 @@
+{
+  "tenantId": "as.hatigarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "4f98db8d-d2fd-426a-a060-88d8d4975389",
+        "boundaryNum": 1,
+        "name": "Hatigarh",
+        "localname": "Hatigarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.hatigarh",
+        "children": [
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082f01",
+            "boundaryNum": 1,
+            "name": "Hatigarh Gaon",
+            "localname": "Hatigarh Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "HatigarhV1",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082f02",
+            "boundaryNum": 2,
+            "name": "Nalanipam Gaon",
+            "localname": "Nalanipam Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "HatigarhV2",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082f03",
+            "boundaryNum": 3,
+            "name": "1 No. Kochaiting Gaon",
+            "localname": "1 No. Kochaiting Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "HatigarhV3",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082f04",
+            "boundaryNum": 4,
+            "name": "Telijan Pathar",
+            "localname": "Telijan Pathar",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "HatigarhV4",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082f05",
+            "boundaryNum": 5,
+            "name": "Maumari",
+            "localname": "Maumari",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "HatigarhV5",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082f06",
+            "boundaryNum": 6,
+            "name": "Layengerjan",
+            "localname": "Layengerjan",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "HatigarhV6",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082f07",
+            "boundaryNum": 7,
+            "name": "Dihingia Block Pt I",
+            "localname": "Dihingia Block Pt I",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "HatigarhV7",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082f08",
+            "boundaryNum": 8,
+            "name": "2 No. Kochoiting Gaon",
+            "localname": "2 No. Kochoiting Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "HatigarhV8",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082f09",
+            "boundaryNum": 9,
+            "name": "Dihingia Block Pt II",
+            "localname": "Dihingia Block Pt II",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "HatigarhV9",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082f10",
+            "boundaryNum": 10,
+            "name": "Telijan Gaon",
+            "localname": "Telijan Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "HatigarhV10",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

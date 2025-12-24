@@ -1,0 +1,156 @@
+{
+  "tenantId": "as.bongaigaongp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bongaigaongp",
+        "localname": "Bongaigaongp",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.bongaigaongp",
+        "children": [
+          {
+            "id": "49c52357-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Bakharapara",
+            "localname": "Bakharapara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BongaigaongpV1",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Bakharapara Pt.I",
+            "localname": "Bakharapara Pt.I",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BongaigaongpV2",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41bat6e71171",
+            "boundaryNum": 1,
+            "name": "Bakharapara Pt.II",
+            "localname": "Bakharapara Pt.II",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BongaigaongpV3",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-u8cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Bhakarivita Pt.I",
+            "localname": "Bhakarivita Pt.I",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BongaigaongpV4",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Bhakarivita Pt.II",
+            "localname": "Bhakarivita Pt.II",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BongaigaongpV5",
+            "children": []
+          },
+          {
+            "id": "49e52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Bhatipara Pt.I (Pt.).",
+            "localname": "Bhatipara Pt.I (Pt.)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BongaigaongpV6",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b0id-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Deuripara",
+            "localname": "Deuripara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BongaigaongpV7",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-p1id-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Jakuwapara Pt.I",
+            "localname": "Jakuwapara Pt.I",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BongaigaongpV8",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b0id-43rtf1e71171",
+            "boundaryNum": 1,
+            "name": "Jakuwapara Pt.II",
+            "localname": "Jakuwapara Pt.II",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BongaigaongpV9",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b0id-41baf1e71129",
+            "boundaryNum": 1,
+            "name": "Jogipara",
+            "localname": "Jogipara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BongaigaongpV10",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b8od-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Mechpara",
+            "localname": "Mechpara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BongaigaongpV11",
+            "children": []
+          },
+          {
+            "id": "49c52351-ki4c-474c-b0id-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Ulubari",
+            "localname": "Ulubari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BongaigaongpV12",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

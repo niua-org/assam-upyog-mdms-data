@@ -1,0 +1,35 @@
+{
+    "tenantId": "as.dakhinkoronga",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "56 No. Dakhin Koronga",
+                "localname": "56 No. Dakhin Koronga",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.dakhinkoronga",
+                "children": [
+                    {
+                        "id": "6ac0e3c9-19e8-4a39-a84e-0f850ca57295",
+                        "boundaryNum": 1,
+                        "name": "GhorpholiaGaon",
+                        "localname": "GhorpholiaGaon",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Village",
+                        "code": "dakhinkorongaV55",
+                        "children": []
+                    }
+                ]
+            }
+        }
+    ]
+}

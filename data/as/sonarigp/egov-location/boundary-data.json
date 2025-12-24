@@ -1,0 +1,178 @@
+{
+  "tenantId": "as.sonarigp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Sonari G.P.",
+        "localname": "Sonari G.P.",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.sonarigp",
+        "children": [
+          {
+            "id": "44232d2c-36e3-4bca-afd7-7550370f0f52",
+            "boundaryNum": 1,
+            "name": "Naphuk Grant",
+            "localname": "Naphuk Grant",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "sonariV1",
+            "children": []
+          },
+          {
+            "id": "18c1c39b-d715-43f3-878d-b205cd922c5c",
+            "boundaryNum": 1,
+            "name": "MohkhutiPathar",
+            "localname": "MohkhutiPathar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "sonariV2",
+            "children": []
+          },
+          {
+            "id": "9999c339-55fd-41fd-9ed1-af65497b9be9",
+            "boundaryNum": 1,
+            "name": "Jobokahabi",
+            "localname": "Jobokahabi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "sonariV4",
+            "children": []
+          },
+          {
+            "id": "6f710103-3308-44a0-b8c1-bac3b73d6325",
+            "boundaryNum": 1,
+            "name": "DakhinSonari Gaon",
+            "localname": "DakhinSonari Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "sonariV5",
+            "children": []
+          },
+          {
+            "id": "b6fa471f-5146-4b4e-952b-d3c03ea96776",
+            "boundaryNum": 1,
+            "name": "Grant No 324",
+            "localname": "Grant No 324",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "sonariV6",
+            "children": []
+          },
+          {
+            "id": "b69cda32-05fb-4ea4-9fb5-5a3973e6b150",
+            "boundaryNum": 1,
+            "name": "Barpathar",
+            "localname": "Barpathar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "sonariV7",
+            "children": []
+          },
+          {
+            "id": "19685c3e-88d7-4dd2-af26-3895ee2099b0",
+            "boundaryNum": 1,
+            "name": "DakhinSonariHabi",
+            "localname": "DakhinSonariHabi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "sonariV8",
+            "children": []
+          },
+          {
+            "id": "e6a9324d-f00e-4376-ae27-f0d3f84af785",
+            "boundaryNum": 1,
+            "name": "BorahiKachari Gaon",
+            "localname": "BorahiKachari Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "sonariV9",
+            "children": []
+          },
+          {
+            "id": "2011153a-db18-4002-b67e-221c25fdcf7c",
+            "boundaryNum": 1,
+            "name": "Bhoju Gaon",
+            "localname": "Bhoju Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "sonariV10",
+            "children": []
+          },
+          {
+            "id": "1ad533d6-29f6-4b39-8d8a-6373ce498eb1",
+            "boundaryNum": 1,
+            "name": "Banfera Grant",
+            "localname": "Banfera Grant",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "sonariV11",
+            "children": []
+          },
+          {
+            "id": "cc3940de-4ad7-49a7-88a5-68ff2050859d",
+            "boundaryNum": 1,
+            "name": "Borahi Grant",
+            "localname": "Borahi Grant",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "sonariV12",
+            "children": []
+          },
+          {
+            "id": "850a39d4-3285-4995-b7e4-74fe55a6fc22",
+            "boundaryNum": 1,
+            "name": "BanferaBagisa",
+            "localname": "BanferaBagisa",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "sonariV15",
+            "children": []
+          },
+          {
+            "id": "01cb2d1a-d9ef-4af1-984e-26def4635f15",
+            "boundaryNum": 1,
+            "name": "Sonari Grant",
+            "localname": "Sonari Grant",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "sonariV23",
+            "children": []
+          },
+          {
+            "id": "43f10291-bcaa-44fc-89d0-e918c07b45c0",
+            "boundaryNum": 1,
+            "name": "North Sonari Gaon",
+            "localname": "North Sonari Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "sonariV24",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

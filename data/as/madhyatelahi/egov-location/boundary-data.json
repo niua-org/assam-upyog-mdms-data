@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.madhyatelahi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Madhya Telahi",
+        "localname": "Madhya Telahi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.madhyatelahi",
+        "children": [
+          {
+            "id": "71306289-5511-4b89-972a-654d2eb22603",
+            "boundaryNum": 1,
+            "name": "Phukanarhat",
+            "localname": "Phukanarhat",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "madhyatelahiV53",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "tenantId": "as.dolaigaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Dolaigaon",
+        "localname": "Dolaigaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.dolaigaon",
+        "children": [
+          {
+            "id": "49c52357-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Bhowlaguri",
+            "localname": "Bhowlaguri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DolaigaonV1",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Dolaigaon Pt.I",
+            "localname": "Dolaigaon Pt.I",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DolaigaonV2",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41bat6e71171",
+            "boundaryNum": 1,
+            "name": "Dolaigaon Pt.II",
+            "localname": "Dolaigaon Pt.II",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DolaigaonV3",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-u8cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Dolaigaon Pt.III",
+            "localname": "Dolaigaon Pt.III",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DolaigaonV4",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Kharija Dolaigaon Pt.I",
+            "localname": "Kharija Dolaigaon Pt.I",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DolaigaonV5",
+            "children": []
+          },
+          {
+            "id": "49e52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Kharija Dolaigaon Pt.II",
+            "localname": "Kharija Dolaigaon Pt.II",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DolaigaonV6",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.sarishacharkuri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "4f98db8d-d2fd-426a-a060-88d8d4975401",
+        "boundaryNum": 1,
+        "name": "Sarisha Charakuri",
+        "localname": "Sarisha Charakuri",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.sarishacharkuri",
+        "children": [
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082l01",
+            "boundaryNum": 1,
+            "name": "ALONGJURI",
+            "localname": "ALONGJURI",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "SarishacharkuriV1",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082l02",
+            "boundaryNum": 2,
+            "name": "CHARAKURI",
+            "localname": "CHARAKURI",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "SarishacharkuriV2",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082l03",
+            "boundaryNum": 3,
+            "name": "SARISHA",
+            "localname": "SARISHA",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "SarishacharkuriV3",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

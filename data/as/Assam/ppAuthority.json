@@ -1,0 +1,46 @@
+{
+  "tenantId": "as",
+  "moduleName": "BPA",
+  "ppAuthorities": [
+    {
+      "id": 1,
+      "planningAreaCode": "NALBARI_MP",
+      "districtCode": "NALBARI",
+      "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+      "ppAuthorityName": "Development Authority",
+      "active": true
+    },
+    {
+      "id": 2,
+      "planningAreaCode": "BARPETA_MP",
+      "districtCode": "BARPETA",
+      "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+      "ppAuthorityName": "Development Authority",
+      "active": true
+    },
+    {
+      "id": 3,
+      "planningAreaCode": "DIBRUGARH_MP",
+      "districtCode": "DIBRUGARH",
+      "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+      "ppAuthorityName": "Development Authority",
+      "active": true
+    },
+    {
+      "id": 4,
+      "planningAreaCode": "TINSUKIA_MP",
+      "districtCode": "TINSUKIA",
+      "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+      "ppAuthorityName": "Development Authority",
+      "active": true
+    },
+    {
+      "id": 5,
+      "planningAreaCode": "SILCHAR_MP",
+      "districtCode": "CACHAR",
+      "ppAuthorityCode": "DEVELOPMENT_AUTHORITY",
+      "ppAuthorityName": "Development Authority",
+      "active": true
+    }
+  ]
+}

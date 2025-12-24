@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.kadam",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kadam",
+        "localname": "Kadam",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.kadam",
+        "children": [
+          {
+            "id": "8d74ab46-1c5e-44ba-ad6a-1dd24aec614b",
+            "boundaryNum": 1,
+            "name": "Puthimari",
+            "localname": "Puthimari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "kadamV63",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

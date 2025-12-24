@@ -1,0 +1,77 @@
+{
+    "tenantId": "as",
+    "moduleName": "BPA",
+    "MezzanineFloorService": [
+        {
+            "id": 1,
+            "occupancy": "residential",
+            "mezzanineArea": "9.5",
+            "mezzanineHeight": "2.2",
+            "mezzanineBuiltUpArea": "3",
+            "minMezzanineHeight": "2.2",
+            "maxMezzanineHeight": "2.7",
+            "active": true
+        },
+        {
+            "id": 2,
+            "occupancy": "mercantile / commercial",
+            "mezzanineArea": "9",
+            "mezzanineHeight": "2.2",
+            "mezzanineBuiltUpArea": "3",
+            "minMezzanineHeight": "2.2",
+            "maxMezzanineHeight": "2.7",
+            "active": true
+        },
+        {
+            "id": 3,
+            "occupancy": "industrial",
+            "mezzanineArea": "5",
+            "mezzanineHeight": "2.2",
+            "mezzanineBuiltUpArea": "3",
+            "minMezzanineHeight": "2.2",
+            "maxMezzanineHeight": "2.7",
+            "active": true
+        },
+        {
+            "id": 7,
+            "occupancy": "educational",
+            "mezzanineArea": "5",
+            "mezzanineHeight": "2.2",
+            "mezzanineBuiltUpArea": "3",
+            "minMezzanineHeight": "2.2",
+            "maxMezzanineHeight": "2.7",
+            "active": true
+        },
+        {
+            "id": 4,
+            "occupancy": "assembly",
+            "mezzanineArea": "9.5",
+            "mezzanineHeight": "2.2",
+            "mezzanineBuiltUpArea": "3",
+            "minMezzanineHeight": "2.2",
+            "maxMezzanineHeight": "2.7",
+            "active": true
+        },
+        {
+            "id": 5,
+            "occupancy": "storage",
+            "mezzanineArea": "9",
+            "mezzanineHeight": "2.2",
+            "mezzanineBuiltUpArea": "3",
+            "minMezzanineHeight": "2.2",
+            "maxMezzanineHeight": "2.7",
+            "active": true
+        },
+        {
+            "id": 6,
+            "occupancy": "factories",
+            "mezzanineArea": "5",
+            "mezzanineHeight": "2.2",
+            "mezzanineBuiltUpArea": "3",
+            "minMezzanineHeight": "2.2",
+            "maxMezzanineHeight": "2.7",
+            "active": true
+        }
+    ]
+
+}

@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.karimganjgp",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "4f98db8d-d2fd-426a-a060-88d8d4975415",
+        "boundaryNum": 1,
+        "name": "Karimganj",
+        "localname": "Karimganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.karimganjgp",
+        "children": [
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082z01",
+            "boundaryNum": 1,
+            "name": "KARIMGANJ MUNICIPAL AREA",
+            "localname": "KARIMGANJ MUNICIPAL AREA",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "KarimganjV1",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "tenantId": "as",
+  "moduleName": "NOC",
+  "NocTypeMapping": [
+    {
+      "permitType": "Planning Permit",
+      "nocs": [
+        {
+          "code": "CIVIL_AVIATION",
+          "name": "NOC from Civil Aviation Authorities",
+          "mandatory": false,
+          "source": "SITE_ENGINEER",
+          "conditions": [
+            "BUILDINGS_NEAR_AERODROMES",
+            "BUILDINGS_WITHIN_HEIGHT_ZONES"
+          ],
+          "reference": "Byelaw 28(f), 60(f)",
+          "isActive": true,
+          "offlineWF": "",
+          "onlineWF": "CIVIL_AVIATION_SRV",
+          "mode": "online",
+          "roles": ["CIVIL_AVIATION_APPROVER"]
+        },
+        {
+          "code": "ARCHAEOLOGY",
+          "name": "NOC from Archaeological Survey of India (ASI)",
+          "mandatory": false,
+          "source": "SITE_ENGINEER",
+          "conditions": ["NEAR_PROTECTED_MONUMENTS"],
+          "reference": "Byelaw 117(x)",
+          "isActive": true,
+          "offlineWF": "",
+          "onlineWF": "ARCHAEOLOGY_SRV",
+          "mode": "online",
+          "roles": ["ARCHAEOLOGY_APPROVER"]
+        },
+        {
+          "code": "STRUCTURAL_SAFETY",
+          "name": "Structural Safety Certificate",
+          "mandatory": false,
+          "source": "DXF_FILE",
+          "conditions": ["G_PLUS_3_BUILDINGS", "BUILDING_HEIGHT_GREATER_THAN_12M", "SPECIAL_STRUCTURES"],
+          "reference": "Byelaw 18(b), 100(1)(i), 118",
+          "isActive": true,
+          "offlineWF": "",
+          "onlineWF": "STRUCTURAL_SAFETY_SRV",
+          "mode": "online",
+          "roles": ["STRUCTURAL_SAFETY_APPROVER"]
+        },
+        {
+          "code": "SOIL_TEST",
+          "name": "Soil Test Report",
+          "mandatory": false,
+          "source": "DXF_FILE",
+          "conditions": ["BUILDING_HEIGHT_GREATER_THAN_12M"],
+          "reference": "Byelaw 100(1)(ii)",
+           "isActive": true,
+          "offlineWF": "",
+          "onlineWF": "SOIL_TEST_SRV",
+          "mode": "online",
+          "roles": ["SOIL_TEST_APPROVER"]
+        },
+        {
+          "code": "POLICE_CLEARANCE",
+          "name": "Police Clearance",
+          "mandatory": false,
+          "source": "SITE_ENGINEER",
+          "conditions": ["WITHIN_700M_OF_POLICE_HQ", "SENSITIVE_ESTABLISHMENTS"],
+          "reference": "State Home Dept",
+          "isActive": true,
+          "offlineWF": "",
+          "onlineWF": "POLICE_CLEARANCE_SRV",
+          "mode": "online",
+          "roles": ["POLICE_CLEARANCE_APPROVER"]
+        },
+        {
+          "code": "ENVIRONMENT",
+          "name": "Environmental / Tree Cutting Clearance",
+          "mandatory": false,
+          "source": "SITE_ENGINEER",
+          "conditions": ["TREE_CUTTING_INVOLVED", "LANDFILLING_INVOLVED"],
+          "reference": "Forest Dept. / PCBA",
+          "isActive": true,
+          "offlineWF": "",
+          "onlineWF": "ENVIRONMENT_SRV",
+          "mode": "online",
+          "roles": ["ENVIRONMENT_APPROVER"]
+        },
+        {
+          "code": "ELECTRICITY_DEPT",
+          "name": "NOC from Electricity Department",
+          "mandatory": false,
+          "source": "SITE_ENGINEER",
+          "conditions": ["HIGH_TENSION_WIRES_PASSING_THE_PLOT"],
+          "reference": "Power Dept / ASEB / APDCL",
+          "isActive": true,
+          "offlineWF": "",
+          "onlineWF": "ELECTRICITY_DEPT_SRV",
+          "mode": "online",
+          "roles": ["ELECTRICITY_DEPT_APPROVER"]
+        },
+        {
+          "code": "SAD_CLEARANCE",
+          "name": "Secretariat Administration Dept. (SAD)",
+          "mandatory": false,
+          "source": "SITE_ENGINEER",
+          "conditions": ["SITES_WITHIN_SECRETARIAT_PERIMETER"],
+          "reference": "SAD Circulars",
+          "isActive": true,
+          "offlineWF": "",
+          "onlineWF": "SAD_CLEARANCE_SRV",
+          "mode": "online",
+          "roles": ["SAD_CLEARANCE_APPROVER"]
+        },
+        {
+          "code": "HOME_SECURITY",
+          "name": "Police / Home Dept. (Security)",
+          "mandatory": false,
+          "source": "SITE_ENGINEER",
+          "conditions": ["PROJECTS_NEAR_SECRETARIAT", "ASSEMBLY", "POLICE_HQ"],
+          "reference": "State Home Dept. & DDMA",
+          "isActive": true,
+          "offlineWF": "",
+          "onlineWF": "HOME_SECURITY_SRV",
+          "mode": "online",
+          "roles": ["HOME_SECURITY_APPROVER"]
+        },
+        {
+          "code": "CIVIL_AVIATION_AZARA",
+          "name": "Civil Aviation NOC (Azara Revenue Circle)",
+          "mandatory": false,
+          "source": "SITE_ENGINEER",
+          "conditions": ["WITHIN_LGBI_AIRPORT_ZONE"],
+          "reference": "Byelaw 28(f), 60(f)",
+          "isActive": true,
+          "offlineWF": "",
+          "onlineWF": "CIVIL_AVIATION_AZARA_SRV",
+          "mode": "online",
+          "roles": ["CIVIL_AVIATION_AZARA_APPROVER"]
+        },
+        {
+          "code": "AZARA_CIRCLE",
+          "name": "Azara Circle Office Clearance",
+          "mandatory": false,
+          "source": "SITE_ENGINEER",
+          "conditions": ["PROJECTS_LOCATED_IN_AZARA_CIRCLE"],
+          "reference": "Memo 07.02.2013; GMDA/GEN/82/2012/74 08.09.2014; Memo 19.07.2018 Dept. Orders",
+          "isActive": true,
+          "offlineWF": "",
+          "onlineWF": "AZARA_CIRCLE_SRV",
+          "mode": "online",
+          "roles": ["AZARA_CIRCLE_APPROVER"]
+        },
+        {
+          "code": "WATER_RESOURCES",
+          "name": "Water Resources Dept. Clearance",
+          "mandatory": false,
+          "source": "SITE_ENGINEER",
+          "conditions": ["FILLING_WETLANDS", "ALTERING_NATURAL_DRAINS"],
+          "reference": "Memo 07.02.2013; GMDA/GEN/82/2012/74 08.09.2014; Memo 19.07.2018 Dept. Orders",
+          "isActive": true,
+          "offlineWF": "",
+          "onlineWF": "WATER_RESOURCES_SRV",
+          "mode": "online",
+          "roles": ["WATER_RESOURCES_APPROVER"]
+        }
+      ]
+    },
+    {
+      "permitType": "Building Permit",
+      "nocs": [
+        {
+          "code": "FIRE_SAFETY",
+          "name": "NOC from Director of Fire & Emergency Services",
+          "mandatory": false,
+          "source": "DXF_FILE",
+          "conditions": [
+            "ALL_NON_RESIDENTIAL_BUILDINGS",
+            "BUILDING_HEIGHT_GREATER_THAN_15M"
+          ],
+          "reference": "Byelaw 28(d), 60(d), 94(2)(a)",
+          "isActive": true,
+          "offlineWF": "",
+          "onlineWF": "FIRE_SAFETY_SRV",
+          "mode": "online",
+          "roles": ["FIRE_SAFETY_APPROVER"]
+        },
+        {
+          "code": "POLLUTION_CONTROL",
+          "name": "NOC from State Pollution Control Board (PCBA)",
+          "mandatory": false,
+          "source": "DXF_FILE",
+          "conditions": [
+            "HAZARDOUS_INDUSTRIES",
+            "LARGE_COMMERCIAL_OR_HOSPITALS_OR_HOTELS",
+            "BUILT_UP_AREA_GREATER_THAN_OR_EQUAL_TO_2_LAKH_SQ_FT"
+          ],
+          "reference": "Byelaw 95",
+          "isActive": true,
+          "offlineWF": "",
+          "onlineWF": "POLLUTION_CONTROL_SRV",
+          "mode": "online",
+          "roles": ["POLLUTION_CONTROL_APPROVER"]
+        },
+        {
+          "code": "ARMY_DEFENCE",
+          "name": "NOC from Army / Defence Authority",
+          "mandatory": false,
+          "source": "SITE_ENGINEER",
+          "conditions": [
+            "WITHIN_2000M_OF_DEPOTS",
+            "WITHIN_1000M_OF_FIRING_RANGES",
+            "WITHIN_500M_OF_CANTONMENTS"
+          ],
+          "reference": "Byelaw 117(xi); Govt. Letter 07.06.2010",
+          "isActive": true,
+          "offlineWF": "",
+          "onlineWF": "ARMY_DEFENCE_SRV",
+          "mode": "online",
+          "roles": ["ARMY_DEFENCE_APPROVER"]
+        },
+        {
+          "code": "GROUND_WATER",
+          "name": "NOC from State Ground Water Authority",
+          "mandatory": true,
+          "source": "",
+          "conditions": ["IF_GROUNDWATER_EXTRACTION_PROPOSED"],
+          "reference": "Byelaw 100(1)(iv)",
+          "isActive": true,
+          "offlineWF": "",
+          "onlineWF": "GROUND_WATER_SRV",
+          "mode": "online",
+          "roles": ["GROUND_WATER_APPROVER"]
+        },
+        {
+          "code": "HEALTH_AUTHORITY",
+          "name": "NOC from Health Authority",
+          "mandatory": false,
+          "source": "",
+          "conditions": ["HOSPITALS", "NURSING_HOMES", "INCINERATORS"],
+          "reference": "Byelaw 94(1)(c)(ix)",
+          "isActive": true,
+          "offlineWF": "",
+          "onlineWF": "HEALTH_AUTHORITY_SRV",
+          "mode": "online",
+          "roles": ["HEALTH_AUTHORITY_APPROVER"]
+        },
+        {
+          "code": "SACFA_RF",
+          "name": "NOC from SACFA (Radio Frequency)",
+          "mandatory": false,
+          "source": "SITE_ENGINEER",
+          "conditions": ["TELECOM_TOWERS", "ROOFTOP_ANTENNAE"],
+          "reference": "Byelaw 118(h)(iii)(a)",
+          "isActive": true,
+          "offlineWF": "",
+          "onlineWF": "SACFA_RF_SRV",
+          "mode": "online",
+          "roles": ["SACFA_RF_APPROVER"]
+        },
+        {
+          "code": "ELECTRICAL_INSPECTOR",
+          "name": "NOC from Chief Electrical Inspector",
+          "mandatory": false,
+          "source": "SITE_ENGINEER",
+          "conditions": ["BUILDING_HEIGHT_GREATER_THAN_15M", "LIFTS", "HEAVY_ELECTRICAL_LOAD"],
+          "reference": "Byelaw 94(1)(c)(iii), 100(1)(v)",
+          "isActive": true,
+          "offlineWF": "",
+          "onlineWF": "ELECTRICAL_INSPECTOR_SRV",
+          "mode": "online",
+          "roles": ["ELECTRICAL_INSPECTOR_APPROVER"]
+        },
+        {
+          "code": "LIFT_SAFETY",
+          "name": "Lift Installation & Safety Certificate",
+          "mandatory": false,
+          "source": "DXF_FILE",
+          "conditions": ["BUILDINGS_WITH_LIFTS"],
+          "reference": "Byelaw 118(k)(i)",
+          "isActive": true,
+          "offlineWF": "",
+          "onlineWF": "LIFT_SAFETY_SRV",
+          "mode": "online",
+          "roles": ["LIFT_SAFETY_APPROVER"]
+        },
+        {
+          "code": "STP_CLEARANCE",
+          "name": "NOC for Sewage Treatment Plant (STP)",
+          "mandatory": false,
+          "source": "SITE_ENGINEER",
+          "conditions": ["GROUP_HOUSING", "HOSPITALS", "LARGE_LAYOUTS"],
+          "reference": "Byelaw 94(1)(a)(i)",
+          "isActive": true,
+          "offlineWF": "",
+          "onlineWF": "STP_CLEARANCE_SRV",
+          "mode": "online",
+          "roles": ["STP_CLEARANCE_APPROVER"]
+        },
+        {
+          "code": "ESZ_CLEARANCE",
+          "name": "Clearance from District ESZ Monitoring Committee",
+          "mandatory": false,
+          "source": "SITE_ENGINEER",
+          "conditions": ["PROJECTS_IN_ECO_SENSITIVE_ZONES", "NATIONAL_PARKS"],
+          "reference": "Byelaw 117(xii)",
+          "isActive": true,
+          "offlineWF": "",
+          "onlineWF": "ESZ_CLEARANCE_SRV",
+          "mode": "online",
+          "roles": ["ESZ_CLEARANCE_APPROVER"]
+        }
+      ]
+    },
+    {
+      "permitType": "Occupancy",
+      "nocs": [
+        {
+          "code": "FIRE_SAFETY",
+          "name": "Fire Safety NOC for Occupancy",
+          "mandatory": false,
+          "source": "DXF_FILE",
+          "conditions": ["ALL_NON_RESIDENTIAL_BUILDINGS", "BUILDING_HEIGHT_GREATER_THAN_15M"],
+          "reference": "Byelaw 28(d), 60(d), 94(2)(a)",
+          "isActive": true,
+          "offlineWF": "",
+          "onlineWF": "FIRE_SAFETY_SRV",
+          "mode": "online",
+          "roles": ["FIRE_SAFETY_APPROVER"]
+        },
+        {
+          "code": "LIFT_SAFETY",
+          "name": "Lift Installation & Safety Certificate",
+          "mandatory": false,
+          "source": "DXF_FILE",
+          "conditions": ["BUILDINGS_WITH_LIFTS"],
+          "reference": "Byelaw 118(k)(i)",
+          "isActive": true,
+          "offlineWF": "",
+          "onlineWF": "LIFT_SAFETY_SRV",
+          "mode": "online",
+          "roles": ["LIFT_SAFETY_APPROVER"]
+        }
+      ]
+    }
+  ]
+}

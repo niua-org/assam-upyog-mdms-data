@@ -1,0 +1,112 @@
+{
+  "tenantId": "as.hiloidhari",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Hiloidhari",
+        "localname": "Hiloidhari",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.hiloidhari",
+        "children": [
+          {
+            "id": "cb7b4254-aa25-4804-923c-3a6c004b7275",
+            "boundaryNum": 1,
+            "name": "Borbari AMC Area (CT)",
+            "localname": "Borbari AMC Area (CT)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "HiloidhariV1",
+            "children": []
+          },
+          {
+            "id": "7d1a6304-ff2e-40eb-a7ff-e91575e1ec7d",
+            "boundaryNum": 1,
+            "name": "Borbari 12/144 Orr",
+            "localname": "Borbari 12/144 Orr",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "HiloidhariV2",
+            "children": []
+          },
+          {
+            "id": "ffe09246-d6da-412b-b824-054dea0a0598",
+            "boundaryNum": 1,
+            "name": "Borsaikia Gaon",
+            "localname": "Borsaikia Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "HiloidhariV3",
+            "children": []
+          },
+          {
+            "id": "2b03d371-3571-4e58-a122-c45bc0e1cb0c",
+            "boundaryNum": 1,
+            "name": "Sagunibari Gaon",
+            "localname": "Sagunibari Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "HiloidhariV4",
+            "children": []
+          },
+          {
+            "id": "00302dc5-7180-42a3-b365-9a2ea034edf9",
+            "boundaryNum": 1,
+            "name": "Bongal Gaon",
+            "localname": "Bongal Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "HiloidhariV5",
+            "children": []
+          },
+          {
+            "id": "2a980727-c932-4a71-9094-4aa4a161844b",
+            "boundaryNum": 1,
+            "name": "Chaulkhowa Grant Gaon",
+            "localname": "Chaulkhowa Grant Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "HiloidhariV6",
+            "children": []
+          },
+          {
+            "id": "ea706349-ec16-49a6-9e9d-79a2830fbe57",
+            "boundaryNum": 1,
+            "name": "Hiloidhari Chandoi Gaon",
+            "localname": "Hiloidhari Chandoi Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "HiloidhariV7",
+            "children": []
+          },
+          {
+            "id": "fca78d46-c809-47f9-bb67-5e64e29d6eff",
+            "boundaryNum": 1,
+            "name": "Maijan Grant Gaon",
+            "localname": "Maijan Grant Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "HiloidhariV8",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

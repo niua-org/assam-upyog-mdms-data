@@ -1,0 +1,112 @@
+{
+  "tenantId": "as.northkarimganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "4f98db8d-d2fd-426a-a060-88d8d4975403",
+        "boundaryNum": 1,
+        "name": "North Karimganj",
+        "localname": "North Karimganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.northkarimganj",
+        "children": [
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082n01",
+            "boundaryNum": 1,
+            "name": "BATORASHI PT-I",
+            "localname": "BATORASHI PT-I",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "NorthkarimganjV1",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082n02",
+            "boundaryNum": 2,
+            "name": "BATORASHI PT-II",
+            "localname": "BATORASHI PT-II",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "NorthkarimganjV2",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082n03",
+            "boundaryNum": 3,
+            "name": "CHANDSRIKUNA",
+            "localname": "CHANDSRIKUNA",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "NorthkarimganjV3",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082n04",
+            "boundaryNum": 4,
+            "name": "CHANDSRIKUNA CHAK – V",
+            "localname": "CHANDSRIKUNA CHAK – V",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "NorthkarimganjV4",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082n05",
+            "boundaryNum": 5,
+            "name": "DHIT CHAK PT-IV",
+            "localname": "DHIT CHAK PT-IV",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "NorthkarimganjV5",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082n06",
+            "boundaryNum": 6,
+            "name": "DHIT CHAK PT-VIII",
+            "localname": "DHIT CHAK PT-VIII",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "NorthkarimganjV6",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082n07",
+            "boundaryNum": 7,
+            "name": "DHIT KITTE RAM NAGAR",
+            "localname": "DHIT KITTE RAM NAGAR",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "NorthkarimganjV7",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082n08",
+            "boundaryNum": 8,
+            "name": "KALACHORA",
+            "localname": "KALACHORA",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "NorthkarimganjV8",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

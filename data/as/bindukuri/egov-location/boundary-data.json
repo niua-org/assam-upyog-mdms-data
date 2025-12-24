@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.bindukuri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bindukuri",
+        "localname": "Bindukuri",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.bindukuri",
+        "children": [
+          {
+            "id": "459c00fd-9abd-4e9f-9353-42b2b12ef716",
+            "boundaryNum": 1,
+            "name": "Saikia Chuburi Teleria",
+            "localname": "Saikia Chuburi Teleria",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "bindukuriV1",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

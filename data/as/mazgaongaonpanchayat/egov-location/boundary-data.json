@@ -1,0 +1,79 @@
+{
+  "tenantId": "as.mazgaongaonpanchayat",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Mazgaon Gaon Panchayat",
+        "localname": "Mazgaon Gaon Panchayat",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.mazgaongaonpanchayat",
+        "children": [
+          {
+            "id": "5026c0de-13dd-486f-ae28-289235a22131",
+            "boundaryNum": 1,
+            "name": "Mazgaon",
+            "localname": "Mazgaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "mazgaongaonpanchayatV1",
+            "children": []
+          },
+          {
+            "id": "c3b512d8-cb5c-4bd2-b725-0641759a500b",
+            "boundaryNum": 1,
+            "name": "Dekargaon",
+            "localname": "Dekargaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "mazgaongaonpanchayatV2",
+            "children": []
+          },
+          {
+            "id": "57f078a8-cf9e-4766-9a8c-14f69e2405e1",
+            "boundaryNum": 1,
+            "name": "Deurigaon",
+            "localname": "Deurigaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "mazgaongaonpanchayatV3",
+            "children": []
+          },
+          {
+            "id": "d3899699-dd45-4c43-9ffd-50df557695b9",
+            "boundaryNum": 1,
+            "name": "Bamun Chuburi",
+            "localname": "Bamun Chuburi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "mazgaongaonpanchayatV4",
+            "children": []
+          },
+          {
+            "id": "04db86e7-b8d7-4167-bd96-7abcba739932",
+            "boundaryNum": 1,
+            "name": "Vitarsuti",
+            "localname": "Vitarsuti",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "mazgaongaonpanchayatV5",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

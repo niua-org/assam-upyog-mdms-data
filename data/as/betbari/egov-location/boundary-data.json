@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.betbari",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Betbari G.P.",
+        "localname": "Betbari G.P.",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.betbari",
+        "children": [
+          {
+            "id": "333702b9-e903-4a1c-92a3-c7d3df40b03a",
+            "boundaryNum": 1,
+            "name": "CHANGMAI GAON",
+            "localname": "CHANGMAI GAON",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "betbariV33",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

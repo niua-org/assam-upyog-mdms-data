@@ -1,0 +1,23 @@
+{
+  "tenantId": "as.nalbarida",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nalbari Development Authority",
+        "localname": "Nalbari Development Authority",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.nalbarida",
+        "children": []
+      }
+    }
+  ]
+}

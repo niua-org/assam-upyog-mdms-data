@@ -1,0 +1,18 @@
+{
+    "tenantId": "as",
+    "moduleName": "DIGIT-UI",
+    "PaymentGateway": [
+        {
+            "gateway": "PAYGOV",
+            "active": false
+        },
+        {
+            "gateway": "NTTDATA",
+            "active": false
+        },
+        {
+            "gateway": "RAZORPAY",
+            "active": true
+        }
+    ]
+}

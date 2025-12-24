@@ -1,0 +1,46 @@
+{
+  "tenantId": "as.natundehar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "41 No. Natun Dehar",
+        "localname": "41 No. Natun Dehar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.natundehar",
+        "children": [
+          {
+            "id": "b0488f7d-242f-4e59-9cc2-1bb8d58dbd27",
+            "boundaryNum": 1,
+            "name": "Barkhetri Banekuchi",
+            "localname": "Barkhetri Banekuchi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "NatunV1",
+            "children": []
+          },
+          {
+            "id": "9c32eb0e-fb7b-4e7d-8608-b3197b492e91",
+            "boundaryNum": 1,
+            "name": "Niz-Banekuchi",
+            "localname": "Niz-Banekuchi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "NatunV2",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+  {
+    "tenantId": "as.dhekorgorah",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+      {
+        "hierarchyType": {
+          "code": "REVENUE",
+          "name": "REVENUE"
+        },
+        "boundary": {
+          "id": 1,
+          "boundaryNum": 1,
+          "name": "43 No. Dhekorgorah",
+          "localname": "43 No. Dhekorgorah",
+          "longitude": null,
+          "latitude": null,
+          "label": "City",
+          "code": "as.dhekorgorah",
+          "children": [
+            {
+              "id": "953fd10f-1bad-45b1-8300-57b87ad55e91",
+              "boundaryNum": 1,
+              "name": "Dhekorgorha(Only Part)",
+              "localname": "Dhekorgorha(Only Part)",
+              "longitude": null,
+              "latitude": null,
+              "label": "Village",
+              "code": "dhekorgorahV52",
+              "children": []
+            }
+          ]
+        }
+      }
+    ]
+  }

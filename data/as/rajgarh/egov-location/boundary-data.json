@@ -1,0 +1,68 @@
+{
+  "tenantId": "as.rajgarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Rajgarh",
+        "localname": "Rajgarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.rajgarh",
+        "children": [
+          {
+            "id": "edfb3967-e4f2-4a37-8ace-12c6b812bc28",
+            "boundaryNum": 1,
+            "name": "Rajbharal",
+            "localname": "Rajbharal",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "rajgarhV1",
+            "children": []
+          },
+          {
+            "id": "9270f95f-18ff-43ac-b90e-f873f9980f00",
+            "boundaryNum": 1,
+            "name": "Jorgarh",
+            "localname": "Jorgarh",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "rajgarhV2",
+            "children": []
+          },
+          {
+            "id": "a78212d4-cc64-44b6-aa64-b991e1508a1c",
+            "boundaryNum": 1,
+            "name": "Karaiyani Bengali",
+            "localname": "Karaiyani Bengali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "rajgarhV3",
+            "children": []
+          },
+          {
+            "id": "362a1ace-bda4-486f-875c-a481092557bb",
+            "boundaryNum": 1,
+            "name": "Morisuti",
+            "localname": "Morisuti",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "rajgarhV4",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

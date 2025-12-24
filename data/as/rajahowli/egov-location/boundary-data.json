@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.rajahowli",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "37 No. Rajahowli",
+        "localname": "37 No. Rajahowli",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.rajahowli",
+        "children": [
+          {
+            "id": "97d3a278-d28a-47e2-af5a-931b0d044329",
+            "boundaryNum": 1,
+            "name": "RajatiaGaon",
+            "localname": "RajatiaGaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "rajahowliV40",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

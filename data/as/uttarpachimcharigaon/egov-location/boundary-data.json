@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.uttarpachimcharigaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "30 no. Uttar Pachim Charigaon",
+        "localname": "30 no. Uttar Pachim Charigaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.uttarpachimcharigaon",
+        "children": [
+          {
+            "id": "10195b53-0010-4176-af13-c1aab622b3cf",
+            "boundaryNum": 1,
+            "name": "DahikhorGaon",
+            "localname": "DahikhorGaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "uttarpachimcharigaonV14",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

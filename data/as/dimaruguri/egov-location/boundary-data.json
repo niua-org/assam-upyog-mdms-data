@@ -1,0 +1,112 @@
+{
+  "tenantId": "as.dimaruguri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Dimaruguri",
+        "localname": "Dimaruguri",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.dimaruguri",
+        "children": [
+          {
+            "id": "a92dddc4-5df2-4c63-8a3a-29ecaf911202",
+            "boundaryNum": 1,
+            "name": "Dimaruguri Gaon",
+            "localname": "Dimaruguri Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DimaruguriV1",
+            "children": []
+          },
+          {
+            "id": "64dc5bb7-23a7-43d5-8205-f080e6ccba31",
+            "boundaryNum": 1,
+            "name": "Kadamoni Gaon",
+            "localname": "Kadamoni Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DimaruguriV2",
+            "children": []
+          },
+          {
+            "id": "d2677a55-5bb7-4c9f-b7e4-d06645fdc7ef",
+            "boundaryNum": 1,
+            "name": "Okonimuria Kachari Gaon",
+            "localname": "Okonimuria Kachari Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DimaruguriV3",
+            "children": []
+          },
+          {
+            "id": "cf05b88b-8b9d-4fc4-a1c8-d9359ff15d6b",
+            "boundaryNum": 1,
+            "name": "Jugipathar Gaon",
+            "localname": "Jugipathar Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DimaruguriV4",
+            "children": []
+          },
+          {
+            "id": "1d2e89f8-8b41-4a17-a058-9c7ebcd5a3a8",
+            "boundaryNum": 1,
+            "name": "Kukurekhuwa Gaon",
+            "localname": "Kukurekhuwa Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DimaruguriV5",
+            "children": []
+          },
+          {
+            "id": "a77edb04-1578-4d94-bb5a-96b92b586ad7",
+            "boundaryNum": 1,
+            "name": "Nunpuria Bongali Gaon",
+            "localname": "Nunpuria Bongali Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DimaruguriV6",
+            "children": []
+          },
+          {
+            "id": "b19a0bce-71c5-4905-bb43-d4ce4e558da9",
+            "boundaryNum": 1,
+            "name": "Nunpuria Kaibotra Gaon",
+            "localname": "Nunpuria Kaibotra Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DimaruguriV7",
+            "children": []
+          },
+          {
+            "id": "d0b53f7a-9d47-41f8-90b2-82664818428c",
+            "boundaryNum": 1,
+            "name": "Gaharipam Gaon",
+            "localname": "Gaharipam Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DimaruguriV8",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "tenantId": "as.duliakakoti",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Duliakakoti",
+        "localname": "Duliakakoti",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.duliakakoti",
+        "children": [
+          {
+            "id": "b65bf972-b3d4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Bolai T.E. (A) No.45 Grant",
+            "localname": "Bolai T.E. (A) No.45 Grant",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DuliakakotiV1",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-421e-bi27-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Bolai T.E. (B) No.45 Grant",
+            "localname": "Bolai T.E. (B) No.45 Grant",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DuliakakotiV2",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-428e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Bolai T.E. 42/ 137 Rr Grant",
+            "localname": "Bolai T.E. 42/ 137 Rr Grant",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DuliakakotiV3",
+            "children": []
+          },
+          {
+            "id": "b65bi672-b3d4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Borpather Kakoti Gaon",
+            "localname": "Borpather Kakoti Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DuliakakotiV4",
+            "children": []
+          },
+          {
+            "id": "u55bf972-b3d4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Ghoramora Gaon",
+            "localname": "Ghoramora Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DuliakakotiV5",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b6y4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Khanikar T.E. 32/31 N.L.R. Grant",
+            "localname": "Khanikar T.E. 32/31 N.L.R. Grant",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DuliakakotiV6",
+            "children": []
+          },
+          {
+            "id": "b653f972-b3d4-421e-b327-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Lekai Gaon",
+            "localname": "Lekai Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DuliakakotiV7",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-421e-b327-747i6e3325c0",
+            "boundaryNum": 1,
+            "name": "Lepetkatta Kachari Gaon",
+            "localname": "Lepetkatta Kachari Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DuliakakotiV8",
+            "children": []
+          },
+          {
+            "id": "b65bf972-b3d4-421e-o5677-747d3e3325c0",
+            "boundaryNum": 1,
+            "name": "Sessa T.E. 14/153 0rr Grant",
+            "localname": "Sessa T.E. 14/153 0rr Grant",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "DuliakakotiV9",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

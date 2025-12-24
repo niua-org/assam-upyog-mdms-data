@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.chottohaibor",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Chotto Haibor",
+        "localname": "Chotto Haibor",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.chottohaibor",
+        "children": [
+          {
+            "id": "4dc9eb08-00bc-4370-96b1-0064c61af958",
+            "boundaryNum": 1,
+            "name": "Chota Haibor (CT)",
+            "localname": "Chota Haibor (CT)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "chottohaiborV1",
+            "children": []
+          },
+          {
+            "id": "55ee9a85-a73d-4481-9c0c-2c1f52076898",
+            "boundaryNum": 1,
+            "name": "Mori Kalong",
+            "localname": "Mori Kalong",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "chottohaiborV2",
+            "children": []
+          },
+          {
+            "id": "cb225516-e3de-4d95-95fa-63dea33b44f2",
+            "boundaryNum": 1,
+            "name": "Siale Khowa",
+            "localname": "Siale Khowa",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "chottohaiborV3",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

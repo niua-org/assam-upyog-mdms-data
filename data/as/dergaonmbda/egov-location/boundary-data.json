@@ -1,0 +1,23 @@
+{
+  "tenantId": "as.dergaonmbda",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Dergaon Development Authority",
+        "localname": "Dergaon Development Authority",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.dergaonmbda",
+        "children": []
+      }
+    }
+  ]
+}

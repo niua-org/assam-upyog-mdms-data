@@ -1,0 +1,23 @@
+{
+  "tenantId": "as.dhemajida",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Dhemaji Development Authority",
+        "localname": "Dhemaji Development Authority",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.dhemajida",
+        "children": []
+      }
+    }
+  ]
+}

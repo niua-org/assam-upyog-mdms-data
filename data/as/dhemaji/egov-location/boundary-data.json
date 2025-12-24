@@ -1,0 +1,375 @@
+{
+  "tenantId": "as.dhemajimb",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "1dcfaed0-2530-48bb-932a-1078789a7979",
+        "boundaryNum": 1,
+        "name": "Dhemaji",
+        "localname": "Dhemaji",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.dhemajimb",
+        "children": [
+          {
+            "id": "ba572284-2bd1-4d9e-947b-b7754404aa8d",
+            "boundaryNum": 1,
+            "name": "WARD_1",
+            "localname": "WARD_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DhemajiW1",
+            "children": [
+              {
+                "id": "0283105a-9fcc-4c69-ba96-3eb5bec719cf",
+                "boundaryNum": 1,
+                "name": "Dhemaji nagar no 1 block",
+                "localname": "Dhemaji nagar no 1 block",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DhemajiW1V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "66b549c4-783b-44f6-a642-7b5deda374a2",
+            "boundaryNum": 2,
+            "name": "WARD_2",
+            "localname": "WARD_2",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DhemajiW2",
+            "children": [
+              {
+                "id": "7b93f760-d915-44dd-80e5-93e4133717aa",
+                "boundaryNum": 1,
+                "name": "Dhemaji nagar no 2 block",
+                "localname": "Dhemaji nagar no 2 block",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DhemajiW2V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "05b58f94-1155-477e-af70-a863f177726f",
+            "boundaryNum": 3,
+            "name": "WARD_3",
+            "localname": "WARD_3",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DhemajiW3",
+            "children": [
+              {
+                "id": "3588a3f4-011f-4a8b-9cfe-4a696cf93f66",
+                "boundaryNum": 1,
+                "name": "Dhemaji nagar no 3 block",
+                "localname": "Dhemaji nagar no 3 block",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DhemajiW3V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "6dd4fd6f-955a-4f6a-9b38-2b146ea041cf",
+            "boundaryNum": 4,
+            "name": "WARD_4",
+            "localname": "WARD_4",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DhemajiW4",
+            "children": [
+              {
+                "id": "df555a8c-c0af-49dd-946e-72f5e9200546",
+                "boundaryNum": 1,
+                "name": "Dhemaji nagar no 4 block",
+                "localname": "Dhemaji nagar no 4 block",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DhemajiW4V1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "feaadeaa-e008-40b0-bc6b-dd411432829b",
+            "boundaryNum": 5,
+            "name": "WARD_5",
+            "localname": "WARD_5",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DhemajiW5",
+            "children": [
+              {
+                "id": "a9e74269-9b46-4617-9437-fc4cc17c8496",
+                "boundaryNum": 1,
+                "name": "Nalani pam Conc gaon",
+                "localname": "Nalani pam Conc gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DhemajiW5V1",
+                "children": []
+              },
+              {
+                "id": "caf9948f-8a5c-4887-bb7b-ff5229035fa4",
+                "boundaryNum": 2,
+                "name": "Bharali Chowk gaon",
+                "localname": "Bharali Chowk gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DhemajiW5V2",
+                "children": []
+              },
+              {
+                "id": "301684ba-ab48-426e-bd32-a16caecf6044",
+                "boundaryNum": 3,
+                "name": "2 no Bhrali chok",
+                "localname": "2 no Bhrali chok",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DhemajiW5V3",
+                "children": []
+              },
+              {
+                "id": "64ca8b7f-a2f9-4727-bc17-9524942b6826",
+                "boundaryNum": 4,
+                "name": "2 No. Nagakhelia",
+                "localname": "2 No. Nagakhelia",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DhemajiW5V4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "6be41caf-f04c-4c56-87cb-1f4c0ffc236c",
+            "boundaryNum": 6,
+            "name": "WARD_6",
+            "localname": "WARD_6",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DhemajiW6",
+            "children": [
+              {
+                "id": "9de6aa49-89bc-4007-8e87-6e4389a7fab6",
+                "boundaryNum": 1,
+                "name": "2 no. Nagakhelia",
+                "localname": "2 no. Nagakhelia",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DhemajiW6V1",
+                "children": []
+              },
+              {
+                "id": "5f7decb5-d58f-4253-94a6-0b027b33666f",
+                "boundaryNum": 2,
+                "name": "Aradhol",
+                "localname": "Aradhol",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DhemajiW6V2",
+                "children": []
+              },
+              {
+                "id": "8e67057a-0a84-497f-9cfa-4a42935bd927",
+                "boundaryNum": 3,
+                "name": "Dihingia gaon",
+                "localname": "Dihingia gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DhemajiW6V3",
+                "children": []
+              },
+              {
+                "id": "0a5ccf49-a3e4-4f99-8b6c-eb480f31924b",
+                "boundaryNum": 4,
+                "name": "Kulapathar.",
+                "localname": "Kulapathar.",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DhemajiW6V4",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "dc1f5db6-9559-4d29-8eea-b065538fa40b",
+            "boundaryNum": 7,
+            "name": "WARD_7",
+            "localname": "WARD_7",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DhemajiW7",
+            "children": [
+              {
+                "id": "bd9d77ba-b6a5-4c17-ac00-6fd60e2a4576",
+                "boundaryNum": 1,
+                "name": "Nimati chuk",
+                "localname": "Nimati chuk",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DhemajiW7V1",
+                "children": []
+              },
+              {
+                "id": "b95c642c-b15e-49d9-a7ff-bb01da06c94e",
+                "boundaryNum": 2,
+                "name": "Nagakhelia.",
+                "localname": "Nagakhelia.",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DhemajiW7V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "7463cbc5-e080-43a8-88a9-82e96dcb8b0e",
+            "boundaryNum": 8,
+            "name": "WARD_8",
+            "localname": "WARD_8",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DhemajiW8",
+            "children": [
+              {
+                "id": "c4ea410e-b979-43fc-9377-b3a04da4edb6",
+                "boundaryNum": 1,
+                "name": "Pahukarijan",
+                "localname": "Pahukarijan",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DhemajiW8V1",
+                "children": []
+              },
+              {
+                "id": "a2bd5866-c01b-43de-8ef2-da6606d011c2",
+                "boundaryNum": 2,
+                "name": "Borpotaria",
+                "localname": "Borpotaria",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DhemajiW8V2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "711ef544-a3eb-447a-a4df-37bcbf87e0d6",
+            "boundaryNum": 9,
+            "name": "WARD_9",
+            "localname": "WARD_9",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DhemajiW9",
+            "children": [
+              {
+                "id": "841c2a2e-245b-48f0-87eb-e773000f36ae",
+                "boundaryNum": 1,
+                "name": "Hiloidhari Block",
+                "localname": "Hiloidhari Block",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DhemajiW9V1",
+                "children": []
+              },
+              {
+                "id": "f3108551-94c3-4b57-a3e5-eac74b5d201e",
+                "boundaryNum": 2,
+                "name": "Behparahabi",
+                "localname": "Behparahabi",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DhemajiW9V2",
+                "children": []
+              },
+              {
+                "id": "b077a5b5-c391-4d72-a318-ad6c685b9644",
+                "boundaryNum": 3,
+                "name": "Khublia Gaon",
+                "localname": "Khublia Gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DhemajiW9V3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "64724fc4-0568-44fe-90e9-673201d65f63",
+            "boundaryNum": 10,
+            "name": "WARD_10",
+            "localname": "WARD_10",
+            "longitude": null,
+            "latitude": null,
+            "label": "WardNo",
+            "code": "DhemajiW10",
+            "children": [
+              {
+                "id": "2fe7913b-beaf-4fd1-8326-715d21af8050",
+                "boundaryNum": 1,
+                "name": "Behpara gaon",
+                "localname": "Behpara gaon",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DhemajiW10V1",
+                "children": []
+              },
+              {
+                "id": "68c18116-99bd-469c-8525-941ca56d7fd4",
+                "boundaryNum": 2,
+                "name": "Behpara Na-Pam",
+                "localname": "Behpara Na-Pam",
+                "longitude": null,
+                "latitude": null,
+                "label": "RevenueVillage",
+                "code": "DhemajiW10V2",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

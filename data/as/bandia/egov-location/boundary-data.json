@@ -1,0 +1,68 @@
+{
+  "tenantId": "as.bandia",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bandia",
+        "localname": "Bandia",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.bandia",
+        "children": [
+          {
+            "id": "49c52357-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Bandia Chapori-1",
+            "localname": "Bandia Chapori-1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BandiaV1",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Bandia Chapori-2",
+            "localname": "Bandia Chapori-2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BandiaV2",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-b3cd-41bat6e71171",
+            "boundaryNum": 1,
+            "name": "Baghpori Chapori-1",
+            "localname": "Baghpori Chapori-1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BandiaV3",
+            "children": []
+          },
+          {
+            "id": "49c52351-be4c-474c-u8cd-41baf1e71171",
+            "boundaryNum": 1,
+            "name": "Baghpori Chapori-2",
+            "localname": "Baghpori Chapori-2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "BandiaV4",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

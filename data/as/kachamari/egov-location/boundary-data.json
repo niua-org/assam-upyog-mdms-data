@@ -1,0 +1,79 @@
+{
+  "tenantId": "as.kachamari",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kachamari",
+        "localname": "Kachamari",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.kachamari",
+        "children": [
+          {
+            "id": "29910b49-1300-4ea1-89ee-a802978c7e6c",
+            "boundaryNum": 1,
+            "name": "Auguri",
+            "localname": "Auguri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "kachamariV1",
+            "children": []
+          },
+          {
+            "id": "826cdc83-9c75-4371-85fc-ce5e08968dd3",
+            "boundaryNum": 1,
+            "name": "Mahe Khosha",
+            "localname": "Mahe Khosha",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "kachamariV2",
+            "children": []
+          },
+          {
+            "id": "50d6190f-d549-4cf5-b012-b9cfa0992351",
+            "boundaryNum": 1,
+            "name": "Niz-Kachamari",
+            "localname": "Niz-Kachamari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "kachamariV3",
+            "children": []
+          },
+          {
+            "id": "ea21b6f7-a5c7-4adb-9441-dcfc2d87d952",
+            "boundaryNum": 1,
+            "name": "Pukhuri Par",
+            "localname": "Pukhuri Par",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "kachamariV4",
+            "children": []
+          },
+          {
+            "id": "9adb5b55-4792-4d3c-9402-14333476c68e",
+            "boundaryNum": 1,
+            "name": "Tokowbari",
+            "localname": "Tokowbari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "kachamariV5",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

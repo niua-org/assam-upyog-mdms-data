@@ -1,0 +1,68 @@
+{
+  "tenantId": "as.abhaipur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Abhaipur G.P.",
+        "localname": "Abhaipur G.P.",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.abhaipur",
+        "children": [
+          {
+            "id": "eb18fabe-4cc3-41a4-bfff-876a8f984fc5",
+            "boundaryNum": 1,
+            "name": "Grant No. 348",
+            "localname": "Grant No. 348",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "abhaipurV3",
+            "children": []
+          },
+          {
+            "id": "8d179a71-4858-47fc-88cf-66e7fc1172c4",
+            "boundaryNum": 1,
+            "name": "Abhoipor Grant",
+            "localname": "Abhoipor Grant",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "abhaipurV16",
+            "children": []
+          },
+          {
+            "id": "8a080f6f-fd95-499b-b64a-ea7df19bded4",
+            "boundaryNum": 1,
+            "name": "Naphuk Gaon",
+            "localname": "Naphuk Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "abhaipurV17",
+            "children": []
+          },
+          {
+            "id": "d4a75ccd-cc4b-4080-946d-e6d9868a0065",
+            "boundaryNum": 1,
+            "name": "Hingritoli Bengali Gaon",
+            "localname": "Hingritoli Bengali Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "abhaipurV28",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "tenantId": "as.pachimmissamora",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Pachim Missamora G.P",
+        "localname": "Pachim Missamora G.P",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.pachimmissamora",
+        "children": [
+          {
+            "id": "d4fdebb0-088d-44fb-be21-c6086543c704",
+            "boundaryNum": 1,
+            "name": "Habigaon",
+            "localname": "Habigaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pachimmissamoraV16",
+            "children": []
+          },
+          {
+            "id": "d9ad5874-1f44-439a-893d-dbfe273bdc34",
+            "boundaryNum": 1,
+            "name": "Mudoi gaon",
+            "localname": "Mudoi gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pachimmissamoraV17",
+            "children": []
+          },
+          {
+            "id": "f33f9fa5-dca5-4033-b286-789f606afb72",
+            "boundaryNum": 1,
+            "name": "Barichoa gaon",
+            "localname": "Barichoa gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "pachimmissamoraV20",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

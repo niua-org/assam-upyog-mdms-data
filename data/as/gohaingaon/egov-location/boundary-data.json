@@ -1,0 +1,233 @@
+{
+  "tenantId": "as.gohaingaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "4f98db8d-d2fd-426a-a060-88d8d4975388",
+        "boundaryNum": 1,
+        "name": "Gohain Gaon",
+        "localname": "Gohain Gaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.gohaingaon",
+        "children": [
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082e01",
+            "boundaryNum": 1,
+            "name": "Kakati Block Gaon",
+            "localname": "Kakati Block Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "GohaingaonV1",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082e02",
+            "boundaryNum": 2,
+            "name": "Sessajan",
+            "localname": "Sessajan",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "GohaingaonV2",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082e03",
+            "boundaryNum": 3,
+            "name": "Rangajan Gaon",
+            "localname": "Rangajan Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "GohaingaonV3",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082e04",
+            "boundaryNum": 4,
+            "name": "Bam Gaon",
+            "localname": "Bam Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "GohaingaonV4",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082e05",
+            "boundaryNum": 5,
+            "name": "Gohain gaon",
+            "localname": "Gohain gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "GohaingaonV5",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082e06",
+            "boundaryNum": 6,
+            "name": "Gowal gaon",
+            "localname": "Gowal gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "GohaingaonV6",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082e07",
+            "boundaryNum": 7,
+            "name": "Choukham Gaon",
+            "localname": "Choukham Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "GohaingaonV7",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082e08",
+            "boundaryNum": 8,
+            "name": "Gohain bari Chapori",
+            "localname": "Gohain bari Chapori",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "GohaingaonV8",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082e09",
+            "boundaryNum": 9,
+            "name": "Gohain Gaon",
+            "localname": "Gohain Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "GohaingaonV9",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082e10",
+            "boundaryNum": 10,
+            "name": "No.1 Gohain Gaon",
+            "localname": "No.1 Gohain Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "GohaingaonV10",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082e11",
+            "boundaryNum": 11,
+            "name": "Pavomari Pathar",
+            "localname": "Pavomari Pathar",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "GohaingaonV11",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082e12",
+            "boundaryNum": 12,
+            "name": "Simaluguri Gaon",
+            "localname": "Simaluguri Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "GohaingaonV12",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082e13",
+            "boundaryNum": 13,
+            "name": "Napam Gaon",
+            "localname": "Napam Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "GohaingaonV13",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082e14",
+            "boundaryNum": 14,
+            "name": "2 No. Khajua Gaon",
+            "localname": "2 No. Khajua Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "GohaingaonV14",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082e15",
+            "boundaryNum": 15,
+            "name": "Gilaguri",
+            "localname": "Gilaguri",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "GohaingaonV15",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082e16",
+            "boundaryNum": 16,
+            "name": "Gariajan",
+            "localname": "Gariajan",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "GohaingaonV16",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082e17",
+            "boundaryNum": 17,
+            "name": "4 No. Ghilaguri Gaon",
+            "localname": "4 No. Ghilaguri Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "GohaingaonV17",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082e18",
+            "boundaryNum": 18,
+            "name": "3 No. Ghilaguri Gaon",
+            "localname": "3 No. Ghilaguri Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "GohaingaonV18",
+            "children": []
+          },
+          {
+            "id": "7fe7a3e9-81db-43fa-9242-f185f7082e19",
+            "boundaryNum": 19,
+            "name": "Gowal Gaon",
+            "localname": "Gowal Gaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "RevenueVillage",
+            "code": "GohaingaonV19",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "tenantId": "as.herapaty",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Herapaty",
+        "localname": "Herapaty",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "as.herapaty",
+        "children": [
+          {
+            "id": "b0b9274b-3d17-4a36-9acb-82119484e9ba",
+            "boundaryNum": 1,
+            "name": "Katimari Pathar",
+            "localname": "Katimari Pathar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Village",
+            "code": "herapatyV1",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}
