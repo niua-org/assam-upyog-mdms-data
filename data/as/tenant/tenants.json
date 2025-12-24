@@ -6009,7 +6009,7 @@
       }
     },
     {
-      "code": "as.cacharda",
+      "code": "as.silcharda",
       "name": "Silchar Development Authority",
       "description": "Silchar DA",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
@@ -6022,7 +6022,7 @@
         "name": "Silchar DA",
         "districtCode": "CACHAR",
         "districtName": "Cachar",
-        "districtTenantCode": "as.cacharda",
+        "districtTenantCode": "as.silcharda",
         "planningAreaCode": "SILCHAR_MP",
         "ulbGrade": "DEVELOPMENT_AUTHORITY",
         "code": "2018",
