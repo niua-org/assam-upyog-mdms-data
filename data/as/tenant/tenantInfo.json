@@ -2733,7 +2733,7 @@
       "languagesSpoken": ["HN", "EN"]
     },
     {
-      "code": "as.bongaigaonda",
+      "code": "as.bomgaigaonda",
       "districtCode": "BOMGAIGAON",
       "population": "12507",
       "malePopulation": "6810",
@@ -2753,7 +2753,7 @@
       "languagesSpoken": ["HN", "EN"]
     },
     {
-      "code": "as.tezpurda",
+      "code": "as.sonitpurda",
       "districtCode": "SONITPUR",
       "population": "12507",
       "malePopulation": "6810",
@@ -2823,7 +2823,7 @@
       "languagesSpoken": ["HN", "EN"]
     },
     {
-      "code": "as.sonarida",
+      "code": "as.sonariimbda",
       "districtCode": "SIVASAGAR",
       "population": "12507",
       "malePopulation": "6810",
@@ -2863,7 +2863,7 @@
       "languagesSpoken": ["HN", "EN"]
     },
     {
-      "code": "as.silcharda",
+      "code": "as.cacharda",
       "districtCode": "CACHAR",
       "population": "12507",
       "malePopulation": "6810",

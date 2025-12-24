@@ -5673,7 +5673,7 @@
       }
     },
     {
-      "code": "as.mangaldoi",
+      "code": "as.darangda",
       "name": "Mangaldoi Development Authority",
       "description": "Mangaldoi DA",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
@@ -5681,12 +5681,12 @@
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "emailId": "info.mangaldoi@gmail.com",
+      "emailId": "info.darangda@gmail.com",
       "city": {
         "name": "Mangaldoi DA",
         "districtCode": "DARANG",
         "districtName": "Darang",
-        "districtTenantCode": "as.mangaldoi",
+        "districtTenantCode": "as.darangda",
         "planningAreaCode": "MANGALDOI_MP",
         "ulbGrade": "DEVELOPMENT_AUTHORITY",
         "code": "2002",
@@ -5736,7 +5736,7 @@
       }
     },
     {
-      "code": "as.bongaigaonda",
+      "code": "as.bomgaigaonda",
       "name": "Bongaigaon Development Authority",
       "description": "Bongaigaon DA",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
@@ -5747,9 +5747,9 @@
       "emailId": "info.bomgaigaonda@gmail.com",
       "city": {
         "name": "Bongaigaon DA",
-        "districtCode": "BONGAIGAON",
-        "districtName": "Bongaigaon",
-        "districtTenantCode": "as.bongaigaonda",
+        "districtCode": "BOMGAIGAON",
+        "districtName": "Bomgaigaon",
+        "districtTenantCode": "as.bomgaigaonda",
         "planningAreaCode": "BONGAIGAON_MP",
         "ulbGrade": "DEVELOPMENT_AUTHORITY",
         "code": "2005",
@@ -5778,7 +5778,7 @@
       }
     },
     {
-      "code": "as.tezpurda",
+      "code": "as.sonitpurda",
       "name": "Tezpur Development Authority",
       "description": "Tezpur DA",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
@@ -5786,12 +5786,12 @@
       "imageId": null,
       "domainUrl": "https://www.upyog.niua.org",
       "type": "CITY",
-      "emailId": "info.tezpurda@gmail.com",
+      "emailId": "info.sonitpurda@gmail.com",
       "city": {
         "name": "Tezpur DA",
         "districtCode": "SONITPUR",
         "districtName": "Sonitpur",
-        "districtTenantCode": "as.tezpurda",
+        "districtTenantCode": "as.sonitpurda",
         "planningAreaCode": "TEZPUR_MP",
         "ulbGrade": "DEVELOPMENT_AUTHORITY",
         "code": "2007",
@@ -6009,7 +6009,7 @@
       }
     },
     {
-      "code": "as.silcharda",
+      "code": "as.cacharda",
       "name": "Silchar Development Authority",
       "description": "Silchar DA",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
@@ -6022,7 +6022,7 @@
         "name": "Silchar DA",
         "districtCode": "CACHAR",
         "districtName": "Cachar",
-        "districtTenantCode": "as.silcharda",
+        "districtTenantCode": "as.cacharda",
         "planningAreaCode": "SILCHAR_MP",
         "ulbGrade": "DEVELOPMENT_AUTHORITY",
         "code": "2018",
@@ -6072,27 +6072,6 @@
       }
     },
     {
-      "code": "as.sonarida",
-      "name": "Sonari Development Authority",
-      "description": "Sonari DA",
-      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
-      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
-      "imageId": null,
-      "domainUrl": "https://www.upyog.niua.org",
-      "type": "CITY",
-      "emailId": "info.sonarida@gmail.com",
-      "city": {
-        "name": "Sonari DA",
-        "districtCode": "SIVSAGAR",
-        "districtName": "SIVSAGAR",
-        "districtTenantCode": "as.sonarida",
-        "planningAreaCode": "SONARI_MP",
-        "ulbGrade": "DEVELOPMENT_AUTHORITY",
-        "code": "2021",
-        "ddrName": "Sonari Development Authority"
-      }
-    }
-    {
       "code": "as.gmc",
       "name": "Municipal Corporation",
       "description": "Municipal Corporation",
@@ -6115,4 +6094,3 @@
     }
   ]
 }
-sonit
