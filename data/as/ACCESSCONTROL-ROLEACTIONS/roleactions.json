@@ -26103,12 +26103,6 @@
       "tenantId": "as"
     },
     {
-      "rolecode": "OBPS_REPORT_VIEWER",
-      "actionid": 2475,
-      "actioncode": "",
-      "tenantId": "as"
-    },
-    {
       "rolecode": "WS_CEMP",
       "actionid": 2054,
       "actioncode": "",
