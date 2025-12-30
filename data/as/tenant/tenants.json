@@ -1725,8 +1725,8 @@
       }
     },
     {
-      "code": "as.mangaldoi",
-      "name": "Mangaldoi Municipal Corporation",
+      "code": "as.mangaldoimb",
+      "name": "Mangaldoi Municipal Board",
       "description": "Mangaldoi Municipal Corporation",
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
       "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
@@ -1738,7 +1738,7 @@
         "name": "Mangaldoi",
         "districtCode": "DARANG",
         "districtName": "Darang",
-        "districtTenantCode": "as.mangaldoi",
+        "districtTenantCode": "as.mangaldoimb",
         "planningAreaCode": "MANGALDOI_MP",
         "ulbGrade": "MUNICIPAL_BOARD",
         "code": "1677",

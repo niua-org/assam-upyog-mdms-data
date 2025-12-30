@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.bongaigaonda",
+  "tenantId": "as.tezpurda",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,12 +10,12 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Bongaigaon Development Authority",
-        "localname": "Bongaigaon Development Authority",
+        "name": "Tezpur Development Authority",
+        "localname": "Tezpur Development Authority",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.bongaigaonda",
+        "code": "as.tezpurda",
         "children": []
       }
     }

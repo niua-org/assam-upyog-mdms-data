@@ -2057,7 +2057,8 @@
         { "code": "as.silcharda" },
         { "code": "as.sribhumida" },
         { "code": "as.dhemajida" },
-        { "code": "as.mangaldoida" }
+        { "code": "as.mangaldoida" },
+        { "code": "as.mangaldoimb" }
       ]
     },
     {
@@ -2334,7 +2335,8 @@
         { "code": "as.silcharda" },
         { "code": "as.sribhumida" },
         { "code": "as.dhemajida" },
-        { "code": "as.mangaldoida" }
+        { "code": "as.mangaldoida" },
+        { "code": "as.mangaldoimb" }
       ]
     },
     {
@@ -3882,7 +3884,8 @@
         { "code": "as.silcharda" },
         { "code": "as.sribhumida" },
         { "code": "as.dhemajida" },
-        { "code": "as.mangaldoida" }
+        { "code": "as.mangaldoida" },
+        { "code": "as.mangaldoimb" }
       ]
     },
     {
@@ -5386,7 +5389,7 @@
           "code": "as.khubalia"
         },
         {
-          "code": "as.mangaldoi"
+          "code": "as.mangaldoimb"
         },
         {
           "code": "as.biswanathcharialimb"
@@ -12369,7 +12372,7 @@
           "code": "as.khubalia"
         },
         {
-          "code": "as.mangaldoi"
+          "code": "as.mangaldoimb"
         },
         {
           "code": "as.biswanathcharialimb"

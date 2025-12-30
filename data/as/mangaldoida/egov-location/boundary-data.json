@@ -1,5 +1,5 @@
 {
-  "tenantId": "as.bongaigaonda",
+  "tenantId": "as.mangaldoida",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,12 +10,12 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Bongaigaon Development Authority",
-        "localname": "Bongaigaon Development Authority",
+        "name": "Mangaldoi Development Authority",
+        "localname": "Mangaldoi Development Authority",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "as.bongaigaonda",
+        "code": "as.mangaldoida",
         "children": []
       }
     }
