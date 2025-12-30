@@ -163,6 +163,22 @@
           "onlineWF": "WATER_RESOURCES_SRV",
           "mode": "online",
           "roles": ["WATER_RESOURCES_APPROVER"]
+        },
+        {
+          "code": "FIRE_SAFETY",
+          "name": "NOC from Director of Fire & Emergency Services",
+          "mandatory": false,
+          "source": "DXF_FILE",
+          "conditions": [
+            "ALL_NON_RESIDENTIAL_BUILDINGS",
+            "BUILDING_HEIGHT_GREATER_THAN_15M"
+          ],
+          "reference": "Byelaw 28(d), 60(d), 94(2)(a)",
+          "isActive": true,
+          "offlineWF": "",
+          "onlineWF": "FIRE_SAFETY_SRV",
+          "mode": "online",
+          "roles": ["FIRE_SAFETY_APPROVER"]
         }
       ]
     },
