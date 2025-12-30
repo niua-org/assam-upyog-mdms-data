@@ -2056,7 +2056,8 @@
         { "code": "as.tinsukiada" },
         { "code": "as.silcharda" },
         { "code": "as.sribhumida" },
-        { "code": "as.dhemajida" }
+        { "code": "as.dhemajida" },
+        { "code": "as.mangaldoida" }
       ]
     },
     {
@@ -2332,7 +2333,8 @@
         { "code": "as.tinsukiada" },
         { "code": "as.silcharda" },
         { "code": "as.sribhumida" },
-        { "code": "as.dhemajida" }
+        { "code": "as.dhemajida" },
+        { "code": "as.mangaldoida" }
       ]
     },
     {
@@ -3879,7 +3881,8 @@
         { "code": "as.tinsukiada" },
         { "code": "as.silcharda" },
         { "code": "as.sribhumida" },
-        { "code": "as.dhemajida" }
+        { "code": "as.dhemajida" },
+        { "code": "as.mangaldoida" }
       ]
     },
     {
@@ -5411,7 +5414,8 @@
         { "code": "as.tinsukiada" },
         { "code": "as.silcharda" },
         { "code": "as.sribhumida" },
-        { "code": "as.dhemajida" }
+        { "code": "as.dhemajida" },
+        { "code": "as.mangaldoida" }
       ]
     },
     {
