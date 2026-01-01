@@ -21671,18 +21671,6 @@
       "serviceCode": "NOC",
       "code": "null",
       "path": ""
-   },
-   {
-      "id": 3093,
-      "name": "BPA Payment search",
-      "url": "/collection-services/payments/BPA.LABOUR_CESS/_search",
-      "displayName": "BPA Payment search",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
    }
     
   ]
