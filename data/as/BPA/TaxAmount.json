@@ -1,0 +1,14 @@
+{
+    "tenantId":"as",
+    "moduleName":"BPA",
+    "TaxAmount":[
+        {
+            "code": "LABOUR_CESS",
+            "feeType": "BUILDING_PERMIT_FEE",
+            "rateType": "PERCENTAGE",
+            "rate": 1,
+            "uom": "PERCENT",
+            "active": true
+          }
+    ]
+}
