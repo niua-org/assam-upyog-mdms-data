@@ -36783,6 +36783,18 @@
       "actionid": 1931,
       "actioncode": "",
       "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_COMMISSIONER",
+      "actionid": 1519,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "BPA_CEO",
+      "actionid": 1519,
+      "actioncode": "",
+      "tenantId": "as"
     }
   ]
 }
