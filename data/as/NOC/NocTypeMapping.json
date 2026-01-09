@@ -171,7 +171,7 @@
           "source": "DXF_FILE",
           "conditions": [
             "ALL_NON_RESIDENTIAL_BUILDINGS",
-            "BUILDING_HEIGHT_GREATER_THAN_15M"
+            "BUILDING_HEIGHT_GREATER_THAN_15.8M"
           ],
           "reference": "Byelaw 28(d), 60(d), 94(2)(a)",
           "isActive": true,
@@ -192,7 +192,7 @@
           "source": "DXF_FILE",
           "conditions": [
             "ALL_NON_RESIDENTIAL_BUILDINGS",
-            "BUILDING_HEIGHT_GREATER_THAN_15M"
+            "BUILDING_HEIGHT_GREATER_THAN_15.8M"
           ],
           "reference": "Byelaw 28(d), 60(d), 94(2)(a)",
           "isActive": true,
@@ -279,7 +279,7 @@
           "name": "NOC from Chief Electrical Inspector",
           "mandatory": false,
           "source": "SITE_ENGINEER",
-          "conditions": ["BUILDING_HEIGHT_GREATER_THAN_15M", "LIFTS", "HEAVY_ELECTRICAL_LOAD"],
+          "conditions": ["BUILDING_HEIGHT_GREATER_THAN_15.8M", "LIFTS", "HEAVY_ELECTRICAL_LOAD"],
           "reference": "Byelaw 94(1)(c)(iii), 100(1)(v)",
           "isActive": true,
           "offlineWF": "",
@@ -336,7 +336,7 @@
           "name": "Fire Safety NOC for Occupancy",
           "mandatory": false,
           "source": "DXF_FILE",
-          "conditions": ["ALL_NON_RESIDENTIAL_BUILDINGS", "BUILDING_HEIGHT_GREATER_THAN_15M"],
+          "conditions": ["ALL_NON_RESIDENTIAL_BUILDINGS", "BUILDING_HEIGHT_GREATER_THAN_15.8M"],
           "reference": "Byelaw 28(d), 60(d), 94(2)(a)",
           "isActive": true,
           "offlineWF": "",
