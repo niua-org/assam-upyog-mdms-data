@@ -21593,7 +21593,7 @@
   "enabled": true,
   "serviceCode": "OBPS",
   "code": "null",
-  "path": "OBPS.obpsApplicationReport",
+  "path": "OBPS Reports.obpsApplicationReport",
   "navigationURL": "report/rainmaker-obps/obpsApplicationReport",
   "leftIcon": "places:business-center",
   "rightIcon": ""
@@ -21632,7 +21632,7 @@
   "enabled": true,
   "serviceCode": "OBPS",
   "code": "null",
-  "path": "OBPS.obpsRegistryReport",
+  "path": "OBPS Reports.obpsRegistryReport",
   "navigationURL": "report/rainmaker-obps/obpsRegistryReport",
   "leftIcon": "places:business-center",
   "rightIcon": ""
@@ -21682,7 +21682,7 @@
   "enabled": true,
   "serviceCode": "OBPS",
   "code": "null",
-  "path": "OBPS.totalapplicationssummary",
+  "path": "OBPS Reports.totalapplicationssummary",
   "navigationURL": "report/rainmaker-obps/totalapplicationssummary",
   "leftIcon": "places:business-center",
   "rightIcon": ""
@@ -21721,7 +21721,7 @@
   "enabled": true,
   "serviceCode": "OBPS",
   "code": "null",
-  "path": "OBPS.newapplicationsdatewise",
+  "path": "OBPS Reports.newapplicationsdatewise",
   "navigationURL": "report/rainmaker-obps/newapplicationsdatewise",
   "leftIcon": "places:business-center",
   "rightIcon": ""
@@ -21760,7 +21760,7 @@
   "enabled": true,
   "serviceCode": "OBPS",
   "code": "null",
-  "path": "OBPS.dailybackendupdatesreport",
+  "path": "OBPS Reports.dailybackendupdatesreport",
   "navigationURL": "report/rainmaker-obps/dailybackendupdatesreport",
   "leftIcon": "places:business-center",
   "rightIcon": ""
@@ -21799,7 +21799,7 @@
   "enabled": true,
   "serviceCode": "OBPS",
   "code": "null",
-  "path": "OBPS.applicationworkflowtrace",
+  "path": "OBPS Reports.applicationworkflowtrace",
   "navigationURL": "report/rainmaker-obps/applicationworkflowtrace",
   "leftIcon": "places:business-center",
   "rightIcon": ""
