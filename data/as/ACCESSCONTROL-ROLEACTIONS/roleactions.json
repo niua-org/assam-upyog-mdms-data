@@ -36867,6 +36867,30 @@
     "actionid": 3104,
     "actioncode": "",
     "tenantId": "as"
-  } 
+  },
+  {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_MB",
+      "actionid": 1519,
+      "actioncode": "",
+      "tenantId": "as"
+  },
+  {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 1519,
+      "actioncode": "",
+      "tenantId": "as"
+  },
+  {
+      "rolecode": "BPA_CHAIRMAN_PRESIDENT_GP",
+      "actionid": 1519,
+      "actioncode": "",
+      "tenantId": "as"
+  },
+  {
+      "rolecode": "BPA_CHAIRMAN_DA",
+      "actionid": 1519,
+      "actioncode": "",
+      "tenantId": "as"
+  }
   ]
 }
